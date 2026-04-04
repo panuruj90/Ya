@@ -254,9 +254,9 @@ namespace OutDoors.Editor
 
             UnityEditor.SceneManagement.EditorSceneManager.SaveOpenScenes();
 
-            Debug.Log($"[Enchanted Forest] Map A (80×80) built successfully! " +
-                "Ground={groundTm.name} Water={waterTm?.name} " +
-                "Details={detailsTm?.name} Objects={objectsTm?.name}");
+            Debug.Log($"[Enchanted Forest] Map A (80\u00d780) built successfully! " +
+                $"Ground={groundTm.name} Water={waterTm?.name} " +
+                $"Details={detailsTm?.name} Objects={objectsTm?.name}");
         }
 
         // ── Helpers ──────────────────────────────────────────────────────────
