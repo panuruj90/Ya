@@ -3,17 +3,16 @@
 ## Setup Instructions
 
 ### 1. Import Sprites
-Copy / sync the following PNG files from the repo root into the same root of your Unity project:
+All required sprite PNGs are already included in the project under `Assets/Sprites/`:
 - `Grass.png` (192×320 – 12×20 tiles)
 - `Grass and Brick.png` (256×256 – 16×16 tiles)
 - `Water_ground_1.png` (128×32 – 8×2 tiles)
 - `Water_ground_2.png` (192×48 – 12×3 tiles)
 - `bonus summer grass and dirt.png` (80×96 – 5×6 tiles)
 - `fence_tileset.png` (64×64 – 4×4 tiles)
-- `Maple Tree.png` (160×48 – 10×3 tiles)
-- `bush_1–3.png`, `flower_1–7.png`, `rock_1–7.png`, `tree_1–4.png` (16×16 singles)
+- `bush_1–3.png`, `flower_1–7.png`, `rock_1–7.png`, `tree_1–4.png`, `stem_1–3.png` (16×16 singles)
 
-The accompanying `.meta` files configure each asset with:
+Each PNG is accompanied by a `.meta` file that configures:
 - **Pixels Per Unit = 100**
 - **Sprite Mode = Multiple** (for tilesets) or **Single** (for individual sprites)
 - **16×16 slice grid** (for tilesets)
