@@ -56,7 +56,8 @@ namespace OutDoors.Editor
             TILES + "PathTile_3.asset",
         };
 
-        // Water tiles  (WaterTile_0 … WaterTile_5)
+        // Water tiles  (WaterTile_0 … WaterTile_7 from Water_ground sheets +
+        //              GBWaterTile_0 … GBWaterTile_8 from Grass and Brick sheet)
         private static readonly string[] WaterPaths =
         {
             TILES + "WaterTile_0.asset",
@@ -65,6 +66,18 @@ namespace OutDoors.Editor
             TILES + "WaterTile_3.asset",
             TILES + "WaterTile_4.asset",
             TILES + "WaterTile_5.asset",
+            TILES + "WaterTile_6.asset",
+            TILES + "WaterTile_7.asset",
+            // Water tiles sliced from Grass and Brick.png
+            TILES + "GBWaterTile_0.asset",  // Grass and Brick_2_5  – teal water
+            TILES + "GBWaterTile_1.asset",  // Grass and Brick_1_6  – water left edge
+            TILES + "GBWaterTile_2.asset",  // Grass and Brick_2_6  – bright-blue centre
+            TILES + "GBWaterTile_3.asset",  // Grass and Brick_3_6  – water right edge
+            TILES + "GBWaterTile_4.asset",  // Grass and Brick_2_7  – water top edge
+            TILES + "GBWaterTile_5.asset",  // Grass and Brick_3_11 – teal variant
+            TILES + "GBWaterTile_6.asset",  // Grass and Brick_4_11 – teal variant
+            TILES + "GBWaterTile_7.asset",  // Grass and Brick_3_12 – teal variant
+            TILES + "GBWaterTile_8.asset",  // Grass and Brick_4_12 – teal variant
         };
 
         // Flower / detail tiles
