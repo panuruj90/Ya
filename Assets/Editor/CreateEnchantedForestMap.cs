@@ -21,6 +21,8 @@ namespace OutDoors.Editor
 {
     public static class CreateEnchantedForestMap
     {
+    private const float CellSize = 0.16f;
+
         // ── Tile asset paths ────────────────────────────────────────────────
         private const string TILES = "Assets/Tilemaps/Tiles/EnchantedForest/";
 
@@ -56,7 +58,8 @@ namespace OutDoors.Editor
             TILES + "PathTile_3.asset",
         };
 
-        // Water tiles  (WaterTile_0 … WaterTile_5)
+        // Water tiles  (WaterTile_0 … WaterTile_7 from Water_ground sheets +
+        //               GBWaterTile_0 … GBWaterTile_8 from Grass and Brick sheet)
         private static readonly string[] WaterPaths =
         {
             TILES + "WaterTile_0.asset",
@@ -65,6 +68,17 @@ namespace OutDoors.Editor
             TILES + "WaterTile_3.asset",
             TILES + "WaterTile_4.asset",
             TILES + "WaterTile_5.asset",
+            TILES + "WaterTile_6.asset",
+            TILES + "WaterTile_7.asset",
+            TILES + "GBWaterTile_0.asset",
+            TILES + "GBWaterTile_1.asset",
+            TILES + "GBWaterTile_2.asset",
+            TILES + "GBWaterTile_3.asset",
+            TILES + "GBWaterTile_4.asset",
+            TILES + "GBWaterTile_5.asset",
+            TILES + "GBWaterTile_6.asset",
+            TILES + "GBWaterTile_7.asset",
+            TILES + "GBWaterTile_8.asset",
         };
 
         // Flower / detail tiles
@@ -130,6 +144,17 @@ namespace OutDoors.Editor
             TileBase[] trees   = LoadTiles(TreePaths);
             TileBase[] stems   = LoadTiles(StemPaths);
 
+            // Fallback for alternate naming conventions from imported/cloned packs.
+            if (grass.Length == 0)   grass   = LoadTilesByContains("grass_grass", "grass_", "summer_grass");
+            if (dirt.Length == 0)    dirt    = LoadTilesByContains("summer_grass", "dirt");
+            if (path.Length == 0)    path    = LoadTilesByContains("road", "path", "brick");
+            if (water.Length == 0)   water   = LoadTilesByContains("water");
+            if (flowers.Length == 0) flowers = LoadTilesByContains("flower");
+            if (bushes.Length == 0)  bushes  = LoadTilesByContains("bush");
+            if (rocks.Length == 0)   rocks   = LoadTilesByContains("rock");
+            if (trees.Length == 0)   trees   = LoadTilesByContains("tree", "maple");
+            if (stems.Length == 0)   stems   = LoadTilesByContains("stem");
+
             if (grass.Length == 0)
             {
                 Debug.LogError("[Enchanted Forest] Grass tile assets not found. " +
@@ -137,15 +162,20 @@ namespace OutDoors.Editor
                 return;
             }
 
-            // Find layers in scene
-            Tilemap groundTm  = FindLayer("Ground");
-            Tilemap waterTm   = FindLayer("Water");
-            Tilemap detailsTm = FindLayer("Details");
-            Tilemap objectsTm = FindLayer("Objects");
+            // Find/repair layers in scene (some imported scenes may contain only empty GameObjects).
+            Tilemap groundTm  = EnsureLayer("Ground", 0);
+            Tilemap waterTm   = EnsureLayer("Water", 10);
+            Tilemap detailsTm = EnsureLayer("Details", 20);
+            Tilemap objectsTm = EnsureLayer("Objects", 30);
+
+            EnsureGridForTilemap(groundTm);
+            EnsureGridForTilemap(waterTm);
+            EnsureGridForTilemap(detailsTm);
+            EnsureGridForTilemap(objectsTm);
 
             if (groundTm == null)
             {
-                Debug.LogError("[Enchanted Forest] 'Ground' Tilemap not found. " +
+                Debug.LogError("[Enchanted Forest] Could not create/find 'Ground' Tilemap. " +
                     "Open Assets/Scenes/Levels/OutDoors/OutDoors_A_EnchantedForest.unity first.");
                 return;
             }
@@ -157,6 +187,12 @@ namespace OutDoors.Editor
             objectsTm?.ClearAllTiles();
 
             System.Random rng = new System.Random(42);
+
+            // Use curated primary tiles to avoid visual noise from transition-heavy atlases.
+            TileBase primaryGrass = grass[0];
+            TileBase accentDirt = dirt.Length > 0 ? dirt[0] : primaryGrass;
+            TileBase primaryPath = path.Length > 0 ? path[0] : accentDirt;
+            TileBase[] riverWater = BuildRiverWaterPalette(water);
 
             // ── Pass 1: Fill GROUND layer ───────────────────────────────────
             // Layout regions:
@@ -171,20 +207,20 @@ namespace OutDoors.Editor
 
                     if (IsBorder(x, y))
                     {
-                        // Forest edge: earthy ground
-                        tile = Pick(dirt, rng);
+                        // Forest edge stays mostly grass; trees in Objects layer create the dense boundary.
+                        tile = primaryGrass;
                     }
                     else if (IsPath(x, y))
                     {
                         // Stone/dirt path through the forest
-                        tile = Pick(path, rng);
+                        tile = primaryPath;
                     }
                     else
                     {
-                        // Base: green grass with occasional dirt variation
+                        // Base: green grass with very light dirt variation.
                         double r = rng.NextDouble();
-                        if (r < 0.08) tile = Pick(dirt, rng);
-                        else          tile = Pick(grass, rng);
+                        if (r < 0.04) tile = accentDirt;
+                        else          tile = primaryGrass;
                     }
 
                     SetTile(groundTm, x, y, tile);
@@ -195,7 +231,7 @@ namespace OutDoors.Editor
             // A meandering stream running roughly from (10,70) to (70,10)
             if (waterTm != null && water.Length > 0)
             {
-                FillRiver(waterTm, water, rng);
+                FillRiver(waterTm, riverWater, rng);
             }
 
             // ── Pass 3: Fill DETAILS layer ──────────────────────────────────
@@ -267,9 +303,52 @@ namespace OutDoors.Editor
             foreach (string p in paths)
             {
                 var t = AssetDatabase.LoadAssetAtPath<TileBase>(p);
-                if (t != null) list.Add(t);
+                if (IsRenderableTile(t)) list.Add(t);
             }
             return list.ToArray();
+        }
+
+        private static TileBase[] LoadTilesByContains(params string[] keywords)
+        {
+            var list = new List<TileBase>();
+            var seen = new HashSet<string>();
+            string folder = TILES.TrimEnd('/');
+            var guids = AssetDatabase.FindAssets("t:Tile", new[] { folder });
+
+            foreach (var guid in guids)
+            {
+                string path = AssetDatabase.GUIDToAssetPath(guid);
+                string file = System.IO.Path.GetFileNameWithoutExtension(path).ToLowerInvariant();
+                if (keywords != null && keywords.Length > 0)
+                {
+                    bool match = false;
+                    foreach (var keyword in keywords)
+                    {
+                        if (!string.IsNullOrEmpty(keyword) && file.Contains(keyword.ToLowerInvariant()))
+                        {
+                            match = true;
+                            break;
+                        }
+                    }
+                    if (!match) continue;
+                }
+
+                if (!seen.Add(path)) continue;
+                var tile = AssetDatabase.LoadAssetAtPath<TileBase>(path);
+                if (IsRenderableTile(tile)) list.Add(tile);
+            }
+
+            return list.ToArray();
+        }
+
+        private static bool IsRenderableTile(TileBase tile)
+        {
+            if (tile == null) return false;
+            if (tile is Tile t)
+            {
+                return t.sprite != null;
+            }
+            return true;
         }
 
         private static Tilemap FindLayer(string name)
@@ -277,6 +356,94 @@ namespace OutDoors.Editor
             foreach (var tm in Object.FindObjectsByType<Tilemap>(FindObjectsSortMode.None))
                 if (tm.name == name) return tm;
             return null;
+        }
+
+        private static Tilemap EnsureLayer(string name, int sortingOrder)
+        {
+            var existing = FindLayer(name);
+            if (existing != null)
+            {
+                var existingRenderer = existing.GetComponent<TilemapRenderer>();
+                if (existingRenderer == null)
+                {
+                    existingRenderer = existing.gameObject.AddComponent<TilemapRenderer>();
+                }
+                existingRenderer.sortingOrder = sortingOrder;
+                return existing;
+            }
+
+            GameObject go = GameObject.Find(name);
+            if (go == null)
+            {
+                go = new GameObject(name);
+                var grid = FindGridTransform();
+                if (grid != null) go.transform.SetParent(grid, false);
+            }
+
+            var tilemap = go.GetComponent<Tilemap>();
+            if (tilemap == null) tilemap = go.AddComponent<Tilemap>();
+
+            var renderer = go.GetComponent<TilemapRenderer>();
+            if (renderer == null) renderer = go.AddComponent<TilemapRenderer>();
+            renderer.sortingOrder = sortingOrder;
+
+            return tilemap;
+        }
+
+        private static Transform FindGridTransform()
+        {
+            // Prefer the known grid name in this scene.
+            var known = GameObject.Find("EnchantedForest_Grid");
+            if (known != null)
+            {
+                EnsureGridComponent(known);
+                return known.transform;
+            }
+
+            foreach (var g in Object.FindObjectsByType<Grid>(FindObjectsSortMode.None))
+            {
+                g.cellSize = new Vector3(CellSize, CellSize, 0f);
+                return g.transform;
+            }
+
+            // Last resort: create the expected grid root so tilemaps render correctly.
+            var created = new GameObject("EnchantedForest_Grid");
+            EnsureGridComponent(created);
+            return created.transform;
+        }
+
+        private static void EnsureGridComponent(GameObject go)
+        {
+            var grid = go.GetComponent<Grid>();
+            if (grid == null) grid = go.AddComponent<Grid>();
+            grid.enabled = true;
+            grid.cellSize = new Vector3(CellSize, CellSize, 0f);
+        }
+
+
+        private static void EnsureGridForTilemap(Tilemap tm)
+        {
+            if (tm == null) return;
+
+            // If no parent grid is found, attach/create one on direct parent.
+            var parentGrid = tm.GetComponentInParent<Grid>();
+            if (parentGrid != null)
+            {
+                parentGrid.enabled = true;
+                parentGrid.cellSize = new Vector3(CellSize, CellSize, 0f);
+                return;
+            }
+
+            Transform parent = tm.transform.parent;
+            if (parent == null)
+            {
+                var gridRoot = new GameObject("EnchantedForest_Grid");
+                EnsureGridComponent(gridRoot);
+                tm.transform.SetParent(gridRoot.transform, true);
+                return;
+            }
+
+            EnsureGridComponent(parent.gameObject);
         }
 
         private static void SetTile(Tilemap tm, int x, int y, TileBase tile)
@@ -355,15 +522,35 @@ namespace OutDoors.Editor
 
         private static long Key(int x, int y) => ((long)x << 16) | (uint)y;
 
-        private static void FillRiver(Tilemap tm, TileBase[] water, System.Random rng)
+        private static TileBase[] BuildRiverWaterPalette(TileBase[] water)
         {
+            if (water == null || water.Length == 0) return new TileBase[0];
+
+            // Keep visuals coherent: use first 5 entries as core water, sprinkle extras occasionally.
+            var list = new List<TileBase>();
+            int coreCount = Mathf.Min(5, water.Length);
+            for (int i = 0; i < coreCount; i++) list.Add(water[i]);
+            for (int i = 5; i < water.Length; i += 2) list.Add(water[i]);
+            return list.ToArray();
+        }
+
+        private static void FillRiver(Tilemap tm, TileBase[] waterTiles, System.Random rng)
+        {
+            if (tm == null || waterTiles == null || waterTiles.Length == 0) return;
             BuildRiverSet(rng);
             foreach (long key in _riverCells)
             {
                 int x = (int)(key >> 16);
                 int y = (int)(key & 0xFFFF);
                 if (x < 0 || y < 0 || x >= MAP_W || y >= MAP_H) continue;
-                SetTile(tm, x, y, Pick(water, rng));
+
+                // Mostly stable water, occasionally variant tiles from Grass&Brick water set.
+                TileBase chosen = waterTiles[0];
+                if (waterTiles.Length > 1 && rng.NextDouble() < 0.25)
+                {
+                    chosen = waterTiles[rng.Next(waterTiles.Length)];
+                }
+                SetTile(tm, x, y, chosen);
             }
         }
     }
