@@ -1,4 +1,14 @@
-# OutDoors – Map A: Enchanted Forest (80×80)
+# OutDoors – Maps A, B, C
+
+| Map | Scene | Size | Status |
+|-----|-------|------|--------|
+| A – Enchanted Forest | `OutDoors_A_EnchantedForest.unity` | 80×80 | ✅ Done |
+| B – Mountain Mine | `OutDoors_B_MountainMine.unity` | 80×80 | ✅ Scene + Editor Script ready |
+| C – Cozy Town | `OutDoors_C_CozyTown.unity` | 120×120 | ✅ Scene + Editor Script ready |
+
+---
+
+## Map A: Enchanted Forest (80×80)
 
 ## Setup Instructions
 
@@ -46,6 +56,94 @@ The palette prefab is at:
 `Assets/Tilemaps/Palettes/EnchantedForest_Palette.prefab`
 
 Open it via **Window → 2D → Tile Palette** to manually paint additional tiles.
+
+### Unity Version
+Tested configuration: **Unity 6000.x**, **URP or Built-in RP**, **PPU = 100**, **Tile size = 16×16**.
+
+---
+
+## Map B: Mountain Mine (80×80)
+
+### Scene
+Open:  
+`Assets/Scenes/Levels/OutDoors/OutDoors_B_MountainMine.unity`
+
+### Scene Layout
+| GameObject | Component | Sorting Order |
+|---|---|---|
+| `MountainMine_Grid` | Grid (cell 0.16 × 0.16) | – |
+| └ `Ground` | Tilemap + TilemapRenderer | 0 |
+| └ `Water` | Tilemap + TilemapRenderer | 10 |
+| └ `Details` | Tilemap + TilemapRenderer | 20 |
+| └ `Objects` | Tilemap + TilemapRenderer | 30 |
+
+### Build the Map
+From the Unity menu bar run:  
+**Tools → Mountain Mine → Build Map B (80×80)**
+
+This executes `Assets/Editor/CreateMountainMineMap.cs` which fills the tilemaps with:
+- **Ground** – cave floor tiles (with subtle variation)
+- **Water** – underground pool (cols 15–30, rows 25–55)
+- **Details** – scattered cave floor accents
+- **Objects** – rocky cliff border, scattered rocks, mine entrance arch
+
+### Tile Assets
+`Assets/Tilemaps/Tiles/MountainMine/`
+- `CaveFloorTile_0`–`CaveFloorTile_4` (from muddy cave tileset)
+- `RockTile_0`–`RockTile_3`
+- `CaveWaterTile_0`, `CaveWaterTile_1`
+
+---
+
+## Map C: Cozy Town (120×120)
+
+### Scene
+Open:  
+`Assets/Scenes/Levels/OutDoors/OutDoors_C_CozyTown.unity`
+
+### Scene Layout
+| GameObject | Component | Sorting Order |
+|---|---|---|
+| `CozyTown_Grid` | Grid (cell 0.16 × 0.16) | – |
+| └ `Ground` | Tilemap + TilemapRenderer | 0 |
+| └ `Water` | Tilemap + TilemapRenderer | 10 |
+| └ `Details` | Tilemap + TilemapRenderer | 20 |
+| └ `Objects` | Tilemap + TilemapRenderer | 30 |
+
+### Build the Map
+From the Unity menu bar run:  
+**Tools → Cozy Town → Build Map C (120×120)**
+
+This executes `Assets/Editor/CreateCozyTownMap.cs` which fills the tilemaps with:
+- **Ground** – varied grass across 120×120, path tiles for roads and town square
+- **Water** – small pond in the NW park area
+- **Details** – flowers in the town square, along road edges, around the pond
+- **Objects** – tree border, scattered trees in the park, fence rows in the SW farming area, houses in each quadrant (NE: normal houses, SW: farmer houses, SE: blacksmith/shops, NW: park houses)
+
+### Layout Zones
+| Zone | Location (approx) | Contents |
+|---|---|---|
+| Tree border | 3-tile perimeter | Dense tree/bush border |
+| Town square | cols 50–70, rows 50–70 | Path tiles + flower accents |
+| N-S road | cols 58–62, full height | Path tiles |
+| E-W road | rows 58–62, full width | Path tiles |
+| NW Park | cols 8–45, rows 65–95 | Grass + trees + pond + flowers |
+| SW Farming | cols 8–55, rows 8–55 | Grass + farmer houses + fence rows |
+| NE Market | cols 65–112, rows 65–112 | Grass + normal houses |
+| SE Crafting | cols 65–112, rows 8–55 | Grass + blacksmith house |
+
+### Tile Assets
+`Assets/Tilemaps/Tiles/CozyTown/`
+- `TownGrassTile_0`–`TownGrassTile_2` (grass variants)
+- `TownPathTile_0`–`TownPathTile_2` (stone path/brick)
+- `TownWaterTile_0`, `TownWaterTile_1`
+- `TownFenceTile_0`, `TownFenceTile_1`
+- `TownFlowerTile_0`, `TownFlowerTile_1`
+- `TownTreeTile_0`, `TownTreeTile_1`
+- `TownBushTile_0`
+- `NormalHouseTile`, `FarmerHouseTile`, `BlacksmithHouseTile`
+
+All CozyTown tiles reuse sprites that are already in the project (`Grass.png`, `Grass and Brick.png`, water/fence/flower/tree/bush/house PNGs from `Assets/Content/New Sprites and tiles/`).
 
 ### Unity Version
 Tested configuration: **Unity 6000.x**, **URP or Built-in RP**, **PPU = 100**, **Tile size = 16×16**.
