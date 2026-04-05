@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: f894a77f0dc4def4893de5c29e335a09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 432954560744423981
+    second: muddy cave 16x32 v2_0
+  - first:
+      213: -8299061567586579
+    second: muddy cave 16x32 v2_1
+  - first:
+      213: -5404327129043837412
+    second: muddy cave 16x32 v2_2
+  - first:
+      213: -6375868734747734782
+    second: muddy cave 16x32 v2_3
+  - first:
+      213: 666129882177237387
+    second: muddy cave 16x32 v2_4
+  - first:
+      213: 1104937987207372588
+    second: muddy cave 16x32 v2_0_0
+  - first:
+      213: -1114949174813187992
+    second: muddy cave 16x32 v2_1_0
+  - first:
+      213: -2424821358596152504
+    second: muddy cave 16x32 v2_2_0
+  - first:
+      213: 351105464751448379
+    second: muddy cave 16x32 v2_3_0
+  - first:
+      213: -7598742898868401889
+    second: muddy cave 16x32 v2_4_0
+  - first:
+      213: 8607048937330356130
+    second: muddy cave 16x32 v2_0_1
+  - first:
+      213: -2416451668729446374
+    second: muddy cave 16x32 v2_1_1
+  - first:
+      213: -2975153179105815763
+    second: muddy cave 16x32 v2_2_1
+  - first:
+      213: 4310503695794249751
+    second: muddy cave 16x32 v2_3_1
+  - first:
+      213: -5725341333325623733
+    second: muddy cave 16x32 v2_4_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muddy cave 16x32 v2_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f9452ce37855f00800000000000000
+      internalID: 1104937987207372588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave 16x32 v2_1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86025acf1a7e680f0800000000000000
+      internalID: -1114949174813187992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      muddy cave 16x32 v2_0: 432954560744423981
+      muddy cave 16x32 v2_0_0: 1104937987207372588
+      muddy cave 16x32 v2_0_1: 8607048937330356130
+      muddy cave 16x32 v2_1: -8299061567586579
+      muddy cave 16x32 v2_1_0: -1114949174813187992
+      muddy cave 16x32 v2_1_1: -2416451668729446374
+      muddy cave 16x32 v2_2: -5404327129043837412
+      muddy cave 16x32 v2_2_0: -2424821358596152504
+      muddy cave 16x32 v2_2_1: -2975153179105815763
+      muddy cave 16x32 v2_3: -6375868734747734782
+      muddy cave 16x32 v2_3_0: 351105464751448379
+      muddy cave 16x32 v2_3_1: 4310503695794249751
+      muddy cave 16x32 v2_4: 666129882177237387
+      muddy cave 16x32 v2_4_0: -7598742898868401889
+      muddy cave 16x32 v2_4_1: -5725341333325623733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

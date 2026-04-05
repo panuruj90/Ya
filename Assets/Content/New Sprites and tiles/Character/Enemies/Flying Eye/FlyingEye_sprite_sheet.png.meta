@@ -1,0 +1,2747 @@
+fileFormatVersion: 2
+guid: 37182898a5b74834a83199662d81b006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5913906606122411683
+    second: FlyingEye_sprite_sheet_0
+  - first:
+      213: -2569412381408686359
+    second: FlyingEye_sprite_sheet_1
+  - first:
+      213: -8702733457853530633
+    second: FlyingEye_sprite_sheet_2
+  - first:
+      213: 3794358083039402699
+    second: FlyingEye_sprite_sheet_3
+  - first:
+      213: 1115445296225200664
+    second: FlyingEye_sprite_sheet_4
+  - first:
+      213: 992083762072104857
+    second: FlyingEye_sprite_sheet_5
+  - first:
+      213: -4043214183541974658
+    second: FlyingEye_sprite_sheet_6
+  - first:
+      213: -5430813371069145689
+    second: FlyingEye_sprite_sheet_7
+  - first:
+      213: -3437592764561832009
+    second: FlyingEye_sprite_sheet_8
+  - first:
+      213: 3086054346114095904
+    second: FlyingEye_sprite_sheet_9
+  - first:
+      213: 6358627806749704953
+    second: FlyingEye_sprite_sheet_10
+  - first:
+      213: -397568109402570409
+    second: FlyingEye_sprite_sheet_11
+  - first:
+      213: 1751725956968949510
+    second: FlyingEye_sprite_sheet_12
+  - first:
+      213: 8477471061143349494
+    second: FlyingEye_sprite_sheet_13
+  - first:
+      213: -13292133771096554
+    second: FlyingEye_sprite_sheet_14
+  - first:
+      213: -4839592870350154475
+    second: FlyingEye_sprite_sheet_15
+  - first:
+      213: -6004287495067000171
+    second: FlyingEye_sprite_sheet_16
+  - first:
+      213: -173975571047785640
+    second: FlyingEye_sprite_sheet_17
+  - first:
+      213: -5774351515457626228
+    second: FlyingEye_sprite_sheet_18
+  - first:
+      213: 1867646192531292761
+    second: FlyingEye_sprite_sheet_19
+  - first:
+      213: 9148758304087428646
+    second: FlyingEye_sprite_sheet_20
+  - first:
+      213: 8573079453577682722
+    second: FlyingEye_sprite_sheet_21
+  - first:
+      213: 8481916643705566100
+    second: FlyingEye_sprite_sheet_22
+  - first:
+      213: -7114598226555018332
+    second: FlyingEye_sprite_sheet_23
+  - first:
+      213: 8651396885371733221
+    second: FlyingEye_sprite_sheet_24
+  - first:
+      213: 8772456827371385478
+    second: FlyingEye_sprite_sheet_25
+  - first:
+      213: 3584485441891916809
+    second: FlyingEye_sprite_sheet_26
+  - first:
+      213: -824890963411957458
+    second: FlyingEye_sprite_sheet_0_0
+  - first:
+      213: 6781482781627464744
+    second: FlyingEye_sprite_sheet_1_0
+  - first:
+      213: 8683420804627227919
+    second: FlyingEye_sprite_sheet_2_0
+  - first:
+      213: 3914703280444750410
+    second: FlyingEye_sprite_sheet_3_0
+  - first:
+      213: -9067140855827752149
+    second: FlyingEye_sprite_sheet_4_0
+  - first:
+      213: -5904005229874487160
+    second: FlyingEye_sprite_sheet_5_0
+  - first:
+      213: -5161864447828463257
+    second: FlyingEye_sprite_sheet_6_0
+  - first:
+      213: 6245058517345139119
+    second: FlyingEye_sprite_sheet_7_0
+  - first:
+      213: 5335852585364408260
+    second: FlyingEye_sprite_sheet_0_1
+  - first:
+      213: 6342233225172320850
+    second: FlyingEye_sprite_sheet_1_1
+  - first:
+      213: -3163110229542129674
+    second: FlyingEye_sprite_sheet_2_1
+  - first:
+      213: 5495895454124135134
+    second: FlyingEye_sprite_sheet_3_1
+  - first:
+      213: 7874588835269590943
+    second: FlyingEye_sprite_sheet_4_1
+  - first:
+      213: -8517115897776446798
+    second: FlyingEye_sprite_sheet_5_1
+  - first:
+      213: 1611060484783991549
+    second: FlyingEye_sprite_sheet_6_1
+  - first:
+      213: 2289010618676500998
+    second: FlyingEye_sprite_sheet_7_1
+  - first:
+      213: 8875212342519958387
+    second: FlyingEye_sprite_sheet_0_2
+  - first:
+      213: -6250501823792952327
+    second: FlyingEye_sprite_sheet_1_2
+  - first:
+      213: 1982512465273206045
+    second: FlyingEye_sprite_sheet_2_2
+  - first:
+      213: 2788047693425294236
+    second: FlyingEye_sprite_sheet_3_2
+  - first:
+      213: 3578583153951686041
+    second: FlyingEye_sprite_sheet_4_2
+  - first:
+      213: 8920065737399781218
+    second: FlyingEye_sprite_sheet_5_2
+  - first:
+      213: -9091309690675215732
+    second: FlyingEye_sprite_sheet_6_2
+  - first:
+      213: 2873116376270960849
+    second: FlyingEye_sprite_sheet_7_2
+  - first:
+      213: 4701164859835200453
+    second: FlyingEye_sprite_sheet_0_3
+  - first:
+      213: -4316490980804037293
+    second: FlyingEye_sprite_sheet_1_3
+  - first:
+      213: 5051503529113752732
+    second: FlyingEye_sprite_sheet_2_3
+  - first:
+      213: 4137353449848961176
+    second: FlyingEye_sprite_sheet_3_3
+  - first:
+      213: 4961218497121001755
+    second: FlyingEye_sprite_sheet_4_3
+  - first:
+      213: 8585890731490067868
+    second: FlyingEye_sprite_sheet_5_3
+  - first:
+      213: 7023196876589163559
+    second: FlyingEye_sprite_sheet_6_3
+  - first:
+      213: 7617744479210966614
+    second: FlyingEye_sprite_sheet_7_3
+  - first:
+      213: 9082165844948592295
+    second: FlyingEye_sprite_sheet_0_4
+  - first:
+      213: -8155177997080092933
+    second: FlyingEye_sprite_sheet_1_4
+  - first:
+      213: -1625869045698968476
+    second: FlyingEye_sprite_sheet_2_4
+  - first:
+      213: 6267161033771483663
+    second: FlyingEye_sprite_sheet_3_4
+  - first:
+      213: 6993992206060660642
+    second: FlyingEye_sprite_sheet_4_4
+  - first:
+      213: 8167397499669004869
+    second: FlyingEye_sprite_sheet_5_4
+  - first:
+      213: 6238275248954437516
+    second: FlyingEye_sprite_sheet_6_4
+  - first:
+      213: -2093148737256150163
+    second: FlyingEye_sprite_sheet_7_4
+  - first:
+      213: 6739443558074403629
+    second: FlyingEye_sprite_sheet_0_5
+  - first:
+      213: -978250738321939330
+    second: FlyingEye_sprite_sheet_1_5
+  - first:
+      213: 5002368129889227319
+    second: FlyingEye_sprite_sheet_2_5
+  - first:
+      213: 5032454762712104220
+    second: FlyingEye_sprite_sheet_3_5
+  - first:
+      213: -8699261401245114053
+    second: FlyingEye_sprite_sheet_4_5
+  - first:
+      213: -634303448477470492
+    second: FlyingEye_sprite_sheet_5_5
+  - first:
+      213: 562362291071319496
+    second: FlyingEye_sprite_sheet_6_5
+  - first:
+      213: 6622069658173099080
+    second: FlyingEye_sprite_sheet_7_5
+  - first:
+      213: -2809078668857853880
+    second: FlyingEye_sprite_sheet_0_6
+  - first:
+      213: -5534407457895494458
+    second: FlyingEye_sprite_sheet_1_6
+  - first:
+      213: -5912152970551624168
+    second: FlyingEye_sprite_sheet_2_6
+  - first:
+      213: 448105813519406518
+    second: FlyingEye_sprite_sheet_3_6
+  - first:
+      213: 6403969655941394544
+    second: FlyingEye_sprite_sheet_4_6
+  - first:
+      213: 6984147889344457374
+    second: FlyingEye_sprite_sheet_5_6
+  - first:
+      213: -3239145289850516716
+    second: FlyingEye_sprite_sheet_6_6
+  - first:
+      213: -1282050425919350339
+    second: FlyingEye_sprite_sheet_7_6
+  - first:
+      213: 2959440291816073695
+    second: FlyingEye_sprite_sheet_0_7
+  - first:
+      213: -6547920990309001543
+    second: FlyingEye_sprite_sheet_1_7
+  - first:
+      213: -8304444482884846390
+    second: FlyingEye_sprite_sheet_2_7
+  - first:
+      213: -5107320557742203323
+    second: FlyingEye_sprite_sheet_3_7
+  - first:
+      213: -7476952770970753513
+    second: FlyingEye_sprite_sheet_4_7
+  - first:
+      213: 6460558182531757166
+    second: FlyingEye_sprite_sheet_5_7
+  - first:
+      213: -5438703545616936028
+    second: FlyingEye_sprite_sheet_6_7
+  - first:
+      213: 7812895433097462073
+    second: FlyingEye_sprite_sheet_7_7
+  - first:
+      213: 4840143952288921087
+    second: FlyingEye_sprite_sheet_0_8
+  - first:
+      213: 8357389267981510774
+    second: FlyingEye_sprite_sheet_1_8
+  - first:
+      213: -7564623905251330687
+    second: FlyingEye_sprite_sheet_2_8
+  - first:
+      213: -9094420988929872857
+    second: FlyingEye_sprite_sheet_3_8
+  - first:
+      213: -4144871189743228960
+    second: FlyingEye_sprite_sheet_4_8
+  - first:
+      213: 2485135744869641294
+    second: FlyingEye_sprite_sheet_5_8
+  - first:
+      213: -1412284125579940402
+    second: FlyingEye_sprite_sheet_6_8
+  - first:
+      213: 1741309193747982008
+    second: FlyingEye_sprite_sheet_7_8
+  - first:
+      213: -1658188790872280757
+    second: FlyingEye_sprite_sheet_0_9
+  - first:
+      213: -5295132111045875739
+    second: FlyingEye_sprite_sheet_1_9
+  - first:
+      213: -8906474786887404358
+    second: FlyingEye_sprite_sheet_2_9
+  - first:
+      213: 7552432092748717614
+    second: FlyingEye_sprite_sheet_3_9
+  - first:
+      213: -2190658601541194017
+    second: FlyingEye_sprite_sheet_4_9
+  - first:
+      213: -8984202282432487447
+    second: FlyingEye_sprite_sheet_5_9
+  - first:
+      213: 2515447172786990011
+    second: FlyingEye_sprite_sheet_6_9
+  - first:
+      213: -6090784731121976868
+    second: FlyingEye_sprite_sheet_7_9
+  - first:
+      213: -5745719326802219153
+    second: FlyingEye_sprite_sheet_0_10
+  - first:
+      213: -4111948279321337821
+    second: FlyingEye_sprite_sheet_1_10
+  - first:
+      213: -8796658853935572323
+    second: FlyingEye_sprite_sheet_2_10
+  - first:
+      213: -2192350056280512297
+    second: FlyingEye_sprite_sheet_3_10
+  - first:
+      213: 7538324113860602827
+    second: FlyingEye_sprite_sheet_4_10
+  - first:
+      213: -5044816317523159875
+    second: FlyingEye_sprite_sheet_5_10
+  - first:
+      213: 4120504179529384052
+    second: FlyingEye_sprite_sheet_6_10
+  - first:
+      213: -5732256228230079749
+    second: FlyingEye_sprite_sheet_7_10
+  - first:
+      213: -4923728402701207655
+    second: FlyingEye_sprite_sheet_0_11
+  - first:
+      213: -5217978997540168984
+    second: FlyingEye_sprite_sheet_1_11
+  - first:
+      213: 2956310445861085661
+    second: FlyingEye_sprite_sheet_2_11
+  - first:
+      213: -7432956271657928320
+    second: FlyingEye_sprite_sheet_3_11
+  - first:
+      213: -4864307834801567697
+    second: FlyingEye_sprite_sheet_4_11
+  - first:
+      213: -1363892269687901297
+    second: FlyingEye_sprite_sheet_5_11
+  - first:
+      213: -9011009625513912489
+    second: FlyingEye_sprite_sheet_6_11
+  - first:
+      213: 3504590958073734402
+    second: FlyingEye_sprite_sheet_7_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29866b0a066d84f0800000000000000
+      internalID: -824890963411957458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3559f8aaac1e50800000000000000
+      internalID: 6781482781627464744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ea0f0735b18870800000000000000
+      internalID: 8683420804627227919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a37ff74e1d35630800000000000000
+      internalID: 3914703280444750410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b94ff6e6b0b2280800000000000000
+      internalID: -9067140855827752149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88068413682c01ea0800000000000000
+      internalID: -5904005229874487160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761777822af5d58b0800000000000000
+      internalID: -5161864447828463257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa972ef32a7eaa650800000000000000
+      internalID: 6245058517345139119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7ce74e7a1cc0a40800000000000000
+      internalID: 5335852585364408260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25283150483240850800000000000000
+      internalID: 6342233225172320850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffacbe41006a14d0800000000000000
+      internalID: -3163110229542129674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d0c90cc7554c40800000000000000
+      internalID: 5495895454124135134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f308603d8284d60800000000000000
+      internalID: 7874588835269590943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2e33277302dc980800000000000000
+      internalID: -8517115897776446798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfae733a9f2ab5610800000000000000
+      internalID: 1611060484783991549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a5f4da70334cf10800000000000000
+      internalID: 2289010618676500998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b80164a961b2b70800000000000000
+      internalID: 8875212342519958387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc3e435b1c149a0800000000000000
+      internalID: -6250501823792952327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15b467559c438b10800000000000000
+      internalID: 1982512465273206045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b367ffa9221b620800000000000000
+      internalID: 2788047693425294236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dbc7a1b6ea9a130800000000000000
+      internalID: 3578583153951686041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c8d217807acb70800000000000000
+      internalID: 8920065737399781218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82cc30110e25d180800000000000000
+      internalID: -9091309690675215732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8fcfd2f1c5fd720800000000000000
+      internalID: 2873116376270960849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3b60d3884ed3140800000000000000
+      internalID: 4701164859835200453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3557ffc925eb814c0800000000000000
+      internalID: -4316490980804037293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94157a12bb8a1640800000000000000
+      internalID: 5051503529113752732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898fb70ca05da6930800000000000000
+      internalID: 4137353449848961176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11aefdffe9c9d440800000000000000
+      internalID: 4961218497121001755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c8ca5126372770800000000000000
+      internalID: 8585890731490067868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724eab84958677160800000000000000
+      internalID: 7023196876589163559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e00194e3aa7b960800000000000000
+      internalID: 7617744479210966614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a85377b55a0e70800000000000000
+      internalID: 9082165844948592295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe95f3d1dcf2de80800000000000000
+      internalID: -8155177997080092933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4644fc797b0cf69e0800000000000000
+      internalID: -1625869045698968476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f028e1061cd69f650800000000000000
+      internalID: 6267161033771483663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a81c0bd6af0160800000000000000
+      internalID: 6993992206060660642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5424f23d0cc685170800000000000000
+      internalID: 8167397499669004869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f6a01894ec29650800000000000000
+      internalID: 6238275248954437516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2acd3054a3f2e0800000000000000
+      internalID: -2093148737256150163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bc1de7530578d50800000000000000
+      internalID: 6739443558074403629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74ae01f22e8c62f0800000000000000
+      internalID: -978250738321939330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73258c97f4bfb6540800000000000000
+      internalID: 5002368129889227319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d7daf81fed6d540800000000000000
+      internalID: 5032454762712104220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31a482a8d3064780800000000000000
+      internalID: -8699261401245114053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0f1b1df508237f0800000000000000
+      internalID: -634303448477470492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd71623689edc700800000000000000
+      internalID: 562362291071319496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ccc45d44156eb50800000000000000
+      internalID: 6622069658173099080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848b99475d52409d0800000000000000
+      internalID: -2809078668857853880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cccdd55db5d133b0800000000000000
+      internalID: -5534407457895494458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eff7c7230d3fda0800000000000000
+      internalID: -5912152970551624168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b59c9cfcddf73600800000000000000
+      internalID: 448105813519406518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07074cee8787fd850800000000000000
+      internalID: 6403969655941394544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aab23708dace060800000000000000
+      internalID: 6984147889344457374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b8496458e3c03d0800000000000000
+      internalID: -3239145289850516716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db950f22eed353ee0800000000000000
+      internalID: -1282050425919350339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9ecaff34b021920800000000000000
+      internalID: 2959440291816073695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6de4b3d8c1125a0800000000000000
+      internalID: -6547920990309001543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc32bcddbfa0cc80800000000000000
+      internalID: -8304444482884846390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed9b133072f19b0800000000000000
+      internalID: -5107320557742203323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166ae3c1178c3890800000000000000
+      internalID: -7476952770970753513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e647c80007388a950800000000000000
+      internalID: 6460558182531757166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a358d4d0f7d584b0800000000000000
+      internalID: -5438703545616936028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931cb0d700bfc6c60800000000000000
+      internalID: 7812895433097462073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5bfe9c745ab2340800000000000000
+      internalID: 4840143952288921087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67823b782496bf370800000000000000
+      internalID: 8357389267981510774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185f01423ae050790800000000000000
+      internalID: -7564623905251330687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c6afc7b402ac180800000000000000
+      internalID: -9094420988929872857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7aa970d957a76c0800000000000000
+      internalID: -4144871189743228960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca49b0bc9fc7220800000000000000
+      internalID: 2485135744869641294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd62e4021f866ce0800000000000000
+      internalID: -1412284125579940402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b668716c7f5a2810800000000000000
+      internalID: 1741309193747982008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f585841eecf8e0800000000000000
+      internalID: -1658188790872280757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7a85a5669e386b0800000000000000
+      internalID: -5295132111045875739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab47a9eae58d56480800000000000000
+      internalID: -8906474786887404358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e1c8e49f0afc860800000000000000
+      internalID: 7552432092748717614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeabf6cb973991e0800000000000000
+      internalID: -2190658601541194017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef9b5ddf93b15380800000000000000
+      internalID: -8984202282432487447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbaa3150e9a8e220800000000000000
+      internalID: 2515447172786990011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9f912be8f297ba0800000000000000
+      internalID: -6090784731121976868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f6bd2e6ba1340b0800000000000000
+      internalID: -5745719326802219153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e54473dc6fe6c0800000000000000
+      internalID: -4111948279321337821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a10e8016dfbe580800000000000000
+      internalID: -8796658853935572323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8a7184d353391e0800000000000000
+      internalID: -2192350056280512297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb2c6087d18d9860800000000000000
+      internalID: 7538324113860602827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db410fca9463df9b0800000000000000
+      internalID: -5044816317523159875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4708c5c48b8fe2930800000000000000
+      internalID: 4120504179529384052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa53dac45fe270b0800000000000000
+      internalID: -5732256228230079749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973e72da176babb0800000000000000
+      internalID: -4923728402701207655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5b2e6fb30697b0800000000000000
+      internalID: -5217978997540168984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1a353fface60920800000000000000
+      internalID: 2956310445861085661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08931d407a5d8d890800000000000000
+      internalID: -7432956271657928320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_4_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28c084ebc18e7cb0800000000000000
+      internalID: -4864307834801567697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f959f43b721de0800000000000000
+      internalID: -1363892269687901297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_6_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7571e9bec7672f280800000000000000
+      internalID: -9011009625513912489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingEye_sprite_sheet_7_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205e70388eec2a030800000000000000
+      internalID: 3504590958073734402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlyingEye_sprite_sheet_0: 5913906606122411683
+      FlyingEye_sprite_sheet_0_0: -824890963411957458
+      FlyingEye_sprite_sheet_0_1: 5335852585364408260
+      FlyingEye_sprite_sheet_0_10: -5745719326802219153
+      FlyingEye_sprite_sheet_0_11: -4923728402701207655
+      FlyingEye_sprite_sheet_0_2: 8875212342519958387
+      FlyingEye_sprite_sheet_0_3: 4701164859835200453
+      FlyingEye_sprite_sheet_0_4: 9082165844948592295
+      FlyingEye_sprite_sheet_0_5: 6739443558074403629
+      FlyingEye_sprite_sheet_0_6: -2809078668857853880
+      FlyingEye_sprite_sheet_0_7: 2959440291816073695
+      FlyingEye_sprite_sheet_0_8: 4840143952288921087
+      FlyingEye_sprite_sheet_0_9: -1658188790872280757
+      FlyingEye_sprite_sheet_1: -2569412381408686359
+      FlyingEye_sprite_sheet_10: 6358627806749704953
+      FlyingEye_sprite_sheet_11: -397568109402570409
+      FlyingEye_sprite_sheet_12: 1751725956968949510
+      FlyingEye_sprite_sheet_13: 8477471061143349494
+      FlyingEye_sprite_sheet_14: -13292133771096554
+      FlyingEye_sprite_sheet_15: -4839592870350154475
+      FlyingEye_sprite_sheet_16: -6004287495067000171
+      FlyingEye_sprite_sheet_17: -173975571047785640
+      FlyingEye_sprite_sheet_18: -5774351515457626228
+      FlyingEye_sprite_sheet_19: 1867646192531292761
+      FlyingEye_sprite_sheet_1_0: 6781482781627464744
+      FlyingEye_sprite_sheet_1_1: 6342233225172320850
+      FlyingEye_sprite_sheet_1_10: -4111948279321337821
+      FlyingEye_sprite_sheet_1_11: -5217978997540168984
+      FlyingEye_sprite_sheet_1_2: -6250501823792952327
+      FlyingEye_sprite_sheet_1_3: -4316490980804037293
+      FlyingEye_sprite_sheet_1_4: -8155177997080092933
+      FlyingEye_sprite_sheet_1_5: -978250738321939330
+      FlyingEye_sprite_sheet_1_6: -5534407457895494458
+      FlyingEye_sprite_sheet_1_7: -6547920990309001543
+      FlyingEye_sprite_sheet_1_8: 8357389267981510774
+      FlyingEye_sprite_sheet_1_9: -5295132111045875739
+      FlyingEye_sprite_sheet_2: -8702733457853530633
+      FlyingEye_sprite_sheet_20: 9148758304087428646
+      FlyingEye_sprite_sheet_21: 8573079453577682722
+      FlyingEye_sprite_sheet_22: 8481916643705566100
+      FlyingEye_sprite_sheet_23: -7114598226555018332
+      FlyingEye_sprite_sheet_24: 8651396885371733221
+      FlyingEye_sprite_sheet_25: 8772456827371385478
+      FlyingEye_sprite_sheet_26: 3584485441891916809
+      FlyingEye_sprite_sheet_2_0: 8683420804627227919
+      FlyingEye_sprite_sheet_2_1: -3163110229542129674
+      FlyingEye_sprite_sheet_2_10: -8796658853935572323
+      FlyingEye_sprite_sheet_2_11: 2956310445861085661
+      FlyingEye_sprite_sheet_2_2: 1982512465273206045
+      FlyingEye_sprite_sheet_2_3: 5051503529113752732
+      FlyingEye_sprite_sheet_2_4: -1625869045698968476
+      FlyingEye_sprite_sheet_2_5: 5002368129889227319
+      FlyingEye_sprite_sheet_2_6: -5912152970551624168
+      FlyingEye_sprite_sheet_2_7: -8304444482884846390
+      FlyingEye_sprite_sheet_2_8: -7564623905251330687
+      FlyingEye_sprite_sheet_2_9: -8906474786887404358
+      FlyingEye_sprite_sheet_3: 3794358083039402699
+      FlyingEye_sprite_sheet_3_0: 3914703280444750410
+      FlyingEye_sprite_sheet_3_1: 5495895454124135134
+      FlyingEye_sprite_sheet_3_10: -2192350056280512297
+      FlyingEye_sprite_sheet_3_11: -7432956271657928320
+      FlyingEye_sprite_sheet_3_2: 2788047693425294236
+      FlyingEye_sprite_sheet_3_3: 4137353449848961176
+      FlyingEye_sprite_sheet_3_4: 6267161033771483663
+      FlyingEye_sprite_sheet_3_5: 5032454762712104220
+      FlyingEye_sprite_sheet_3_6: 448105813519406518
+      FlyingEye_sprite_sheet_3_7: -5107320557742203323
+      FlyingEye_sprite_sheet_3_8: -9094420988929872857
+      FlyingEye_sprite_sheet_3_9: 7552432092748717614
+      FlyingEye_sprite_sheet_4: 1115445296225200664
+      FlyingEye_sprite_sheet_4_0: -9067140855827752149
+      FlyingEye_sprite_sheet_4_1: 7874588835269590943
+      FlyingEye_sprite_sheet_4_10: 7538324113860602827
+      FlyingEye_sprite_sheet_4_11: -4864307834801567697
+      FlyingEye_sprite_sheet_4_2: 3578583153951686041
+      FlyingEye_sprite_sheet_4_3: 4961218497121001755
+      FlyingEye_sprite_sheet_4_4: 6993992206060660642
+      FlyingEye_sprite_sheet_4_5: -8699261401245114053
+      FlyingEye_sprite_sheet_4_6: 6403969655941394544
+      FlyingEye_sprite_sheet_4_7: -7476952770970753513
+      FlyingEye_sprite_sheet_4_8: -4144871189743228960
+      FlyingEye_sprite_sheet_4_9: -2190658601541194017
+      FlyingEye_sprite_sheet_5: 992083762072104857
+      FlyingEye_sprite_sheet_5_0: -5904005229874487160
+      FlyingEye_sprite_sheet_5_1: -8517115897776446798
+      FlyingEye_sprite_sheet_5_10: -5044816317523159875
+      FlyingEye_sprite_sheet_5_11: -1363892269687901297
+      FlyingEye_sprite_sheet_5_2: 8920065737399781218
+      FlyingEye_sprite_sheet_5_3: 8585890731490067868
+      FlyingEye_sprite_sheet_5_4: 8167397499669004869
+      FlyingEye_sprite_sheet_5_5: -634303448477470492
+      FlyingEye_sprite_sheet_5_6: 6984147889344457374
+      FlyingEye_sprite_sheet_5_7: 6460558182531757166
+      FlyingEye_sprite_sheet_5_8: 2485135744869641294
+      FlyingEye_sprite_sheet_5_9: -8984202282432487447
+      FlyingEye_sprite_sheet_6: -4043214183541974658
+      FlyingEye_sprite_sheet_6_0: -5161864447828463257
+      FlyingEye_sprite_sheet_6_1: 1611060484783991549
+      FlyingEye_sprite_sheet_6_10: 4120504179529384052
+      FlyingEye_sprite_sheet_6_11: -9011009625513912489
+      FlyingEye_sprite_sheet_6_2: -9091309690675215732
+      FlyingEye_sprite_sheet_6_3: 7023196876589163559
+      FlyingEye_sprite_sheet_6_4: 6238275248954437516
+      FlyingEye_sprite_sheet_6_5: 562362291071319496
+      FlyingEye_sprite_sheet_6_6: -3239145289850516716
+      FlyingEye_sprite_sheet_6_7: -5438703545616936028
+      FlyingEye_sprite_sheet_6_8: -1412284125579940402
+      FlyingEye_sprite_sheet_6_9: 2515447172786990011
+      FlyingEye_sprite_sheet_7: -5430813371069145689
+      FlyingEye_sprite_sheet_7_0: 6245058517345139119
+      FlyingEye_sprite_sheet_7_1: 2289010618676500998
+      FlyingEye_sprite_sheet_7_10: -5732256228230079749
+      FlyingEye_sprite_sheet_7_11: 3504590958073734402
+      FlyingEye_sprite_sheet_7_2: 2873116376270960849
+      FlyingEye_sprite_sheet_7_3: 7617744479210966614
+      FlyingEye_sprite_sheet_7_4: -2093148737256150163
+      FlyingEye_sprite_sheet_7_5: 6622069658173099080
+      FlyingEye_sprite_sheet_7_6: -1282050425919350339
+      FlyingEye_sprite_sheet_7_7: 7812895433097462073
+      FlyingEye_sprite_sheet_7_8: 1741309193747982008
+      FlyingEye_sprite_sheet_7_9: -6090784731121976868
+      FlyingEye_sprite_sheet_8: -3437592764561832009
+      FlyingEye_sprite_sheet_9: 3086054346114095904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

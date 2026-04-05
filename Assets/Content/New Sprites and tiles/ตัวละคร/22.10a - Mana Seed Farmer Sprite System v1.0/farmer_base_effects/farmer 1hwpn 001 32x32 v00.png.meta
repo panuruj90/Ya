@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 865f7e60bddebf047b10a85e8471e771
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 780170189105985660
+    second: farmer 1hwpn 001 32x32 v00_0
+  - first:
+      213: 1009013792027608437
+    second: farmer 1hwpn 001 32x32 v00_1
+  - first:
+      213: 1681262858012218306
+    second: farmer 1hwpn 001 32x32 v00_2
+  - first:
+      213: -8436566751196527789
+    second: farmer 1hwpn 001 32x32 v00_3
+  - first:
+      213: -4714615213591341379
+    second: farmer 1hwpn 001 32x32 v00_4
+  - first:
+      213: -1586251316284157963
+    second: farmer 1hwpn 001 32x32 v00_5
+  - first:
+      213: -4611823880114245396
+    second: farmer 1hwpn 001 32x32 v00_6
+  - first:
+      213: -8268241264023920117
+    second: farmer 1hwpn 001 32x32 v00_7
+  - first:
+      213: 2947531064125261418
+    second: farmer 1hwpn 001 32x32 v00_0_0
+  - first:
+      213: 5673482140868577350
+    second: farmer 1hwpn 001 32x32 v00_1_0
+  - first:
+      213: -1127729492478365109
+    second: farmer 1hwpn 001 32x32 v00_2_0
+  - first:
+      213: 8217009926364582826
+    second: farmer 1hwpn 001 32x32 v00_3_0
+  - first:
+      213: 6207149403878955031
+    second: farmer 1hwpn 001 32x32 v00_4_0
+  - first:
+      213: 8343100642701540861
+    second: farmer 1hwpn 001 32x32 v00_5_0
+  - first:
+      213: -4307618273365460303
+    second: farmer 1hwpn 001 32x32 v00_6_0
+  - first:
+      213: -5476768814930267419
+    second: farmer 1hwpn 001 32x32 v00_7_0
+  - first:
+      213: -5425460433261875923
+    second: farmer 1hwpn 001 32x32 v00_0_1
+  - first:
+      213: 297992488846774109
+    second: farmer 1hwpn 001 32x32 v00_1_1
+  - first:
+      213: 7395164420352101184
+    second: farmer 1hwpn 001 32x32 v00_2_1
+  - first:
+      213: 6838719216150764495
+    second: farmer 1hwpn 001 32x32 v00_3_1
+  - first:
+      213: -9149907445088564194
+    second: farmer 1hwpn 001 32x32 v00_4_1
+  - first:
+      213: 973813802128253937
+    second: farmer 1hwpn 001 32x32 v00_5_1
+  - first:
+      213: 1800032071402364012
+    second: farmer 1hwpn 001 32x32 v00_6_1
+  - first:
+      213: 3500253065510395509
+    second: farmer 1hwpn 001 32x32 v00_7_1
+  - first:
+      213: 4347805563381940599
+    second: farmer 1hwpn 001 32x32 v00_0_2
+  - first:
+      213: 608819116724434622
+    second: farmer 1hwpn 001 32x32 v00_1_2
+  - first:
+      213: -7484971426187088254
+    second: farmer 1hwpn 001 32x32 v00_2_2
+  - first:
+      213: 2260578711104871118
+    second: farmer 1hwpn 001 32x32 v00_3_2
+  - first:
+      213: 7490088768791663366
+    second: farmer 1hwpn 001 32x32 v00_4_2
+  - first:
+      213: 7300282227003370457
+    second: farmer 1hwpn 001 32x32 v00_5_2
+  - first:
+      213: -7955656732917956755
+    second: farmer 1hwpn 001 32x32 v00_6_2
+  - first:
+      213: 371316474240227454
+    second: farmer 1hwpn 001 32x32 v00_7_2
+  - first:
+      213: -2868305728648326438
+    second: farmer 1hwpn 001 32x32 v00_0_3
+  - first:
+      213: -8104493013248377815
+    second: farmer 1hwpn 001 32x32 v00_1_3
+  - first:
+      213: -2155205895265700633
+    second: farmer 1hwpn 001 32x32 v00_2_3
+  - first:
+      213: -3157433489508550521
+    second: farmer 1hwpn 001 32x32 v00_3_3
+  - first:
+      213: -3885071753390218467
+    second: farmer 1hwpn 001 32x32 v00_4_3
+  - first:
+      213: -7301267392833580792
+    second: farmer 1hwpn 001 32x32 v00_5_3
+  - first:
+      213: 5630370906865583411
+    second: farmer 1hwpn 001 32x32 v00_6_3
+  - first:
+      213: -6150276344459472119
+    second: farmer 1hwpn 001 32x32 v00_7_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a668d99d2ebb7e820800000000000000
+      internalID: 2947531064125261418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6488efd92f14cbe40800000000000000
+      internalID: 5673482140868577350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42781660008950f0800000000000000
+      internalID: -1127729492478365109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_3_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d1d01efea80270800000000000000
+      internalID: 8217009926364582826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d2d743b74e4b4b0800000000000000
+      internalID: -5425460433261875923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f427bf69ea22400800000000000000
+      internalID: 297992488846774109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bc1baebd6e0a660800000000000000
+      internalID: 7395164420352101184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer 1hwpn 001 32x32 v00_3_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbdd4dd4e208ee50800000000000000
+      internalID: 6838719216150764495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farmer 1hwpn 001 32x32 v00_0: 780170189105985660
+      farmer 1hwpn 001 32x32 v00_0_0: 2947531064125261418
+      farmer 1hwpn 001 32x32 v00_0_1: -5425460433261875923
+      farmer 1hwpn 001 32x32 v00_0_2: 4347805563381940599
+      farmer 1hwpn 001 32x32 v00_0_3: -2868305728648326438
+      farmer 1hwpn 001 32x32 v00_1: 1009013792027608437
+      farmer 1hwpn 001 32x32 v00_1_0: 5673482140868577350
+      farmer 1hwpn 001 32x32 v00_1_1: 297992488846774109
+      farmer 1hwpn 001 32x32 v00_1_2: 608819116724434622
+      farmer 1hwpn 001 32x32 v00_1_3: -8104493013248377815
+      farmer 1hwpn 001 32x32 v00_2: 1681262858012218306
+      farmer 1hwpn 001 32x32 v00_2_0: -1127729492478365109
+      farmer 1hwpn 001 32x32 v00_2_1: 7395164420352101184
+      farmer 1hwpn 001 32x32 v00_2_2: -7484971426187088254
+      farmer 1hwpn 001 32x32 v00_2_3: -2155205895265700633
+      farmer 1hwpn 001 32x32 v00_3: -8436566751196527789
+      farmer 1hwpn 001 32x32 v00_3_0: 8217009926364582826
+      farmer 1hwpn 001 32x32 v00_3_1: 6838719216150764495
+      farmer 1hwpn 001 32x32 v00_3_2: 2260578711104871118
+      farmer 1hwpn 001 32x32 v00_3_3: -3157433489508550521
+      farmer 1hwpn 001 32x32 v00_4: -4714615213591341379
+      farmer 1hwpn 001 32x32 v00_4_0: 6207149403878955031
+      farmer 1hwpn 001 32x32 v00_4_1: -9149907445088564194
+      farmer 1hwpn 001 32x32 v00_4_2: 7490088768791663366
+      farmer 1hwpn 001 32x32 v00_4_3: -3885071753390218467
+      farmer 1hwpn 001 32x32 v00_5: -1586251316284157963
+      farmer 1hwpn 001 32x32 v00_5_0: 8343100642701540861
+      farmer 1hwpn 001 32x32 v00_5_1: 973813802128253937
+      farmer 1hwpn 001 32x32 v00_5_2: 7300282227003370457
+      farmer 1hwpn 001 32x32 v00_5_3: -7301267392833580792
+      farmer 1hwpn 001 32x32 v00_6: -4611823880114245396
+      farmer 1hwpn 001 32x32 v00_6_0: -4307618273365460303
+      farmer 1hwpn 001 32x32 v00_6_1: 1800032071402364012
+      farmer 1hwpn 001 32x32 v00_6_2: -7955656732917956755
+      farmer 1hwpn 001 32x32 v00_6_3: 5630370906865583411
+      farmer 1hwpn 001 32x32 v00_7: -8268241264023920117
+      farmer 1hwpn 001 32x32 v00_7_0: -5476768814930267419
+      farmer 1hwpn 001 32x32 v00_7_1: 3500253065510395509
+      farmer 1hwpn 001 32x32 v00_7_2: 371316474240227454
+      farmer 1hwpn 001 32x32 v00_7_3: -6150276344459472119
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2267 @@
+fileFormatVersion: 2
+guid: 072c540ef15155c41a1d28790701b8c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9159154047949187092
+    second: muddy cave waterfall B v4_0
+  - first:
+      213: -432336389243351134
+    second: muddy cave waterfall B v4_1
+  - first:
+      213: 3633748728835216811
+    second: muddy cave waterfall B v4_2
+  - first:
+      213: 5114722330661300540
+    second: muddy cave waterfall B v4_3
+  - first:
+      213: -8550478106180753430
+    second: muddy cave waterfall B v4_4
+  - first:
+      213: -1295621482289822485
+    second: muddy cave waterfall B v4_5
+  - first:
+      213: 5696521425084095074
+    second: muddy cave waterfall B v4_6
+  - first:
+      213: 4828321357384794262
+    second: muddy cave waterfall B v4_7
+  - first:
+      213: 6860880889405007065
+    second: muddy cave waterfall B v4_8
+  - first:
+      213: -4377382156492155438
+    second: muddy cave waterfall B v4_9
+  - first:
+      213: 8202652915368642948
+    second: muddy cave waterfall B v4_10
+  - first:
+      213: 4479129249188151944
+    second: muddy cave waterfall B v4_0_0
+  - first:
+      213: -3612517182882976366
+    second: muddy cave waterfall B v4_1_0
+  - first:
+      213: 5507775406465695423
+    second: muddy cave waterfall B v4_2_0
+  - first:
+      213: -863629646645959017
+    second: muddy cave waterfall B v4_3_0
+  - first:
+      213: 1739039240750050322
+    second: muddy cave waterfall B v4_4_0
+  - first:
+      213: -2830082116825495799
+    second: muddy cave waterfall B v4_5_0
+  - first:
+      213: 710162286513686823
+    second: muddy cave waterfall B v4_6_0
+  - first:
+      213: 4804037427550089199
+    second: muddy cave waterfall B v4_7_0
+  - first:
+      213: 3723426118113210212
+    second: muddy cave waterfall B v4_0_1
+  - first:
+      213: 3139125794982082272
+    second: muddy cave waterfall B v4_1_1
+  - first:
+      213: 7530548951274961365
+    second: muddy cave waterfall B v4_2_1
+  - first:
+      213: -4212988399817105578
+    second: muddy cave waterfall B v4_3_1
+  - first:
+      213: 1441087020027858917
+    second: muddy cave waterfall B v4_4_1
+  - first:
+      213: 8624710171995637775
+    second: muddy cave waterfall B v4_5_1
+  - first:
+      213: -2030853230965801061
+    second: muddy cave waterfall B v4_6_1
+  - first:
+      213: 1398445066686281747
+    second: muddy cave waterfall B v4_7_1
+  - first:
+      213: 737875290762997773
+    second: muddy cave waterfall B v4_0_2
+  - first:
+      213: -4491167169480457020
+    second: muddy cave waterfall B v4_1_2
+  - first:
+      213: -1213343742168993469
+    second: muddy cave waterfall B v4_2_2
+  - first:
+      213: -9164900430063173139
+    second: muddy cave waterfall B v4_3_2
+  - first:
+      213: 5216930428389210694
+    second: muddy cave waterfall B v4_4_2
+  - first:
+      213: -225772829382955544
+    second: muddy cave waterfall B v4_5_2
+  - first:
+      213: 7623552314404069716
+    second: muddy cave waterfall B v4_6_2
+  - first:
+      213: -2837323307661175982
+    second: muddy cave waterfall B v4_7_2
+  - first:
+      213: -8060576698413759685
+    second: muddy cave waterfall B v4_0_3
+  - first:
+      213: 972856032071511813
+    second: muddy cave waterfall B v4_1_3
+  - first:
+      213: -4512746838752482484
+    second: muddy cave waterfall B v4_2_3
+  - first:
+      213: 4365008915260580129
+    second: muddy cave waterfall B v4_3_3
+  - first:
+      213: -7559111371552099492
+    second: muddy cave waterfall B v4_4_3
+  - first:
+      213: -4944900531798849189
+    second: muddy cave waterfall B v4_5_3
+  - first:
+      213: 476061915210746149
+    second: muddy cave waterfall B v4_6_3
+  - first:
+      213: 1914393163928263436
+    second: muddy cave waterfall B v4_7_3
+  - first:
+      213: -9182371673821914156
+    second: muddy cave waterfall B v4_0_4
+  - first:
+      213: 7538667456511008732
+    second: muddy cave waterfall B v4_1_4
+  - first:
+      213: 8947098052093986745
+    second: muddy cave waterfall B v4_2_4
+  - first:
+      213: 1013237319956992478
+    second: muddy cave waterfall B v4_3_4
+  - first:
+      213: 821814586593270827
+    second: muddy cave waterfall B v4_4_4
+  - first:
+      213: -4113481688356003133
+    second: muddy cave waterfall B v4_5_4
+  - first:
+      213: 319810026573499117
+    second: muddy cave waterfall B v4_6_4
+  - first:
+      213: -8575723257738361318
+    second: muddy cave waterfall B v4_7_4
+  - first:
+      213: 8126341197534087260
+    second: muddy cave waterfall B v4_0_5
+  - first:
+      213: -4329769300010345214
+    second: muddy cave waterfall B v4_1_5
+  - first:
+      213: 5523215988986574036
+    second: muddy cave waterfall B v4_2_5
+  - first:
+      213: -7681445493579503941
+    second: muddy cave waterfall B v4_3_5
+  - first:
+      213: 2957875083354008976
+    second: muddy cave waterfall B v4_4_5
+  - first:
+      213: -6419348893948757667
+    second: muddy cave waterfall B v4_5_5
+  - first:
+      213: 4154086952192152051
+    second: muddy cave waterfall B v4_6_5
+  - first:
+      213: -1586102165450245539
+    second: muddy cave waterfall B v4_7_5
+  - first:
+      213: 3939985716239857061
+    second: muddy cave waterfall B v4_0_6
+  - first:
+      213: 6223515405312327342
+    second: muddy cave waterfall B v4_1_6
+  - first:
+      213: 4073721324819516235
+    second: muddy cave waterfall B v4_2_6
+  - first:
+      213: 2673736950653531990
+    second: muddy cave waterfall B v4_3_6
+  - first:
+      213: 6816140168280306652
+    second: muddy cave waterfall B v4_4_6
+  - first:
+      213: 3096683508167498406
+    second: muddy cave waterfall B v4_5_6
+  - first:
+      213: 2691853136087741796
+    second: muddy cave waterfall B v4_6_6
+  - first:
+      213: -6792630886755917041
+    second: muddy cave waterfall B v4_7_6
+  - first:
+      213: 436960869139847291
+    second: muddy cave waterfall B v4_0_7
+  - first:
+      213: 4902168531247746424
+    second: muddy cave waterfall B v4_1_7
+  - first:
+      213: 6168474687942761686
+    second: muddy cave waterfall B v4_2_7
+  - first:
+      213: -9213658154725803860
+    second: muddy cave waterfall B v4_3_7
+  - first:
+      213: 375305313576848401
+    second: muddy cave waterfall B v4_4_7
+  - first:
+      213: -8101818294932718293
+    second: muddy cave waterfall B v4_5_7
+  - first:
+      213: -7941237032234307480
+    second: muddy cave waterfall B v4_6_7
+  - first:
+      213: 3734126915464294059
+    second: muddy cave waterfall B v4_7_7
+  - first:
+      213: -7005498140196282903
+    second: muddy cave waterfall B v4_0_8
+  - first:
+      213: -1671228318409244391
+    second: muddy cave waterfall B v4_1_8
+  - first:
+      213: 6540275328285259787
+    second: muddy cave waterfall B v4_2_8
+  - first:
+      213: 7779336368578735755
+    second: muddy cave waterfall B v4_3_8
+  - first:
+      213: -3330766945475572227
+    second: muddy cave waterfall B v4_4_8
+  - first:
+      213: -4536518697448976516
+    second: muddy cave waterfall B v4_5_8
+  - first:
+      213: 1591804630920422734
+    second: muddy cave waterfall B v4_6_8
+  - first:
+      213: 7291344135842823392
+    second: muddy cave waterfall B v4_7_8
+  - first:
+      213: -4334455369691239220
+    second: muddy cave waterfall B v4_0_9
+  - first:
+      213: 6630654590928793465
+    second: muddy cave waterfall B v4_1_9
+  - first:
+      213: 5814274731238005521
+    second: muddy cave waterfall B v4_2_9
+  - first:
+      213: -2764333390319570685
+    second: muddy cave waterfall B v4_3_9
+  - first:
+      213: -2365737519789630631
+    second: muddy cave waterfall B v4_4_9
+  - first:
+      213: 7156474083657112811
+    second: muddy cave waterfall B v4_5_9
+  - first:
+      213: -5758424558514622
+    second: muddy cave waterfall B v4_6_9
+  - first:
+      213: 3234079470567570370
+    second: muddy cave waterfall B v4_7_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8820ce81250192e30800000000000000
+      internalID: 4479129249188151944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29de34913c2cdddc0800000000000000
+      internalID: -3612517182882976366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe350dfc8c8f6c40800000000000000
+      internalID: 5507775406465695423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796eb2e7965c304f0800000000000000
+      internalID: -863629646645959017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c2f53c9fe422810800000000000000
+      internalID: 1739039240750050322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074e652f4789b8d0800000000000000
+      internalID: -2830082116825495799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729078446d00bd900800000000000000
+      internalID: 710162286513686823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefedc4669e5ba240800000000000000
+      internalID: 4804037427550089199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fac8da3544ca330800000000000000
+      internalID: 3723426118113210212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e63c2b574a609b20800000000000000
+      internalID: 3139125794982082272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d93f646f52e18860800000000000000
+      internalID: 7530548951274961365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5f0a2f557885c0800000000000000
+      internalID: -4212988399817105578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efcf2f6205cff310800000000000000
+      internalID: 1441087020027858917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088f7ca43021b770800000000000000
+      internalID: 8624710171995637775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f34511fb5f0d3e0800000000000000
+      internalID: -2030853230965801061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318bbbdf066486310800000000000000
+      internalID: 1398445066686281747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d007772eaa57d3a00800000000000000
+      internalID: 737875290762997773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4883c214b2ca1c0800000000000000
+      internalID: -4491167169480457020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341f2998b46592fe0800000000000000
+      internalID: -1213343742168993469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18248dd9bbfc080800000000000000
+      internalID: -9164900430063173139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab01a8592466840800000000000000
+      internalID: 5216930428389210694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eda1b0dec4eddcf0800000000000000
+      internalID: -225772829382955544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45169aa407c4cc960800000000000000
+      internalID: 7623552314404069716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2535be50c7dcf98d0800000000000000
+      internalID: -2837323307661175982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c1461334132090800000000000000
+      internalID: -8060576698413759685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe7312867408d00800000000000000
+      internalID: 972856032071511813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b24e2e8a08f51c0800000000000000
+      internalID: -4512746838752482484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121258b4b70a39c30800000000000000
+      internalID: 4365008915260580129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c537509e144a81790800000000000000
+      internalID: -7559111371552099492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594d706a2f206bb0800000000000000
+      internalID: -4944900531798849189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298a332acf4b9600800000000000000
+      internalID: 476061915210746149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b5160907a419a10800000000000000
+      internalID: 1914393163928263436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db5c3aec99a19080800000000000000
+      internalID: -9182371673821914156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd2213c1abe9860800000000000000
+      internalID: 7538667456511008732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c6ad464a7a2c70800000000000000
+      internalID: 8947098052093986745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1943169fdbf0e00800000000000000
+      internalID: 1013237319956992478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c5029230ca76b00800000000000000
+      internalID: 821814586593270827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c26777d23af9e6c0800000000000000
+      internalID: -4113481688356003133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea85855681307400800000000000000
+      internalID: 319810026573499117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16037a1229ecf880800000000000000
+      internalID: -8575723257738361318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5844a2934096c070800000000000000
+      internalID: 8126341197534087260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ddd7103c199e3c0800000000000000
+      internalID: -4329769300010345214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d47d41cda766ac40800000000000000
+      internalID: 5523215988986574036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb62ba98506066590800000000000000
+      internalID: -7681445493579503941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d6b4187bb7c0920800000000000000
+      internalID: 2957875083354008976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5933ee2134e9e6a0800000000000000
+      internalID: -6419348893948757667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f19f7fd21846a930800000000000000
+      internalID: 4154086952192152051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3cdaeb780df9e0800000000000000
+      internalID: -1586102165450245539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f69c4224ada630800000000000000
+      internalID: 3939985716239857061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeffcb994e5e5650800000000000000
+      internalID: 6223515405312327342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b0dcf16f3c88830800000000000000
+      internalID: 4073721324819516235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573a8e27950b1520800000000000000
+      internalID: 2673736950653531990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd37e9d9e5bc79e50800000000000000
+      internalID: 6816140168280306652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa52266e31a9fa20800000000000000
+      internalID: 3096683508167498406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465f70c4a226b5520800000000000000
+      internalID: 2691853136087741796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f032198823abbb1a0800000000000000
+      internalID: -6792630886755917041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7893d96895601600800000000000000
+      internalID: 436960869139847291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dce1e6e40080440800000000000000
+      internalID: 4902168531247746424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc11d4fb03da9550800000000000000
+      internalID: 6168474687942761686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8ffad69b2822080800000000000000
+      internalID: -9213658154725803860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c801ab13a553500800000000000000
+      internalID: 375305313576848401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d36cf9f2f809f80800000000000000
+      internalID: -8101818294932718293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8603f706efe0bc190800000000000000
+      internalID: -7941237032234307480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae697635a842d330800000000000000
+      internalID: 3734126915464294059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd0f6ee8877ce90800000000000000
+      internalID: -7005498140196282903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c4aee2ba9ec8e0800000000000000
+      internalID: -1671228318409244391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b1bb52c9b3ca50800000000000000
+      internalID: 6540275328285259787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ea965e531c5fb60800000000000000
+      internalID: 7779336368578735755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdc0593c1db6c1d0800000000000000
+      internalID: -3330766945475572227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc2a9b74c0b01c0800000000000000
+      internalID: -4536518697448976516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4565d9c0e9371610800000000000000
+      internalID: 1591804630920422734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf9004cde003560800000000000000
+      internalID: 7291344135842823392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce4c26ecbe8d3c0800000000000000
+      internalID: -4334455369691239220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97faf904831d40c50800000000000000
+      internalID: 6630654590928793465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b98fd001470b050800000000000000
+      internalID: 5814274731238005521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30130457d6d13a9d0800000000000000
+      internalID: -2764333390319570685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b102d82463b2fd0800000000000000
+      internalID: -2365737519789630631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becdba03347e05360800000000000000
+      internalID: 7156474083657112811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e49bd4eba8beff0800000000000000
+      internalID: -5758424558514622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muddy cave waterfall B v4_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb3092c422c1ec20800000000000000
+      internalID: 3234079470567570370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      muddy cave waterfall B v4_0: -9159154047949187092
+      muddy cave waterfall B v4_0_0: 4479129249188151944
+      muddy cave waterfall B v4_0_1: 3723426118113210212
+      muddy cave waterfall B v4_0_2: 737875290762997773
+      muddy cave waterfall B v4_0_3: -8060576698413759685
+      muddy cave waterfall B v4_0_4: -9182371673821914156
+      muddy cave waterfall B v4_0_5: 8126341197534087260
+      muddy cave waterfall B v4_0_6: 3939985716239857061
+      muddy cave waterfall B v4_0_7: 436960869139847291
+      muddy cave waterfall B v4_0_8: -7005498140196282903
+      muddy cave waterfall B v4_0_9: -4334455369691239220
+      muddy cave waterfall B v4_1: -432336389243351134
+      muddy cave waterfall B v4_10: 8202652915368642948
+      muddy cave waterfall B v4_1_0: -3612517182882976366
+      muddy cave waterfall B v4_1_1: 3139125794982082272
+      muddy cave waterfall B v4_1_2: -4491167169480457020
+      muddy cave waterfall B v4_1_3: 972856032071511813
+      muddy cave waterfall B v4_1_4: 7538667456511008732
+      muddy cave waterfall B v4_1_5: -4329769300010345214
+      muddy cave waterfall B v4_1_6: 6223515405312327342
+      muddy cave waterfall B v4_1_7: 4902168531247746424
+      muddy cave waterfall B v4_1_8: -1671228318409244391
+      muddy cave waterfall B v4_1_9: 6630654590928793465
+      muddy cave waterfall B v4_2: 3633748728835216811
+      muddy cave waterfall B v4_2_0: 5507775406465695423
+      muddy cave waterfall B v4_2_1: 7530548951274961365
+      muddy cave waterfall B v4_2_2: -1213343742168993469
+      muddy cave waterfall B v4_2_3: -4512746838752482484
+      muddy cave waterfall B v4_2_4: 8947098052093986745
+      muddy cave waterfall B v4_2_5: 5523215988986574036
+      muddy cave waterfall B v4_2_6: 4073721324819516235
+      muddy cave waterfall B v4_2_7: 6168474687942761686
+      muddy cave waterfall B v4_2_8: 6540275328285259787
+      muddy cave waterfall B v4_2_9: 5814274731238005521
+      muddy cave waterfall B v4_3: 5114722330661300540
+      muddy cave waterfall B v4_3_0: -863629646645959017
+      muddy cave waterfall B v4_3_1: -4212988399817105578
+      muddy cave waterfall B v4_3_2: -9164900430063173139
+      muddy cave waterfall B v4_3_3: 4365008915260580129
+      muddy cave waterfall B v4_3_4: 1013237319956992478
+      muddy cave waterfall B v4_3_5: -7681445493579503941
+      muddy cave waterfall B v4_3_6: 2673736950653531990
+      muddy cave waterfall B v4_3_7: -9213658154725803860
+      muddy cave waterfall B v4_3_8: 7779336368578735755
+      muddy cave waterfall B v4_3_9: -2764333390319570685
+      muddy cave waterfall B v4_4: -8550478106180753430
+      muddy cave waterfall B v4_4_0: 1739039240750050322
+      muddy cave waterfall B v4_4_1: 1441087020027858917
+      muddy cave waterfall B v4_4_2: 5216930428389210694
+      muddy cave waterfall B v4_4_3: -7559111371552099492
+      muddy cave waterfall B v4_4_4: 821814586593270827
+      muddy cave waterfall B v4_4_5: 2957875083354008976
+      muddy cave waterfall B v4_4_6: 6816140168280306652
+      muddy cave waterfall B v4_4_7: 375305313576848401
+      muddy cave waterfall B v4_4_8: -3330766945475572227
+      muddy cave waterfall B v4_4_9: -2365737519789630631
+      muddy cave waterfall B v4_5: -1295621482289822485
+      muddy cave waterfall B v4_5_0: -2830082116825495799
+      muddy cave waterfall B v4_5_1: 8624710171995637775
+      muddy cave waterfall B v4_5_2: -225772829382955544
+      muddy cave waterfall B v4_5_3: -4944900531798849189
+      muddy cave waterfall B v4_5_4: -4113481688356003133
+      muddy cave waterfall B v4_5_5: -6419348893948757667
+      muddy cave waterfall B v4_5_6: 3096683508167498406
+      muddy cave waterfall B v4_5_7: -8101818294932718293
+      muddy cave waterfall B v4_5_8: -4536518697448976516
+      muddy cave waterfall B v4_5_9: 7156474083657112811
+      muddy cave waterfall B v4_6: 5696521425084095074
+      muddy cave waterfall B v4_6_0: 710162286513686823
+      muddy cave waterfall B v4_6_1: -2030853230965801061
+      muddy cave waterfall B v4_6_2: 7623552314404069716
+      muddy cave waterfall B v4_6_3: 476061915210746149
+      muddy cave waterfall B v4_6_4: 319810026573499117
+      muddy cave waterfall B v4_6_5: 4154086952192152051
+      muddy cave waterfall B v4_6_6: 2691853136087741796
+      muddy cave waterfall B v4_6_7: -7941237032234307480
+      muddy cave waterfall B v4_6_8: 1591804630920422734
+      muddy cave waterfall B v4_6_9: -5758424558514622
+      muddy cave waterfall B v4_7: 4828321357384794262
+      muddy cave waterfall B v4_7_0: 4804037427550089199
+      muddy cave waterfall B v4_7_1: 1398445066686281747
+      muddy cave waterfall B v4_7_2: -2837323307661175982
+      muddy cave waterfall B v4_7_3: 1914393163928263436
+      muddy cave waterfall B v4_7_4: -8575723257738361318
+      muddy cave waterfall B v4_7_5: -1586102165450245539
+      muddy cave waterfall B v4_7_6: -6792630886755917041
+      muddy cave waterfall B v4_7_7: 3734126915464294059
+      muddy cave waterfall B v4_7_8: 7291344135842823392
+      muddy cave waterfall B v4_7_9: 3234079470567570370
+      muddy cave waterfall B v4_8: 6860880889405007065
+      muddy cave waterfall B v4_9: -4377382156492155438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

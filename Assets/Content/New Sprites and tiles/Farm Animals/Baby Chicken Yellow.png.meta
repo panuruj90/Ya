@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 285dd47097a480648811347c3ec258a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7202626363648530119
+    second: Baby Chicken Yellow_0
+  - first:
+      213: 662478330296687531
+    second: Baby Chicken Yellow_1
+  - first:
+      213: 101150693199084288
+    second: Baby Chicken Yellow_2
+  - first:
+      213: -8714301849626275311
+    second: Baby Chicken Yellow_3
+  - first:
+      213: 4873490279921441024
+    second: Baby Chicken Yellow_4
+  - first:
+      213: 8622362465478819303
+    second: Baby Chicken Yellow_5
+  - first:
+      213: -5905585162106821737
+    second: Baby Chicken Yellow_6
+  - first:
+      213: 5218664118814497114
+    second: Baby Chicken Yellow_7
+  - first:
+      213: 3809271013116874632
+    second: Baby Chicken Yellow_8
+  - first:
+      213: -6871483637903430588
+    second: Baby Chicken Yellow_9
+  - first:
+      213: -5540273393981584980
+    second: Baby Chicken Yellow_10
+  - first:
+      213: -8110096045272518879
+    second: Baby Chicken Yellow_11
+  - first:
+      213: -7231883143859750621
+    second: Baby Chicken Yellow_0_0
+  - first:
+      213: 695058319118041494
+    second: Baby Chicken Yellow_1_0
+  - first:
+      213: -9213938829045556405
+    second: Baby Chicken Yellow_2_0
+  - first:
+      213: -6141383164450270896
+    second: Baby Chicken Yellow_3_0
+  - first:
+      213: -3612157988998201247
+    second: Baby Chicken Yellow_0_1
+  - first:
+      213: 2125297311744305786
+    second: Baby Chicken Yellow_1_1
+  - first:
+      213: 5355185830613248651
+    second: Baby Chicken Yellow_2_1
+  - first:
+      213: -8542614280648601684
+    second: Baby Chicken Yellow_3_1
+  - first:
+      213: 4460225115194474006
+    second: Baby Chicken Yellow_0_2
+  - first:
+      213: 9147243346764171956
+    second: Baby Chicken Yellow_1_2
+  - first:
+      213: -3261209737557142885
+    second: Baby Chicken Yellow_2_2
+  - first:
+      213: 5119011370281497020
+    second: Baby Chicken Yellow_3_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ba19c89033ab90800000000000000
+      internalID: -7231883143859750621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910631dbd755a900800000000000000
+      internalID: 695058319118041494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b9f88d373812080800000000000000
+      internalID: -9213938829045556405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0519065ec8c65caa0800000000000000
+      internalID: -6141383164450270896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604c2172790fddc0800000000000000
+      internalID: -3612157988998201247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aac9c05a29e7d10800000000000000
+      internalID: 2125297311744305786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a68e3d321715a40800000000000000
+      internalID: 5355185830613248651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafc2cc8299827980800000000000000
+      internalID: -8542614280648601684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e31796c17e5ed30800000000000000
+      internalID: 4460225115194474006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba0fe51c5981fe70800000000000000
+      internalID: 9147243346764171956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b929cd6b50bddb2d0800000000000000
+      internalID: -3261209737557142885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Chicken Yellow_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb170d638b16a0740800000000000000
+      internalID: 5119011370281497020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baby Chicken Yellow_0: -7202626363648530119
+      Baby Chicken Yellow_0_0: -7231883143859750621
+      Baby Chicken Yellow_0_1: -3612157988998201247
+      Baby Chicken Yellow_0_2: 4460225115194474006
+      Baby Chicken Yellow_1: 662478330296687531
+      Baby Chicken Yellow_10: -5540273393981584980
+      Baby Chicken Yellow_11: -8110096045272518879
+      Baby Chicken Yellow_1_0: 695058319118041494
+      Baby Chicken Yellow_1_1: 2125297311744305786
+      Baby Chicken Yellow_1_2: 9147243346764171956
+      Baby Chicken Yellow_2: 101150693199084288
+      Baby Chicken Yellow_2_0: -9213938829045556405
+      Baby Chicken Yellow_2_1: 5355185830613248651
+      Baby Chicken Yellow_2_2: -3261209737557142885
+      Baby Chicken Yellow_3: -8714301849626275311
+      Baby Chicken Yellow_3_0: -6141383164450270896
+      Baby Chicken Yellow_3_1: -8542614280648601684
+      Baby Chicken Yellow_3_2: 5119011370281497020
+      Baby Chicken Yellow_4: 4873490279921441024
+      Baby Chicken Yellow_5: 8622362465478819303
+      Baby Chicken Yellow_6: -5905585162106821737
+      Baby Chicken Yellow_7: 5218664118814497114
+      Baby Chicken Yellow_8: 3809271013116874632
+      Baby Chicken Yellow_9: -6871483637903430588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

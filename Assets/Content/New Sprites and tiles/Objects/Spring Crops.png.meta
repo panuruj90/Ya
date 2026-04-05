@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: 2536da0e884248a499d6d972f64e3d16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8369948372191450990
+    second: Spring Crops_0
+  - first:
+      213: -3402868906910896487
+    second: Spring Crops_1
+  - first:
+      213: 7953443401717196921
+    second: Spring Crops_2
+  - first:
+      213: 240733362411572873
+    second: Spring Crops_3
+  - first:
+      213: 1734387795819554390
+    second: Spring Crops_4
+  - first:
+      213: 8578180459406042070
+    second: Spring Crops_5
+  - first:
+      213: 3706471016571915744
+    second: Spring Crops_6
+  - first:
+      213: 2301922973543145194
+    second: Spring Crops_7
+  - first:
+      213: -1034690453324800654
+    second: Spring Crops_8
+  - first:
+      213: 330651644575631463
+    second: Spring Crops_9
+  - first:
+      213: -2399177842247141646
+    second: Spring Crops_10
+  - first:
+      213: 4209240044320245080
+    second: Spring Crops_11
+  - first:
+      213: -8677211718366676707
+    second: Spring Crops_12
+  - first:
+      213: 5186682900284683890
+    second: Spring Crops_13
+  - first:
+      213: -215653223752782615
+    second: Spring Crops_14
+  - first:
+      213: 3289653190777089658
+    second: Spring Crops_15
+  - first:
+      213: -5066668921399660160
+    second: Spring Crops_16
+  - first:
+      213: 2868446355547618523
+    second: Spring Crops_17
+  - first:
+      213: -317592646122885040
+    second: Spring Crops_18
+  - first:
+      213: 4861662748524225573
+    second: Spring Crops_19
+  - first:
+      213: -6289053032045062706
+    second: Spring Crops_20
+  - first:
+      213: 2484816382080541559
+    second: Spring Crops_21
+  - first:
+      213: -134654057516976897
+    second: Spring Crops_22
+  - first:
+      213: 4369838757112454489
+    second: Spring Crops_23
+  - first:
+      213: 3637970704561575544
+    second: Spring Crops_24
+  - first:
+      213: 4518220018301987133
+    second: Spring Crops_25
+  - first:
+      213: -215264509091159299
+    second: Spring Crops_26
+  - first:
+      213: -6706443759888266369
+    second: Spring Crops_27
+  - first:
+      213: 3367870417585019489
+    second: Spring Crops_28
+  - first:
+      213: 2109489747490457824
+    second: Spring Crops_29
+  - first:
+      213: 7952700809700035530
+    second: Spring Crops_30
+  - first:
+      213: 2303892717736303439
+    second: Spring Crops_31
+  - first:
+      213: -5752873257389657301
+    second: Spring Crops_32
+  - first:
+      213: -8286018175113047878
+    second: Spring Crops_33
+  - first:
+      213: -4121517270082971212
+    second: Spring Crops_34
+  - first:
+      213: -1800126058511640119
+    second: Spring Crops_35
+  - first:
+      213: -1957658871821922118
+    second: Spring Crops_36
+  - first:
+      213: -551511011614809637
+    second: Spring Crops_37
+  - first:
+      213: 1942767228105140428
+    second: Spring Crops_38
+  - first:
+      213: 8197133288706426242
+    second: Spring Crops_39
+  - first:
+      213: 8523965287709476415
+    second: Spring Crops_40
+  - first:
+      213: 8849037320410730604
+    second: Spring Crops_41
+  - first:
+      213: -2004733081760871359
+    second: Spring Crops_42
+  - first:
+      213: 7970753316438003428
+    second: Spring Crops_43
+  - first:
+      213: 4748092831001568428
+    second: Spring Crops_44
+  - first:
+      213: -1142901117228979249
+    second: Spring Crops_45
+  - first:
+      213: 4206968556728965966
+    second: Spring Crops_46
+  - first:
+      213: 8843743897560898563
+    second: Spring Crops_47
+  - first:
+      213: -7830120500774409351
+    second: Spring Crops_48
+  - first:
+      213: 6842404889414440947
+    second: Spring Crops_49
+  - first:
+      213: 851531240181107305
+    second: Spring Crops_50
+  - first:
+      213: -8582542756511483061
+    second: Spring Crops_51
+  - first:
+      213: -7349208758757753986
+    second: Spring Crops_0_0
+  - first:
+      213: 1427302101982649974
+    second: Spring Crops_1_0
+  - first:
+      213: 4867049553186584184
+    second: Spring Crops_2_0
+  - first:
+      213: -2835853840750940187
+    second: Spring Crops_3_0
+  - first:
+      213: -1053872488058717802
+    second: Spring Crops_4_0
+  - first:
+      213: -7819449694820697516
+    second: Spring Crops_5_0
+  - first:
+      213: -1050599890445006686
+    second: Spring Crops_6_0
+  - first:
+      213: -7233486620643055751
+    second: Spring Crops_7_0
+  - first:
+      213: -140891450625989158
+    second: Spring Crops_8_0
+  - first:
+      213: 2293002018002322533
+    second: Spring Crops_9_0
+  - first:
+      213: -7487276989248211559
+    second: Spring Crops_10_0
+  - first:
+      213: 7456534795723297948
+    second: Spring Crops_11_0
+  - first:
+      213: 1604774810024362685
+    second: Spring Crops_12_0
+  - first:
+      213: -9217260388852188139
+    second: Spring Crops_13_0
+  - first:
+      213: -1033490533319142048
+    second: Spring Crops_0_1
+  - first:
+      213: -8638260517888962695
+    second: Spring Crops_1_1
+  - first:
+      213: -8545472714639316362
+    second: Spring Crops_2_1
+  - first:
+      213: -5674707544916923231
+    second: Spring Crops_3_1
+  - first:
+      213: 7940608562958885857
+    second: Spring Crops_4_1
+  - first:
+      213: 7603696398340565801
+    second: Spring Crops_5_1
+  - first:
+      213: -1701725627027068417
+    second: Spring Crops_6_1
+  - first:
+      213: -3589710185854173972
+    second: Spring Crops_7_1
+  - first:
+      213: -8586279029098022048
+    second: Spring Crops_8_1
+  - first:
+      213: -6642772004084338045
+    second: Spring Crops_9_1
+  - first:
+      213: 7600756980955623700
+    second: Spring Crops_10_1
+  - first:
+      213: 5835675362459014532
+    second: Spring Crops_11_1
+  - first:
+      213: -8528686496053808680
+    second: Spring Crops_12_1
+  - first:
+      213: 1981548772326309764
+    second: Spring Crops_13_1
+  - first:
+      213: -3565065400931431510
+    second: Spring Crops_0_2
+  - first:
+      213: -5620952209949491216
+    second: Spring Crops_1_2
+  - first:
+      213: 1383593258135065219
+    second: Spring Crops_2_2
+  - first:
+      213: 6855977983590414939
+    second: Spring Crops_3_2
+  - first:
+      213: 1867024159664337863
+    second: Spring Crops_4_2
+  - first:
+      213: -5467082488870526718
+    second: Spring Crops_5_2
+  - first:
+      213: -1645850544087814893
+    second: Spring Crops_6_2
+  - first:
+      213: -5672473338899793856
+    second: Spring Crops_7_2
+  - first:
+      213: -8533036974016316328
+    second: Spring Crops_8_2
+  - first:
+      213: -4498673367581212881
+    second: Spring Crops_9_2
+  - first:
+      213: 2293837141365990157
+    second: Spring Crops_10_2
+  - first:
+      213: 1820120745615269055
+    second: Spring Crops_11_2
+  - first:
+      213: 5948961943852477579
+    second: Spring Crops_12_2
+  - first:
+      213: 5251500065312052410
+    second: Spring Crops_13_2
+  - first:
+      213: 8270184866706780843
+    second: Spring Crops_0_3
+  - first:
+      213: -6717803544518293627
+    second: Spring Crops_1_3
+  - first:
+      213: 6426152649400009679
+    second: Spring Crops_2_3
+  - first:
+      213: -6850201819687315112
+    second: Spring Crops_3_3
+  - first:
+      213: -1372241872851461520
+    second: Spring Crops_4_3
+  - first:
+      213: -5603178562238106568
+    second: Spring Crops_5_3
+  - first:
+      213: -3031019547547835529
+    second: Spring Crops_6_3
+  - first:
+      213: 8265323037008947214
+    second: Spring Crops_7_3
+  - first:
+      213: 5264412823688066971
+    second: Spring Crops_8_3
+  - first:
+      213: -4395757387986449770
+    second: Spring Crops_9_3
+  - first:
+      213: 438719015676937545
+    second: Spring Crops_10_3
+  - first:
+      213: -1818956748798584085
+    second: Spring Crops_11_3
+  - first:
+      213: -2742870793451881579
+    second: Spring Crops_12_3
+  - first:
+      213: 7145318131249900043
+    second: Spring Crops_13_3
+  - first:
+      213: 5371719759650163244
+    second: Spring Crops_0_4
+  - first:
+      213: -8438509939428542318
+    second: Spring Crops_1_4
+  - first:
+      213: -8512272635755169599
+    second: Spring Crops_2_4
+  - first:
+      213: -116712052053730545
+    second: Spring Crops_3_4
+  - first:
+      213: 4349752612191582206
+    second: Spring Crops_4_4
+  - first:
+      213: 3298821931361356154
+    second: Spring Crops_5_4
+  - first:
+      213: -8285915384141004820
+    second: Spring Crops_6_4
+  - first:
+      213: 7004605668787559093
+    second: Spring Crops_7_4
+  - first:
+      213: -4064325261383474878
+    second: Spring Crops_8_4
+  - first:
+      213: 3261998569479570530
+    second: Spring Crops_9_4
+  - first:
+      213: 4923907500274253953
+    second: Spring Crops_10_4
+  - first:
+      213: -1679692561826278771
+    second: Spring Crops_11_4
+  - first:
+      213: -4783075378616230583
+    second: Spring Crops_12_4
+  - first:
+      213: -29364320057575406
+    second: Spring Crops_13_4
+  - first:
+      213: 4915528333752656519
+    second: Spring Crops_0_5
+  - first:
+      213: -3273041919532488884
+    second: Spring Crops_1_5
+  - first:
+      213: 2010891741073964500
+    second: Spring Crops_2_5
+  - first:
+      213: -8655836881873080895
+    second: Spring Crops_3_5
+  - first:
+      213: -7623693894020171520
+    second: Spring Crops_4_5
+  - first:
+      213: 6036123754205125705
+    second: Spring Crops_5_5
+  - first:
+      213: 7838113727246827240
+    second: Spring Crops_6_5
+  - first:
+      213: -6072160261833791350
+    second: Spring Crops_7_5
+  - first:
+      213: 8552005886993535100
+    second: Spring Crops_8_5
+  - first:
+      213: -7164289109010911133
+    second: Spring Crops_9_5
+  - first:
+      213: -6637506062220118381
+    second: Spring Crops_10_5
+  - first:
+      213: 5593323257135505680
+    second: Spring Crops_11_5
+  - first:
+      213: 4024011098967741633
+    second: Spring Crops_12_5
+  - first:
+      213: -1454956219024427426
+    second: Spring Crops_13_5
+  - first:
+      213: -1970496073856655005
+    second: Spring Crops_0_6
+  - first:
+      213: -7719736698107095824
+    second: Spring Crops_1_6
+  - first:
+      213: -1358985856079039103
+    second: Spring Crops_2_6
+  - first:
+      213: -6830247245566418393
+    second: Spring Crops_3_6
+  - first:
+      213: -880375473406932069
+    second: Spring Crops_4_6
+  - first:
+      213: 8647411075207906772
+    second: Spring Crops_5_6
+  - first:
+      213: -8940599989480847091
+    second: Spring Crops_6_6
+  - first:
+      213: -6793107415757185191
+    second: Spring Crops_7_6
+  - first:
+      213: -3664150019244904987
+    second: Spring Crops_8_6
+  - first:
+      213: 1765461330545802285
+    second: Spring Crops_9_6
+  - first:
+      213: -8760792486447037720
+    second: Spring Crops_10_6
+  - first:
+      213: -3707406952110612124
+    second: Spring Crops_11_6
+  - first:
+      213: 5583164572930945172
+    second: Spring Crops_12_6
+  - first:
+      213: -4817368559363962183
+    second: Spring Crops_13_6
+  - first:
+      213: -4825097594636660878
+    second: Spring Crops_0_7
+  - first:
+      213: -672442950406868342
+    second: Spring Crops_1_7
+  - first:
+      213: -9147323065005216729
+    second: Spring Crops_2_7
+  - first:
+      213: -1232155876286867912
+    second: Spring Crops_3_7
+  - first:
+      213: 3535021198365939399
+    second: Spring Crops_4_7
+  - first:
+      213: 1300703788071298938
+    second: Spring Crops_5_7
+  - first:
+      213: -5992387977076683951
+    second: Spring Crops_6_7
+  - first:
+      213: 3340807764128056211
+    second: Spring Crops_7_7
+  - first:
+      213: 656459057082400378
+    second: Spring Crops_8_7
+  - first:
+      213: -5617007379173509303
+    second: Spring Crops_9_7
+  - first:
+      213: -1716306145796414609
+    second: Spring Crops_10_7
+  - first:
+      213: 2222045364738421193
+    second: Spring Crops_11_7
+  - first:
+      213: 6878328933616407457
+    second: Spring Crops_12_7
+  - first:
+      213: 4965471366872885085
+    second: Spring Crops_13_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spring Crops_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bfd0a529d520a90800000000000000
+      internalID: -7349208758757753986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e18d713bbcec310800000000000000
+      internalID: 1427302101982649974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f8e928cb3b8340800000000000000
+      internalID: 4867049553186584184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efec13f4f505a8d0800000000000000
+      internalID: -2835853840750940187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699f3b64e84ef51f0800000000000000
+      internalID: -1053872488058717802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45afc298eebbb7390800000000000000
+      internalID: -7819449694820697516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a806f847f48b61f0800000000000000
+      internalID: -1050599890445006686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a7014e3e7d9b90800000000000000
+      internalID: -7233486620643055751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad56c8dd8f37b0ef0800000000000000
+      internalID: -140891450625989158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5644840cf2162df10800000000000000
+      internalID: 2293002018002322533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99577e06f39d71890800000000000000
+      internalID: -7487276989248211559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c945d6ae3eeea7760800000000000000
+      internalID: 7456534795723297948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db24fffef2e454610800000000000000
+      internalID: 1604774810024362685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cbf20f286b51080800000000000000
+      internalID: -9217260388852188139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06598cae5dd48a1f0800000000000000
+      internalID: -1033490533319142048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f42f193dbbe1880800000000000000
+      internalID: -8638260517888962695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a612687d1686980800000000000000
+      internalID: -8545472714639316362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac6ff4cd836f31b0800000000000000
+      internalID: -5674707544916923231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e697ba65b23e60800000000000000
+      internalID: 7940608562958885857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba1039691c58960800000000000000
+      internalID: 7603696398340565801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96fdfee814268e0800000000000000
+      internalID: -1701725627027068417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec7f85ea99ce2ec0800000000000000
+      internalID: -3589710185854173972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bf93017b867d880800000000000000
+      internalID: -8586279029098022048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382b4a4ae0220d3a0800000000000000
+      internalID: -6642772004084338045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4113ee124305b7960800000000000000
+      internalID: 7600756980955623700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4855edbc2db7cf050800000000000000
+      internalID: 5835675362459014532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1ba0a91d404a980800000000000000
+      internalID: -8528686496053808680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ffe971c10ef7b10800000000000000
+      internalID: 1981548772326309764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab427808e7568ec0800000000000000
+      internalID: -3565065400931431510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff73820fbd5ef1b0800000000000000
+      internalID: -5620952209949491216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38214c8dcb2833310800000000000000
+      internalID: 1383593258135065219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a3ecbc6a3552f50800000000000000
+      internalID: 6855977983590414939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c37ddfc49009e910800000000000000
+      internalID: 1867024159664337863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2012d1531750124b0800000000000000
+      internalID: -5467082488870526718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d234676a3c829e0800000000000000
+      internalID: -1645850544087814893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048f0056d835741b0800000000000000
+      internalID: -5672473338899793856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cbb740510949980800000000000000
+      internalID: -8533036974016316328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fbfcc38608191c0800000000000000
+      internalID: -4498673367581212881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a7bf0ab855df10800000000000000
+      internalID: 2293837141365990157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc97babc2e524910800000000000000
+      internalID: 1820120745615269055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce4a57e55fe8250800000000000000
+      internalID: 5948961943852477579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab49dda5c7311e840800000000000000
+      internalID: 5251500065312052410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba27ed6a15995c270800000000000000
+      internalID: 8270184866706780843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587802ac44195c2a0800000000000000
+      internalID: -6717803544518293627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc34ce399c74e2950800000000000000
+      internalID: 6426152649400009679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8599dc92db13fe0a0800000000000000
+      internalID: -6850201819687315112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a95ce7941d4fce0800000000000000
+      internalID: -1372241872851461520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834b6b8d8c28d32b0800000000000000
+      internalID: -5603178562238106568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7736521d7c7afe5d0800000000000000
+      internalID: -3031019547547835529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0865c6b28354b270800000000000000
+      internalID: 8265323037008947214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9730f23293fe0940800000000000000
+      internalID: 5264412823688066971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ac44202f12ff2c0800000000000000
+      internalID: -4395757387986449770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94502adce94a61600800000000000000
+      internalID: 438719015676937545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea9f066974c1c6e0800000000000000
+      internalID: -1818956748798584085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bb183bb8d5fe9d0800000000000000
+      internalID: -2742870793451881579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aee4c9bf4492360800000000000000
+      internalID: 7145318131249900043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a05ea29ae2c8a40800000000000000
+      internalID: 5371719759650163244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29832c25be364ea80800000000000000
+      internalID: -8438509939428542318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f88243255ed980800000000000000
+      internalID: -8512272635755169599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b945cc10b516ef0800000000000000
+      internalID: -116712052053730545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7b18e64fc6d5c30800000000000000
+      internalID: 4349752612191582206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79cf049115c7cd20800000000000000
+      internalID: 3298821931361356154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefb459dbd3820d80800000000000000
+      internalID: -8285915384141004820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba15c76ebb553160800000000000000
+      internalID: 7004605668787559093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241679f55bd9897c0800000000000000
+      internalID: -4064325261383474878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26489a78a62f44d20800000000000000
+      internalID: 3261998569479570530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1808ab498cb355440800000000000000
+      internalID: 4923907500274253953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d829a70b38880b8e0800000000000000
+      internalID: -1679692561826278771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d99a3f84a1f9db0800000000000000
+      internalID: -4783075378616230583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218b5e57e4da79ff0800000000000000
+      internalID: -29364320057575406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782e1b8d9f6773440800000000000000
+      internalID: 4915528333752656519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ad4b27b1d392d0800000000000000
+      internalID: -3273041919532488884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddfa74626f18eb10800000000000000
+      internalID: 2010891741073964500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdea3e673a40e780800000000000000
+      internalID: -8655836881873080895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009fc92abc2333690800000000000000
+      internalID: -7623693894020171520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c91bdd29e94c350800000000000000
+      internalID: 6036123754205125705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eef8a528e296cc60800000000000000
+      internalID: 7838113727246827240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88672ed96a5bbba0800000000000000
+      internalID: -6072160261833791350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c709c433b04dea670800000000000000
+      internalID: 8552005886993535100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360743d6305539c90800000000000000
+      internalID: -7164289109010911133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963ed64767d2e3a0800000000000000
+      internalID: -6637506062220118381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0112e7f1ed97f9d40800000000000000
+      internalID: 5593323257135505680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4933e36c828d730800000000000000
+      internalID: 4024011098967741633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56bd490705fecbe0800000000000000
+      internalID: -1454956219024427426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361e87ec24467a4e0800000000000000
+      internalID: -1970496073856655005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f497cdbf5cfdd490800000000000000
+      internalID: -7719736698107095824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185f0a96099e32de0800000000000000
+      internalID: -1358985856079039103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7226cef71561631a0800000000000000
+      internalID: -6830247245566418393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b0d9edb2748c3f0800000000000000
+      internalID: -880375473406932069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5cb849e86c10870800000000000000
+      internalID: 8647411075207906772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09022ccdab9ce380800000000000000
+      internalID: -8940599989480847091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f98bafbc80ab1a0800000000000000
+      internalID: -6793107415757185191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edaa2398f2562dc0800000000000000
+      internalID: -3664150019244904987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cfedfe9bd208810800000000000000
+      internalID: 1765461330545802285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2c96676a96b6680800000000000000
+      internalID: -8760792486447037720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46122ad0505ac8cc0800000000000000
+      internalID: -3707406952110612124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490381429926b7d40800000000000000
+      internalID: 5583164572930945172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bac9fa91d4452db0800000000000000
+      internalID: -4817368559363962183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f07195d4fc90db0800000000000000
+      internalID: -4825097594636660878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82784903b00ba6f0800000000000000
+      internalID: -672442950406868342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c60a0132e2e0180800000000000000
+      internalID: -9147323065005216729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d20e32c086eee0800000000000000
+      internalID: -1232155876286867912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d312fc0bee0130800000000000000
+      internalID: 3535021198365939399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77aefd24370d0210800000000000000
+      internalID: 1300703788071298938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bc50642e2c6dca0800000000000000
+      internalID: -5992387977076683951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39348bb06feec5e20800000000000000
+      internalID: 3340807764128056211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_8_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7efbfac8063c1900800000000000000
+      internalID: 656459057082400378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_9_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9477d9f7c816c02b0800000000000000
+      internalID: -5617007379173509303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_10_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f632cfd57a47e28e0800000000000000
+      internalID: -1716306145796414609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_11_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c179008c7a46de10800000000000000
+      internalID: 2222045364738421193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_12_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a35f70e8bbb47f50800000000000000
+      internalID: 6878328933616407457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring Crops_13_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e4d466e5e8e440800000000000000
+      internalID: 4965471366872885085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spring Crops_0: 8369948372191450990
+      Spring Crops_0_0: -7349208758757753986
+      Spring Crops_0_1: -1033490533319142048
+      Spring Crops_0_2: -3565065400931431510
+      Spring Crops_0_3: 8270184866706780843
+      Spring Crops_0_4: 5371719759650163244
+      Spring Crops_0_5: 4915528333752656519
+      Spring Crops_0_6: -1970496073856655005
+      Spring Crops_0_7: -4825097594636660878
+      Spring Crops_1: -3402868906910896487
+      Spring Crops_10: -2399177842247141646
+      Spring Crops_10_0: -7487276989248211559
+      Spring Crops_10_1: 7600756980955623700
+      Spring Crops_10_2: 2293837141365990157
+      Spring Crops_10_3: 438719015676937545
+      Spring Crops_10_4: 4923907500274253953
+      Spring Crops_10_5: -6637506062220118381
+      Spring Crops_10_6: -8760792486447037720
+      Spring Crops_10_7: -1716306145796414609
+      Spring Crops_11: 4209240044320245080
+      Spring Crops_11_0: 7456534795723297948
+      Spring Crops_11_1: 5835675362459014532
+      Spring Crops_11_2: 1820120745615269055
+      Spring Crops_11_3: -1818956748798584085
+      Spring Crops_11_4: -1679692561826278771
+      Spring Crops_11_5: 5593323257135505680
+      Spring Crops_11_6: -3707406952110612124
+      Spring Crops_11_7: 2222045364738421193
+      Spring Crops_12: -8677211718366676707
+      Spring Crops_12_0: 1604774810024362685
+      Spring Crops_12_1: -8528686496053808680
+      Spring Crops_12_2: 5948961943852477579
+      Spring Crops_12_3: -2742870793451881579
+      Spring Crops_12_4: -4783075378616230583
+      Spring Crops_12_5: 4024011098967741633
+      Spring Crops_12_6: 5583164572930945172
+      Spring Crops_12_7: 6878328933616407457
+      Spring Crops_13: 5186682900284683890
+      Spring Crops_13_0: -9217260388852188139
+      Spring Crops_13_1: 1981548772326309764
+      Spring Crops_13_2: 5251500065312052410
+      Spring Crops_13_3: 7145318131249900043
+      Spring Crops_13_4: -29364320057575406
+      Spring Crops_13_5: -1454956219024427426
+      Spring Crops_13_6: -4817368559363962183
+      Spring Crops_13_7: 4965471366872885085
+      Spring Crops_14: -215653223752782615
+      Spring Crops_15: 3289653190777089658
+      Spring Crops_16: -5066668921399660160
+      Spring Crops_17: 2868446355547618523
+      Spring Crops_18: -317592646122885040
+      Spring Crops_19: 4861662748524225573
+      Spring Crops_1_0: 1427302101982649974
+      Spring Crops_1_1: -8638260517888962695
+      Spring Crops_1_2: -5620952209949491216
+      Spring Crops_1_3: -6717803544518293627
+      Spring Crops_1_4: -8438509939428542318
+      Spring Crops_1_5: -3273041919532488884
+      Spring Crops_1_6: -7719736698107095824
+      Spring Crops_1_7: -672442950406868342
+      Spring Crops_2: 7953443401717196921
+      Spring Crops_20: -6289053032045062706
+      Spring Crops_21: 2484816382080541559
+      Spring Crops_22: -134654057516976897
+      Spring Crops_23: 4369838757112454489
+      Spring Crops_24: 3637970704561575544
+      Spring Crops_25: 4518220018301987133
+      Spring Crops_26: -215264509091159299
+      Spring Crops_27: -6706443759888266369
+      Spring Crops_28: 3367870417585019489
+      Spring Crops_29: 2109489747490457824
+      Spring Crops_2_0: 4867049553186584184
+      Spring Crops_2_1: -8545472714639316362
+      Spring Crops_2_2: 1383593258135065219
+      Spring Crops_2_3: 6426152649400009679
+      Spring Crops_2_4: -8512272635755169599
+      Spring Crops_2_5: 2010891741073964500
+      Spring Crops_2_6: -1358985856079039103
+      Spring Crops_2_7: -9147323065005216729
+      Spring Crops_3: 240733362411572873
+      Spring Crops_30: 7952700809700035530
+      Spring Crops_31: 2303892717736303439
+      Spring Crops_32: -5752873257389657301
+      Spring Crops_33: -8286018175113047878
+      Spring Crops_34: -4121517270082971212
+      Spring Crops_35: -1800126058511640119
+      Spring Crops_36: -1957658871821922118
+      Spring Crops_37: -551511011614809637
+      Spring Crops_38: 1942767228105140428
+      Spring Crops_39: 8197133288706426242
+      Spring Crops_3_0: -2835853840750940187
+      Spring Crops_3_1: -5674707544916923231
+      Spring Crops_3_2: 6855977983590414939
+      Spring Crops_3_3: -6850201819687315112
+      Spring Crops_3_4: -116712052053730545
+      Spring Crops_3_5: -8655836881873080895
+      Spring Crops_3_6: -6830247245566418393
+      Spring Crops_3_7: -1232155876286867912
+      Spring Crops_4: 1734387795819554390
+      Spring Crops_40: 8523965287709476415
+      Spring Crops_41: 8849037320410730604
+      Spring Crops_42: -2004733081760871359
+      Spring Crops_43: 7970753316438003428
+      Spring Crops_44: 4748092831001568428
+      Spring Crops_45: -1142901117228979249
+      Spring Crops_46: 4206968556728965966
+      Spring Crops_47: 8843743897560898563
+      Spring Crops_48: -7830120500774409351
+      Spring Crops_49: 6842404889414440947
+      Spring Crops_4_0: -1053872488058717802
+      Spring Crops_4_1: 7940608562958885857
+      Spring Crops_4_2: 1867024159664337863
+      Spring Crops_4_3: -1372241872851461520
+      Spring Crops_4_4: 4349752612191582206
+      Spring Crops_4_5: -7623693894020171520
+      Spring Crops_4_6: -880375473406932069
+      Spring Crops_4_7: 3535021198365939399
+      Spring Crops_5: 8578180459406042070
+      Spring Crops_50: 851531240181107305
+      Spring Crops_51: -8582542756511483061
+      Spring Crops_5_0: -7819449694820697516
+      Spring Crops_5_1: 7603696398340565801
+      Spring Crops_5_2: -5467082488870526718
+      Spring Crops_5_3: -5603178562238106568
+      Spring Crops_5_4: 3298821931361356154
+      Spring Crops_5_5: 6036123754205125705
+      Spring Crops_5_6: 8647411075207906772
+      Spring Crops_5_7: 1300703788071298938
+      Spring Crops_6: 3706471016571915744
+      Spring Crops_6_0: -1050599890445006686
+      Spring Crops_6_1: -1701725627027068417
+      Spring Crops_6_2: -1645850544087814893
+      Spring Crops_6_3: -3031019547547835529
+      Spring Crops_6_4: -8285915384141004820
+      Spring Crops_6_5: 7838113727246827240
+      Spring Crops_6_6: -8940599989480847091
+      Spring Crops_6_7: -5992387977076683951
+      Spring Crops_7: 2301922973543145194
+      Spring Crops_7_0: -7233486620643055751
+      Spring Crops_7_1: -3589710185854173972
+      Spring Crops_7_2: -5672473338899793856
+      Spring Crops_7_3: 8265323037008947214
+      Spring Crops_7_4: 7004605668787559093
+      Spring Crops_7_5: -6072160261833791350
+      Spring Crops_7_6: -6793107415757185191
+      Spring Crops_7_7: 3340807764128056211
+      Spring Crops_8: -1034690453324800654
+      Spring Crops_8_0: -140891450625989158
+      Spring Crops_8_1: -8586279029098022048
+      Spring Crops_8_2: -8533036974016316328
+      Spring Crops_8_3: 5264412823688066971
+      Spring Crops_8_4: -4064325261383474878
+      Spring Crops_8_5: 8552005886993535100
+      Spring Crops_8_6: -3664150019244904987
+      Spring Crops_8_7: 656459057082400378
+      Spring Crops_9: 330651644575631463
+      Spring Crops_9_0: 2293002018002322533
+      Spring Crops_9_1: -6642772004084338045
+      Spring Crops_9_2: -4498673367581212881
+      Spring Crops_9_3: -4395757387986449770
+      Spring Crops_9_4: 3261998569479570530
+      Spring Crops_9_5: -7164289109010911133
+      Spring Crops_9_6: 1765461330545802285
+      Spring Crops_9_7: -5617007379173509303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

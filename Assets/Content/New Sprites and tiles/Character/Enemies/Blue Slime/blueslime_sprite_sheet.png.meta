@@ -1,0 +1,2759 @@
+fileFormatVersion: 2
+guid: df740536f2ea67641aa51b3be86a3c88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3447217768299208520
+    second: blueslime_sprite_sheet_0
+  - first:
+      213: 3156408909245720153
+    second: blueslime_sprite_sheet_1
+  - first:
+      213: 3594863517291904362
+    second: blueslime_sprite_sheet_2
+  - first:
+      213: -3600542049156178697
+    second: blueslime_sprite_sheet_3
+  - first:
+      213: -6366012035557327697
+    second: blueslime_sprite_sheet_4
+  - first:
+      213: -4706386889974908586
+    second: blueslime_sprite_sheet_5
+  - first:
+      213: 8280979776850330040
+    second: blueslime_sprite_sheet_6
+  - first:
+      213: 8246940572656375162
+    second: blueslime_sprite_sheet_7
+  - first:
+      213: -3573418985213317811
+    second: blueslime_sprite_sheet_8
+  - first:
+      213: -3241620057110215875
+    second: blueslime_sprite_sheet_9
+  - first:
+      213: 8419000329745515234
+    second: blueslime_sprite_sheet_10
+  - first:
+      213: 1216734662828999023
+    second: blueslime_sprite_sheet_11
+  - first:
+      213: 7295313240464270577
+    second: blueslime_sprite_sheet_12
+  - first:
+      213: 4128698313975263874
+    second: blueslime_sprite_sheet_13
+  - first:
+      213: -1876465997292922310
+    second: blueslime_sprite_sheet_14
+  - first:
+      213: -2809101867490000402
+    second: blueslime_sprite_sheet_15
+  - first:
+      213: 446418312925798472
+    second: blueslime_sprite_sheet_16
+  - first:
+      213: -4256925569787370837
+    second: blueslime_sprite_sheet_17
+  - first:
+      213: 8475416464348043693
+    second: blueslime_sprite_sheet_18
+  - first:
+      213: 3406636541940954230
+    second: blueslime_sprite_sheet_19
+  - first:
+      213: -8811672916558895609
+    second: blueslime_sprite_sheet_20
+  - first:
+      213: 8659475035238107584
+    second: blueslime_sprite_sheet_21
+  - first:
+      213: -7471300369224863738
+    second: blueslime_sprite_sheet_22
+  - first:
+      213: -8057155659560421653
+    second: blueslime_sprite_sheet_23
+  - first:
+      213: -1240030904623003825
+    second: blueslime_sprite_sheet_24
+  - first:
+      213: 8424841606497098147
+    second: blueslime_sprite_sheet_25
+  - first:
+      213: -4447091064321943507
+    second: blueslime_sprite_sheet_26
+  - first:
+      213: 2366382112053871130
+    second: blueslime_sprite_sheet_27
+  - first:
+      213: -2383833063250242461
+    second: blueslime_sprite_sheet_28
+  - first:
+      213: 2830127307021789800
+    second: blueslime_sprite_sheet_29
+  - first:
+      213: -9134868456090295245
+    second: blueslime_sprite_sheet_0_0
+  - first:
+      213: 2196254222573697293
+    second: blueslime_sprite_sheet_1_0
+  - first:
+      213: 5601074690726359809
+    second: blueslime_sprite_sheet_2_0
+  - first:
+      213: 3553413801019333923
+    second: blueslime_sprite_sheet_3_0
+  - first:
+      213: -725393174284989424
+    second: blueslime_sprite_sheet_4_0
+  - first:
+      213: -5508439054453217094
+    second: blueslime_sprite_sheet_5_0
+  - first:
+      213: 4506756056789752682
+    second: blueslime_sprite_sheet_6_0
+  - first:
+      213: -4066284752279442485
+    second: blueslime_sprite_sheet_7_0
+  - first:
+      213: 7588892474894943837
+    second: blueslime_sprite_sheet_0_1
+  - first:
+      213: 5423993221016001765
+    second: blueslime_sprite_sheet_1_1
+  - first:
+      213: 7407638531706976993
+    second: blueslime_sprite_sheet_2_1
+  - first:
+      213: 4334428121307320092
+    second: blueslime_sprite_sheet_3_1
+  - first:
+      213: 6466448144908521239
+    second: blueslime_sprite_sheet_4_1
+  - first:
+      213: 2439068424127165475
+    second: blueslime_sprite_sheet_5_1
+  - first:
+      213: 1538835598942579418
+    second: blueslime_sprite_sheet_6_1
+  - first:
+      213: -5189015638375244170
+    second: blueslime_sprite_sheet_7_1
+  - first:
+      213: 6706936628860498950
+    second: blueslime_sprite_sheet_0_2
+  - first:
+      213: -6577310586276878839
+    second: blueslime_sprite_sheet_1_2
+  - first:
+      213: 832106175185567373
+    second: blueslime_sprite_sheet_2_2
+  - first:
+      213: -5316142827055216163
+    second: blueslime_sprite_sheet_3_2
+  - first:
+      213: -6311057645440750117
+    second: blueslime_sprite_sheet_4_2
+  - first:
+      213: -7383146370865119636
+    second: blueslime_sprite_sheet_5_2
+  - first:
+      213: 8486343237682537184
+    second: blueslime_sprite_sheet_6_2
+  - first:
+      213: -4774162525838292477
+    second: blueslime_sprite_sheet_7_2
+  - first:
+      213: -4476026818894209859
+    second: blueslime_sprite_sheet_0_3
+  - first:
+      213: -3007968988020731870
+    second: blueslime_sprite_sheet_1_3
+  - first:
+      213: 5322534577437366178
+    second: blueslime_sprite_sheet_2_3
+  - first:
+      213: 7514047947138238298
+    second: blueslime_sprite_sheet_3_3
+  - first:
+      213: 4251623207983750845
+    second: blueslime_sprite_sheet_4_3
+  - first:
+      213: -3731954388078895705
+    second: blueslime_sprite_sheet_5_3
+  - first:
+      213: -6610445856158761746
+    second: blueslime_sprite_sheet_6_3
+  - first:
+      213: 3977547263225919148
+    second: blueslime_sprite_sheet_7_3
+  - first:
+      213: 4225611340345895868
+    second: blueslime_sprite_sheet_0_4
+  - first:
+      213: 1570872287766762231
+    second: blueslime_sprite_sheet_1_4
+  - first:
+      213: -1372043183734472312
+    second: blueslime_sprite_sheet_2_4
+  - first:
+      213: -7636422339950706490
+    second: blueslime_sprite_sheet_3_4
+  - first:
+      213: 1086578445333704112
+    second: blueslime_sprite_sheet_4_4
+  - first:
+      213: -5132827707061474294
+    second: blueslime_sprite_sheet_5_4
+  - first:
+      213: -5994920334943400017
+    second: blueslime_sprite_sheet_6_4
+  - first:
+      213: 1838354892151054986
+    second: blueslime_sprite_sheet_7_4
+  - first:
+      213: -2950132343342746389
+    second: blueslime_sprite_sheet_0_5
+  - first:
+      213: 3719818863830275109
+    second: blueslime_sprite_sheet_1_5
+  - first:
+      213: 2480183105495542283
+    second: blueslime_sprite_sheet_2_5
+  - first:
+      213: 2024065539569208101
+    second: blueslime_sprite_sheet_3_5
+  - first:
+      213: 168471116639536011
+    second: blueslime_sprite_sheet_4_5
+  - first:
+      213: 5933881464089641032
+    second: blueslime_sprite_sheet_5_5
+  - first:
+      213: -7876506291832354366
+    second: blueslime_sprite_sheet_6_5
+  - first:
+      213: -8842923198804204043
+    second: blueslime_sprite_sheet_7_5
+  - first:
+      213: -1076302416240857875
+    second: blueslime_sprite_sheet_0_6
+  - first:
+      213: 6528916441766661475
+    second: blueslime_sprite_sheet_1_6
+  - first:
+      213: -7329492301059179189
+    second: blueslime_sprite_sheet_2_6
+  - first:
+      213: 6340592903582553001
+    second: blueslime_sprite_sheet_3_6
+  - first:
+      213: -6891263352858483170
+    second: blueslime_sprite_sheet_4_6
+  - first:
+      213: 1280620036173635628
+    second: blueslime_sprite_sheet_5_6
+  - first:
+      213: 4419427179407215992
+    second: blueslime_sprite_sheet_6_6
+  - first:
+      213: -191207303182165007
+    second: blueslime_sprite_sheet_7_6
+  - first:
+      213: 5035017435453816305
+    second: blueslime_sprite_sheet_0_7
+  - first:
+      213: 4725113423478819682
+    second: blueslime_sprite_sheet_1_7
+  - first:
+      213: -2036719959846760023
+    second: blueslime_sprite_sheet_2_7
+  - first:
+      213: 889005063212587339
+    second: blueslime_sprite_sheet_3_7
+  - first:
+      213: -2147706972203047661
+    second: blueslime_sprite_sheet_4_7
+  - first:
+      213: 1472070159800204390
+    second: blueslime_sprite_sheet_5_7
+  - first:
+      213: 5678944564817196240
+    second: blueslime_sprite_sheet_6_7
+  - first:
+      213: -1790878094502955555
+    second: blueslime_sprite_sheet_7_7
+  - first:
+      213: 7261916371439038850
+    second: blueslime_sprite_sheet_0_8
+  - first:
+      213: 3019318436545537006
+    second: blueslime_sprite_sheet_1_8
+  - first:
+      213: 4003738655692959645
+    second: blueslime_sprite_sheet_2_8
+  - first:
+      213: 7301307436182264701
+    second: blueslime_sprite_sheet_3_8
+  - first:
+      213: -6578396964776331778
+    second: blueslime_sprite_sheet_4_8
+  - first:
+      213: 3800837736002576334
+    second: blueslime_sprite_sheet_5_8
+  - first:
+      213: 4938601479695393289
+    second: blueslime_sprite_sheet_6_8
+  - first:
+      213: 6782607369600596447
+    second: blueslime_sprite_sheet_7_8
+  - first:
+      213: -585409792576978333
+    second: blueslime_sprite_sheet_0_9
+  - first:
+      213: -409122723291276382
+    second: blueslime_sprite_sheet_1_9
+  - first:
+      213: 583618503233731435
+    second: blueslime_sprite_sheet_2_9
+  - first:
+      213: -7040260157281885768
+    second: blueslime_sprite_sheet_3_9
+  - first:
+      213: 4147285091567513991
+    second: blueslime_sprite_sheet_4_9
+  - first:
+      213: -5868380669906995887
+    second: blueslime_sprite_sheet_5_9
+  - first:
+      213: 1988070536393222907
+    second: blueslime_sprite_sheet_6_9
+  - first:
+      213: -7661449988594118078
+    second: blueslime_sprite_sheet_7_9
+  - first:
+      213: 7340247277711290923
+    second: blueslime_sprite_sheet_0_10
+  - first:
+      213: -8709134222989078925
+    second: blueslime_sprite_sheet_1_10
+  - first:
+      213: -4554730506985984865
+    second: blueslime_sprite_sheet_2_10
+  - first:
+      213: -9101916181298103166
+    second: blueslime_sprite_sheet_3_10
+  - first:
+      213: -4287873149965039637
+    second: blueslime_sprite_sheet_4_10
+  - first:
+      213: 1978866046068712769
+    second: blueslime_sprite_sheet_5_10
+  - first:
+      213: -1558058613322299435
+    second: blueslime_sprite_sheet_6_10
+  - first:
+      213: 1878262945919437734
+    second: blueslime_sprite_sheet_7_10
+  - first:
+      213: 3815297010722440244
+    second: blueslime_sprite_sheet_0_11
+  - first:
+      213: -1080123781749860709
+    second: blueslime_sprite_sheet_1_11
+  - first:
+      213: 5859265404316289172
+    second: blueslime_sprite_sheet_2_11
+  - first:
+      213: -6947213467630431542
+    second: blueslime_sprite_sheet_3_11
+  - first:
+      213: 7855409077682143537
+    second: blueslime_sprite_sheet_4_11
+  - first:
+      213: -2529091635874106108
+    second: blueslime_sprite_sheet_5_11
+  - first:
+      213: 2614901971031345904
+    second: blueslime_sprite_sheet_6_11
+  - first:
+      213: 2653620548922710985
+    second: blueslime_sprite_sheet_7_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33421dca98d6a3180800000000000000
+      internalID: -9134868456090295245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f4f44499aa7e10800000000000000
+      internalID: 2196254222573697293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103fc2561c30bbd40800000000000000
+      internalID: 5601074690726359809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5ab57603405130800000000000000
+      internalID: 3553413801019333923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c004450c2eee5f0800000000000000
+      internalID: -725393174284989424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab86d6c6dd71e83b0800000000000000
+      internalID: -5508439054453217094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b1b4e71c63b8e30800000000000000
+      internalID: 4506756056789752682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbebc8df87a197c0800000000000000
+      internalID: -4066284752279442485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d568fbc8f79215960800000000000000
+      internalID: 7588892474894943837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec19c2d815e54b40800000000000000
+      internalID: 5423993221016001765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaf3ea4ff73dc660800000000000000
+      internalID: 7407638531706976993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f8cfa596bf62c30800000000000000
+      internalID: 4334428121307320092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f81cbb3507db950800000000000000
+      internalID: 6466448144908521239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324b8fa1fcf49d120800000000000000
+      internalID: 2439068424127165475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa2baf2da0b5510800000000000000
+      internalID: 1538835598942579418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e52bcf4c9ecf7b0800000000000000
+      internalID: -5189015638375244170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604394e3453d31d50800000000000000
+      internalID: 6706936628860498950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ec8faed2b8b4a0800000000000000
+      internalID: -6577310586276878839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e385b582c3c8b00800000000000000
+      internalID: 832106175185567373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd90222d3444936b0800000000000000
+      internalID: -5316142827055216163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddad76428e9a68a0800000000000000
+      internalID: -6311057645440750117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ebed74e7bc98990800000000000000
+      internalID: -7383146370865119636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e22b1c463c85c570800000000000000
+      internalID: 8486343237682537184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a4d633a74cebdb0800000000000000
+      internalID: -4774162525838292477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc50beb255f1e1c0800000000000000
+      internalID: -4476026818894209859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22012ad642c8146d0800000000000000
+      internalID: -3007968988020731870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a753e88ff07dd940800000000000000
+      internalID: 5322534577437366178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a578d6afbc2474860800000000000000
+      internalID: 7514047947138238298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe9da618ccc00b30800000000000000
+      internalID: 4251623207983750845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7add89cb14f653cc0800000000000000
+      internalID: -3731954388078895705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec34b8748af244a0800000000000000
+      internalID: -6610445856158761746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca678e57926133730800000000000000
+      internalID: 3977547263225919148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbed24302364aa30800000000000000
+      internalID: 4225611340345895868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2d7dbd50cdcc510800000000000000
+      internalID: 1570872287766762231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c2096ef585fce0800000000000000
+      internalID: -1372043183734472312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08160675af50690800000000000000
+      internalID: -7636422339950706490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd26bec65d441f00800000000000000
+      internalID: 1086578445333704112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c6153356884c8b0800000000000000
+      internalID: -5132827707061474294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafcee2c7b3cdcca0800000000000000
+      internalID: -5994920334943400017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82e3cdc806238910800000000000000
+      internalID: 1838354892151054986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43aa2a3460f07d0800000000000000
+      internalID: -2950132343342746389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52496675c837f9330800000000000000
+      internalID: 3719818863830275109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aacf4d4616b6220800000000000000
+      internalID: 2480183105495542283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bc12062ece61c10800000000000000
+      internalID: 2024065539569208101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8386368697865200800000000000000
+      internalID: 168471116639536011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8408656a0c1695250800000000000000
+      internalID: 5933881464089641032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90434524701b290800000000000000
+      internalID: -7876506291832354366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e637d330a74580800000000000000
+      internalID: -8842923198804204043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deca119a7a43011f0800000000000000
+      internalID: -1076302416240857875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d85bf79ee5b9a50800000000000000
+      internalID: 6528916441766661475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d3863e599684a90800000000000000
+      internalID: -7329492301059179189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a39663e6af4ef750800000000000000
+      internalID: 6340592903582553001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16e337fd705d50a0800000000000000
+      internalID: -6891263352858483170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20a06c432da5c110800000000000000
+      internalID: 1280620036173635628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d0643ca95f45d30800000000000000
+      internalID: 4419427179407215992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbdd5788f1b85df0800000000000000
+      internalID: -191207303182165007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7f1e4ea9ffd540800000000000000
+      internalID: 5035017435453816305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b82e9bf99f29140800000000000000
+      internalID: 4725113423478819682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d26eccfd1cb3e0800000000000000
+      internalID: -2036719959846760023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b495f441561665c00800000000000000
+      internalID: 889005063212587339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315253843efc132e0800000000000000
+      internalID: -2147706972203047661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cf75fc208dd6410800000000000000
+      internalID: 1472070159800204390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4701d4ef9afce40800000000000000
+      internalID: 5678944564817196240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd57f1d8cd58527e0800000000000000
+      internalID: -1790878094502955555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281b73ce67287c460800000000000000
+      internalID: 7261916371439038850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3a51afe16c6e920800000000000000
+      internalID: 3019318436545537006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f241a3813209730800000000000000
+      internalID: 4003738655692959645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bdf81ed64735560800000000000000
+      internalID: 7301307436182264701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5bffa70d6d4b4a0800000000000000
+      internalID: -6578396964776331778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf555f78c94fb430800000000000000
+      internalID: 3800837736002576334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902667441ef698440800000000000000
+      internalID: 4938601479695393289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd97df38779a02e50800000000000000
+      internalID: 6782607369600596447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3620a6135e430e7f0800000000000000
+      internalID: -585409792576978333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abdea00d01825af0800000000000000
+      internalID: -409122723291276382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b7791cfed691800800000000000000
+      internalID: 583618503233731435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1a0e610b8fb4e90800000000000000
+      internalID: -7040260157281885768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781b72941dd1e8930800000000000000
+      internalID: 4147285091567513991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155bc6b6fd25f8ea0800000000000000
+      internalID: -5868380669906995887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa632e9e9b079b10800000000000000
+      internalID: 1988070536393222907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2425d65d3df0da590800000000000000
+      internalID: -7661449988594118078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22728f320ccdd560800000000000000
+      internalID: 7340247277711290923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ec9813190f22780800000000000000
+      internalID: -8709134222989078925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c27736cb85ac0c0800000000000000
+      internalID: -4554730506985984865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cb856057f7fa180800000000000000
+      internalID: -9101916181298103166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be70666961a6e74c0800000000000000
+      internalID: -4287873149965039637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145e1063f28567b10800000000000000
+      internalID: 1978866046068712769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7cfa532f9a06ae0800000000000000
+      internalID: -1558058613322299435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab8e46a23ee01a10800000000000000
+      internalID: 1878262945919437734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43488bcba68a2f430800000000000000
+      internalID: 3815297010722440244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96195ba421a201f0800000000000000
+      internalID: -1080123781749860709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498020d67da405150800000000000000
+      internalID: 5859265404316289172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2141bb82a869f90800000000000000
+      internalID: -6947213467630431542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_4_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1318f98bfe4040d60800000000000000
+      internalID: 7855409077682143537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405ff4f8e8cd6ecd0800000000000000
+      internalID: -2529091635874106108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_6_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0facac10d7ff94420800000000000000
+      internalID: 2614901971031345904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueslime_sprite_sheet_7_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb173b64dd83d420800000000000000
+      internalID: 2653620548922710985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blueslime_sprite_sheet_0: -3447217768299208520
+      blueslime_sprite_sheet_0_0: -9134868456090295245
+      blueslime_sprite_sheet_0_1: 7588892474894943837
+      blueslime_sprite_sheet_0_10: 7340247277711290923
+      blueslime_sprite_sheet_0_11: 3815297010722440244
+      blueslime_sprite_sheet_0_2: 6706936628860498950
+      blueslime_sprite_sheet_0_3: -4476026818894209859
+      blueslime_sprite_sheet_0_4: 4225611340345895868
+      blueslime_sprite_sheet_0_5: -2950132343342746389
+      blueslime_sprite_sheet_0_6: -1076302416240857875
+      blueslime_sprite_sheet_0_7: 5035017435453816305
+      blueslime_sprite_sheet_0_8: 7261916371439038850
+      blueslime_sprite_sheet_0_9: -585409792576978333
+      blueslime_sprite_sheet_1: 3156408909245720153
+      blueslime_sprite_sheet_10: 8419000329745515234
+      blueslime_sprite_sheet_11: 1216734662828999023
+      blueslime_sprite_sheet_12: 7295313240464270577
+      blueslime_sprite_sheet_13: 4128698313975263874
+      blueslime_sprite_sheet_14: -1876465997292922310
+      blueslime_sprite_sheet_15: -2809101867490000402
+      blueslime_sprite_sheet_16: 446418312925798472
+      blueslime_sprite_sheet_17: -4256925569787370837
+      blueslime_sprite_sheet_18: 8475416464348043693
+      blueslime_sprite_sheet_19: 3406636541940954230
+      blueslime_sprite_sheet_1_0: 2196254222573697293
+      blueslime_sprite_sheet_1_1: 5423993221016001765
+      blueslime_sprite_sheet_1_10: -8709134222989078925
+      blueslime_sprite_sheet_1_11: -1080123781749860709
+      blueslime_sprite_sheet_1_2: -6577310586276878839
+      blueslime_sprite_sheet_1_3: -3007968988020731870
+      blueslime_sprite_sheet_1_4: 1570872287766762231
+      blueslime_sprite_sheet_1_5: 3719818863830275109
+      blueslime_sprite_sheet_1_6: 6528916441766661475
+      blueslime_sprite_sheet_1_7: 4725113423478819682
+      blueslime_sprite_sheet_1_8: 3019318436545537006
+      blueslime_sprite_sheet_1_9: -409122723291276382
+      blueslime_sprite_sheet_2: 3594863517291904362
+      blueslime_sprite_sheet_20: -8811672916558895609
+      blueslime_sprite_sheet_21: 8659475035238107584
+      blueslime_sprite_sheet_22: -7471300369224863738
+      blueslime_sprite_sheet_23: -8057155659560421653
+      blueslime_sprite_sheet_24: -1240030904623003825
+      blueslime_sprite_sheet_25: 8424841606497098147
+      blueslime_sprite_sheet_26: -4447091064321943507
+      blueslime_sprite_sheet_27: 2366382112053871130
+      blueslime_sprite_sheet_28: -2383833063250242461
+      blueslime_sprite_sheet_29: 2830127307021789800
+      blueslime_sprite_sheet_2_0: 5601074690726359809
+      blueslime_sprite_sheet_2_1: 7407638531706976993
+      blueslime_sprite_sheet_2_10: -4554730506985984865
+      blueslime_sprite_sheet_2_11: 5859265404316289172
+      blueslime_sprite_sheet_2_2: 832106175185567373
+      blueslime_sprite_sheet_2_3: 5322534577437366178
+      blueslime_sprite_sheet_2_4: -1372043183734472312
+      blueslime_sprite_sheet_2_5: 2480183105495542283
+      blueslime_sprite_sheet_2_6: -7329492301059179189
+      blueslime_sprite_sheet_2_7: -2036719959846760023
+      blueslime_sprite_sheet_2_8: 4003738655692959645
+      blueslime_sprite_sheet_2_9: 583618503233731435
+      blueslime_sprite_sheet_3: -3600542049156178697
+      blueslime_sprite_sheet_3_0: 3553413801019333923
+      blueslime_sprite_sheet_3_1: 4334428121307320092
+      blueslime_sprite_sheet_3_10: -9101916181298103166
+      blueslime_sprite_sheet_3_11: -6947213467630431542
+      blueslime_sprite_sheet_3_2: -5316142827055216163
+      blueslime_sprite_sheet_3_3: 7514047947138238298
+      blueslime_sprite_sheet_3_4: -7636422339950706490
+      blueslime_sprite_sheet_3_5: 2024065539569208101
+      blueslime_sprite_sheet_3_6: 6340592903582553001
+      blueslime_sprite_sheet_3_7: 889005063212587339
+      blueslime_sprite_sheet_3_8: 7301307436182264701
+      blueslime_sprite_sheet_3_9: -7040260157281885768
+      blueslime_sprite_sheet_4: -6366012035557327697
+      blueslime_sprite_sheet_4_0: -725393174284989424
+      blueslime_sprite_sheet_4_1: 6466448144908521239
+      blueslime_sprite_sheet_4_10: -4287873149965039637
+      blueslime_sprite_sheet_4_11: 7855409077682143537
+      blueslime_sprite_sheet_4_2: -6311057645440750117
+      blueslime_sprite_sheet_4_3: 4251623207983750845
+      blueslime_sprite_sheet_4_4: 1086578445333704112
+      blueslime_sprite_sheet_4_5: 168471116639536011
+      blueslime_sprite_sheet_4_6: -6891263352858483170
+      blueslime_sprite_sheet_4_7: -2147706972203047661
+      blueslime_sprite_sheet_4_8: -6578396964776331778
+      blueslime_sprite_sheet_4_9: 4147285091567513991
+      blueslime_sprite_sheet_5: -4706386889974908586
+      blueslime_sprite_sheet_5_0: -5508439054453217094
+      blueslime_sprite_sheet_5_1: 2439068424127165475
+      blueslime_sprite_sheet_5_10: 1978866046068712769
+      blueslime_sprite_sheet_5_11: -2529091635874106108
+      blueslime_sprite_sheet_5_2: -7383146370865119636
+      blueslime_sprite_sheet_5_3: -3731954388078895705
+      blueslime_sprite_sheet_5_4: -5132827707061474294
+      blueslime_sprite_sheet_5_5: 5933881464089641032
+      blueslime_sprite_sheet_5_6: 1280620036173635628
+      blueslime_sprite_sheet_5_7: 1472070159800204390
+      blueslime_sprite_sheet_5_8: 3800837736002576334
+      blueslime_sprite_sheet_5_9: -5868380669906995887
+      blueslime_sprite_sheet_6: 8280979776850330040
+      blueslime_sprite_sheet_6_0: 4506756056789752682
+      blueslime_sprite_sheet_6_1: 1538835598942579418
+      blueslime_sprite_sheet_6_10: -1558058613322299435
+      blueslime_sprite_sheet_6_11: 2614901971031345904
+      blueslime_sprite_sheet_6_2: 8486343237682537184
+      blueslime_sprite_sheet_6_3: -6610445856158761746
+      blueslime_sprite_sheet_6_4: -5994920334943400017
+      blueslime_sprite_sheet_6_5: -7876506291832354366
+      blueslime_sprite_sheet_6_6: 4419427179407215992
+      blueslime_sprite_sheet_6_7: 5678944564817196240
+      blueslime_sprite_sheet_6_8: 4938601479695393289
+      blueslime_sprite_sheet_6_9: 1988070536393222907
+      blueslime_sprite_sheet_7: 8246940572656375162
+      blueslime_sprite_sheet_7_0: -4066284752279442485
+      blueslime_sprite_sheet_7_1: -5189015638375244170
+      blueslime_sprite_sheet_7_10: 1878262945919437734
+      blueslime_sprite_sheet_7_11: 2653620548922710985
+      blueslime_sprite_sheet_7_2: -4774162525838292477
+      blueslime_sprite_sheet_7_3: 3977547263225919148
+      blueslime_sprite_sheet_7_4: 1838354892151054986
+      blueslime_sprite_sheet_7_5: -8842923198804204043
+      blueslime_sprite_sheet_7_6: -191207303182165007
+      blueslime_sprite_sheet_7_7: -1790878094502955555
+      blueslime_sprite_sheet_7_8: 6782607369600596447
+      blueslime_sprite_sheet_7_9: -7661449988594118078
+      blueslime_sprite_sheet_8: -3573418985213317811
+      blueslime_sprite_sheet_9: -3241620057110215875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

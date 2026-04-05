@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: b6c7dda465024ea4bb437117d74cf64f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1406030525034619667
+    second: farmer props 32x32 v00_0
+  - first:
+      213: 1300708003536149844
+    second: farmer props 32x32 v00_1
+  - first:
+      213: -6114512253312668813
+    second: farmer props 32x32 v00_2
+  - first:
+      213: -4964770033356801768
+    second: farmer props 32x32 v00_3
+  - first:
+      213: -6190114670624857277
+    second: farmer props 32x32 v00_4
+  - first:
+      213: -5381889633311195801
+    second: farmer props 32x32 v00_5
+  - first:
+      213: 1210473537932699747
+    second: farmer props 32x32 v00_6
+  - first:
+      213: 522321622918421597
+    second: farmer props 32x32 v00_7
+  - first:
+      213: -7129927506272852773
+    second: farmer props 32x32 v00_8
+  - first:
+      213: -8476204187529745824
+    second: farmer props 32x32 v00_9
+  - first:
+      213: -415338909751331548
+    second: farmer props 32x32 v00_10
+  - first:
+      213: -1142802419118009570
+    second: farmer props 32x32 v00_11
+  - first:
+      213: 6275406279609564261
+    second: farmer props 32x32 v00_12
+  - first:
+      213: 6678879160392950517
+    second: farmer props 32x32 v00_13
+  - first:
+      213: -4029462846012676807
+    second: farmer props 32x32 v00_14
+  - first:
+      213: 4948403877261681024
+    second: farmer props 32x32 v00_15
+  - first:
+      213: 2321239762958951420
+    second: farmer props 32x32 v00_16
+  - first:
+      213: 8406541707584945703
+    second: farmer props 32x32 v00_17
+  - first:
+      213: -2118826743934462164
+    second: farmer props 32x32 v00_18
+  - first:
+      213: -6156332473059313004
+    second: farmer props 32x32 v00_19
+  - first:
+      213: -5878989662073875584
+    second: farmer props 32x32 v00_20
+  - first:
+      213: 7209454617397008598
+    second: farmer props 32x32 v00_21
+  - first:
+      213: -928106349095471630
+    second: farmer props 32x32 v00_22
+  - first:
+      213: -7390283673199181393
+    second: farmer props 32x32 v00_23
+  - first:
+      213: 6331720108811011553
+    second: farmer props 32x32 v00_24
+  - first:
+      213: -7063186350040556135
+    second: farmer props 32x32 v00_25
+  - first:
+      213: 3414150556424999354
+    second: farmer props 32x32 v00_26
+  - first:
+      213: 283435711949307519
+    second: farmer props 32x32 v00_27
+  - first:
+      213: -2908079361664737779
+    second: farmer props 32x32 v00_28
+  - first:
+      213: 1159077178025554990
+    second: farmer props 32x32 v00_0_0
+  - first:
+      213: -8079000277396100570
+    second: farmer props 32x32 v00_1_0
+  - first:
+      213: -4417246242544006551
+    second: farmer props 32x32 v00_2_0
+  - first:
+      213: 2580897388570009766
+    second: farmer props 32x32 v00_3_0
+  - first:
+      213: 8303560608188797660
+    second: farmer props 32x32 v00_4_0
+  - first:
+      213: -4009069000605117138
+    second: farmer props 32x32 v00_5_0
+  - first:
+      213: 8292403694715650310
+    second: farmer props 32x32 v00_6_0
+  - first:
+      213: 8630149654599159834
+    second: farmer props 32x32 v00_7_0
+  - first:
+      213: 825840316848298668
+    second: farmer props 32x32 v00_8_0
+  - first:
+      213: 7154048812145503302
+    second: farmer props 32x32 v00_9_0
+  - first:
+      213: -5945078370020608971
+    second: farmer props 32x32 v00_10_0
+  - first:
+      213: 8665346914020206446
+    second: farmer props 32x32 v00_11_0
+  - first:
+      213: -5182835128652751625
+    second: farmer props 32x32 v00_12_0
+  - first:
+      213: 4546655630081107423
+    second: farmer props 32x32 v00_13_0
+  - first:
+      213: 1709291492648312333
+    second: farmer props 32x32 v00_14_0
+  - first:
+      213: 57187390806698505
+    second: farmer props 32x32 v00_15_0
+  - first:
+      213: 4622886866700351993
+    second: farmer props 32x32 v00_0_1
+  - first:
+      213: -734049940361078277
+    second: farmer props 32x32 v00_1_1
+  - first:
+      213: 4897052142427701638
+    second: farmer props 32x32 v00_2_1
+  - first:
+      213: 6459780243911775403
+    second: farmer props 32x32 v00_3_1
+  - first:
+      213: 4225608598207431367
+    second: farmer props 32x32 v00_4_1
+  - first:
+      213: 9105263577249413187
+    second: farmer props 32x32 v00_5_1
+  - first:
+      213: -5749112629352209982
+    second: farmer props 32x32 v00_6_1
+  - first:
+      213: 3219256011219065254
+    second: farmer props 32x32 v00_7_1
+  - first:
+      213: 6776825158978925716
+    second: farmer props 32x32 v00_8_1
+  - first:
+      213: -4462765239158246042
+    second: farmer props 32x32 v00_9_1
+  - first:
+      213: -2620114700971664987
+    second: farmer props 32x32 v00_10_1
+  - first:
+      213: -3539759894041706002
+    second: farmer props 32x32 v00_11_1
+  - first:
+      213: 1496376835132203526
+    second: farmer props 32x32 v00_12_1
+  - first:
+      213: -6007469013220563771
+    second: farmer props 32x32 v00_13_1
+  - first:
+      213: -3946712451375839590
+    second: farmer props 32x32 v00_14_1
+  - first:
+      213: 4611809850852774252
+    second: farmer props 32x32 v00_15_1
+  - first:
+      213: 823356274558190054
+    second: farmer props 32x32 v00_0_2
+  - first:
+      213: -4408004315655418340
+    second: farmer props 32x32 v00_1_2
+  - first:
+      213: 5585039697261604099
+    second: farmer props 32x32 v00_2_2
+  - first:
+      213: -3132468727187808624
+    second: farmer props 32x32 v00_3_2
+  - first:
+      213: 6870513538860319461
+    second: farmer props 32x32 v00_4_2
+  - first:
+      213: 3240544345305890785
+    second: farmer props 32x32 v00_5_2
+  - first:
+      213: -2598230659349783366
+    second: farmer props 32x32 v00_6_2
+  - first:
+      213: -5303611896414049196
+    second: farmer props 32x32 v00_7_2
+  - first:
+      213: 5971731821866657181
+    second: farmer props 32x32 v00_8_2
+  - first:
+      213: 3862065611019072088
+    second: farmer props 32x32 v00_9_2
+  - first:
+      213: 7219400304624388474
+    second: farmer props 32x32 v00_10_2
+  - first:
+      213: 6583985652923279206
+    second: farmer props 32x32 v00_11_2
+  - first:
+      213: -1896764999369307652
+    second: farmer props 32x32 v00_12_2
+  - first:
+      213: 2851530231151206463
+    second: farmer props 32x32 v00_13_2
+  - first:
+      213: 1913128861476099109
+    second: farmer props 32x32 v00_14_2
+  - first:
+      213: -1429239106279994937
+    second: farmer props 32x32 v00_15_2
+  - first:
+      213: 8563016226038090960
+    second: farmer props 32x32 v00_0_3
+  - first:
+      213: 4336997652715878007
+    second: farmer props 32x32 v00_1_3
+  - first:
+      213: -399231298934855715
+    second: farmer props 32x32 v00_2_3
+  - first:
+      213: 3822850745671515639
+    second: farmer props 32x32 v00_3_3
+  - first:
+      213: 6457057963683576965
+    second: farmer props 32x32 v00_4_3
+  - first:
+      213: 7963472291547345696
+    second: farmer props 32x32 v00_5_3
+  - first:
+      213: -1019120979808832626
+    second: farmer props 32x32 v00_6_3
+  - first:
+      213: -2064197895571475505
+    second: farmer props 32x32 v00_7_3
+  - first:
+      213: -5000767506934487919
+    second: farmer props 32x32 v00_8_3
+  - first:
+      213: -4308034323786505098
+    second: farmer props 32x32 v00_9_3
+  - first:
+      213: 238163234471407987
+    second: farmer props 32x32 v00_10_3
+  - first:
+      213: 1076641144248785521
+    second: farmer props 32x32 v00_11_3
+  - first:
+      213: -8692857005089677553
+    second: farmer props 32x32 v00_12_3
+  - first:
+      213: 5044988755031533311
+    second: farmer props 32x32 v00_13_3
+  - first:
+      213: -6682125180508504602
+    second: farmer props 32x32 v00_14_3
+  - first:
+      213: -1700666638668133223
+    second: farmer props 32x32 v00_15_3
+  - first:
+      213: 7097524907645396687
+    second: farmer props 32x32 v00_0_4
+  - first:
+      213: -3337528014478751277
+    second: farmer props 32x32 v00_1_4
+  - first:
+      213: -7693925435134165146
+    second: farmer props 32x32 v00_2_4
+  - first:
+      213: -7829501741797802682
+    second: farmer props 32x32 v00_3_4
+  - first:
+      213: 7315190475262098019
+    second: farmer props 32x32 v00_4_4
+  - first:
+      213: 1433287009084132522
+    second: farmer props 32x32 v00_5_4
+  - first:
+      213: -4537296337362067778
+    second: farmer props 32x32 v00_6_4
+  - first:
+      213: 1678984746403364933
+    second: farmer props 32x32 v00_7_4
+  - first:
+      213: -5868054364646031122
+    second: farmer props 32x32 v00_8_4
+  - first:
+      213: -5838814097380859401
+    second: farmer props 32x32 v00_9_4
+  - first:
+      213: -111555747488153007
+    second: farmer props 32x32 v00_10_4
+  - first:
+      213: 7190848487690216529
+    second: farmer props 32x32 v00_11_4
+  - first:
+      213: -6527509939663375589
+    second: farmer props 32x32 v00_12_4
+  - first:
+      213: -5956005128940246184
+    second: farmer props 32x32 v00_13_4
+  - first:
+      213: 8602630155715517876
+    second: farmer props 32x32 v00_14_4
+  - first:
+      213: 2163845726607949857
+    second: farmer props 32x32 v00_15_4
+  - first:
+      213: -3516511146620490003
+    second: farmer props 32x32 v00_0_5
+  - first:
+      213: -7764243274193306022
+    second: farmer props 32x32 v00_1_5
+  - first:
+      213: -3853920692532442889
+    second: farmer props 32x32 v00_2_5
+  - first:
+      213: -5468064548198555919
+    second: farmer props 32x32 v00_3_5
+  - first:
+      213: 4525065995006133145
+    second: farmer props 32x32 v00_4_5
+  - first:
+      213: 6649607459483066584
+    second: farmer props 32x32 v00_5_5
+  - first:
+      213: -6576693336697648579
+    second: farmer props 32x32 v00_6_5
+  - first:
+      213: -8247183994994814048
+    second: farmer props 32x32 v00_7_5
+  - first:
+      213: -3298285016699516718
+    second: farmer props 32x32 v00_8_5
+  - first:
+      213: -2232953563425894934
+    second: farmer props 32x32 v00_9_5
+  - first:
+      213: 8689127409761663068
+    second: farmer props 32x32 v00_10_5
+  - first:
+      213: -7902740442176944867
+    second: farmer props 32x32 v00_11_5
+  - first:
+      213: -7263127665877438438
+    second: farmer props 32x32 v00_12_5
+  - first:
+      213: 3444579951764012831
+    second: farmer props 32x32 v00_13_5
+  - first:
+      213: 7178687624644934225
+    second: farmer props 32x32 v00_14_5
+  - first:
+      213: 7174510699348642822
+    second: farmer props 32x32 v00_15_5
+  - first:
+      213: 5178384261423779015
+    second: farmer props 32x32 v00_0_6
+  - first:
+      213: 1119710017331558206
+    second: farmer props 32x32 v00_1_6
+  - first:
+      213: 6693615140468292914
+    second: farmer props 32x32 v00_2_6
+  - first:
+      213: -8076343034909767312
+    second: farmer props 32x32 v00_3_6
+  - first:
+      213: 3180720081335281327
+    second: farmer props 32x32 v00_4_6
+  - first:
+      213: 8394095344667080725
+    second: farmer props 32x32 v00_5_6
+  - first:
+      213: -5417045176888057920
+    second: farmer props 32x32 v00_6_6
+  - first:
+      213: 2456323183356238074
+    second: farmer props 32x32 v00_7_6
+  - first:
+      213: -1091328877526571676
+    second: farmer props 32x32 v00_8_6
+  - first:
+      213: 523667453742952571
+    second: farmer props 32x32 v00_9_6
+  - first:
+      213: -5923093112164879502
+    second: farmer props 32x32 v00_10_6
+  - first:
+      213: 1869305652180453706
+    second: farmer props 32x32 v00_11_6
+  - first:
+      213: -43104840166763213
+    second: farmer props 32x32 v00_12_6
+  - first:
+      213: -4143970903726785544
+    second: farmer props 32x32 v00_13_6
+  - first:
+      213: -6170495201297907485
+    second: farmer props 32x32 v00_14_6
+  - first:
+      213: -4456839507844139983
+    second: farmer props 32x32 v00_15_6
+  - first:
+      213: 7732359175903288453
+    second: farmer props 32x32 v00_0_7
+  - first:
+      213: -7875415097167236177
+    second: farmer props 32x32 v00_1_7
+  - first:
+      213: 8019147702618047261
+    second: farmer props 32x32 v00_2_7
+  - first:
+      213: 6326001669792358006
+    second: farmer props 32x32 v00_3_7
+  - first:
+      213: -2173294973243095256
+    second: farmer props 32x32 v00_4_7
+  - first:
+      213: -1928133677252524750
+    second: farmer props 32x32 v00_5_7
+  - first:
+      213: 4206397930358744418
+    second: farmer props 32x32 v00_6_7
+  - first:
+      213: 748447294413740508
+    second: farmer props 32x32 v00_7_7
+  - first:
+      213: 1340313859383710403
+    second: farmer props 32x32 v00_8_7
+  - first:
+      213: 3561885906808143074
+    second: farmer props 32x32 v00_9_7
+  - first:
+      213: -594795381888829599
+    second: farmer props 32x32 v00_10_7
+  - first:
+      213: -8814208069067226098
+    second: farmer props 32x32 v00_11_7
+  - first:
+      213: -3524401340510025462
+    second: farmer props 32x32 v00_12_7
+  - first:
+      213: 7893616998047121604
+    second: farmer props 32x32 v00_13_7
+  - first:
+      213: 7682877904151228830
+    second: farmer props 32x32 v00_14_7
+  - first:
+      213: 6953125340422088778
+    second: farmer props 32x32 v00_15_7
+  - first:
+      213: 9101698161446239704
+    second: farmer props 32x32 v00_0_8
+  - first:
+      213: -2344324594910551034
+    second: farmer props 32x32 v00_1_8
+  - first:
+      213: -8608468834542982319
+    second: farmer props 32x32 v00_2_8
+  - first:
+      213: -97905788460095398
+    second: farmer props 32x32 v00_3_8
+  - first:
+      213: -1999520704443040328
+    second: farmer props 32x32 v00_4_8
+  - first:
+      213: 2497079272223891912
+    second: farmer props 32x32 v00_5_8
+  - first:
+      213: -8719850178473164947
+    second: farmer props 32x32 v00_6_8
+  - first:
+      213: -6146892551247828895
+    second: farmer props 32x32 v00_7_8
+  - first:
+      213: 2729226019475790074
+    second: farmer props 32x32 v00_8_8
+  - first:
+      213: -5528298635752510680
+    second: farmer props 32x32 v00_9_8
+  - first:
+      213: 2293409898309948388
+    second: farmer props 32x32 v00_10_8
+  - first:
+      213: -7381181034688919906
+    second: farmer props 32x32 v00_11_8
+  - first:
+      213: -6870835866638822869
+    second: farmer props 32x32 v00_12_8
+  - first:
+      213: -2732975758542243133
+    second: farmer props 32x32 v00_13_8
+  - first:
+      213: 601688817188757238
+    second: farmer props 32x32 v00_14_8
+  - first:
+      213: 2853383239133855979
+    second: farmer props 32x32 v00_15_8
+  - first:
+      213: 1803150390859269457
+    second: farmer props 32x32 v00_0_9
+  - first:
+      213: 7090502862639314955
+    second: farmer props 32x32 v00_1_9
+  - first:
+      213: -6093801799440443853
+    second: farmer props 32x32 v00_2_9
+  - first:
+      213: 7679091708393089564
+    second: farmer props 32x32 v00_3_9
+  - first:
+      213: -6983825349808556033
+    second: farmer props 32x32 v00_4_9
+  - first:
+      213: -6864852119873140934
+    second: farmer props 32x32 v00_5_9
+  - first:
+      213: -4488190829948064785
+    second: farmer props 32x32 v00_6_9
+  - first:
+      213: -8541930494658027599
+    second: farmer props 32x32 v00_7_9
+  - first:
+      213: -918809062897116854
+    second: farmer props 32x32 v00_8_9
+  - first:
+      213: -8115880498638880230
+    second: farmer props 32x32 v00_9_9
+  - first:
+      213: 5743559116799533493
+    second: farmer props 32x32 v00_10_9
+  - first:
+      213: -4188643648686143172
+    second: farmer props 32x32 v00_11_9
+  - first:
+      213: 2853925587731092798
+    second: farmer props 32x32 v00_12_9
+  - first:
+      213: 8970089085792534151
+    second: farmer props 32x32 v00_13_9
+  - first:
+      213: -8274493440588447573
+    second: farmer props 32x32 v00_14_9
+  - first:
+      213: -3839013445748114344
+    second: farmer props 32x32 v00_15_9
+  - first:
+      213: 8143362848910086136
+    second: farmer props 32x32 v00_0_10
+  - first:
+      213: -6866325158992491433
+    second: farmer props 32x32 v00_1_10
+  - first:
+      213: 2844880813496569339
+    second: farmer props 32x32 v00_2_10
+  - first:
+      213: -3006534243237377462
+    second: farmer props 32x32 v00_3_10
+  - first:
+      213: -6231700939476068818
+    second: farmer props 32x32 v00_4_10
+  - first:
+      213: -7046335104098648760
+    second: farmer props 32x32 v00_5_10
+  - first:
+      213: 4242205419603636814
+    second: farmer props 32x32 v00_6_10
+  - first:
+      213: 2147837887221053719
+    second: farmer props 32x32 v00_7_10
+  - first:
+      213: -3166278296714652973
+    second: farmer props 32x32 v00_8_10
+  - first:
+      213: -7756043221334645836
+    second: farmer props 32x32 v00_9_10
+  - first:
+      213: 2142396948923940071
+    second: farmer props 32x32 v00_10_10
+  - first:
+      213: -4999777701403097190
+    second: farmer props 32x32 v00_11_10
+  - first:
+      213: 7979032275466466298
+    second: farmer props 32x32 v00_12_10
+  - first:
+      213: 8477757890390544296
+    second: farmer props 32x32 v00_13_10
+  - first:
+      213: -4252739313811417511
+    second: farmer props 32x32 v00_14_10
+  - first:
+      213: 8958127157525166905
+    second: farmer props 32x32 v00_15_10
+  - first:
+      213: -3420882799662308203
+    second: farmer props 32x32 v00_0_11
+  - first:
+      213: -4985544286423354322
+    second: farmer props 32x32 v00_1_11
+  - first:
+      213: 1831365021724425976
+    second: farmer props 32x32 v00_2_11
+  - first:
+      213: 1381736396202736549
+    second: farmer props 32x32 v00_3_11
+  - first:
+      213: 1047505672277821642
+    second: farmer props 32x32 v00_4_11
+  - first:
+      213: 8339295984018052232
+    second: farmer props 32x32 v00_5_11
+  - first:
+      213: -6016210370561172573
+    second: farmer props 32x32 v00_6_11
+  - first:
+      213: 5489588716059881056
+    second: farmer props 32x32 v00_7_11
+  - first:
+      213: -3430687420637159133
+    second: farmer props 32x32 v00_8_11
+  - first:
+      213: -5150359978617026138
+    second: farmer props 32x32 v00_9_11
+  - first:
+      213: -4410123684787755246
+    second: farmer props 32x32 v00_10_11
+  - first:
+      213: -3402516223978230239
+    second: farmer props 32x32 v00_11_11
+  - first:
+      213: 5591742247824440462
+    second: farmer props 32x32 v00_12_11
+  - first:
+      213: -7213848055892436444
+    second: farmer props 32x32 v00_13_11
+  - first:
+      213: 1447062070528720964
+    second: farmer props 32x32 v00_14_11
+  - first:
+      213: -1931890280039015578
+    second: farmer props 32x32 v00_15_11
+  - first:
+      213: -5768577377298631474
+    second: farmer props 32x32 v00_0_12
+  - first:
+      213: -8071433074621220586
+    second: farmer props 32x32 v00_1_12
+  - first:
+      213: -848233993066823014
+    second: farmer props 32x32 v00_2_12
+  - first:
+      213: 5620145689489042816
+    second: farmer props 32x32 v00_3_12
+  - first:
+      213: -7687391167817791347
+    second: farmer props 32x32 v00_4_12
+  - first:
+      213: -8013613672961880461
+    second: farmer props 32x32 v00_5_12
+  - first:
+      213: -5275773517466487027
+    second: farmer props 32x32 v00_6_12
+  - first:
+      213: -2404009355348393986
+    second: farmer props 32x32 v00_7_12
+  - first:
+      213: 5187850800994223153
+    second: farmer props 32x32 v00_8_12
+  - first:
+      213: 304995607948321599
+    second: farmer props 32x32 v00_9_12
+  - first:
+      213: 3369428210097735723
+    second: farmer props 32x32 v00_10_12
+  - first:
+      213: -4671880345912837326
+    second: farmer props 32x32 v00_11_12
+  - first:
+      213: 9030763657039658223
+    second: farmer props 32x32 v00_12_12
+  - first:
+      213: 4737969123858627541
+    second: farmer props 32x32 v00_13_12
+  - first:
+      213: 6848941158091849703
+    second: farmer props 32x32 v00_14_12
+  - first:
+      213: 9106587870722081702
+    second: farmer props 32x32 v00_15_12
+  - first:
+      213: -4174005342990988182
+    second: farmer props 32x32 v00_0_13
+  - first:
+      213: 6643543847079241199
+    second: farmer props 32x32 v00_1_13
+  - first:
+      213: -171387991782675967
+    second: farmer props 32x32 v00_2_13
+  - first:
+      213: 5292859683592080858
+    second: farmer props 32x32 v00_3_13
+  - first:
+      213: -7157940368515355093
+    second: farmer props 32x32 v00_4_13
+  - first:
+      213: -2242927763072831552
+    second: farmer props 32x32 v00_5_13
+  - first:
+      213: 5736090115848556658
+    second: farmer props 32x32 v00_6_13
+  - first:
+      213: -2640289710080861798
+    second: farmer props 32x32 v00_7_13
+  - first:
+      213: 909409783119929649
+    second: farmer props 32x32 v00_8_13
+  - first:
+      213: -6580501629684240191
+    second: farmer props 32x32 v00_9_13
+  - first:
+      213: 57668501547899795
+    second: farmer props 32x32 v00_10_13
+  - first:
+      213: -1952621202709838657
+    second: farmer props 32x32 v00_11_13
+  - first:
+      213: -9085709627016929456
+    second: farmer props 32x32 v00_12_13
+  - first:
+      213: -2304420802352674428
+    second: farmer props 32x32 v00_13_13
+  - first:
+      213: 1153169034822867807
+    second: farmer props 32x32 v00_14_13
+  - first:
+      213: -2617137698311323203
+    second: farmer props 32x32 v00_15_13
+  - first:
+      213: -8249734477998514185
+    second: farmer props 32x32 v00_0_14
+  - first:
+      213: 1433688677442551092
+    second: farmer props 32x32 v00_1_14
+  - first:
+      213: 5012419705755499164
+    second: farmer props 32x32 v00_2_14
+  - first:
+      213: -4956540021440395498
+    second: farmer props 32x32 v00_3_14
+  - first:
+      213: 5054938001180552272
+    second: farmer props 32x32 v00_4_14
+  - first:
+      213: 4429708120017666878
+    second: farmer props 32x32 v00_5_14
+  - first:
+      213: -3730707330784631812
+    second: farmer props 32x32 v00_6_14
+  - first:
+      213: 2878952634787914027
+    second: farmer props 32x32 v00_7_14
+  - first:
+      213: -1324532697537884995
+    second: farmer props 32x32 v00_8_14
+  - first:
+      213: 2254172902594260476
+    second: farmer props 32x32 v00_9_14
+  - first:
+      213: -7460732557890868076
+    second: farmer props 32x32 v00_10_14
+  - first:
+      213: 5516964270384901691
+    second: farmer props 32x32 v00_11_14
+  - first:
+      213: 4624652653218347038
+    second: farmer props 32x32 v00_12_14
+  - first:
+      213: -6260839115818056643
+    second: farmer props 32x32 v00_13_14
+  - first:
+      213: -2333217102961485201
+    second: farmer props 32x32 v00_14_14
+  - first:
+      213: -7660938685373004628
+    second: farmer props 32x32 v00_15_14
+  - first:
+      213: 5100745981931422011
+    second: farmer props 32x32 v00_0_15
+  - first:
+      213: -517996403658489236
+    second: farmer props 32x32 v00_1_15
+  - first:
+      213: -2229392943222103985
+    second: farmer props 32x32 v00_2_15
+  - first:
+      213: -651667726814657832
+    second: farmer props 32x32 v00_3_15
+  - first:
+      213: 4547932638817527597
+    second: farmer props 32x32 v00_4_15
+  - first:
+      213: 5290864035893011205
+    second: farmer props 32x32 v00_5_15
+  - first:
+      213: -527756059422265448
+    second: farmer props 32x32 v00_6_15
+  - first:
+      213: -5452887085014074987
+    second: farmer props 32x32 v00_7_15
+  - first:
+      213: -5140106935915690487
+    second: farmer props 32x32 v00_8_15
+  - first:
+      213: -5631473281235386632
+    second: farmer props 32x32 v00_9_15
+  - first:
+      213: -9165457002465765740
+    second: farmer props 32x32 v00_10_15
+  - first:
+      213: -8116270937827567319
+    second: farmer props 32x32 v00_11_15
+  - first:
+      213: 5738086918680981281
+    second: farmer props 32x32 v00_12_15
+  - first:
+      213: -7809179989373730710
+    second: farmer props 32x32 v00_13_15
+  - first:
+      213: -6968634148681759344
+    second: farmer props 32x32 v00_14_15
+  - first:
+      213: -9184946113380180904
+    second: farmer props 32x32 v00_15_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24b9776d8ed51010800000000000000
+      internalID: 1159077178025554990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ae5855d00a1ef80800000000000000
+      internalID: -8079000277396100570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a4cbb22f9c2b2c0800000000000000
+      internalID: -4417246242544006551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0e27f208031d320800000000000000
+      internalID: 2580897388570009766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd21506016c2c3370800000000000000
+      internalID: 8303560608188797660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d6e22cfcec58c0800000000000000
+      internalID: -4009069000605117138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601c9ada939841370800000000000000
+      internalID: 8292403694715650310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d7d8e26374c770800000000000000
+      internalID: 8630149654599159834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f93e76bc1bc72040800000000000000
+      internalID: 4622886866700351993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf99169e77120d5f0800000000000000
+      internalID: -734049940361078277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68108f35af2d5f340800000000000000
+      internalID: 4897052142427701638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4927d08efb5a950800000000000000
+      internalID: 6459780243911775403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28dffb1a064aa30800000000000000
+      internalID: 4225608598207431367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f0445bf46c5e70800000000000000
+      internalID: 9105263577249413187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1efb1168c0730b0800000000000000
+      internalID: -5749112629352209982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9d0cd29481dac20800000000000000
+      internalID: 3219256011219065254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e141ac5b262d6b00800000000000000
+      internalID: 823356274558190054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e48f4fd6f93d2c0800000000000000
+      internalID: -4408004315655418340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dabbb830c028d40800000000000000
+      internalID: 5585039697261604099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e53f50a4c3784d0800000000000000
+      internalID: -3132468727187808624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2084c79a7f85f50800000000000000
+      internalID: 6870513538860319461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efbbd4b9e9b8fc20800000000000000
+      internalID: 3240544345305890785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc5de83bfa31fbd0800000000000000
+      internalID: -2598230659349783366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c64b77419c566b0800000000000000
+      internalID: -5303611896414049196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc08e683e1f5d670800000000000000
+      internalID: 8563016226038090960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77635d1036c103c30800000000000000
+      internalID: 4336997652715878007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd725c3bf35a57af0800000000000000
+      internalID: -399231298934855715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd7615bf7e7d0530800000000000000
+      internalID: 3822850745671515639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c777bc1041c9950800000000000000
+      internalID: 6457057963683576965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023785c5bdfe38e60800000000000000
+      internalID: 7963472291547345696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83b85f4eda5bd1f0800000000000000
+      internalID: -1019120979808832626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc37a5853fe7a53e0800000000000000
+      internalID: -2064197895571475505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e0b89c497f7260800000000000000
+      internalID: 7097524907645396687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9441d24f7bea1d0800000000000000
+      internalID: -3337528014478751277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3c76b49fa93590800000000000000
+      internalID: -7693925435134165146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64df6d7f5a5085390800000000000000
+      internalID: -7829501741797802682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a715ecaf6c48560800000000000000
+      internalID: 7315190475262098019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac44add0fe04e310800000000000000
+      internalID: 1433287009084132522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe5ad255094801c0800000000000000
+      internalID: -4537296337362067778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5400ca03bb3fc4710800000000000000
+      internalID: 1678984746403364933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeebf05eb7d23fc0800000000000000
+      internalID: -3516511146620490003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5efdfbf0eddf3490800000000000000
+      internalID: -7764243274193306022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f883119c8f148ac0800000000000000
+      internalID: -3853920692532442889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed7b3b3488d14b0800000000000000
+      internalID: -5468064548198555919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934a813c834cce30800000000000000
+      internalID: 4525065995006133145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0a646d0c6284c50800000000000000
+      internalID: 6649607459483066584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a457d4144eab4a0800000000000000
+      internalID: -6576693336697648579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a31c0d1add1c8d80800000000000000
+      internalID: -8247183994994814048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc43acac015dd740800000000000000
+      internalID: 5178384261423779015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e377e7a04520a8f00800000000000000
+      internalID: 1119710017331558206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23df9c6818f74ec50800000000000000
+      internalID: 6693615140468292914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079c000dcc01bef80800000000000000
+      internalID: -8076343034909767312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e0f1df00342c20800000000000000
+      internalID: 3180720081335281327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51834adfd31dd7470800000000000000
+      internalID: 8394095344667080725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf1853cc1ac2d4b0800000000000000
+      internalID: -5417045176888057920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8518dcbec961220800000000000000
+      internalID: 2456323183356238074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c9273e3bbde4b60800000000000000
+      internalID: 7732359175903288453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_1_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa33992e1b7e4b290800000000000000
+      internalID: -7875415097167236177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_2_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1340f7295cb94f60800000000000000
+      internalID: 8019147702618047261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_3_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e508880097ac750800000000000000
+      internalID: 6326001669792358006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_4_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82704b78cb7e6d1e0800000000000000
+      internalID: -2173294973243095256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_5_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23545efd2a4ed35e0800000000000000
+      internalID: -1928133677252524750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_6_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a8f691a0206a30800000000000000
+      internalID: 4206397930358744418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer props 32x32 v00_7_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd912ac49d4036a00800000000000000
+      internalID: 748447294413740508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farmer props 32x32 v00_0: 1406030525034619667
+      farmer props 32x32 v00_0_0: 1159077178025554990
+      farmer props 32x32 v00_0_1: 4622886866700351993
+      farmer props 32x32 v00_0_10: 8143362848910086136
+      farmer props 32x32 v00_0_11: -3420882799662308203
+      farmer props 32x32 v00_0_12: -5768577377298631474
+      farmer props 32x32 v00_0_13: -4174005342990988182
+      farmer props 32x32 v00_0_14: -8249734477998514185
+      farmer props 32x32 v00_0_15: 5100745981931422011
+      farmer props 32x32 v00_0_2: 823356274558190054
+      farmer props 32x32 v00_0_3: 8563016226038090960
+      farmer props 32x32 v00_0_4: 7097524907645396687
+      farmer props 32x32 v00_0_5: -3516511146620490003
+      farmer props 32x32 v00_0_6: 5178384261423779015
+      farmer props 32x32 v00_0_7: 7732359175903288453
+      farmer props 32x32 v00_0_8: 9101698161446239704
+      farmer props 32x32 v00_0_9: 1803150390859269457
+      farmer props 32x32 v00_1: 1300708003536149844
+      farmer props 32x32 v00_10: -415338909751331548
+      farmer props 32x32 v00_10_0: -5945078370020608971
+      farmer props 32x32 v00_10_1: -2620114700971664987
+      farmer props 32x32 v00_10_10: 2142396948923940071
+      farmer props 32x32 v00_10_11: -4410123684787755246
+      farmer props 32x32 v00_10_12: 3369428210097735723
+      farmer props 32x32 v00_10_13: 57668501547899795
+      farmer props 32x32 v00_10_14: -7460732557890868076
+      farmer props 32x32 v00_10_15: -9165457002465765740
+      farmer props 32x32 v00_10_2: 7219400304624388474
+      farmer props 32x32 v00_10_3: 238163234471407987
+      farmer props 32x32 v00_10_4: -111555747488153007
+      farmer props 32x32 v00_10_5: 8689127409761663068
+      farmer props 32x32 v00_10_6: -5923093112164879502
+      farmer props 32x32 v00_10_7: -594795381888829599
+      farmer props 32x32 v00_10_8: 2293409898309948388
+      farmer props 32x32 v00_10_9: 5743559116799533493
+      farmer props 32x32 v00_11: -1142802419118009570
+      farmer props 32x32 v00_11_0: 8665346914020206446
+      farmer props 32x32 v00_11_1: -3539759894041706002
+      farmer props 32x32 v00_11_10: -4999777701403097190
+      farmer props 32x32 v00_11_11: -3402516223978230239
+      farmer props 32x32 v00_11_12: -4671880345912837326
+      farmer props 32x32 v00_11_13: -1952621202709838657
+      farmer props 32x32 v00_11_14: 5516964270384901691
+      farmer props 32x32 v00_11_15: -8116270937827567319
+      farmer props 32x32 v00_11_2: 6583985652923279206
+      farmer props 32x32 v00_11_3: 1076641144248785521
+      farmer props 32x32 v00_11_4: 7190848487690216529
+      farmer props 32x32 v00_11_5: -7902740442176944867
+      farmer props 32x32 v00_11_6: 1869305652180453706
+      farmer props 32x32 v00_11_7: -8814208069067226098
+      farmer props 32x32 v00_11_8: -7381181034688919906
+      farmer props 32x32 v00_11_9: -4188643648686143172
+      farmer props 32x32 v00_12: 6275406279609564261
+      farmer props 32x32 v00_12_0: -5182835128652751625
+      farmer props 32x32 v00_12_1: 1496376835132203526
+      farmer props 32x32 v00_12_10: 7979032275466466298
+      farmer props 32x32 v00_12_11: 5591742247824440462
+      farmer props 32x32 v00_12_12: 9030763657039658223
+      farmer props 32x32 v00_12_13: -9085709627016929456
+      farmer props 32x32 v00_12_14: 4624652653218347038
+      farmer props 32x32 v00_12_15: 5738086918680981281
+      farmer props 32x32 v00_12_2: -1896764999369307652
+      farmer props 32x32 v00_12_3: -8692857005089677553
+      farmer props 32x32 v00_12_4: -6527509939663375589
+      farmer props 32x32 v00_12_5: -7263127665877438438
+      farmer props 32x32 v00_12_6: -43104840166763213
+      farmer props 32x32 v00_12_7: -3524401340510025462
+      farmer props 32x32 v00_12_8: -6870835866638822869
+      farmer props 32x32 v00_12_9: 2853925587731092798
+      farmer props 32x32 v00_13: 6678879160392950517
+      farmer props 32x32 v00_13_0: 4546655630081107423
+      farmer props 32x32 v00_13_1: -6007469013220563771
+      farmer props 32x32 v00_13_10: 8477757890390544296
+      farmer props 32x32 v00_13_11: -7213848055892436444
+      farmer props 32x32 v00_13_12: 4737969123858627541
+      farmer props 32x32 v00_13_13: -2304420802352674428
+      farmer props 32x32 v00_13_14: -6260839115818056643
+      farmer props 32x32 v00_13_15: -7809179989373730710
+      farmer props 32x32 v00_13_2: 2851530231151206463
+      farmer props 32x32 v00_13_3: 5044988755031533311
+      farmer props 32x32 v00_13_4: -5956005128940246184
+      farmer props 32x32 v00_13_5: 3444579951764012831
+      farmer props 32x32 v00_13_6: -4143970903726785544
+      farmer props 32x32 v00_13_7: 7893616998047121604
+      farmer props 32x32 v00_13_8: -2732975758542243133
+      farmer props 32x32 v00_13_9: 8970089085792534151
+      farmer props 32x32 v00_14: -4029462846012676807
+      farmer props 32x32 v00_14_0: 1709291492648312333
+      farmer props 32x32 v00_14_1: -3946712451375839590
+      farmer props 32x32 v00_14_10: -4252739313811417511
+      farmer props 32x32 v00_14_11: 1447062070528720964
+      farmer props 32x32 v00_14_12: 6848941158091849703
+      farmer props 32x32 v00_14_13: 1153169034822867807
+      farmer props 32x32 v00_14_14: -2333217102961485201
+      farmer props 32x32 v00_14_15: -6968634148681759344
+      farmer props 32x32 v00_14_2: 1913128861476099109
+      farmer props 32x32 v00_14_3: -6682125180508504602
+      farmer props 32x32 v00_14_4: 8602630155715517876
+      farmer props 32x32 v00_14_5: 7178687624644934225
+      farmer props 32x32 v00_14_6: -6170495201297907485
+      farmer props 32x32 v00_14_7: 7682877904151228830
+      farmer props 32x32 v00_14_8: 601688817188757238
+      farmer props 32x32 v00_14_9: -8274493440588447573
+      farmer props 32x32 v00_15: 4948403877261681024
+      farmer props 32x32 v00_15_0: 57187390806698505
+      farmer props 32x32 v00_15_1: 4611809850852774252
+      farmer props 32x32 v00_15_10: 8958127157525166905
+      farmer props 32x32 v00_15_11: -1931890280039015578
+      farmer props 32x32 v00_15_12: 9106587870722081702
+      farmer props 32x32 v00_15_13: -2617137698311323203
+      farmer props 32x32 v00_15_14: -7660938685373004628
+      farmer props 32x32 v00_15_15: -9184946113380180904
+      farmer props 32x32 v00_15_2: -1429239106279994937
+      farmer props 32x32 v00_15_3: -1700666638668133223
+      farmer props 32x32 v00_15_4: 2163845726607949857
+      farmer props 32x32 v00_15_5: 7174510699348642822
+      farmer props 32x32 v00_15_6: -4456839507844139983
+      farmer props 32x32 v00_15_7: 6953125340422088778
+      farmer props 32x32 v00_15_8: 2853383239133855979
+      farmer props 32x32 v00_15_9: -3839013445748114344
+      farmer props 32x32 v00_16: 2321239762958951420
+      farmer props 32x32 v00_17: 8406541707584945703
+      farmer props 32x32 v00_18: -2118826743934462164
+      farmer props 32x32 v00_19: -6156332473059313004
+      farmer props 32x32 v00_1_0: -8079000277396100570
+      farmer props 32x32 v00_1_1: -734049940361078277
+      farmer props 32x32 v00_1_10: -6866325158992491433
+      farmer props 32x32 v00_1_11: -4985544286423354322
+      farmer props 32x32 v00_1_12: -8071433074621220586
+      farmer props 32x32 v00_1_13: 6643543847079241199
+      farmer props 32x32 v00_1_14: 1433688677442551092
+      farmer props 32x32 v00_1_15: -517996403658489236
+      farmer props 32x32 v00_1_2: -4408004315655418340
+      farmer props 32x32 v00_1_3: 4336997652715878007
+      farmer props 32x32 v00_1_4: -3337528014478751277
+      farmer props 32x32 v00_1_5: -7764243274193306022
+      farmer props 32x32 v00_1_6: 1119710017331558206
+      farmer props 32x32 v00_1_7: -7875415097167236177
+      farmer props 32x32 v00_1_8: -2344324594910551034
+      farmer props 32x32 v00_1_9: 7090502862639314955
+      farmer props 32x32 v00_2: -6114512253312668813
+      farmer props 32x32 v00_20: -5878989662073875584
+      farmer props 32x32 v00_21: 7209454617397008598
+      farmer props 32x32 v00_22: -928106349095471630
+      farmer props 32x32 v00_23: -7390283673199181393
+      farmer props 32x32 v00_24: 6331720108811011553
+      farmer props 32x32 v00_25: -7063186350040556135
+      farmer props 32x32 v00_26: 3414150556424999354
+      farmer props 32x32 v00_27: 283435711949307519
+      farmer props 32x32 v00_28: -2908079361664737779
+      farmer props 32x32 v00_2_0: -4417246242544006551
+      farmer props 32x32 v00_2_1: 4897052142427701638
+      farmer props 32x32 v00_2_10: 2844880813496569339
+      farmer props 32x32 v00_2_11: 1831365021724425976
+      farmer props 32x32 v00_2_12: -848233993066823014
+      farmer props 32x32 v00_2_13: -171387991782675967
+      farmer props 32x32 v00_2_14: 5012419705755499164
+      farmer props 32x32 v00_2_15: -2229392943222103985
+      farmer props 32x32 v00_2_2: 5585039697261604099
+      farmer props 32x32 v00_2_3: -399231298934855715
+      farmer props 32x32 v00_2_4: -7693925435134165146
+      farmer props 32x32 v00_2_5: -3853920692532442889
+      farmer props 32x32 v00_2_6: 6693615140468292914
+      farmer props 32x32 v00_2_7: 8019147702618047261
+      farmer props 32x32 v00_2_8: -8608468834542982319
+      farmer props 32x32 v00_2_9: -6093801799440443853
+      farmer props 32x32 v00_3: -4964770033356801768
+      farmer props 32x32 v00_3_0: 2580897388570009766
+      farmer props 32x32 v00_3_1: 6459780243911775403
+      farmer props 32x32 v00_3_10: -3006534243237377462
+      farmer props 32x32 v00_3_11: 1381736396202736549
+      farmer props 32x32 v00_3_12: 5620145689489042816
+      farmer props 32x32 v00_3_13: 5292859683592080858
+      farmer props 32x32 v00_3_14: -4956540021440395498
+      farmer props 32x32 v00_3_15: -651667726814657832
+      farmer props 32x32 v00_3_2: -3132468727187808624
+      farmer props 32x32 v00_3_3: 3822850745671515639
+      farmer props 32x32 v00_3_4: -7829501741797802682
+      farmer props 32x32 v00_3_5: -5468064548198555919
+      farmer props 32x32 v00_3_6: -8076343034909767312
+      farmer props 32x32 v00_3_7: 6326001669792358006
+      farmer props 32x32 v00_3_8: -97905788460095398
+      farmer props 32x32 v00_3_9: 7679091708393089564
+      farmer props 32x32 v00_4: -6190114670624857277
+      farmer props 32x32 v00_4_0: 8303560608188797660
+      farmer props 32x32 v00_4_1: 4225608598207431367
+      farmer props 32x32 v00_4_10: -6231700939476068818
+      farmer props 32x32 v00_4_11: 1047505672277821642
+      farmer props 32x32 v00_4_12: -7687391167817791347
+      farmer props 32x32 v00_4_13: -7157940368515355093
+      farmer props 32x32 v00_4_14: 5054938001180552272
+      farmer props 32x32 v00_4_15: 4547932638817527597
+      farmer props 32x32 v00_4_2: 6870513538860319461
+      farmer props 32x32 v00_4_3: 6457057963683576965
+      farmer props 32x32 v00_4_4: 7315190475262098019
+      farmer props 32x32 v00_4_5: 4525065995006133145
+      farmer props 32x32 v00_4_6: 3180720081335281327
+      farmer props 32x32 v00_4_7: -2173294973243095256
+      farmer props 32x32 v00_4_8: -1999520704443040328
+      farmer props 32x32 v00_4_9: -6983825349808556033
+      farmer props 32x32 v00_5: -5381889633311195801
+      farmer props 32x32 v00_5_0: -4009069000605117138
+      farmer props 32x32 v00_5_1: 9105263577249413187
+      farmer props 32x32 v00_5_10: -7046335104098648760
+      farmer props 32x32 v00_5_11: 8339295984018052232
+      farmer props 32x32 v00_5_12: -8013613672961880461
+      farmer props 32x32 v00_5_13: -2242927763072831552
+      farmer props 32x32 v00_5_14: 4429708120017666878
+      farmer props 32x32 v00_5_15: 5290864035893011205
+      farmer props 32x32 v00_5_2: 3240544345305890785
+      farmer props 32x32 v00_5_3: 7963472291547345696
+      farmer props 32x32 v00_5_4: 1433287009084132522
+      farmer props 32x32 v00_5_5: 6649607459483066584
+      farmer props 32x32 v00_5_6: 8394095344667080725
+      farmer props 32x32 v00_5_7: -1928133677252524750
+      farmer props 32x32 v00_5_8: 2497079272223891912
+      farmer props 32x32 v00_5_9: -6864852119873140934
+      farmer props 32x32 v00_6: 1210473537932699747
+      farmer props 32x32 v00_6_0: 8292403694715650310
+      farmer props 32x32 v00_6_1: -5749112629352209982
+      farmer props 32x32 v00_6_10: 4242205419603636814
+      farmer props 32x32 v00_6_11: -6016210370561172573
+      farmer props 32x32 v00_6_12: -5275773517466487027
+      farmer props 32x32 v00_6_13: 5736090115848556658
+      farmer props 32x32 v00_6_14: -3730707330784631812
+      farmer props 32x32 v00_6_15: -527756059422265448
+      farmer props 32x32 v00_6_2: -2598230659349783366
+      farmer props 32x32 v00_6_3: -1019120979808832626
+      farmer props 32x32 v00_6_4: -4537296337362067778
+      farmer props 32x32 v00_6_5: -6576693336697648579
+      farmer props 32x32 v00_6_6: -5417045176888057920
+      farmer props 32x32 v00_6_7: 4206397930358744418
+      farmer props 32x32 v00_6_8: -8719850178473164947
+      farmer props 32x32 v00_6_9: -4488190829948064785
+      farmer props 32x32 v00_7: 522321622918421597
+      farmer props 32x32 v00_7_0: 8630149654599159834
+      farmer props 32x32 v00_7_1: 3219256011219065254
+      farmer props 32x32 v00_7_10: 2147837887221053719
+      farmer props 32x32 v00_7_11: 5489588716059881056
+      farmer props 32x32 v00_7_12: -2404009355348393986
+      farmer props 32x32 v00_7_13: -2640289710080861798
+      farmer props 32x32 v00_7_14: 2878952634787914027
+      farmer props 32x32 v00_7_15: -5452887085014074987
+      farmer props 32x32 v00_7_2: -5303611896414049196
+      farmer props 32x32 v00_7_3: -2064197895571475505
+      farmer props 32x32 v00_7_4: 1678984746403364933
+      farmer props 32x32 v00_7_5: -8247183994994814048
+      farmer props 32x32 v00_7_6: 2456323183356238074
+      farmer props 32x32 v00_7_7: 748447294413740508
+      farmer props 32x32 v00_7_8: -6146892551247828895
+      farmer props 32x32 v00_7_9: -8541930494658027599
+      farmer props 32x32 v00_8: -7129927506272852773
+      farmer props 32x32 v00_8_0: 825840316848298668
+      farmer props 32x32 v00_8_1: 6776825158978925716
+      farmer props 32x32 v00_8_10: -3166278296714652973
+      farmer props 32x32 v00_8_11: -3430687420637159133
+      farmer props 32x32 v00_8_12: 5187850800994223153
+      farmer props 32x32 v00_8_13: 909409783119929649
+      farmer props 32x32 v00_8_14: -1324532697537884995
+      farmer props 32x32 v00_8_15: -5140106935915690487
+      farmer props 32x32 v00_8_2: 5971731821866657181
+      farmer props 32x32 v00_8_3: -5000767506934487919
+      farmer props 32x32 v00_8_4: -5868054364646031122
+      farmer props 32x32 v00_8_5: -3298285016699516718
+      farmer props 32x32 v00_8_6: -1091328877526571676
+      farmer props 32x32 v00_8_7: 1340313859383710403
+      farmer props 32x32 v00_8_8: 2729226019475790074
+      farmer props 32x32 v00_8_9: -918809062897116854
+      farmer props 32x32 v00_9: -8476204187529745824
+      farmer props 32x32 v00_9_0: 7154048812145503302
+      farmer props 32x32 v00_9_1: -4462765239158246042
+      farmer props 32x32 v00_9_10: -7756043221334645836
+      farmer props 32x32 v00_9_11: -5150359978617026138
+      farmer props 32x32 v00_9_12: 304995607948321599
+      farmer props 32x32 v00_9_13: -6580501629684240191
+      farmer props 32x32 v00_9_14: 2254172902594260476
+      farmer props 32x32 v00_9_15: -5631473281235386632
+      farmer props 32x32 v00_9_2: 3862065611019072088
+      farmer props 32x32 v00_9_3: -4308034323786505098
+      farmer props 32x32 v00_9_4: -5838814097380859401
+      farmer props 32x32 v00_9_5: -2232953563425894934
+      farmer props 32x32 v00_9_6: 523667453742952571
+      farmer props 32x32 v00_9_7: 3561885906808143074
+      farmer props 32x32 v00_9_8: -5528298635752510680
+      farmer props 32x32 v00_9_9: -8115880498638880230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

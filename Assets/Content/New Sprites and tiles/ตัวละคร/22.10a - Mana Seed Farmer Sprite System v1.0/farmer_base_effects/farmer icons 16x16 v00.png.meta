@@ -1,0 +1,3743 @@
+fileFormatVersion: 2
+guid: add6fa8101e49334180e9962d12f3d8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7649705367163176119
+    second: farmer icons 16x16 v00_0
+  - first:
+      213: 5029036306412651233
+    second: farmer icons 16x16 v00_1
+  - first:
+      213: 8860904234528934883
+    second: farmer icons 16x16 v00_2
+  - first:
+      213: 605866180396926763
+    second: farmer icons 16x16 v00_3
+  - first:
+      213: -4001253594848759815
+    second: farmer icons 16x16 v00_4
+  - first:
+      213: -4577455316868463314
+    second: farmer icons 16x16 v00_5
+  - first:
+      213: 4276917053304163089
+    second: farmer icons 16x16 v00_6
+  - first:
+      213: -3407581694122103003
+    second: farmer icons 16x16 v00_7
+  - first:
+      213: 459898202497367464
+    second: farmer icons 16x16 v00_8
+  - first:
+      213: 3725583081153219315
+    second: farmer icons 16x16 v00_9
+  - first:
+      213: 5859849547998489883
+    second: farmer icons 16x16 v00_10
+  - first:
+      213: 709280142249371393
+    second: farmer icons 16x16 v00_11
+  - first:
+      213: -3755481808463108683
+    second: farmer icons 16x16 v00_12
+  - first:
+      213: -2344411922292692037
+    second: farmer icons 16x16 v00_13
+  - first:
+      213: -6176298855502602213
+    second: farmer icons 16x16 v00_14
+  - first:
+      213: 6020497416890057176
+    second: farmer icons 16x16 v00_15
+  - first:
+      213: 3717931909865952876
+    second: farmer icons 16x16 v00_16
+  - first:
+      213: 6400419992999622250
+    second: farmer icons 16x16 v00_17
+  - first:
+      213: -8405603314359092809
+    second: farmer icons 16x16 v00_18
+  - first:
+      213: 5080386089577981600
+    second: farmer icons 16x16 v00_19
+  - first:
+      213: 6458866335126140127
+    second: farmer icons 16x16 v00_20
+  - first:
+      213: 2130922678271187170
+    second: farmer icons 16x16 v00_21
+  - first:
+      213: -6361045965251165555
+    second: farmer icons 16x16 v00_22
+  - first:
+      213: 1937886870272073575
+    second: farmer icons 16x16 v00_23
+  - first:
+      213: -8806285658104192071
+    second: farmer icons 16x16 v00_24
+  - first:
+      213: 7396283234131146501
+    second: farmer icons 16x16 v00_25
+  - first:
+      213: -528568715997856851
+    second: farmer icons 16x16 v00_26
+  - first:
+      213: -5541635292427123062
+    second: farmer icons 16x16 v00_27
+  - first:
+      213: -3867680248022111417
+    second: farmer icons 16x16 v00_28
+  - first:
+      213: -1512750730003585788
+    second: farmer icons 16x16 v00_29
+  - first:
+      213: -1912007778976020923
+    second: farmer icons 16x16 v00_30
+  - first:
+      213: 8082702198657463073
+    second: farmer icons 16x16 v00_31
+  - first:
+      213: -7568595445968538121
+    second: farmer icons 16x16 v00_32
+  - first:
+      213: -1274103101007370182
+    second: farmer icons 16x16 v00_33
+  - first:
+      213: -3425618345073811435
+    second: farmer icons 16x16 v00_34
+  - first:
+      213: -7036028336298009892
+    second: farmer icons 16x16 v00_35
+  - first:
+      213: 3512439243082941725
+    second: farmer icons 16x16 v00_36
+  - first:
+      213: -3852497666740881868
+    second: farmer icons 16x16 v00_37
+  - first:
+      213: -2660922132837144381
+    second: farmer icons 16x16 v00_38
+  - first:
+      213: -1505141390909510277
+    second: farmer icons 16x16 v00_39
+  - first:
+      213: 8654827849556554504
+    second: farmer icons 16x16 v00_40
+  - first:
+      213: 5113650827328120297
+    second: farmer icons 16x16 v00_41
+  - first:
+      213: -5359387240197679002
+    second: farmer icons 16x16 v00_42
+  - first:
+      213: -3819947093063306218
+    second: farmer icons 16x16 v00_43
+  - first:
+      213: 8160927108372641599
+    second: farmer icons 16x16 v00_44
+  - first:
+      213: -4875361228868785895
+    second: farmer icons 16x16 v00_45
+  - first:
+      213: -6879455335650088414
+    second: farmer icons 16x16 v00_46
+  - first:
+      213: 6364144984309477247
+    second: farmer icons 16x16 v00_47
+  - first:
+      213: 8390620691804736296
+    second: farmer icons 16x16 v00_48
+  - first:
+      213: 7746615880463968299
+    second: farmer icons 16x16 v00_49
+  - first:
+      213: -272299733433998680
+    second: farmer icons 16x16 v00_50
+  - first:
+      213: -7716112462700581849
+    second: farmer icons 16x16 v00_51
+  - first:
+      213: 7160087088984394412
+    second: farmer icons 16x16 v00_52
+  - first:
+      213: 9049370541781371943
+    second: farmer icons 16x16 v00_53
+  - first:
+      213: -5272936225117419270
+    second: farmer icons 16x16 v00_54
+  - first:
+      213: 2992197199454772460
+    second: farmer icons 16x16 v00_55
+  - first:
+      213: -6271678762049292249
+    second: farmer icons 16x16 v00_56
+  - first:
+      213: 4147409450775587017
+    second: farmer icons 16x16 v00_57
+  - first:
+      213: 6713974468016864872
+    second: farmer icons 16x16 v00_58
+  - first:
+      213: -6283784125370751697
+    second: farmer icons 16x16 v00_59
+  - first:
+      213: 6704692362058140841
+    second: farmer icons 16x16 v00_60
+  - first:
+      213: -1596498431931668804
+    second: farmer icons 16x16 v00_61
+  - first:
+      213: -3212699596380529242
+    second: farmer icons 16x16 v00_62
+  - first:
+      213: 5584237364859595505
+    second: farmer icons 16x16 v00_63
+  - first:
+      213: 2137920817983525603
+    second: farmer icons 16x16 v00_64
+  - first:
+      213: 5420578262287591140
+    second: farmer icons 16x16 v00_65
+  - first:
+      213: -7332683158583366878
+    second: farmer icons 16x16 v00_66
+  - first:
+      213: -897807343729188216
+    second: farmer icons 16x16 v00_67
+  - first:
+      213: 8767173428776854617
+    second: farmer icons 16x16 v00_0_0
+  - first:
+      213: -2853321601272715800
+    second: farmer icons 16x16 v00_1_0
+  - first:
+      213: -1025297309611045025
+    second: farmer icons 16x16 v00_2_0
+  - first:
+      213: 1436951977000035600
+    second: farmer icons 16x16 v00_3_0
+  - first:
+      213: -3569518293001155686
+    second: farmer icons 16x16 v00_4_0
+  - first:
+      213: -4078049698065830917
+    second: farmer icons 16x16 v00_5_0
+  - first:
+      213: -3273604722927076806
+    second: farmer icons 16x16 v00_6_0
+  - first:
+      213: -9169072388448548553
+    second: farmer icons 16x16 v00_7_0
+  - first:
+      213: 1962748293588842311
+    second: farmer icons 16x16 v00_0_1
+  - first:
+      213: 5564034931896711854
+    second: farmer icons 16x16 v00_1_1
+  - first:
+      213: 1706889879035561297
+    second: farmer icons 16x16 v00_2_1
+  - first:
+      213: 1477105883371350631
+    second: farmer icons 16x16 v00_3_1
+  - first:
+      213: -5300721557858380188
+    second: farmer icons 16x16 v00_4_1
+  - first:
+      213: -771020972336547351
+    second: farmer icons 16x16 v00_5_1
+  - first:
+      213: 8287755872986560888
+    second: farmer icons 16x16 v00_6_1
+  - first:
+      213: -6227080514437646896
+    second: farmer icons 16x16 v00_7_1
+  - first:
+      213: 1458485753194552685
+    second: farmer icons 16x16 v00_0_2
+  - first:
+      213: 5944546363576661852
+    second: farmer icons 16x16 v00_1_2
+  - first:
+      213: 5068759268731897713
+    second: farmer icons 16x16 v00_2_2
+  - first:
+      213: -5910808712710091717
+    second: farmer icons 16x16 v00_3_2
+  - first:
+      213: -7251390763249832686
+    second: farmer icons 16x16 v00_4_2
+  - first:
+      213: -7985860334185218983
+    second: farmer icons 16x16 v00_5_2
+  - first:
+      213: -4526758038721707277
+    second: farmer icons 16x16 v00_6_2
+  - first:
+      213: 7573798699989936291
+    second: farmer icons 16x16 v00_7_2
+  - first:
+      213: -8731940256727713152
+    second: farmer icons 16x16 v00_0_3
+  - first:
+      213: 4244646801647305517
+    second: farmer icons 16x16 v00_1_3
+  - first:
+      213: -6550709957971840845
+    second: farmer icons 16x16 v00_2_3
+  - first:
+      213: -8698340214273954589
+    second: farmer icons 16x16 v00_3_3
+  - first:
+      213: -5016693644983546046
+    second: farmer icons 16x16 v00_4_3
+  - first:
+      213: -8099127108017255157
+    second: farmer icons 16x16 v00_5_3
+  - first:
+      213: 6416528918607360882
+    second: farmer icons 16x16 v00_6_3
+  - first:
+      213: 3194258813566649173
+    second: farmer icons 16x16 v00_7_3
+  - first:
+      213: 4687102592947541041
+    second: farmer icons 16x16 v00_0_4
+  - first:
+      213: -1690838019110549900
+    second: farmer icons 16x16 v00_1_4
+  - first:
+      213: -8936162971601588224
+    second: farmer icons 16x16 v00_2_4
+  - first:
+      213: -6593757629274805226
+    second: farmer icons 16x16 v00_3_4
+  - first:
+      213: -7898083892407574077
+    second: farmer icons 16x16 v00_4_4
+  - first:
+      213: 7067165423427617104
+    second: farmer icons 16x16 v00_5_4
+  - first:
+      213: -7312027547004614276
+    second: farmer icons 16x16 v00_6_4
+  - first:
+      213: -8518817125244935882
+    second: farmer icons 16x16 v00_7_4
+  - first:
+      213: -6336278552200385060
+    second: farmer icons 16x16 v00_0_5
+  - first:
+      213: -2806777955518850887
+    second: farmer icons 16x16 v00_1_5
+  - first:
+      213: 2758101693081719957
+    second: farmer icons 16x16 v00_2_5
+  - first:
+      213: -8169986723484772126
+    second: farmer icons 16x16 v00_3_5
+  - first:
+      213: -7512577348819949793
+    second: farmer icons 16x16 v00_4_5
+  - first:
+      213: -4547268817590453336
+    second: farmer icons 16x16 v00_5_5
+  - first:
+      213: 59699175298638559
+    second: farmer icons 16x16 v00_6_5
+  - first:
+      213: -605649115953741104
+    second: farmer icons 16x16 v00_7_5
+  - first:
+      213: 351236563051702693
+    second: farmer icons 16x16 v00_0_6
+  - first:
+      213: 3426221935987835528
+    second: farmer icons 16x16 v00_1_6
+  - first:
+      213: 3137118228316878873
+    second: farmer icons 16x16 v00_2_6
+  - first:
+      213: -1158174646922481058
+    second: farmer icons 16x16 v00_3_6
+  - first:
+      213: -4189656511213172438
+    second: farmer icons 16x16 v00_4_6
+  - first:
+      213: -3941663134968181647
+    second: farmer icons 16x16 v00_5_6
+  - first:
+      213: 3250617153504137169
+    second: farmer icons 16x16 v00_6_6
+  - first:
+      213: 778108735906191750
+    second: farmer icons 16x16 v00_7_6
+  - first:
+      213: 968770867808339991
+    second: farmer icons 16x16 v00_0_7
+  - first:
+      213: -4756081546595854430
+    second: farmer icons 16x16 v00_1_7
+  - first:
+      213: -6866262666565595825
+    second: farmer icons 16x16 v00_2_7
+  - first:
+      213: -3121331039068075192
+    second: farmer icons 16x16 v00_3_7
+  - first:
+      213: 3239058848215977238
+    second: farmer icons 16x16 v00_4_7
+  - first:
+      213: 5557114242996854609
+    second: farmer icons 16x16 v00_5_7
+  - first:
+      213: -6480562127290760677
+    second: farmer icons 16x16 v00_6_7
+  - first:
+      213: 4082510346637719782
+    second: farmer icons 16x16 v00_7_7
+  - first:
+      213: -8448311389922673213
+    second: farmer icons 16x16 v00_0_8
+  - first:
+      213: 2800328966601839057
+    second: farmer icons 16x16 v00_1_8
+  - first:
+      213: -6355979471803775932
+    second: farmer icons 16x16 v00_2_8
+  - first:
+      213: 3435621424847001263
+    second: farmer icons 16x16 v00_3_8
+  - first:
+      213: -1913954382647737205
+    second: farmer icons 16x16 v00_4_8
+  - first:
+      213: -5218948741162459858
+    second: farmer icons 16x16 v00_5_8
+  - first:
+      213: -1794343787761420308
+    second: farmer icons 16x16 v00_6_8
+  - first:
+      213: 3780327579497182938
+    second: farmer icons 16x16 v00_7_8
+  - first:
+      213: 7637911375087231708
+    second: farmer icons 16x16 v00_0_9
+  - first:
+      213: -1325612698185027151
+    second: farmer icons 16x16 v00_1_9
+  - first:
+      213: 179214208626017246
+    second: farmer icons 16x16 v00_2_9
+  - first:
+      213: 5385086237993934074
+    second: farmer icons 16x16 v00_3_9
+  - first:
+      213: 2219714068724166109
+    second: farmer icons 16x16 v00_4_9
+  - first:
+      213: 8287856967707579819
+    second: farmer icons 16x16 v00_5_9
+  - first:
+      213: -4208436243421168002
+    second: farmer icons 16x16 v00_6_9
+  - first:
+      213: 2034862464466053936
+    second: farmer icons 16x16 v00_7_9
+  - first:
+      213: 482714837034676336
+    second: farmer icons 16x16 v00_0_10
+  - first:
+      213: 1982134952739703558
+    second: farmer icons 16x16 v00_1_10
+  - first:
+      213: -3261081290321078330
+    second: farmer icons 16x16 v00_2_10
+  - first:
+      213: -3537608336364671464
+    second: farmer icons 16x16 v00_3_10
+  - first:
+      213: -3739528917548955419
+    second: farmer icons 16x16 v00_4_10
+  - first:
+      213: -1878549579114606762
+    second: farmer icons 16x16 v00_5_10
+  - first:
+      213: 3823185343246916180
+    second: farmer icons 16x16 v00_6_10
+  - first:
+      213: 3419545537812930209
+    second: farmer icons 16x16 v00_7_10
+  - first:
+      213: -5982049367308628496
+    second: farmer icons 16x16 v00_0_11
+  - first:
+      213: 3585080812726800373
+    second: farmer icons 16x16 v00_1_11
+  - first:
+      213: -5651066080090025304
+    second: farmer icons 16x16 v00_2_11
+  - first:
+      213: 2177963717309079799
+    second: farmer icons 16x16 v00_3_11
+  - first:
+      213: -5008669486276963074
+    second: farmer icons 16x16 v00_4_11
+  - first:
+      213: 4554075555414977461
+    second: farmer icons 16x16 v00_5_11
+  - first:
+      213: -2684536157447761039
+    second: farmer icons 16x16 v00_6_11
+  - first:
+      213: 4821299885607238192
+    second: farmer icons 16x16 v00_7_11
+  - first:
+      213: 1421820641300246730
+    second: farmer icons 16x16 v00_0_12
+  - first:
+      213: 6439573915598688845
+    second: farmer icons 16x16 v00_1_12
+  - first:
+      213: 5767345352769312744
+    second: farmer icons 16x16 v00_2_12
+  - first:
+      213: -4376164459394950153
+    second: farmer icons 16x16 v00_3_12
+  - first:
+      213: 1352112982242181359
+    second: farmer icons 16x16 v00_4_12
+  - first:
+      213: 954101249196884967
+    second: farmer icons 16x16 v00_5_12
+  - first:
+      213: 4847494964031810061
+    second: farmer icons 16x16 v00_6_12
+  - first:
+      213: -5213059034347901089
+    second: farmer icons 16x16 v00_7_12
+  - first:
+      213: 3354338983416390539
+    second: farmer icons 16x16 v00_0_13
+  - first:
+      213: 9196666966658381917
+    second: farmer icons 16x16 v00_1_13
+  - first:
+      213: -4774215879374477996
+    second: farmer icons 16x16 v00_2_13
+  - first:
+      213: -7226598584182501871
+    second: farmer icons 16x16 v00_3_13
+  - first:
+      213: 1765100586445319004
+    second: farmer icons 16x16 v00_4_13
+  - first:
+      213: 5012694859589918703
+    second: farmer icons 16x16 v00_5_13
+  - first:
+      213: -3395827040219136006
+    second: farmer icons 16x16 v00_6_13
+  - first:
+      213: -5052301084976995974
+    second: farmer icons 16x16 v00_7_13
+  - first:
+      213: -5691610167829187955
+    second: farmer icons 16x16 v00_0_14
+  - first:
+      213: -4540766220126666028
+    second: farmer icons 16x16 v00_1_14
+  - first:
+      213: 6483994709075935022
+    second: farmer icons 16x16 v00_2_14
+  - first:
+      213: 2180839541393086182
+    second: farmer icons 16x16 v00_3_14
+  - first:
+      213: 8993401703820684870
+    second: farmer icons 16x16 v00_4_14
+  - first:
+      213: -4080248357846376703
+    second: farmer icons 16x16 v00_5_14
+  - first:
+      213: -4986313080553624195
+    second: farmer icons 16x16 v00_6_14
+  - first:
+      213: -2884525903524077425
+    second: farmer icons 16x16 v00_7_14
+  - first:
+      213: 239137148125621388
+    second: farmer icons 16x16 v00_0_15
+  - first:
+      213: 7552398849332535594
+    second: farmer icons 16x16 v00_1_15
+  - first:
+      213: -7696414502948605623
+    second: farmer icons 16x16 v00_2_15
+  - first:
+      213: 3170296461452092675
+    second: farmer icons 16x16 v00_3_15
+  - first:
+      213: -5729994512867104237
+    second: farmer icons 16x16 v00_4_15
+  - first:
+      213: 7680409903837088066
+    second: farmer icons 16x16 v00_5_15
+  - first:
+      213: 6419288809867346381
+    second: farmer icons 16x16 v00_6_15
+  - first:
+      213: -8931035949957879757
+    second: farmer icons 16x16 v00_7_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954ec7278c14ba970800000000000000
+      internalID: 8767173428776854617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e0360f17f668d0800000000000000
+      internalID: -2853321601272715800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f4877778965c1f0800000000000000
+      internalID: -1025297309611045025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015e164b53411f310800000000000000
+      internalID: 1436951977000035600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b486e4606867ec0800000000000000
+      internalID: -3569518293001155686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfba562f76bd767c0800000000000000
+      internalID: -4078049698065830917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3af3ea49d1d192d0800000000000000
+      internalID: -3273604722927076806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398ea61e39e0c080800000000000000
+      internalID: -9169072388448548553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747fdd68c251d3b10800000000000000
+      internalID: 1962748293588842311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa71918a4c673d40800000000000000
+      internalID: 5564034931896711854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155cf9e2d4710b710800000000000000
+      internalID: 1706889879035561297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a2df199fbbf7410800000000000000
+      internalID: 1477105883371350631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466989ad3dd0076b0800000000000000
+      internalID: -5300721557858380188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f08db288cc45f0800000000000000
+      internalID: -771020972336547351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879758a5e06040370800000000000000
+      internalID: 8287755872986560888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5ff2db347f499a0800000000000000
+      internalID: -6227080514437646896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d112da0159d3410800000000000000
+      internalID: 1458485753194552685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b3df0c654f7250800000000000000
+      internalID: 5944546363576661852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177cbb013b9d75640800000000000000
+      internalID: 5068759268731897713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c81a7eac698fda0800000000000000
+      internalID: -5910808712710091717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21de1f43582ed5b90800000000000000
+      internalID: -7251390763249832686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cf10346568c2190800000000000000
+      internalID: -7985860334185218983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f249dd2c89bd21c0800000000000000
+      internalID: -4526758038721707277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a827393ac98b1960800000000000000
+      internalID: 7573798699989936291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08abfcda99ae1d680800000000000000
+      internalID: -8731940256727713152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238f29e6c308ea30800000000000000
+      internalID: 4244646801647305517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0797810043715a0800000000000000
+      internalID: -6550709957971840845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eca4b039a9494780800000000000000
+      internalID: -8698340214273954589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fcbcf95bf116ab0800000000000000
+      internalID: -5016693644983546046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d05e76ece1a9f80800000000000000
+      internalID: -8099127108017255157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273fc942e071c0950800000000000000
+      internalID: 6416528918607360882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530d4f8779445c20800000000000000
+      internalID: 3194258813566649173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134537699feeb0140800000000000000
+      internalID: 4687102592947541041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476c032b7cfe888e0800000000000000
+      internalID: -1690838019110549900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00030b68f1f5cf380800000000000000
+      internalID: -8936162971601588224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cad041f544e74a0800000000000000
+      internalID: -6593757629274805226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1efc2bb8e546290800000000000000
+      internalID: -7898083892407574077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0518358528d931260800000000000000
+      internalID: 7067165423427617104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c794be0dfa5768a90800000000000000
+      internalID: -7312027547004614276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631e24f85f417c980800000000000000
+      internalID: -8518817125244935882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6b225a340118a0800000000000000
+      internalID: -6336278552200385060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d6e502525c09d0800000000000000
+      internalID: -2806777955518850887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5941a8670eeb64620800000000000000
+      internalID: 2758101693081719957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e858078c506e9e80800000000000000
+      internalID: -8169986723484772126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17e0ff54b6fdb790800000000000000
+      internalID: -7512577348819949793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab7f455a1bd4e0c0800000000000000
+      internalID: -4547268817590453336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22f09651814d000800000000000000
+      internalID: 59699175298638559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d24c01865d4897f0800000000000000
+      internalID: -605649115953741104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a963dc0bc7dfd400800000000000000
+      internalID: 351236563051702693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882c438a2b26c8f20800000000000000
+      internalID: 3426221935987835528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918fa315868498b20800000000000000
+      internalID: 3137118228316878873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52725e7b465defe0800000000000000
+      internalID: -1158174646922481058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a298c3ec9995bd5c0800000000000000
+      internalID: -4189656511213172438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c08f733466c49c0800000000000000
+      internalID: -3941663134968181647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc76f14138c1d20800000000000000
+      internalID: 3250617153504137169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6891150d5c56cca00800000000000000
+      internalID: 778108735906191750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7188674b8f3c17d00800000000000000
+      internalID: 968770867808339991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a71d5c38010ffdb0800000000000000
+      internalID: -4756081546595854430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dc4d8db7226b0a0800000000000000
+      internalID: -6866262666565595825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b42fd15fdcea4d0800000000000000
+      internalID: -3121331039068075192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dcf767cd273fc20800000000000000
+      internalID: 3239058848215977238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f571e06f5de1d40800000000000000
+      internalID: 5557114242996854609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b120cf9a41b6016a0800000000000000
+      internalID: -6480562127290760677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b23bb78df7a830800000000000000
+      internalID: 4082510346637719782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb5cb4d8191ca80800000000000000
+      internalID: -8448311389922673213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d11a8cbb54ccd620800000000000000
+      internalID: 2800328966601839057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444067788560bc7a0800000000000000
+      internalID: -6355979471803775932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa61ab2bb77cdaf20800000000000000
+      internalID: 3435621424847001263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84caf921a44075e0800000000000000
+      internalID: -1913954382647737205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1a0665c19297b0800000000000000
+      internalID: -5218948741162459858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce73d85f4d53917e0800000000000000
+      internalID: -1794343787761420308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ba8e87eb667430800000000000000
+      internalID: 3780327579497182938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd26df1adef4ff960800000000000000
+      internalID: 7637911375087231708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b13fee364a7a9de0800000000000000
+      internalID: -1325612698185027151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed34bdb8f52bc7200800000000000000
+      internalID: 179214208626017246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc197ce66babba40800000000000000
+      internalID: 5385086237993934074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddad395f220ece10800000000000000
+      internalID: 2219714068724166109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5d47d4002640370800000000000000
+      internalID: 8287856967707579819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e700ba881a895c0800000000000000
+      internalID: -4208436243421168002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b664951a84d3c10800000000000000
+      internalID: 2034862464466053936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07033453692f2b600800000000000000
+      internalID: 482714837034676336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b8feadc35f18b10800000000000000
+      internalID: 1982134952739703558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c75dba28df4eb2d0800000000000000
+      internalID: -3261081290321078330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ee58c06f3e7eec0800000000000000
+      internalID: -3537608336364671464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8813a23468a1cc0800000000000000
+      internalID: -3739528917548955419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f0aeb5c1d0ee5e0800000000000000
+      internalID: -1878549579114606762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a56b640deae0530800000000000000
+      internalID: 3823185343246916180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9c929c8aa47f20800000000000000
+      internalID: 3419545537812930209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd08b07bcd7bfca0800000000000000
+      internalID: -5982049367308628496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff46ad2104c0c130800000000000000
+      internalID: 3585080812726800373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a299fd37516391b0800000000000000
+      internalID: -5651066080090025304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a5e7267ea93e10800000000000000
+      internalID: 2177963717309079799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef49f19a3a1ad7ab0800000000000000
+      internalID: -5008669486276963074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbacc0d693533f30800000000000000
+      internalID: 4554075555414977461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17352ac869c9ebad0800000000000000
+      internalID: -2684536157447761039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a304d93b2b8e240800000000000000
+      internalID: 4821299885607238192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0f40317525bb310800000000000000
+      internalID: 1421820641300246730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d429120ab56fd5950800000000000000
+      internalID: 6439573915598688845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e790d8aa0ab90050800000000000000
+      internalID: 5767345352769312744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb131f2c9db443c0800000000000000
+      internalID: -4376164459394950153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04db2f79ba3c210800000000000000
+      internalID: 1352112982242181359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e30326f706ad3d00800000000000000
+      internalID: 954101249196884967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a6c959cf2c54340800000000000000
+      internalID: 4847494964031810061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f6d80ad6e77a7b0800000000000000
+      internalID: -5213059034347901089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8367ca88810d8e20800000000000000
+      internalID: 3354338983416390539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58fd3151ef11af70800000000000000
+      internalID: 9196666966658381917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455eadcd3f39ebdb0800000000000000
+      internalID: -4774215879374477996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e067730e6f5bb90800000000000000
+      internalID: -7226598584182501871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b28e7a1a5ee7810800000000000000
+      internalID: 1765100586445319004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef98499a6ba09540800000000000000
+      internalID: 5012694859589918703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff721d7c499fd0d0800000000000000
+      internalID: -3395827040219136006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7120a37eee92e9b0800000000000000
+      internalID: -5052301084976995974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d823a8235b65301b0800000000000000
+      internalID: -5691610167829187955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c1494e25fbf0c0800000000000000
+      internalID: -4540766220126666028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fbbff85d6cbf950800000000000000
+      internalID: 6483994709075935022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e65cd02206e34e10800000000000000
+      internalID: 2180839541393086182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eef96533bfecc70800000000000000
+      internalID: 8993401703820684870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f12339cbb0067c0800000000000000
+      internalID: -4080248357846376703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da7befbae0dcab0800000000000000
+      internalID: -4986313080553624195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e80f39fa18f7d0800000000000000
+      internalID: -2884525903524077425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ca0ae18f5915300800000000000000
+      internalID: 239137148125621388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_1_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21e8883db28fc860800000000000000
+      internalID: 7552398849332535594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_2_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941759379c7d03590800000000000000
+      internalID: -7696414502948605623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_3_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a781b5d72ffb20800000000000000
+      internalID: 3170296461452092675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_4_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a6e9f6958fa70b0800000000000000
+      internalID: -5729994512867104237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_5_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490a9f6d1c469a60800000000000000
+      internalID: 7680409903837088066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_6_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc188c66925e51950800000000000000
+      internalID: 6419288809867346381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer icons 16x16 v00_7_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33864864f169e0480800000000000000
+      internalID: -8931035949957879757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farmer icons 16x16 v00_0: -7649705367163176119
+      farmer icons 16x16 v00_0_0: 8767173428776854617
+      farmer icons 16x16 v00_0_1: 1962748293588842311
+      farmer icons 16x16 v00_0_10: 482714837034676336
+      farmer icons 16x16 v00_0_11: -5982049367308628496
+      farmer icons 16x16 v00_0_12: 1421820641300246730
+      farmer icons 16x16 v00_0_13: 3354338983416390539
+      farmer icons 16x16 v00_0_14: -5691610167829187955
+      farmer icons 16x16 v00_0_15: 239137148125621388
+      farmer icons 16x16 v00_0_2: 1458485753194552685
+      farmer icons 16x16 v00_0_3: -8731940256727713152
+      farmer icons 16x16 v00_0_4: 4687102592947541041
+      farmer icons 16x16 v00_0_5: -6336278552200385060
+      farmer icons 16x16 v00_0_6: 351236563051702693
+      farmer icons 16x16 v00_0_7: 968770867808339991
+      farmer icons 16x16 v00_0_8: -8448311389922673213
+      farmer icons 16x16 v00_0_9: 7637911375087231708
+      farmer icons 16x16 v00_1: 5029036306412651233
+      farmer icons 16x16 v00_10: 5859849547998489883
+      farmer icons 16x16 v00_11: 709280142249371393
+      farmer icons 16x16 v00_12: -3755481808463108683
+      farmer icons 16x16 v00_13: -2344411922292692037
+      farmer icons 16x16 v00_14: -6176298855502602213
+      farmer icons 16x16 v00_15: 6020497416890057176
+      farmer icons 16x16 v00_16: 3717931909865952876
+      farmer icons 16x16 v00_17: 6400419992999622250
+      farmer icons 16x16 v00_18: -8405603314359092809
+      farmer icons 16x16 v00_19: 5080386089577981600
+      farmer icons 16x16 v00_1_0: -2853321601272715800
+      farmer icons 16x16 v00_1_1: 5564034931896711854
+      farmer icons 16x16 v00_1_10: 1982134952739703558
+      farmer icons 16x16 v00_1_11: 3585080812726800373
+      farmer icons 16x16 v00_1_12: 6439573915598688845
+      farmer icons 16x16 v00_1_13: 9196666966658381917
+      farmer icons 16x16 v00_1_14: -4540766220126666028
+      farmer icons 16x16 v00_1_15: 7552398849332535594
+      farmer icons 16x16 v00_1_2: 5944546363576661852
+      farmer icons 16x16 v00_1_3: 4244646801647305517
+      farmer icons 16x16 v00_1_4: -1690838019110549900
+      farmer icons 16x16 v00_1_5: -2806777955518850887
+      farmer icons 16x16 v00_1_6: 3426221935987835528
+      farmer icons 16x16 v00_1_7: -4756081546595854430
+      farmer icons 16x16 v00_1_8: 2800328966601839057
+      farmer icons 16x16 v00_1_9: -1325612698185027151
+      farmer icons 16x16 v00_2: 8860904234528934883
+      farmer icons 16x16 v00_20: 6458866335126140127
+      farmer icons 16x16 v00_21: 2130922678271187170
+      farmer icons 16x16 v00_22: -6361045965251165555
+      farmer icons 16x16 v00_23: 1937886870272073575
+      farmer icons 16x16 v00_24: -8806285658104192071
+      farmer icons 16x16 v00_25: 7396283234131146501
+      farmer icons 16x16 v00_26: -528568715997856851
+      farmer icons 16x16 v00_27: -5541635292427123062
+      farmer icons 16x16 v00_28: -3867680248022111417
+      farmer icons 16x16 v00_29: -1512750730003585788
+      farmer icons 16x16 v00_2_0: -1025297309611045025
+      farmer icons 16x16 v00_2_1: 1706889879035561297
+      farmer icons 16x16 v00_2_10: -3261081290321078330
+      farmer icons 16x16 v00_2_11: -5651066080090025304
+      farmer icons 16x16 v00_2_12: 5767345352769312744
+      farmer icons 16x16 v00_2_13: -4774215879374477996
+      farmer icons 16x16 v00_2_14: 6483994709075935022
+      farmer icons 16x16 v00_2_15: -7696414502948605623
+      farmer icons 16x16 v00_2_2: 5068759268731897713
+      farmer icons 16x16 v00_2_3: -6550709957971840845
+      farmer icons 16x16 v00_2_4: -8936162971601588224
+      farmer icons 16x16 v00_2_5: 2758101693081719957
+      farmer icons 16x16 v00_2_6: 3137118228316878873
+      farmer icons 16x16 v00_2_7: -6866262666565595825
+      farmer icons 16x16 v00_2_8: -6355979471803775932
+      farmer icons 16x16 v00_2_9: 179214208626017246
+      farmer icons 16x16 v00_3: 605866180396926763
+      farmer icons 16x16 v00_30: -1912007778976020923
+      farmer icons 16x16 v00_31: 8082702198657463073
+      farmer icons 16x16 v00_32: -7568595445968538121
+      farmer icons 16x16 v00_33: -1274103101007370182
+      farmer icons 16x16 v00_34: -3425618345073811435
+      farmer icons 16x16 v00_35: -7036028336298009892
+      farmer icons 16x16 v00_36: 3512439243082941725
+      farmer icons 16x16 v00_37: -3852497666740881868
+      farmer icons 16x16 v00_38: -2660922132837144381
+      farmer icons 16x16 v00_39: -1505141390909510277
+      farmer icons 16x16 v00_3_0: 1436951977000035600
+      farmer icons 16x16 v00_3_1: 1477105883371350631
+      farmer icons 16x16 v00_3_10: -3537608336364671464
+      farmer icons 16x16 v00_3_11: 2177963717309079799
+      farmer icons 16x16 v00_3_12: -4376164459394950153
+      farmer icons 16x16 v00_3_13: -7226598584182501871
+      farmer icons 16x16 v00_3_14: 2180839541393086182
+      farmer icons 16x16 v00_3_15: 3170296461452092675
+      farmer icons 16x16 v00_3_2: -5910808712710091717
+      farmer icons 16x16 v00_3_3: -8698340214273954589
+      farmer icons 16x16 v00_3_4: -6593757629274805226
+      farmer icons 16x16 v00_3_5: -8169986723484772126
+      farmer icons 16x16 v00_3_6: -1158174646922481058
+      farmer icons 16x16 v00_3_7: -3121331039068075192
+      farmer icons 16x16 v00_3_8: 3435621424847001263
+      farmer icons 16x16 v00_3_9: 5385086237993934074
+      farmer icons 16x16 v00_4: -4001253594848759815
+      farmer icons 16x16 v00_40: 8654827849556554504
+      farmer icons 16x16 v00_41: 5113650827328120297
+      farmer icons 16x16 v00_42: -5359387240197679002
+      farmer icons 16x16 v00_43: -3819947093063306218
+      farmer icons 16x16 v00_44: 8160927108372641599
+      farmer icons 16x16 v00_45: -4875361228868785895
+      farmer icons 16x16 v00_46: -6879455335650088414
+      farmer icons 16x16 v00_47: 6364144984309477247
+      farmer icons 16x16 v00_48: 8390620691804736296
+      farmer icons 16x16 v00_49: 7746615880463968299
+      farmer icons 16x16 v00_4_0: -3569518293001155686
+      farmer icons 16x16 v00_4_1: -5300721557858380188
+      farmer icons 16x16 v00_4_10: -3739528917548955419
+      farmer icons 16x16 v00_4_11: -5008669486276963074
+      farmer icons 16x16 v00_4_12: 1352112982242181359
+      farmer icons 16x16 v00_4_13: 1765100586445319004
+      farmer icons 16x16 v00_4_14: 8993401703820684870
+      farmer icons 16x16 v00_4_15: -5729994512867104237
+      farmer icons 16x16 v00_4_2: -7251390763249832686
+      farmer icons 16x16 v00_4_3: -5016693644983546046
+      farmer icons 16x16 v00_4_4: -7898083892407574077
+      farmer icons 16x16 v00_4_5: -7512577348819949793
+      farmer icons 16x16 v00_4_6: -4189656511213172438
+      farmer icons 16x16 v00_4_7: 3239058848215977238
+      farmer icons 16x16 v00_4_8: -1913954382647737205
+      farmer icons 16x16 v00_4_9: 2219714068724166109
+      farmer icons 16x16 v00_5: -4577455316868463314
+      farmer icons 16x16 v00_50: -272299733433998680
+      farmer icons 16x16 v00_51: -7716112462700581849
+      farmer icons 16x16 v00_52: 7160087088984394412
+      farmer icons 16x16 v00_53: 9049370541781371943
+      farmer icons 16x16 v00_54: -5272936225117419270
+      farmer icons 16x16 v00_55: 2992197199454772460
+      farmer icons 16x16 v00_56: -6271678762049292249
+      farmer icons 16x16 v00_57: 4147409450775587017
+      farmer icons 16x16 v00_58: 6713974468016864872
+      farmer icons 16x16 v00_59: -6283784125370751697
+      farmer icons 16x16 v00_5_0: -4078049698065830917
+      farmer icons 16x16 v00_5_1: -771020972336547351
+      farmer icons 16x16 v00_5_10: -1878549579114606762
+      farmer icons 16x16 v00_5_11: 4554075555414977461
+      farmer icons 16x16 v00_5_12: 954101249196884967
+      farmer icons 16x16 v00_5_13: 5012694859589918703
+      farmer icons 16x16 v00_5_14: -4080248357846376703
+      farmer icons 16x16 v00_5_15: 7680409903837088066
+      farmer icons 16x16 v00_5_2: -7985860334185218983
+      farmer icons 16x16 v00_5_3: -8099127108017255157
+      farmer icons 16x16 v00_5_4: 7067165423427617104
+      farmer icons 16x16 v00_5_5: -4547268817590453336
+      farmer icons 16x16 v00_5_6: -3941663134968181647
+      farmer icons 16x16 v00_5_7: 5557114242996854609
+      farmer icons 16x16 v00_5_8: -5218948741162459858
+      farmer icons 16x16 v00_5_9: 8287856967707579819
+      farmer icons 16x16 v00_6: 4276917053304163089
+      farmer icons 16x16 v00_60: 6704692362058140841
+      farmer icons 16x16 v00_61: -1596498431931668804
+      farmer icons 16x16 v00_62: -3212699596380529242
+      farmer icons 16x16 v00_63: 5584237364859595505
+      farmer icons 16x16 v00_64: 2137920817983525603
+      farmer icons 16x16 v00_65: 5420578262287591140
+      farmer icons 16x16 v00_66: -7332683158583366878
+      farmer icons 16x16 v00_67: -897807343729188216
+      farmer icons 16x16 v00_6_0: -3273604722927076806
+      farmer icons 16x16 v00_6_1: 8287755872986560888
+      farmer icons 16x16 v00_6_10: 3823185343246916180
+      farmer icons 16x16 v00_6_11: -2684536157447761039
+      farmer icons 16x16 v00_6_12: 4847494964031810061
+      farmer icons 16x16 v00_6_13: -3395827040219136006
+      farmer icons 16x16 v00_6_14: -4986313080553624195
+      farmer icons 16x16 v00_6_15: 6419288809867346381
+      farmer icons 16x16 v00_6_2: -4526758038721707277
+      farmer icons 16x16 v00_6_3: 6416528918607360882
+      farmer icons 16x16 v00_6_4: -7312027547004614276
+      farmer icons 16x16 v00_6_5: 59699175298638559
+      farmer icons 16x16 v00_6_6: 3250617153504137169
+      farmer icons 16x16 v00_6_7: -6480562127290760677
+      farmer icons 16x16 v00_6_8: -1794343787761420308
+      farmer icons 16x16 v00_6_9: -4208436243421168002
+      farmer icons 16x16 v00_7: -3407581694122103003
+      farmer icons 16x16 v00_7_0: -9169072388448548553
+      farmer icons 16x16 v00_7_1: -6227080514437646896
+      farmer icons 16x16 v00_7_10: 3419545537812930209
+      farmer icons 16x16 v00_7_11: 4821299885607238192
+      farmer icons 16x16 v00_7_12: -5213059034347901089
+      farmer icons 16x16 v00_7_13: -5052301084976995974
+      farmer icons 16x16 v00_7_14: -2884525903524077425
+      farmer icons 16x16 v00_7_15: -8931035949957879757
+      farmer icons 16x16 v00_7_2: 7573798699989936291
+      farmer icons 16x16 v00_7_3: 3194258813566649173
+      farmer icons 16x16 v00_7_4: -8518817125244935882
+      farmer icons 16x16 v00_7_5: -605649115953741104
+      farmer icons 16x16 v00_7_6: 778108735906191750
+      farmer icons 16x16 v00_7_7: 4082510346637719782
+      farmer icons 16x16 v00_7_8: 3780327579497182938
+      farmer icons 16x16 v00_7_9: 2034862464466053936
+      farmer icons 16x16 v00_8: 459898202497367464
+      farmer icons 16x16 v00_9: 3725583081153219315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

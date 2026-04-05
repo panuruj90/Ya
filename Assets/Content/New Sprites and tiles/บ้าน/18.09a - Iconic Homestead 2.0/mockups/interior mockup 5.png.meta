@@ -1,0 +1,6387 @@
+fileFormatVersion: 2
+guid: e80f642a02e6a0348a806d910319d3a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1783685644580124751
+    second: interior mockup 5_0
+  - first:
+      213: -465446194384243307
+    second: interior mockup 5_0_0
+  - first:
+      213: -1500337459240311238
+    second: interior mockup 5_1_0
+  - first:
+      213: 436812701674215626
+    second: interior mockup 5_2_0
+  - first:
+      213: -9103939777743659754
+    second: interior mockup 5_3_0
+  - first:
+      213: -3696419600212260817
+    second: interior mockup 5_4_0
+  - first:
+      213: 6617588288162812551
+    second: interior mockup 5_5_0
+  - first:
+      213: -4345963202366686638
+    second: interior mockup 5_6_0
+  - first:
+      213: 5258824268734019724
+    second: interior mockup 5_7_0
+  - first:
+      213: -2197368957918251305
+    second: interior mockup 5_8_0
+  - first:
+      213: 1858468281913574256
+    second: interior mockup 5_9_0
+  - first:
+      213: 4314000238975602498
+    second: interior mockup 5_10_0
+  - first:
+      213: 7126605721605696945
+    second: interior mockup 5_11_0
+  - first:
+      213: -4415379117019386025
+    second: interior mockup 5_12_0
+  - first:
+      213: -3034616030686637400
+    second: interior mockup 5_13_0
+  - first:
+      213: 45401061587160014
+    second: interior mockup 5_14_0
+  - first:
+      213: 2905500534321521571
+    second: interior mockup 5_0_1
+  - first:
+      213: -6726268025946652240
+    second: interior mockup 5_1_1
+  - first:
+      213: 976125595307656415
+    second: interior mockup 5_2_1
+  - first:
+      213: -3756270788744463319
+    second: interior mockup 5_3_1
+  - first:
+      213: -8192684815513123710
+    second: interior mockup 5_4_1
+  - first:
+      213: 5648817381368677662
+    second: interior mockup 5_5_1
+  - first:
+      213: -6764118482064181507
+    second: interior mockup 5_6_1
+  - first:
+      213: 3739924799061131862
+    second: interior mockup 5_7_1
+  - first:
+      213: 3866487067715800311
+    second: interior mockup 5_8_1
+  - first:
+      213: -8949925673365596392
+    second: interior mockup 5_9_1
+  - first:
+      213: 8371144486028440817
+    second: interior mockup 5_10_1
+  - first:
+      213: 4888593335681636278
+    second: interior mockup 5_11_1
+  - first:
+      213: 613977864409578606
+    second: interior mockup 5_12_1
+  - first:
+      213: -1178894074154160042
+    second: interior mockup 5_13_1
+  - first:
+      213: -2759462278429218748
+    second: interior mockup 5_14_1
+  - first:
+      213: 3951970041883183363
+    second: interior mockup 5_0_2
+  - first:
+      213: 3412520683875543614
+    second: interior mockup 5_1_2
+  - first:
+      213: -3227316745129494742
+    second: interior mockup 5_2_2
+  - first:
+      213: -4840287347341373186
+    second: interior mockup 5_3_2
+  - first:
+      213: -1898204708577843687
+    second: interior mockup 5_4_2
+  - first:
+      213: -7480575386025474045
+    second: interior mockup 5_5_2
+  - first:
+      213: 1046404027522184847
+    second: interior mockup 5_6_2
+  - first:
+      213: -5462506696459222321
+    second: interior mockup 5_7_2
+  - first:
+      213: 5769023451160255510
+    second: interior mockup 5_8_2
+  - first:
+      213: 4581737809591967563
+    second: interior mockup 5_9_2
+  - first:
+      213: -7070272339165225193
+    second: interior mockup 5_10_2
+  - first:
+      213: 4469926270387391520
+    second: interior mockup 5_11_2
+  - first:
+      213: -5202575740943327689
+    second: interior mockup 5_12_2
+  - first:
+      213: 9073606150747015916
+    second: interior mockup 5_13_2
+  - first:
+      213: -2450020475557704052
+    second: interior mockup 5_14_2
+  - first:
+      213: 3660572172135082376
+    second: interior mockup 5_0_3
+  - first:
+      213: 3254819970310412593
+    second: interior mockup 5_1_3
+  - first:
+      213: -5952768229783655601
+    second: interior mockup 5_2_3
+  - first:
+      213: 4730903631195587220
+    second: interior mockup 5_3_3
+  - first:
+      213: 184563165120451087
+    second: interior mockup 5_4_3
+  - first:
+      213: 4381100126769300682
+    second: interior mockup 5_5_3
+  - first:
+      213: -5120020928433527115
+    second: interior mockup 5_6_3
+  - first:
+      213: -866639836109904677
+    second: interior mockup 5_7_3
+  - first:
+      213: -8870559352229771315
+    second: interior mockup 5_8_3
+  - first:
+      213: -1461945573139647840
+    second: interior mockup 5_9_3
+  - first:
+      213: -6099630912604422561
+    second: interior mockup 5_10_3
+  - first:
+      213: 584642214997923987
+    second: interior mockup 5_11_3
+  - first:
+      213: 4632623001853499559
+    second: interior mockup 5_12_3
+  - first:
+      213: 7686507548218159496
+    second: interior mockup 5_13_3
+  - first:
+      213: -630644293417831863
+    second: interior mockup 5_14_3
+  - first:
+      213: 612519328602438788
+    second: interior mockup 5_0_4
+  - first:
+      213: 6782113654226054153
+    second: interior mockup 5_1_4
+  - first:
+      213: 6046792269893988276
+    second: interior mockup 5_2_4
+  - first:
+      213: 2920741685067898771
+    second: interior mockup 5_3_4
+  - first:
+      213: -1117573138027612903
+    second: interior mockup 5_4_4
+  - first:
+      213: 3693132908923768292
+    second: interior mockup 5_5_4
+  - first:
+      213: 5608250541565758926
+    second: interior mockup 5_6_4
+  - first:
+      213: -8913062486171548853
+    second: interior mockup 5_7_4
+  - first:
+      213: 8466857224358434007
+    second: interior mockup 5_8_4
+  - first:
+      213: -4752981609994540926
+    second: interior mockup 5_9_4
+  - first:
+      213: -6662647735050169181
+    second: interior mockup 5_10_4
+  - first:
+      213: 5012849173111350742
+    second: interior mockup 5_11_4
+  - first:
+      213: -8497132229556419567
+    second: interior mockup 5_12_4
+  - first:
+      213: -7217841237824736737
+    second: interior mockup 5_13_4
+  - first:
+      213: -9124286550885826480
+    second: interior mockup 5_14_4
+  - first:
+      213: 7394123482902012607
+    second: interior mockup 5_0_5
+  - first:
+      213: 3863598600807358738
+    second: interior mockup 5_1_5
+  - first:
+      213: 245573507265664477
+    second: interior mockup 5_2_5
+  - first:
+      213: -788651199926517522
+    second: interior mockup 5_3_5
+  - first:
+      213: -6053746948777966031
+    second: interior mockup 5_4_5
+  - first:
+      213: 6329298835704238427
+    second: interior mockup 5_5_5
+  - first:
+      213: -3109810010249750349
+    second: interior mockup 5_6_5
+  - first:
+      213: 2162357081498550104
+    second: interior mockup 5_7_5
+  - first:
+      213: 8064091250489795654
+    second: interior mockup 5_8_5
+  - first:
+      213: 3382149334537803052
+    second: interior mockup 5_9_5
+  - first:
+      213: 5861762258232089035
+    second: interior mockup 5_10_5
+  - first:
+      213: 5555285341779046113
+    second: interior mockup 5_11_5
+  - first:
+      213: -3259446149073517129
+    second: interior mockup 5_12_5
+  - first:
+      213: -7205590561304748938
+    second: interior mockup 5_13_5
+  - first:
+      213: 2824869745509941111
+    second: interior mockup 5_14_5
+  - first:
+      213: -3014726240256985673
+    second: interior mockup 5_0_6
+  - first:
+      213: -4931706067198160492
+    second: interior mockup 5_1_6
+  - first:
+      213: 6253498845411890869
+    second: interior mockup 5_2_6
+  - first:
+      213: 5233227798646849428
+    second: interior mockup 5_3_6
+  - first:
+      213: -7187425319949352575
+    second: interior mockup 5_4_6
+  - first:
+      213: -2662347464318362269
+    second: interior mockup 5_5_6
+  - first:
+      213: 1291384460315905539
+    second: interior mockup 5_6_6
+  - first:
+      213: -2508546690810672400
+    second: interior mockup 5_7_6
+  - first:
+      213: 5876275550016629640
+    second: interior mockup 5_8_6
+  - first:
+      213: 8402354075339173871
+    second: interior mockup 5_9_6
+  - first:
+      213: 7785720245163429597
+    second: interior mockup 5_10_6
+  - first:
+      213: -828825774818464684
+    second: interior mockup 5_11_6
+  - first:
+      213: -32047941879490133
+    second: interior mockup 5_12_6
+  - first:
+      213: 6298295626232131592
+    second: interior mockup 5_13_6
+  - first:
+      213: 5614182403991550467
+    second: interior mockup 5_14_6
+  - first:
+      213: -4947259119926629704
+    second: interior mockup 5_0_7
+  - first:
+      213: 77429689118402126
+    second: interior mockup 5_1_7
+  - first:
+      213: 388605210449276609
+    second: interior mockup 5_2_7
+  - first:
+      213: -1152393781677964770
+    second: interior mockup 5_3_7
+  - first:
+      213: -912818883195968514
+    second: interior mockup 5_4_7
+  - first:
+      213: -4691965459387552784
+    second: interior mockup 5_5_7
+  - first:
+      213: 8795286512312353783
+    second: interior mockup 5_6_7
+  - first:
+      213: 382012072922838837
+    second: interior mockup 5_7_7
+  - first:
+      213: -8430087678923870268
+    second: interior mockup 5_8_7
+  - first:
+      213: 848044016210502946
+    second: interior mockup 5_9_7
+  - first:
+      213: 3598747113907090716
+    second: interior mockup 5_10_7
+  - first:
+      213: 2233480475502905414
+    second: interior mockup 5_11_7
+  - first:
+      213: 1314675597750257172
+    second: interior mockup 5_12_7
+  - first:
+      213: 4679202113918212828
+    second: interior mockup 5_13_7
+  - first:
+      213: -3162668913513129683
+    second: interior mockup 5_14_7
+  - first:
+      213: 7617529226489603716
+    second: interior mockup 5_0_8
+  - first:
+      213: -3370230261396773850
+    second: interior mockup 5_1_8
+  - first:
+      213: 3471167517044926634
+    second: interior mockup 5_2_8
+  - first:
+      213: -2587744894091535707
+    second: interior mockup 5_3_8
+  - first:
+      213: 6383636444989531332
+    second: interior mockup 5_4_8
+  - first:
+      213: 3589340883751967904
+    second: interior mockup 5_5_8
+  - first:
+      213: -363994458587348990
+    second: interior mockup 5_6_8
+  - first:
+      213: -6095003962638908636
+    second: interior mockup 5_7_8
+  - first:
+      213: 3333020208708496064
+    second: interior mockup 5_8_8
+  - first:
+      213: 4980566855991316894
+    second: interior mockup 5_9_8
+  - first:
+      213: -7985805578393955689
+    second: interior mockup 5_10_8
+  - first:
+      213: -2361139184886314657
+    second: interior mockup 5_11_8
+  - first:
+      213: 5059869236312304655
+    second: interior mockup 5_12_8
+  - first:
+      213: 2403357628533935201
+    second: interior mockup 5_13_8
+  - first:
+      213: -4317186502467400909
+    second: interior mockup 5_14_8
+  - first:
+      213: -2432989026629627123
+    second: interior mockup 5_0_9
+  - first:
+      213: 7351734937352186923
+    second: interior mockup 5_1_9
+  - first:
+      213: -6126137719577466098
+    second: interior mockup 5_2_9
+  - first:
+      213: 684261380268141506
+    second: interior mockup 5_3_9
+  - first:
+      213: 7297507104242720256
+    second: interior mockup 5_4_9
+  - first:
+      213: 5752674115300429864
+    second: interior mockup 5_5_9
+  - first:
+      213: 520701615008341474
+    second: interior mockup 5_6_9
+  - first:
+      213: 3836397507719516438
+    second: interior mockup 5_7_9
+  - first:
+      213: -7517969366583642320
+    second: interior mockup 5_8_9
+  - first:
+      213: -8065025767415441410
+    second: interior mockup 5_9_9
+  - first:
+      213: 8535889209064498997
+    second: interior mockup 5_10_9
+  - first:
+      213: -7196162146836347094
+    second: interior mockup 5_11_9
+  - first:
+      213: -2581286519585882546
+    second: interior mockup 5_12_9
+  - first:
+      213: 7377092132726324050
+    second: interior mockup 5_13_9
+  - first:
+      213: -7078584366931516076
+    second: interior mockup 5_14_9
+  - first:
+      213: -4455174648312521289
+    second: interior mockup 5_0_10
+  - first:
+      213: 1913283074769942595
+    second: interior mockup 5_1_10
+  - first:
+      213: 3834398844590592436
+    second: interior mockup 5_2_10
+  - first:
+      213: -3283742460855501208
+    second: interior mockup 5_3_10
+  - first:
+      213: -7516836550907573997
+    second: interior mockup 5_4_10
+  - first:
+      213: 4884143991120430782
+    second: interior mockup 5_5_10
+  - first:
+      213: 5321285854691988508
+    second: interior mockup 5_6_10
+  - first:
+      213: -1006626739653459286
+    second: interior mockup 5_7_10
+  - first:
+      213: 2342419541809755626
+    second: interior mockup 5_8_10
+  - first:
+      213: 7518452249500927482
+    second: interior mockup 5_9_10
+  - first:
+      213: 2256413587242442892
+    second: interior mockup 5_10_10
+  - first:
+      213: 1195121611160980509
+    second: interior mockup 5_11_10
+  - first:
+      213: -2774244902585651458
+    second: interior mockup 5_12_10
+  - first:
+      213: 6884177994312404409
+    second: interior mockup 5_13_10
+  - first:
+      213: 144828314602572696
+    second: interior mockup 5_14_10
+  - first:
+      213: 7612238935274704830
+    second: interior mockup 5_0_11
+  - first:
+      213: 431878733684625924
+    second: interior mockup 5_1_11
+  - first:
+      213: 7679848934354852366
+    second: interior mockup 5_2_11
+  - first:
+      213: -3982667898647334286
+    second: interior mockup 5_3_11
+  - first:
+      213: 7099896715087081264
+    second: interior mockup 5_4_11
+  - first:
+      213: -7942890460357665423
+    second: interior mockup 5_5_11
+  - first:
+      213: 665696804893992510
+    second: interior mockup 5_6_11
+  - first:
+      213: 6314451810162431106
+    second: interior mockup 5_7_11
+  - first:
+      213: -1979878919870239039
+    second: interior mockup 5_8_11
+  - first:
+      213: -1918755352797401989
+    second: interior mockup 5_9_11
+  - first:
+      213: 3299201954238253145
+    second: interior mockup 5_10_11
+  - first:
+      213: 4688930277779091933
+    second: interior mockup 5_11_11
+  - first:
+      213: -4027504532704495219
+    second: interior mockup 5_12_11
+  - first:
+      213: -2116807147682010779
+    second: interior mockup 5_13_11
+  - first:
+      213: -7878862563649443658
+    second: interior mockup 5_14_11
+  - first:
+      213: 7026967958322184657
+    second: interior mockup 5_0_12
+  - first:
+      213: -3273858957385149225
+    second: interior mockup 5_1_12
+  - first:
+      213: 3676141987462555632
+    second: interior mockup 5_2_12
+  - first:
+      213: 1785290570490198395
+    second: interior mockup 5_3_12
+  - first:
+      213: 5016149856169222827
+    second: interior mockup 5_4_12
+  - first:
+      213: 7046008719526022401
+    second: interior mockup 5_5_12
+  - first:
+      213: -5987485978632981038
+    second: interior mockup 5_6_12
+  - first:
+      213: -5382124536074690287
+    second: interior mockup 5_7_12
+  - first:
+      213: -407728809702700608
+    second: interior mockup 5_8_12
+  - first:
+      213: -7073920467037185024
+    second: interior mockup 5_9_12
+  - first:
+      213: 424616261426805613
+    second: interior mockup 5_10_12
+  - first:
+      213: -7316499467653908932
+    second: interior mockup 5_11_12
+  - first:
+      213: -7541490508675922738
+    second: interior mockup 5_12_12
+  - first:
+      213: -8277492528201131832
+    second: interior mockup 5_13_12
+  - first:
+      213: 6209174510843753677
+    second: interior mockup 5_14_12
+  - first:
+      213: -3067499359091154696
+    second: interior mockup 5_0_13
+  - first:
+      213: 7505302946114550918
+    second: interior mockup 5_1_13
+  - first:
+      213: 4958045990381148953
+    second: interior mockup 5_2_13
+  - first:
+      213: -6184247860775794556
+    second: interior mockup 5_3_13
+  - first:
+      213: -1391132730449339336
+    second: interior mockup 5_4_13
+  - first:
+      213: 2698535045462968402
+    second: interior mockup 5_5_13
+  - first:
+      213: 6463774567717126255
+    second: interior mockup 5_6_13
+  - first:
+      213: -7065573566732635945
+    second: interior mockup 5_7_13
+  - first:
+      213: 6602965658658433155
+    second: interior mockup 5_8_13
+  - first:
+      213: 3885734043528874484
+    second: interior mockup 5_9_13
+  - first:
+      213: -1996032033427846410
+    second: interior mockup 5_10_13
+  - first:
+      213: 278329615013805662
+    second: interior mockup 5_11_13
+  - first:
+      213: -910470013100969077
+    second: interior mockup 5_12_13
+  - first:
+      213: 5125188588204773585
+    second: interior mockup 5_13_13
+  - first:
+      213: -8873024788672734878
+    second: interior mockup 5_14_13
+  - first:
+      213: 6589998134993761622
+    second: interior mockup 5_0_14
+  - first:
+      213: 6241854325281544207
+    second: interior mockup 5_1_14
+  - first:
+      213: 4117267866143926986
+    second: interior mockup 5_2_14
+  - first:
+      213: 4922345795003326228
+    second: interior mockup 5_3_14
+  - first:
+      213: 2460128532526674502
+    second: interior mockup 5_4_14
+  - first:
+      213: -6847591627180327706
+    second: interior mockup 5_5_14
+  - first:
+      213: -5681179310623653437
+    second: interior mockup 5_6_14
+  - first:
+      213: 1637032726939581702
+    second: interior mockup 5_7_14
+  - first:
+      213: -5414108626651262512
+    second: interior mockup 5_8_14
+  - first:
+      213: 1536683724575213263
+    second: interior mockup 5_9_14
+  - first:
+      213: -128487118551372322
+    second: interior mockup 5_10_14
+  - first:
+      213: -610484123283451454
+    second: interior mockup 5_11_14
+  - first:
+      213: -5314475923235756160
+    second: interior mockup 5_12_14
+  - first:
+      213: 4686370853022129200
+    second: interior mockup 5_13_14
+  - first:
+      213: -1011920504466128931
+    second: interior mockup 5_14_14
+  - first:
+      213: 1817111323794717338
+    second: interior mockup 5_0_15
+  - first:
+      213: 5219839293599720058
+    second: interior mockup 5_1_15
+  - first:
+      213: -2615357240273603330
+    second: interior mockup 5_2_15
+  - first:
+      213: 2237851393442940238
+    second: interior mockup 5_3_15
+  - first:
+      213: 6907636259246856625
+    second: interior mockup 5_4_15
+  - first:
+      213: -5370187958824266883
+    second: interior mockup 5_5_15
+  - first:
+      213: 8923495355241547750
+    second: interior mockup 5_6_15
+  - first:
+      213: 9098121320636292795
+    second: interior mockup 5_7_15
+  - first:
+      213: -8973611826521714065
+    second: interior mockup 5_8_15
+  - first:
+      213: 3992655231635778662
+    second: interior mockup 5_9_15
+  - first:
+      213: -3338468897757776470
+    second: interior mockup 5_10_15
+  - first:
+      213: -363074686509701829
+    second: interior mockup 5_11_15
+  - first:
+      213: 2387899755108200463
+    second: interior mockup 5_12_15
+  - first:
+      213: 6058743521901140790
+    second: interior mockup 5_13_15
+  - first:
+      213: 7250782438062526907
+    second: interior mockup 5_14_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: interior mockup 5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957ba9f6276a89f0800000000000000
+      internalID: -465446194384243307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36e4caa70bbd2be0800000000000000
+      internalID: -1500337459240311238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac89bac76dedf0600800000000000000
+      internalID: 436812701674215626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5a03c10f48a180800000000000000
+      internalID: -9103939777743659754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f288e8445fda3bcc0800000000000000
+      internalID: -3696419600212260817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782dab19c7566db50800000000000000
+      internalID: 6617588288162812551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab30c4e7900b3c0800000000000000
+      internalID: -4345963202366686638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88381a5fc81bf840800000000000000
+      internalID: 5258824268734019724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6ffce23906181e0800000000000000
+      internalID: -2197368957918251305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730ac94e0b9ac910800000000000000
+      internalID: 1858468281913574256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f471d5c586edb30800000000000000
+      internalID: 4314000238975602498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bde29a352ac6e260800000000000000
+      internalID: 7126605721605696945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fa165361c69b2c0800000000000000
+      internalID: -4415379117019386025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a297355cc0e2e5d0800000000000000
+      internalID: -3034616030686637400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb0454660c41a000800000000000000
+      internalID: 45401061587160014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a321fa8759625820800000000000000
+      internalID: 2905500534321521571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1c1612ede77a2a0800000000000000
+      internalID: -6726268025946652240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4ca74ae05eb8d00800000000000000
+      internalID: 976125595307656415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cb5b48e9b0fdbc0800000000000000
+      internalID: -3756270788744463319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2848a96219cbd4e80800000000000000
+      internalID: -8192684815513123710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e154889ca71a46e40800000000000000
+      internalID: 5648817381368677662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6f8e114160122a0800000000000000
+      internalID: -6764118482064181507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65286be2ac1e6e330800000000000000
+      internalID: 3739924799061131862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc87d7a08588a530800000000000000
+      internalID: 3866487067715800311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81715e0d40a7bc380800000000000000
+      internalID: -8949925673365596392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4f13dce874c2470800000000000000
+      internalID: 8371144486028440817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b755a8ecb5c7d340800000000000000
+      internalID: 4888593335681636278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cf51c5d99458800800000000000000
+      internalID: 613977864409578606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6507a3ae51ab3afe0800000000000000
+      internalID: -1178894074154160042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448e2239dab64b9d0800000000000000
+      internalID: -2759462278429218748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ce6d80d738d630800000000000000
+      internalID: 3951970041883183363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a231f4b75bb5f20800000000000000
+      internalID: 3412520683875543614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f2e4f4844633d0800000000000000
+      internalID: -3227316745129494742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef056e27d48d3dcb0800000000000000
+      internalID: -4840287347341373186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166e3aefd838a5e0800000000000000
+      internalID: -1898204708577843687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308cb68f158af2890800000000000000
+      internalID: -7480575386025474045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f867fff3be2958e00800000000000000
+      internalID: 1046404027522184847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc20b56e9174134b0800000000000000
+      internalID: -5462506696459222321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c1e436340bf0050800000000000000
+      internalID: 5769023451160255510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f94b2434a959f30800000000000000
+      internalID: 4581737809591967563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f59c674c851ed90800000000000000
+      internalID: -7070272339165225193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c80ae924e580e30800000000000000
+      internalID: 4469926270387391520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e12049decbcc7b0800000000000000
+      internalID: -5202575740943327689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea431758bcebed70800000000000000
+      internalID: 9073606150747015916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e03f5bb57cffdd0800000000000000
+      internalID: -2450020475557704052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889aacafef6fcc230800000000000000
+      internalID: 3660572172135082376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139133aa4817b2d20800000000000000
+      internalID: 3254819970310412593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ba38985d4836da0800000000000000
+      internalID: -5952768229783655601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c40489cb87a140800000000000000
+      internalID: 4730903631195587220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0250a78833bf8200800000000000000
+      internalID: 184563165120451087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4c08d6a5bcccc30800000000000000
+      internalID: 4381100126769300682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b66726b71802f8b0800000000000000
+      internalID: -5120020928433527115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4677429a319f3f0800000000000000
+      internalID: -866639836109904677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74353744175e480800000000000000
+      internalID: -8870559352229771315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a27e083f3026bbe0800000000000000
+      internalID: -1461945573139647840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb8319002c95ba0800000000000000
+      internalID: -6099630912604422561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39816a93ff01d1800800000000000000
+      internalID: 584642214997923987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a818c353126a4040800000000000000
+      internalID: 4632623001853499559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881f6e6e3e5fbaa60800000000000000
+      internalID: 7686507548218159496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942f33f3b508f37f0800000000000000
+      internalID: -630644293417831863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cb867851b108800800000000000000
+      internalID: 612519328602438788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c68727f68ee1e50800000000000000
+      internalID: 6782113654226054153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfeb9d38858ae350800000000000000
+      internalID: 6046792269893988276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd52b761f888820800000000000000
+      internalID: 2920741685067898771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9157851f6259d70f0800000000000000
+      internalID: -1117573138027612903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc4b840d4a04330800000000000000
+      internalID: 3693132908923768292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd4b6d572284dd40800000000000000
+      internalID: 5608250541565758926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4382ea64e07e4480800000000000000
+      internalID: -8913062486171548853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d495d549c1508570800000000000000
+      internalID: 8466857224358434007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288af4878640a0eb0800000000000000
+      internalID: -4752981609994540926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a416c86f258983a0800000000000000
+      internalID: -6662647735050169181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a9e383c7319540800000000000000
+      internalID: 5012849173111350742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11444c7c14f141a80800000000000000
+      internalID: -8497132229556419567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f127a4ec2a315db90800000000000000
+      internalID: -7217841237824736737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050839979b5006180800000000000000
+      internalID: -9124286550885826480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2afb7c1243d9660800000000000000
+      internalID: 7394123482902012607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211a1db05724e9530800000000000000
+      internalID: 3863598600807358738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd511d2cdc3786300800000000000000
+      internalID: 245573507265664477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0c1b089e52e05f0800000000000000
+      internalID: -788651199926517522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360cf56935ccfba0800000000000000
+      internalID: -6053746948777966031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51d17bc1cf26d750800000000000000
+      internalID: 6329298835704238427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b81c1ca54cb7d4d0800000000000000
+      internalID: -3109810010249750349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f75481f4c320e10800000000000000
+      internalID: 2162357081498550104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644a7c5544869ef60800000000000000
+      internalID: 8064091250489795654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25137e76eecfee20800000000000000
+      internalID: 3382149334537803052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc917b787b9295150800000000000000
+      internalID: 5861762258232089035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeacaec596581d40800000000000000
+      internalID: 5555285341779046113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b545f72ffe14c2d0800000000000000
+      internalID: -3259446149073517129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd584bf89900c90800000000000000
+      internalID: -7205590561304748938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f3ed51114f33720800000000000000
+      internalID: 2824869745509941111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5fe6a057a8926d0800000000000000
+      internalID: -3014726240256985673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491d300167f0f8bb0800000000000000
+      internalID: -4931706067198160492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b657144114e8c650800000000000000
+      internalID: 6253498845411890869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f7b0fb4f820a840800000000000000
+      internalID: 5233227798646849428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18145ca80c2214c90800000000000000
+      internalID: -7187425319949352575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d54a046117d0bd0800000000000000
+      internalID: -2662347464318362269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ec699135bebe110800000000000000
+      internalID: 1291384460315905539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa8fb7531adf2dd0800000000000000
+      internalID: -2508546690810672400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bed099a79bc8150800000000000000
+      internalID: 5876275550016629640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefa5a193882b9470800000000000000
+      internalID: 8402354075339173871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde888dff4f6c0c60800000000000000
+      internalID: 7785720245163429597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ce14f595b6f74f0800000000000000
+      internalID: -828825774818464684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba99d7011942e8ff0800000000000000
+      internalID: -32047941879490133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80076f3908a086750800000000000000
+      internalID: 6298295626232131592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3a26b62599ed40800000000000000
+      internalID: 5614182403991550467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba26f8ca0ec75bb0800000000000000
+      internalID: -4947259119926629704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a8fa54e5131100800000000000000
+      internalID: 77429689118402126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cee1b6416a946500800000000000000
+      internalID: 388605210449276609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1247b116ffd100f0800000000000000
+      internalID: -1152393781677964770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e5d2ef040553f0800000000000000
+      internalID: -912818883195968514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb6dc6164ac2eeb0800000000000000
+      internalID: -4691965459387552784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f38928cb722f0a70800000000000000
+      internalID: 8795286512312353783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f972d4fd2d4500800000000000000
+      internalID: 382012072922838837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf6858abef420b80800000000000000
+      internalID: -8430087678923870268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2256f142a8bd4cb00800000000000000
+      internalID: 848044016210502946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15f4e0ee6151f130800000000000000
+      internalID: 3598747113907090716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6480f13b8aaeefe10800000000000000
+      internalID: 2233480475502905414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41647ce9d7aae3210800000000000000
+      internalID: 1314675597750257172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda1a58f78ddfe040800000000000000
+      internalID: 4679202113918212828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2911e33161fb14d0800000000000000
+      internalID: -3162668913513129683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a11bd876e6b960800000000000000
+      internalID: 7617529226489603716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6246c2afe698a31d0800000000000000
+      internalID: -3370230261396773850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8665937701c2030800000000000000
+      internalID: 3471167517044926634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aad752babb761cd0800000000000000
+      internalID: -2587744894091535707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a6d6568b379850800000000000000
+      internalID: 6383636444989531332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac92d14486efc130800000000000000
+      internalID: 3589340883751967904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200c0bbe7f4d2faf0800000000000000
+      internalID: -363994458587348990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4234f4e40323a6ba0800000000000000
+      internalID: -6095003962638908636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa4418834414e20800000000000000
+      internalID: 3333020208708496064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915277da278e1540800000000000000
+      internalID: 4980566855991316894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792de761328bc2190800000000000000
+      internalID: -7985805578393955689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f598893db6c8b3fd0800000000000000
+      internalID: -2361139184886314657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c62581344483640800000000000000
+      internalID: 5059869236312304655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c8df497017a5120800000000000000
+      internalID: 2403357628533935201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc15bdfb54614c0800000000000000
+      internalID: -4317186502467400909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03515dee594c3ed0800000000000000
+      internalID: -2432989026629627123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ca4bf69fb960660800000000000000
+      internalID: 7351734937352186923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ba673a3369bfaa0800000000000000
+      internalID: -6126137719577466098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba668991cfe7900800000000000000
+      internalID: 684261380268141506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ed6462c04f54560800000000000000
+      internalID: 7297507104242720256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820111ff0aa95df40800000000000000
+      internalID: 5752674115300429864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed5b8c2c57e93700800000000000000
+      internalID: 520701615008341474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d0d8053f9d3530800000000000000
+      internalID: 3836397507719516438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037738861becaa790800000000000000
+      internalID: -7517969366583642320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef794dc7bc5431090800000000000000
+      internalID: -8065025767415441410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5372164b202957670800000000000000
+      internalID: 8535889209064498997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2705b387a8122c90800000000000000
+      internalID: -7196162146836347094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e3490369d6d2cd0800000000000000
+      internalID: -2581286519585882546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3b7e8532b06660800000000000000
+      internalID: 7377092132726324050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455e960b501d3cd90800000000000000
+      internalID: -7078584366931516076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd910b034a0c22c0800000000000000
+      internalID: -4455174648312521289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348fd6ac1d85d8a10800000000000000
+      internalID: 1913283074769942595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b19df20f65863530800000000000000
+      internalID: 3834398844590592436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e37de31adcd62d0800000000000000
+      internalID: -3283742460855501208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194b7c9bf4dea790800000000000000
+      internalID: -7516836550907573997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb687962517f7c340800000000000000
+      internalID: 4884143991120430782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141a3d9a4109d940800000000000000
+      internalID: 5321285854691988508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2cb89405eb702f0800000000000000
+      internalID: -1006626739653459286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f080a922f18020800000000000000
+      internalID: 2342419541809755626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af54d388c78e65860800000000000000
+      internalID: 7518452249500927482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8063fdd334605f10800000000000000
+      internalID: 2256413587242442892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c84a8f5cce59010800000000000000
+      internalID: 1195121611160980509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efea17da5f6ef79d0800000000000000
+      internalID: -2774244902585651458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd4d817963898f50800000000000000
+      internalID: 6884177994312404409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b0e45b598820200800000000000000
+      internalID: 144828314602572696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf4272fafa14a960800000000000000
+      internalID: 7612238935274704830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402515b8b675ef500800000000000000
+      internalID: 431878733684625924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a12ec8aed449a60800000000000000
+      internalID: 7679848934354852366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27236c2b5a8bab8c0800000000000000
+      internalID: -3982667898647334286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f6abc0276e78260800000000000000
+      internalID: 7099896715087081264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dda84a53f25c190800000000000000
+      internalID: -7942890460357665423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a1df87b70d3900800000000000000
+      internalID: 665696804893992510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284dd08477071a750800000000000000
+      internalID: 6314451810162431106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea9dabc9e0684e0800000000000000
+      internalID: -1979878919870239039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca1a13c263f55e0800000000000000
+      internalID: -1918755352797401989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95845ac82be19cd20800000000000000
+      internalID: 3299201954238253145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1b89f9e3d621140800000000000000
+      internalID: 4688930277779091933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d897fd457fd6b18c0800000000000000
+      internalID: -4027504532704495219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569e7605d179f92e0800000000000000
+      internalID: -2116807147682010779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b82d8b0e38a8a290800000000000000
+      internalID: -7878862563649443658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d188dba02ec48160800000000000000
+      internalID: 7026967958322184657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4d358bf9ae092d0800000000000000
+      internalID: -3273858957385149225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7aa9a19a7440330800000000000000
+      internalID: 3676141987462555632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793ce2a050a6c810800000000000000
+      internalID: 1785290570490198395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2e71da7b1fc9540800000000000000
+      internalID: 5016149856169222827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d47ab599378c160800000000000000
+      internalID: 7046008719526022401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f2f9b93d28eca0800000000000000
+      internalID: -5987485978632981038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111aa5a004ade45b0800000000000000
+      internalID: -5382124536074690287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c94afccec4775af0800000000000000
+      internalID: -407728809702700608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c12e080d264dd90800000000000000
+      internalID: -7073920467037185024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bf2347d3a84e500800000000000000
+      internalID: 424616261426805613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c367727af72967a90800000000000000
+      internalID: -7316499467653908932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec44461c65e375790800000000000000
+      internalID: -7541490508675922738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c81f91d660702d80800000000000000
+      internalID: -8277492528201131832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4704be15b6b2650800000000000000
+      internalID: 6209174510843753677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f022a0d59d0e65d0800000000000000
+      internalID: -3067499359091154696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb9d2c341382860800000000000000
+      internalID: 7505302946114550918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bd7b43f848ec440800000000000000
+      internalID: 4958045990381148953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4884d7f06532d2aa0800000000000000
+      internalID: -6184247860775794556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cd526f624b1bce0800000000000000
+      internalID: -1391132730449339336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25843ce835f137520800000000000000
+      internalID: 2698535045462968402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60cbf809b0f3b950800000000000000
+      internalID: 6463774567717126255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0f28ca64a02fd90800000000000000
+      internalID: -7065573566732635945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3886074584272ab50800000000000000
+      internalID: 6602965658658433155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f94e2c6686ece530800000000000000
+      internalID: 3885734043528874484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8b37e07bac44e0800000000000000
+      internalID: -1996032033427846410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7e596f43dcd300800000000000000
+      internalID: 278329615013805662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83b872d85c5d53f0800000000000000
+      internalID: -910470013100969077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0d4d6ddd3502740800000000000000
+      internalID: 5125188588204773585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2691deb47feacd480800000000000000
+      internalID: -8873024788672734878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6553ac27360647b50800000000000000
+      internalID: 6589998134993761622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08542620758f9650800000000000000
+      internalID: 6241854325281544207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa3ae5f49732930800000000000000
+      internalID: 4117267866143926986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f9fccbb6faf4440800000000000000
+      internalID: 4922345795003326228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6423e03bdd1242220800000000000000
+      internalID: 2460128532526674502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3af6f1b778f0a0800000000000000
+      internalID: -6847591627180327706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c18af464856821b0800000000000000
+      internalID: -5681179310623653437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d3cee7798e7b610800000000000000
+      internalID: 1637032726939581702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1d215a3e83dd4b0800000000000000
+      internalID: -5414108626651262512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60e6fa4b5635510800000000000000
+      internalID: 1536683724575213263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd288c75a5873ef0800000000000000
+      internalID: -128487118551372322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19ca2acef1787f0800000000000000
+      internalID: -610484123283451454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087aa2c1e403f36b0800000000000000
+      internalID: -5314475923235756160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cd02c1675590140800000000000000
+      internalID: 4686370853022129200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfbc5e99afe4f1f0800000000000000
+      internalID: -1011920504466128931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9abf1c1f1da73910800000000000000
+      internalID: 1817111323794717338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_1_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7223af7e28907840800000000000000
+      internalID: 5219839293599720058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_2_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4febc527264bbd0800000000000000
+      internalID: -2615357240273603330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_3_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4587465cf17e0f10800000000000000
+      internalID: 2237851393442940238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_4_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9540e549adcdf50800000000000000
+      internalID: 6907636259246856625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_5_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73133101824975b0800000000000000
+      internalID: -5370187958824266883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_6_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e745043fbf96db70800000000000000
+      internalID: 8923495355241547750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_7_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe1fef1325034e70800000000000000
+      internalID: 9098121320636292795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_8_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62dde78693577380800000000000000
+      internalID: -8973611826521714065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_9_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c614877c2c86730800000000000000
+      internalID: 3992655231635778662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_10_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa53577b9306ba1d0800000000000000
+      internalID: -3338468897757776470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_11_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3527ab0f7916faf0800000000000000
+      internalID: -363074686509701829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_12_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f007776fc26832120800000000000000
+      internalID: 2387899755108200463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_13_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bdd10f12bf41450800000000000000
+      internalID: 6058743521901140790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interior mockup 5_14_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb19b5c0634ff9460800000000000000
+      internalID: 7250782438062526907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      interior mockup 5_0: 1783685644580124751
+      interior mockup 5_0_0: -465446194384243307
+      interior mockup 5_0_1: 2905500534321521571
+      interior mockup 5_0_10: -4455174648312521289
+      interior mockup 5_0_11: 7612238935274704830
+      interior mockup 5_0_12: 7026967958322184657
+      interior mockup 5_0_13: -3067499359091154696
+      interior mockup 5_0_14: 6589998134993761622
+      interior mockup 5_0_15: 1817111323794717338
+      interior mockup 5_0_2: 3951970041883183363
+      interior mockup 5_0_3: 3660572172135082376
+      interior mockup 5_0_4: 612519328602438788
+      interior mockup 5_0_5: 7394123482902012607
+      interior mockup 5_0_6: -3014726240256985673
+      interior mockup 5_0_7: -4947259119926629704
+      interior mockup 5_0_8: 7617529226489603716
+      interior mockup 5_0_9: -2432989026629627123
+      interior mockup 5_10_0: 4314000238975602498
+      interior mockup 5_10_1: 8371144486028440817
+      interior mockup 5_10_10: 2256413587242442892
+      interior mockup 5_10_11: 3299201954238253145
+      interior mockup 5_10_12: 424616261426805613
+      interior mockup 5_10_13: -1996032033427846410
+      interior mockup 5_10_14: -128487118551372322
+      interior mockup 5_10_15: -3338468897757776470
+      interior mockup 5_10_2: -7070272339165225193
+      interior mockup 5_10_3: -6099630912604422561
+      interior mockup 5_10_4: -6662647735050169181
+      interior mockup 5_10_5: 5861762258232089035
+      interior mockup 5_10_6: 7785720245163429597
+      interior mockup 5_10_7: 3598747113907090716
+      interior mockup 5_10_8: -7985805578393955689
+      interior mockup 5_10_9: 8535889209064498997
+      interior mockup 5_11_0: 7126605721605696945
+      interior mockup 5_11_1: 4888593335681636278
+      interior mockup 5_11_10: 1195121611160980509
+      interior mockup 5_11_11: 4688930277779091933
+      interior mockup 5_11_12: -7316499467653908932
+      interior mockup 5_11_13: 278329615013805662
+      interior mockup 5_11_14: -610484123283451454
+      interior mockup 5_11_15: -363074686509701829
+      interior mockup 5_11_2: 4469926270387391520
+      interior mockup 5_11_3: 584642214997923987
+      interior mockup 5_11_4: 5012849173111350742
+      interior mockup 5_11_5: 5555285341779046113
+      interior mockup 5_11_6: -828825774818464684
+      interior mockup 5_11_7: 2233480475502905414
+      interior mockup 5_11_8: -2361139184886314657
+      interior mockup 5_11_9: -7196162146836347094
+      interior mockup 5_12_0: -4415379117019386025
+      interior mockup 5_12_1: 613977864409578606
+      interior mockup 5_12_10: -2774244902585651458
+      interior mockup 5_12_11: -4027504532704495219
+      interior mockup 5_12_12: -7541490508675922738
+      interior mockup 5_12_13: -910470013100969077
+      interior mockup 5_12_14: -5314475923235756160
+      interior mockup 5_12_15: 2387899755108200463
+      interior mockup 5_12_2: -5202575740943327689
+      interior mockup 5_12_3: 4632623001853499559
+      interior mockup 5_12_4: -8497132229556419567
+      interior mockup 5_12_5: -3259446149073517129
+      interior mockup 5_12_6: -32047941879490133
+      interior mockup 5_12_7: 1314675597750257172
+      interior mockup 5_12_8: 5059869236312304655
+      interior mockup 5_12_9: -2581286519585882546
+      interior mockup 5_13_0: -3034616030686637400
+      interior mockup 5_13_1: -1178894074154160042
+      interior mockup 5_13_10: 6884177994312404409
+      interior mockup 5_13_11: -2116807147682010779
+      interior mockup 5_13_12: -8277492528201131832
+      interior mockup 5_13_13: 5125188588204773585
+      interior mockup 5_13_14: 4686370853022129200
+      interior mockup 5_13_15: 6058743521901140790
+      interior mockup 5_13_2: 9073606150747015916
+      interior mockup 5_13_3: 7686507548218159496
+      interior mockup 5_13_4: -7217841237824736737
+      interior mockup 5_13_5: -7205590561304748938
+      interior mockup 5_13_6: 6298295626232131592
+      interior mockup 5_13_7: 4679202113918212828
+      interior mockup 5_13_8: 2403357628533935201
+      interior mockup 5_13_9: 7377092132726324050
+      interior mockup 5_14_0: 45401061587160014
+      interior mockup 5_14_1: -2759462278429218748
+      interior mockup 5_14_10: 144828314602572696
+      interior mockup 5_14_11: -7878862563649443658
+      interior mockup 5_14_12: 6209174510843753677
+      interior mockup 5_14_13: -8873024788672734878
+      interior mockup 5_14_14: -1011920504466128931
+      interior mockup 5_14_15: 7250782438062526907
+      interior mockup 5_14_2: -2450020475557704052
+      interior mockup 5_14_3: -630644293417831863
+      interior mockup 5_14_4: -9124286550885826480
+      interior mockup 5_14_5: 2824869745509941111
+      interior mockup 5_14_6: 5614182403991550467
+      interior mockup 5_14_7: -3162668913513129683
+      interior mockup 5_14_8: -4317186502467400909
+      interior mockup 5_14_9: -7078584366931516076
+      interior mockup 5_1_0: -1500337459240311238
+      interior mockup 5_1_1: -6726268025946652240
+      interior mockup 5_1_10: 1913283074769942595
+      interior mockup 5_1_11: 431878733684625924
+      interior mockup 5_1_12: -3273858957385149225
+      interior mockup 5_1_13: 7505302946114550918
+      interior mockup 5_1_14: 6241854325281544207
+      interior mockup 5_1_15: 5219839293599720058
+      interior mockup 5_1_2: 3412520683875543614
+      interior mockup 5_1_3: 3254819970310412593
+      interior mockup 5_1_4: 6782113654226054153
+      interior mockup 5_1_5: 3863598600807358738
+      interior mockup 5_1_6: -4931706067198160492
+      interior mockup 5_1_7: 77429689118402126
+      interior mockup 5_1_8: -3370230261396773850
+      interior mockup 5_1_9: 7351734937352186923
+      interior mockup 5_2_0: 436812701674215626
+      interior mockup 5_2_1: 976125595307656415
+      interior mockup 5_2_10: 3834398844590592436
+      interior mockup 5_2_11: 7679848934354852366
+      interior mockup 5_2_12: 3676141987462555632
+      interior mockup 5_2_13: 4958045990381148953
+      interior mockup 5_2_14: 4117267866143926986
+      interior mockup 5_2_15: -2615357240273603330
+      interior mockup 5_2_2: -3227316745129494742
+      interior mockup 5_2_3: -5952768229783655601
+      interior mockup 5_2_4: 6046792269893988276
+      interior mockup 5_2_5: 245573507265664477
+      interior mockup 5_2_6: 6253498845411890869
+      interior mockup 5_2_7: 388605210449276609
+      interior mockup 5_2_8: 3471167517044926634
+      interior mockup 5_2_9: -6126137719577466098
+      interior mockup 5_3_0: -9103939777743659754
+      interior mockup 5_3_1: -3756270788744463319
+      interior mockup 5_3_10: -3283742460855501208
+      interior mockup 5_3_11: -3982667898647334286
+      interior mockup 5_3_12: 1785290570490198395
+      interior mockup 5_3_13: -6184247860775794556
+      interior mockup 5_3_14: 4922345795003326228
+      interior mockup 5_3_15: 2237851393442940238
+      interior mockup 5_3_2: -4840287347341373186
+      interior mockup 5_3_3: 4730903631195587220
+      interior mockup 5_3_4: 2920741685067898771
+      interior mockup 5_3_5: -788651199926517522
+      interior mockup 5_3_6: 5233227798646849428
+      interior mockup 5_3_7: -1152393781677964770
+      interior mockup 5_3_8: -2587744894091535707
+      interior mockup 5_3_9: 684261380268141506
+      interior mockup 5_4_0: -3696419600212260817
+      interior mockup 5_4_1: -8192684815513123710
+      interior mockup 5_4_10: -7516836550907573997
+      interior mockup 5_4_11: 7099896715087081264
+      interior mockup 5_4_12: 5016149856169222827
+      interior mockup 5_4_13: -1391132730449339336
+      interior mockup 5_4_14: 2460128532526674502
+      interior mockup 5_4_15: 6907636259246856625
+      interior mockup 5_4_2: -1898204708577843687
+      interior mockup 5_4_3: 184563165120451087
+      interior mockup 5_4_4: -1117573138027612903
+      interior mockup 5_4_5: -6053746948777966031
+      interior mockup 5_4_6: -7187425319949352575
+      interior mockup 5_4_7: -912818883195968514
+      interior mockup 5_4_8: 6383636444989531332
+      interior mockup 5_4_9: 7297507104242720256
+      interior mockup 5_5_0: 6617588288162812551
+      interior mockup 5_5_1: 5648817381368677662
+      interior mockup 5_5_10: 4884143991120430782
+      interior mockup 5_5_11: -7942890460357665423
+      interior mockup 5_5_12: 7046008719526022401
+      interior mockup 5_5_13: 2698535045462968402
+      interior mockup 5_5_14: -6847591627180327706
+      interior mockup 5_5_15: -5370187958824266883
+      interior mockup 5_5_2: -7480575386025474045
+      interior mockup 5_5_3: 4381100126769300682
+      interior mockup 5_5_4: 3693132908923768292
+      interior mockup 5_5_5: 6329298835704238427
+      interior mockup 5_5_6: -2662347464318362269
+      interior mockup 5_5_7: -4691965459387552784
+      interior mockup 5_5_8: 3589340883751967904
+      interior mockup 5_5_9: 5752674115300429864
+      interior mockup 5_6_0: -4345963202366686638
+      interior mockup 5_6_1: -6764118482064181507
+      interior mockup 5_6_10: 5321285854691988508
+      interior mockup 5_6_11: 665696804893992510
+      interior mockup 5_6_12: -5987485978632981038
+      interior mockup 5_6_13: 6463774567717126255
+      interior mockup 5_6_14: -5681179310623653437
+      interior mockup 5_6_15: 8923495355241547750
+      interior mockup 5_6_2: 1046404027522184847
+      interior mockup 5_6_3: -5120020928433527115
+      interior mockup 5_6_4: 5608250541565758926
+      interior mockup 5_6_5: -3109810010249750349
+      interior mockup 5_6_6: 1291384460315905539
+      interior mockup 5_6_7: 8795286512312353783
+      interior mockup 5_6_8: -363994458587348990
+      interior mockup 5_6_9: 520701615008341474
+      interior mockup 5_7_0: 5258824268734019724
+      interior mockup 5_7_1: 3739924799061131862
+      interior mockup 5_7_10: -1006626739653459286
+      interior mockup 5_7_11: 6314451810162431106
+      interior mockup 5_7_12: -5382124536074690287
+      interior mockup 5_7_13: -7065573566732635945
+      interior mockup 5_7_14: 1637032726939581702
+      interior mockup 5_7_15: 9098121320636292795
+      interior mockup 5_7_2: -5462506696459222321
+      interior mockup 5_7_3: -866639836109904677
+      interior mockup 5_7_4: -8913062486171548853
+      interior mockup 5_7_5: 2162357081498550104
+      interior mockup 5_7_6: -2508546690810672400
+      interior mockup 5_7_7: 382012072922838837
+      interior mockup 5_7_8: -6095003962638908636
+      interior mockup 5_7_9: 3836397507719516438
+      interior mockup 5_8_0: -2197368957918251305
+      interior mockup 5_8_1: 3866487067715800311
+      interior mockup 5_8_10: 2342419541809755626
+      interior mockup 5_8_11: -1979878919870239039
+      interior mockup 5_8_12: -407728809702700608
+      interior mockup 5_8_13: 6602965658658433155
+      interior mockup 5_8_14: -5414108626651262512
+      interior mockup 5_8_15: -8973611826521714065
+      interior mockup 5_8_2: 5769023451160255510
+      interior mockup 5_8_3: -8870559352229771315
+      interior mockup 5_8_4: 8466857224358434007
+      interior mockup 5_8_5: 8064091250489795654
+      interior mockup 5_8_6: 5876275550016629640
+      interior mockup 5_8_7: -8430087678923870268
+      interior mockup 5_8_8: 3333020208708496064
+      interior mockup 5_8_9: -7517969366583642320
+      interior mockup 5_9_0: 1858468281913574256
+      interior mockup 5_9_1: -8949925673365596392
+      interior mockup 5_9_10: 7518452249500927482
+      interior mockup 5_9_11: -1918755352797401989
+      interior mockup 5_9_12: -7073920467037185024
+      interior mockup 5_9_13: 3885734043528874484
+      interior mockup 5_9_14: 1536683724575213263
+      interior mockup 5_9_15: 3992655231635778662
+      interior mockup 5_9_2: 4581737809591967563
+      interior mockup 5_9_3: -1461945573139647840
+      interior mockup 5_9_4: -4752981609994540926
+      interior mockup 5_9_5: 3382149334537803052
+      interior mockup 5_9_6: 8402354075339173871
+      interior mockup 5_9_7: 848044016210502946
+      interior mockup 5_9_8: 4980566855991316894
+      interior mockup 5_9_9: -8065025767415441410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

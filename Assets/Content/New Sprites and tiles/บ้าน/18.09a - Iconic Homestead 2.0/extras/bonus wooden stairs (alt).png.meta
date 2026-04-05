@@ -1,0 +1,6859 @@
+fileFormatVersion: 2
+guid: e3dfb2bff2aed48429ea63b0c9fc1a03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 668725517938838958
+    second: bonus wooden stairs (alt)_0
+  - first:
+      213: 7224572897762099523
+    second: bonus wooden stairs (alt)_1
+  - first:
+      213: -5952269712786513693
+    second: bonus wooden stairs (alt)_2
+  - first:
+      213: 9017924085868771649
+    second: bonus wooden stairs (alt)_3
+  - first:
+      213: -1872316539474890378
+    second: bonus wooden stairs (alt)_4
+  - first:
+      213: 5593930955355744131
+    second: bonus wooden stairs (alt)_5
+  - first:
+      213: -145554509544021258
+    second: bonus wooden stairs (alt)_6
+  - first:
+      213: -4107630671755549331
+    second: bonus wooden stairs (alt)_7
+  - first:
+      213: 4013060178611445162
+    second: bonus wooden stairs (alt)_8
+  - first:
+      213: 4480153974241252508
+    second: bonus wooden stairs (alt)_9
+  - first:
+      213: -2112213591724606424
+    second: bonus wooden stairs (alt)_10
+  - first:
+      213: -5018499240953084057
+    second: bonus wooden stairs (alt)_11
+  - first:
+      213: 5824631447019153166
+    second: bonus wooden stairs (alt)_12
+  - first:
+      213: -3701754642359166859
+    second: bonus wooden stairs (alt)_13
+  - first:
+      213: 8912531153792674951
+    second: bonus wooden stairs (alt)_14
+  - first:
+      213: 7277948260577861945
+    second: bonus wooden stairs (alt)_0_0
+  - first:
+      213: -2560352920962490923
+    second: bonus wooden stairs (alt)_1_0
+  - first:
+      213: 7289607880084483519
+    second: bonus wooden stairs (alt)_2_0
+  - first:
+      213: 6399439253520353072
+    second: bonus wooden stairs (alt)_3_0
+  - first:
+      213: 1352703354922413307
+    second: bonus wooden stairs (alt)_4_0
+  - first:
+      213: 3508647245250070381
+    second: bonus wooden stairs (alt)_5_0
+  - first:
+      213: 2121733162205891539
+    second: bonus wooden stairs (alt)_6_0
+  - first:
+      213: 1056265062648520090
+    second: bonus wooden stairs (alt)_7_0
+  - first:
+      213: 865287007096966049
+    second: bonus wooden stairs (alt)_8_0
+  - first:
+      213: -5466253840772239427
+    second: bonus wooden stairs (alt)_9_0
+  - first:
+      213: -8500270462111672578
+    second: bonus wooden stairs (alt)_10_0
+  - first:
+      213: -1697304878684994723
+    second: bonus wooden stairs (alt)_11_0
+  - first:
+      213: 2003269994085046612
+    second: bonus wooden stairs (alt)_12_0
+  - first:
+      213: -1577865960507596571
+    second: bonus wooden stairs (alt)_13_0
+  - first:
+      213: -8460868825448235434
+    second: bonus wooden stairs (alt)_14_0
+  - first:
+      213: 2659084223494143483
+    second: bonus wooden stairs (alt)_15_0
+  - first:
+      213: 8592459050255450256
+    second: bonus wooden stairs (alt)_0_1
+  - first:
+      213: -415746997439026476
+    second: bonus wooden stairs (alt)_1_1
+  - first:
+      213: 5922804734674797494
+    second: bonus wooden stairs (alt)_2_1
+  - first:
+      213: 4781142762312094325
+    second: bonus wooden stairs (alt)_3_1
+  - first:
+      213: -5198914512859144962
+    second: bonus wooden stairs (alt)_4_1
+  - first:
+      213: -1448737772124456728
+    second: bonus wooden stairs (alt)_5_1
+  - first:
+      213: -8458029647429961654
+    second: bonus wooden stairs (alt)_6_1
+  - first:
+      213: 3401913061219461518
+    second: bonus wooden stairs (alt)_7_1
+  - first:
+      213: -1172379091059178793
+    second: bonus wooden stairs (alt)_8_1
+  - first:
+      213: -1972608039731159222
+    second: bonus wooden stairs (alt)_9_1
+  - first:
+      213: 7840404782055505334
+    second: bonus wooden stairs (alt)_10_1
+  - first:
+      213: -3713835221505415560
+    second: bonus wooden stairs (alt)_11_1
+  - first:
+      213: -4046429794882756776
+    second: bonus wooden stairs (alt)_12_1
+  - first:
+      213: -8462093269798289890
+    second: bonus wooden stairs (alt)_13_1
+  - first:
+      213: 4225982367605047816
+    second: bonus wooden stairs (alt)_14_1
+  - first:
+      213: -7915292848629975311
+    second: bonus wooden stairs (alt)_15_1
+  - first:
+      213: 6550980354379823544
+    second: bonus wooden stairs (alt)_0_2
+  - first:
+      213: -1094247946838911485
+    second: bonus wooden stairs (alt)_1_2
+  - first:
+      213: 5614367263908666134
+    second: bonus wooden stairs (alt)_2_2
+  - first:
+      213: -7593641759179719698
+    second: bonus wooden stairs (alt)_3_2
+  - first:
+      213: -733012175586847353
+    second: bonus wooden stairs (alt)_4_2
+  - first:
+      213: -6760756091922164284
+    second: bonus wooden stairs (alt)_5_2
+  - first:
+      213: -3488267089343671693
+    second: bonus wooden stairs (alt)_6_2
+  - first:
+      213: -7768380727547167657
+    second: bonus wooden stairs (alt)_7_2
+  - first:
+      213: -6903136276373293282
+    second: bonus wooden stairs (alt)_8_2
+  - first:
+      213: 74395780227776539
+    second: bonus wooden stairs (alt)_9_2
+  - first:
+      213: 7817064585430803098
+    second: bonus wooden stairs (alt)_10_2
+  - first:
+      213: 5463390949699973703
+    second: bonus wooden stairs (alt)_11_2
+  - first:
+      213: 2899528416227359174
+    second: bonus wooden stairs (alt)_12_2
+  - first:
+      213: -3989270401034751713
+    second: bonus wooden stairs (alt)_13_2
+  - first:
+      213: 338787327893467549
+    second: bonus wooden stairs (alt)_14_2
+  - first:
+      213: 4731194190167123477
+    second: bonus wooden stairs (alt)_15_2
+  - first:
+      213: 675889146879939438
+    second: bonus wooden stairs (alt)_0_3
+  - first:
+      213: 7009553059118155003
+    second: bonus wooden stairs (alt)_1_3
+  - first:
+      213: 8155216466781375303
+    second: bonus wooden stairs (alt)_2_3
+  - first:
+      213: 7656173300511269941
+    second: bonus wooden stairs (alt)_3_3
+  - first:
+      213: -6411741878700038222
+    second: bonus wooden stairs (alt)_4_3
+  - first:
+      213: 8227026291606573223
+    second: bonus wooden stairs (alt)_5_3
+  - first:
+      213: -1772720489333454983
+    second: bonus wooden stairs (alt)_6_3
+  - first:
+      213: 773945588320513589
+    second: bonus wooden stairs (alt)_7_3
+  - first:
+      213: -4976684744511018516
+    second: bonus wooden stairs (alt)_8_3
+  - first:
+      213: -4059564735517309967
+    second: bonus wooden stairs (alt)_9_3
+  - first:
+      213: -7608919674713792196
+    second: bonus wooden stairs (alt)_10_3
+  - first:
+      213: -3085400638322108000
+    second: bonus wooden stairs (alt)_11_3
+  - first:
+      213: 3481519876629514130
+    second: bonus wooden stairs (alt)_12_3
+  - first:
+      213: 4536060688142349898
+    second: bonus wooden stairs (alt)_13_3
+  - first:
+      213: 8404248748955631623
+    second: bonus wooden stairs (alt)_14_3
+  - first:
+      213: 7019813402418052205
+    second: bonus wooden stairs (alt)_15_3
+  - first:
+      213: -2080477455359153897
+    second: bonus wooden stairs (alt)_0_4
+  - first:
+      213: 8193653663363902644
+    second: bonus wooden stairs (alt)_1_4
+  - first:
+      213: -8668225073708987588
+    second: bonus wooden stairs (alt)_2_4
+  - first:
+      213: 5080147099508087739
+    second: bonus wooden stairs (alt)_3_4
+  - first:
+      213: -6330531020211417112
+    second: bonus wooden stairs (alt)_4_4
+  - first:
+      213: -5881048515876152701
+    second: bonus wooden stairs (alt)_5_4
+  - first:
+      213: -5528594901624255195
+    second: bonus wooden stairs (alt)_6_4
+  - first:
+      213: 4612849514420122481
+    second: bonus wooden stairs (alt)_7_4
+  - first:
+      213: 6152230028409976186
+    second: bonus wooden stairs (alt)_8_4
+  - first:
+      213: -3911429535072821772
+    second: bonus wooden stairs (alt)_9_4
+  - first:
+      213: 1349893184537409634
+    second: bonus wooden stairs (alt)_10_4
+  - first:
+      213: -689228370885924328
+    second: bonus wooden stairs (alt)_11_4
+  - first:
+      213: -55193378525657509
+    second: bonus wooden stairs (alt)_12_4
+  - first:
+      213: -324806421510809130
+    second: bonus wooden stairs (alt)_13_4
+  - first:
+      213: -875217779487329368
+    second: bonus wooden stairs (alt)_14_4
+  - first:
+      213: 6968393697761791480
+    second: bonus wooden stairs (alt)_15_4
+  - first:
+      213: 5231116543753797216
+    second: bonus wooden stairs (alt)_0_5
+  - first:
+      213: 3802577859754574309
+    second: bonus wooden stairs (alt)_1_5
+  - first:
+      213: -943994470587757220
+    second: bonus wooden stairs (alt)_2_5
+  - first:
+      213: 519876353084279494
+    second: bonus wooden stairs (alt)_3_5
+  - first:
+      213: 1610269852848855312
+    second: bonus wooden stairs (alt)_4_5
+  - first:
+      213: 390885105413138901
+    second: bonus wooden stairs (alt)_5_5
+  - first:
+      213: 8706733444507710918
+    second: bonus wooden stairs (alt)_6_5
+  - first:
+      213: 4484907468607282785
+    second: bonus wooden stairs (alt)_7_5
+  - first:
+      213: 136445030002397689
+    second: bonus wooden stairs (alt)_8_5
+  - first:
+      213: 1831630815977853035
+    second: bonus wooden stairs (alt)_9_5
+  - first:
+      213: -4211559355508249891
+    second: bonus wooden stairs (alt)_10_5
+  - first:
+      213: -125870026446399897
+    second: bonus wooden stairs (alt)_11_5
+  - first:
+      213: 3274354339091894335
+    second: bonus wooden stairs (alt)_12_5
+  - first:
+      213: 6496109316990121733
+    second: bonus wooden stairs (alt)_13_5
+  - first:
+      213: 6881165329793716075
+    second: bonus wooden stairs (alt)_14_5
+  - first:
+      213: -1000752208970763226
+    second: bonus wooden stairs (alt)_15_5
+  - first:
+      213: 6933450169998657807
+    second: bonus wooden stairs (alt)_0_6
+  - first:
+      213: 4855278016228744423
+    second: bonus wooden stairs (alt)_1_6
+  - first:
+      213: 1732506164247640937
+    second: bonus wooden stairs (alt)_2_6
+  - first:
+      213: 1808934431670338870
+    second: bonus wooden stairs (alt)_3_6
+  - first:
+      213: -8622162111098519272
+    second: bonus wooden stairs (alt)_4_6
+  - first:
+      213: 2736064651080569506
+    second: bonus wooden stairs (alt)_5_6
+  - first:
+      213: -8956373698687678065
+    second: bonus wooden stairs (alt)_6_6
+  - first:
+      213: 2058432913259235249
+    second: bonus wooden stairs (alt)_7_6
+  - first:
+      213: -769391634619652665
+    second: bonus wooden stairs (alt)_8_6
+  - first:
+      213: 2690921164632167445
+    second: bonus wooden stairs (alt)_9_6
+  - first:
+      213: 130607716142077439
+    second: bonus wooden stairs (alt)_10_6
+  - first:
+      213: 6010720010463173287
+    second: bonus wooden stairs (alt)_11_6
+  - first:
+      213: -6461860339080070005
+    second: bonus wooden stairs (alt)_12_6
+  - first:
+      213: 4213465728867477710
+    second: bonus wooden stairs (alt)_13_6
+  - first:
+      213: -2456003638167405981
+    second: bonus wooden stairs (alt)_14_6
+  - first:
+      213: -2794006197155442141
+    second: bonus wooden stairs (alt)_15_6
+  - first:
+      213: 1779289261538927092
+    second: bonus wooden stairs (alt)_0_7
+  - first:
+      213: 1740528700909001289
+    second: bonus wooden stairs (alt)_1_7
+  - first:
+      213: -3970405682517201883
+    second: bonus wooden stairs (alt)_2_7
+  - first:
+      213: -3484827935538144208
+    second: bonus wooden stairs (alt)_3_7
+  - first:
+      213: 1720233274473601485
+    second: bonus wooden stairs (alt)_4_7
+  - first:
+      213: 8856724071259535385
+    second: bonus wooden stairs (alt)_5_7
+  - first:
+      213: -7317547419985074010
+    second: bonus wooden stairs (alt)_6_7
+  - first:
+      213: -8703730107955185412
+    second: bonus wooden stairs (alt)_7_7
+  - first:
+      213: 222942427830198617
+    second: bonus wooden stairs (alt)_8_7
+  - first:
+      213: 6769196818694278143
+    second: bonus wooden stairs (alt)_9_7
+  - first:
+      213: 7298970441824129438
+    second: bonus wooden stairs (alt)_10_7
+  - first:
+      213: 5709184721332620905
+    second: bonus wooden stairs (alt)_11_7
+  - first:
+      213: -3121936627343945953
+    second: bonus wooden stairs (alt)_12_7
+  - first:
+      213: 1055675161201717660
+    second: bonus wooden stairs (alt)_13_7
+  - first:
+      213: -7836887030062474189
+    second: bonus wooden stairs (alt)_14_7
+  - first:
+      213: 8931221956114882365
+    second: bonus wooden stairs (alt)_15_7
+  - first:
+      213: 8626011738102858674
+    second: bonus wooden stairs (alt)_0_8
+  - first:
+      213: 2475344386865948162
+    second: bonus wooden stairs (alt)_1_8
+  - first:
+      213: -2221158851570176464
+    second: bonus wooden stairs (alt)_2_8
+  - first:
+      213: 7352687528556267770
+    second: bonus wooden stairs (alt)_3_8
+  - first:
+      213: -3060603996131241296
+    second: bonus wooden stairs (alt)_4_8
+  - first:
+      213: 5165200360367527656
+    second: bonus wooden stairs (alt)_5_8
+  - first:
+      213: -1596785126460883216
+    second: bonus wooden stairs (alt)_6_8
+  - first:
+      213: -7861634880744231336
+    second: bonus wooden stairs (alt)_7_8
+  - first:
+      213: -7321418944912593342
+    second: bonus wooden stairs (alt)_8_8
+  - first:
+      213: -1415742349419920975
+    second: bonus wooden stairs (alt)_9_8
+  - first:
+      213: 6285505780095957997
+    second: bonus wooden stairs (alt)_10_8
+  - first:
+      213: 1496191653979837391
+    second: bonus wooden stairs (alt)_11_8
+  - first:
+      213: 3562370272668811554
+    second: bonus wooden stairs (alt)_12_8
+  - first:
+      213: -8123689712878378187
+    second: bonus wooden stairs (alt)_13_8
+  - first:
+      213: 5860471996541982460
+    second: bonus wooden stairs (alt)_14_8
+  - first:
+      213: -1910463826192749240
+    second: bonus wooden stairs (alt)_15_8
+  - first:
+      213: 683196100963835083
+    second: bonus wooden stairs (alt)_0_9
+  - first:
+      213: -5288910368811768817
+    second: bonus wooden stairs (alt)_1_9
+  - first:
+      213: -5657495052072831516
+    second: bonus wooden stairs (alt)_2_9
+  - first:
+      213: 6753318016916436402
+    second: bonus wooden stairs (alt)_3_9
+  - first:
+      213: -5424476411427409188
+    second: bonus wooden stairs (alt)_4_9
+  - first:
+      213: -7616163890975193285
+    second: bonus wooden stairs (alt)_5_9
+  - first:
+      213: 4768520485317665819
+    second: bonus wooden stairs (alt)_6_9
+  - first:
+      213: -5454439694207184681
+    second: bonus wooden stairs (alt)_7_9
+  - first:
+      213: 1963095924902821166
+    second: bonus wooden stairs (alt)_8_9
+  - first:
+      213: -993194532455326362
+    second: bonus wooden stairs (alt)_9_9
+  - first:
+      213: -1748868565032657925
+    second: bonus wooden stairs (alt)_10_9
+  - first:
+      213: 5096494256373118509
+    second: bonus wooden stairs (alt)_11_9
+  - first:
+      213: -1444447674914423744
+    second: bonus wooden stairs (alt)_12_9
+  - first:
+      213: 8234487205424694245
+    second: bonus wooden stairs (alt)_13_9
+  - first:
+      213: -3253249645140463260
+    second: bonus wooden stairs (alt)_14_9
+  - first:
+      213: 6365686389100463016
+    second: bonus wooden stairs (alt)_15_9
+  - first:
+      213: -2826058796807084276
+    second: bonus wooden stairs (alt)_0_10
+  - first:
+      213: 3444588541555394173
+    second: bonus wooden stairs (alt)_1_10
+  - first:
+      213: 2835912590729802954
+    second: bonus wooden stairs (alt)_2_10
+  - first:
+      213: 1164593488147427871
+    second: bonus wooden stairs (alt)_3_10
+  - first:
+      213: 6468898597587434066
+    second: bonus wooden stairs (alt)_4_10
+  - first:
+      213: -5061987247963592621
+    second: bonus wooden stairs (alt)_5_10
+  - first:
+      213: 1148578450195733276
+    second: bonus wooden stairs (alt)_6_10
+  - first:
+      213: 7805926160178946865
+    second: bonus wooden stairs (alt)_7_10
+  - first:
+      213: -5879187751462726741
+    second: bonus wooden stairs (alt)_8_10
+  - first:
+      213: -2517296988316653511
+    second: bonus wooden stairs (alt)_9_10
+  - first:
+      213: -3981839812139444650
+    second: bonus wooden stairs (alt)_10_10
+  - first:
+      213: -1274007025217518722
+    second: bonus wooden stairs (alt)_11_10
+  - first:
+      213: -6567797901837179258
+    second: bonus wooden stairs (alt)_12_10
+  - first:
+      213: -7248047888720496079
+    second: bonus wooden stairs (alt)_13_10
+  - first:
+      213: 1229133795704677171
+    second: bonus wooden stairs (alt)_14_10
+  - first:
+      213: 439242425765024271
+    second: bonus wooden stairs (alt)_15_10
+  - first:
+      213: -1254018495375400918
+    second: bonus wooden stairs (alt)_0_11
+  - first:
+      213: -7640009387143774345
+    second: bonus wooden stairs (alt)_1_11
+  - first:
+      213: -3443040911792983279
+    second: bonus wooden stairs (alt)_2_11
+  - first:
+      213: -1262743785527361730
+    second: bonus wooden stairs (alt)_3_11
+  - first:
+      213: 5714076268210017680
+    second: bonus wooden stairs (alt)_4_11
+  - first:
+      213: -4946188721194459399
+    second: bonus wooden stairs (alt)_5_11
+  - first:
+      213: -3803932468472161131
+    second: bonus wooden stairs (alt)_6_11
+  - first:
+      213: -2845188170681231601
+    second: bonus wooden stairs (alt)_7_11
+  - first:
+      213: 5868524478957951153
+    second: bonus wooden stairs (alt)_8_11
+  - first:
+      213: 1869143333219435623
+    second: bonus wooden stairs (alt)_9_11
+  - first:
+      213: -6826105949807595614
+    second: bonus wooden stairs (alt)_10_11
+  - first:
+      213: -397949646313507056
+    second: bonus wooden stairs (alt)_11_11
+  - first:
+      213: 1968312819974811810
+    second: bonus wooden stairs (alt)_12_11
+  - first:
+      213: -5793429513079917797
+    second: bonus wooden stairs (alt)_13_11
+  - first:
+      213: 6964161766718941480
+    second: bonus wooden stairs (alt)_14_11
+  - first:
+      213: 5345929865681782292
+    second: bonus wooden stairs (alt)_15_11
+  - first:
+      213: -1744063911250188121
+    second: bonus wooden stairs (alt)_0_12
+  - first:
+      213: 7931740601259804861
+    second: bonus wooden stairs (alt)_1_12
+  - first:
+      213: -2626940846779791752
+    second: bonus wooden stairs (alt)_2_12
+  - first:
+      213: -2103827593659236770
+    second: bonus wooden stairs (alt)_3_12
+  - first:
+      213: -520372192236400843
+    second: bonus wooden stairs (alt)_4_12
+  - first:
+      213: -1094237063824098389
+    second: bonus wooden stairs (alt)_5_12
+  - first:
+      213: -1473282525320594244
+    second: bonus wooden stairs (alt)_6_12
+  - first:
+      213: -2421064021656135606
+    second: bonus wooden stairs (alt)_7_12
+  - first:
+      213: 5512182054993324999
+    second: bonus wooden stairs (alt)_8_12
+  - first:
+      213: 1616919082541999912
+    second: bonus wooden stairs (alt)_9_12
+  - first:
+      213: 1594760890351985288
+    second: bonus wooden stairs (alt)_10_12
+  - first:
+      213: -2662872534721946164
+    second: bonus wooden stairs (alt)_11_12
+  - first:
+      213: 5250630766289417448
+    second: bonus wooden stairs (alt)_12_12
+  - first:
+      213: -8595262682007815207
+    second: bonus wooden stairs (alt)_13_12
+  - first:
+      213: -4616288683483662251
+    second: bonus wooden stairs (alt)_14_12
+  - first:
+      213: -2678181361596580665
+    second: bonus wooden stairs (alt)_15_12
+  - first:
+      213: -1389922882814961437
+    second: bonus wooden stairs (alt)_0_13
+  - first:
+      213: 7731779134191999443
+    second: bonus wooden stairs (alt)_1_13
+  - first:
+      213: 8928944702408074711
+    second: bonus wooden stairs (alt)_2_13
+  - first:
+      213: -8876352844859974546
+    second: bonus wooden stairs (alt)_3_13
+  - first:
+      213: 170421620479706084
+    second: bonus wooden stairs (alt)_4_13
+  - first:
+      213: 2778402355686522815
+    second: bonus wooden stairs (alt)_5_13
+  - first:
+      213: 3095575406637480451
+    second: bonus wooden stairs (alt)_6_13
+  - first:
+      213: 7635557899133095973
+    second: bonus wooden stairs (alt)_7_13
+  - first:
+      213: -379423907251001242
+    second: bonus wooden stairs (alt)_8_13
+  - first:
+      213: -789321326859051743
+    second: bonus wooden stairs (alt)_9_13
+  - first:
+      213: -2626095415206675780
+    second: bonus wooden stairs (alt)_10_13
+  - first:
+      213: -6441954867071889020
+    second: bonus wooden stairs (alt)_11_13
+  - first:
+      213: -5133204346755280651
+    second: bonus wooden stairs (alt)_12_13
+  - first:
+      213: -6440633713864300224
+    second: bonus wooden stairs (alt)_13_13
+  - first:
+      213: 7200431335779719043
+    second: bonus wooden stairs (alt)_14_13
+  - first:
+      213: 7963597448157919242
+    second: bonus wooden stairs (alt)_15_13
+  - first:
+      213: 4307296494984356236
+    second: bonus wooden stairs (alt)_0_14
+  - first:
+      213: 8917861363365060162
+    second: bonus wooden stairs (alt)_1_14
+  - first:
+      213: 8971394020010481255
+    second: bonus wooden stairs (alt)_2_14
+  - first:
+      213: 6512774940051377750
+    second: bonus wooden stairs (alt)_3_14
+  - first:
+      213: -8101457809094365018
+    second: bonus wooden stairs (alt)_4_14
+  - first:
+      213: -1001074318252678103
+    second: bonus wooden stairs (alt)_5_14
+  - first:
+      213: 7072278071665290762
+    second: bonus wooden stairs (alt)_6_14
+  - first:
+      213: 3367701188153061217
+    second: bonus wooden stairs (alt)_7_14
+  - first:
+      213: 1303496729798177463
+    second: bonus wooden stairs (alt)_8_14
+  - first:
+      213: 3027123959054595507
+    second: bonus wooden stairs (alt)_9_14
+  - first:
+      213: -6773151746408564304
+    second: bonus wooden stairs (alt)_10_14
+  - first:
+      213: -516389651502655559
+    second: bonus wooden stairs (alt)_11_14
+  - first:
+      213: -5710469756486096531
+    second: bonus wooden stairs (alt)_12_14
+  - first:
+      213: -4469234895614083595
+    second: bonus wooden stairs (alt)_13_14
+  - first:
+      213: 6770748735200160731
+    second: bonus wooden stairs (alt)_14_14
+  - first:
+      213: 1960518251986492743
+    second: bonus wooden stairs (alt)_15_14
+  - first:
+      213: 5861263304325587965
+    second: bonus wooden stairs (alt)_0_15
+  - first:
+      213: 5824822997749237146
+    second: bonus wooden stairs (alt)_1_15
+  - first:
+      213: 7848102943966586608
+    second: bonus wooden stairs (alt)_2_15
+  - first:
+      213: -5844925874071940697
+    second: bonus wooden stairs (alt)_3_15
+  - first:
+      213: 669978313087124200
+    second: bonus wooden stairs (alt)_4_15
+  - first:
+      213: -5702004836423304782
+    second: bonus wooden stairs (alt)_5_15
+  - first:
+      213: -970937541131636472
+    second: bonus wooden stairs (alt)_6_15
+  - first:
+      213: 99642752137948968
+    second: bonus wooden stairs (alt)_7_15
+  - first:
+      213: 8131748078371094502
+    second: bonus wooden stairs (alt)_8_15
+  - first:
+      213: 7814108619325697512
+    second: bonus wooden stairs (alt)_9_15
+  - first:
+      213: -2260850150673040799
+    second: bonus wooden stairs (alt)_10_15
+  - first:
+      213: 5586253433350495822
+    second: bonus wooden stairs (alt)_11_15
+  - first:
+      213: -3420484291620450366
+    second: bonus wooden stairs (alt)_12_15
+  - first:
+      213: 5771519596452775791
+    second: bonus wooden stairs (alt)_13_15
+  - first:
+      213: 1389269529213066986
+    second: bonus wooden stairs (alt)_14_15
+  - first:
+      213: -3947091822896304640
+    second: bonus wooden stairs (alt)_15_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9316a6df167700560800000000000000
+      internalID: 7277948260577861945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd956e659cc77cd0800000000000000
+      internalID: -2560352920962490923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbde254beb3e92560800000000000000
+      internalID: 7289607880084483519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03785cb68106fc850800000000000000
+      internalID: 6399439253520353072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc21acc884c5c210800000000000000
+      internalID: 1352703354922413307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d678847741831b030800000000000000
+      internalID: 3508647245250070381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc271d119e17d10800000000000000
+      internalID: 2121733162205891539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d12d76a7b98ae00800000000000000
+      internalID: 1056265062648520090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab86cec2fd120c00800000000000000
+      internalID: 865287007096966049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfe7a0e717f324b0800000000000000
+      internalID: -5466253840772239427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef696131d09f80a80800000000000000
+      internalID: -8500270462111672578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53817e9436f178e0800000000000000
+      internalID: -1697304878684994723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45953a2227b0dcb10800000000000000
+      internalID: 2003269994085046612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0a3c0d44b4a1ae0800000000000000
+      internalID: -1577865960507596571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3bff71a4f49a80800000000000000
+      internalID: -8460868825448235434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb6394307f6e420800000000000000
+      internalID: 2659084223494143483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090019d3bfb8e3770800000000000000
+      internalID: 8592459050255450256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da263dfe48fa3af0800000000000000
+      internalID: -415746997439026476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b30b4c9687023250800000000000000
+      internalID: 5922804734674797494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572da00c2080a5240800000000000000
+      internalID: 4781142762312094325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc586babceb9d7b0800000000000000
+      internalID: -5198914512859144962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b4d70cac05ebe0800000000000000
+      internalID: -1448737772124456728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f63529da0f9a80800000000000000
+      internalID: -8458029647429961654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e896fb2b7e5063f20800000000000000
+      internalID: 3401913061219461518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2825f9d6fdabfe0800000000000000
+      internalID: -1172379091059178793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f9ebe6073ef94e0800000000000000
+      internalID: -1972608039731159222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd31b9eb96becc60800000000000000
+      internalID: 7840404782055505334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e5d3fa8ec57cc0800000000000000
+      internalID: -3713835221505415560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd47b5a8138d7c0800000000000000
+      internalID: -4046429794882756776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ef275510b909a80800000000000000
+      internalID: -8462093269798289890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802c928b294b5aa30800000000000000
+      internalID: 4225982367605047816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f67838571b372290800000000000000
+      internalID: -7915292848629975311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b93f597ce1c9ea50800000000000000
+      internalID: 6550980354379823544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30657783a4370d0f0800000000000000
+      internalID: -1094247946838911485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9bd3c74d3aed40800000000000000
+      internalID: 5614367263908666134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb35888d07fd9690800000000000000
+      internalID: -7593641759179719698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7851c1a5f41d3d5f0800000000000000
+      internalID: -733012175586847353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5dbe78728fc22a0800000000000000
+      internalID: -6760756091922164284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3721cf9509f279fc0800000000000000
+      internalID: -3488267089343671693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c7f8e03ea213490800000000000000
+      internalID: -7768380727547167657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1738aa81222330a0800000000000000
+      internalID: -6903136276373293282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10c345619e480100800000000000000
+      internalID: 74395780227776539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92a3e8e2dacb7c60800000000000000
+      internalID: 7817064585430803098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74273f95f1dd1db40800000000000000
+      internalID: 5463390949699973703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f1617bb13d3820800000000000000
+      internalID: 2899528416227359174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f751d4b343a8c0800000000000000
+      internalID: -3989270401034751713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d917e7d974d93b400800000000000000
+      internalID: 338787327893467549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516ad4c8c0498a140800000000000000
+      internalID: 4731194190167123477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63125b199d316900800000000000000
+      internalID: 675889146879939438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48dfa7e5fe64160800000000000000
+      internalID: 7009553059118155003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8be81b262d2170800000000000000
+      internalID: 8155216466781375303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534edcb7d01304a60800000000000000
+      internalID: 7656173300511269941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a6907bbae407a0800000000000000
+      internalID: -6411741878700038222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a05205d2d44c2270800000000000000
+      internalID: 8227026291606573223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97709337b180667e0800000000000000
+      internalID: -1772720489333454983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e235b796b9dba00800000000000000
+      internalID: 773945588320513589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9a05ca7934feab0800000000000000
+      internalID: -4976684744511018516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c9cca16789a7c0800000000000000
+      internalID: -4059564735517309967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c312430aedfa76690800000000000000
+      internalID: -7608919674713792196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a91c0377747e25d0800000000000000
+      internalID: -3085400638322108000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297c6f4c1e7d05030800000000000000
+      internalID: 3481519876629514130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b65ca92353fe30800000000000000
+      internalID: 4536060688142349898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008585a5b3e1a470800000000000000
+      internalID: 8404248748955631623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c77a0d8136b6160800000000000000
+      internalID: 7019813402418052205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719eb16f6c8a023e0800000000000000
+      internalID: -2080477455359153897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc22615894b5b170800000000000000
+      internalID: 8193653663363902644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b0170c83744b780800000000000000
+      internalID: -8668225073708987588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb19e80fde408640800000000000000
+      internalID: 5080147099508087739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef05b4e39f6528a0800000000000000
+      internalID: -6330531020211417112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a1d50b881526ea0800000000000000
+      internalID: -5881048515876152701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d86ad8a3c7643b0800000000000000
+      internalID: -5528594901624255195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17338558132240040800000000000000
+      internalID: 4612849514420122481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a753edb6d9c116550800000000000000
+      internalID: 6152230028409976186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd530ebf8fc7b9c0800000000000000
+      internalID: -3911429535072821772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b21503b8cbb210800000000000000
+      internalID: 1349893184537409634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a2938c27e5f66f0800000000000000
+      internalID: -689228370885924328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5646072ae9eb3ff0800000000000000
+      internalID: -55193378525657509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d91511d74e0e7bf0800000000000000
+      internalID: -324806421510809130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a33d80111a9ad3f0800000000000000
+      internalID: -875217779487329368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd8922e525b4b060800000000000000
+      internalID: 6968393697761791480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e3d19e7c8a89840800000000000000
+      internalID: 5231116543753797216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1cf61aa6875c430800000000000000
+      internalID: 3802577859754574309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d0faec70246e2f0800000000000000
+      internalID: -943994470587757220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cac6b8e9c8f63700800000000000000
+      internalID: 519876353084279494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019939b46e3d85610800000000000000
+      internalID: 1610269852848855312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d92420bee3bc6500800000000000000
+      internalID: 390885105413138901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c535e100f784d870800000000000000
+      internalID: 8706733444507710918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e55d4a4979d3e30800000000000000
+      internalID: 4484907468607282785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f119a82800c4e100800000000000000
+      internalID: 136445030002397689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60d402d5824b6910800000000000000
+      internalID: 1831630815977853035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda257874198d85c0800000000000000
+      internalID: -4211559355508249891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661bc9b0e1d04ef0800000000000000
+      internalID: -125870026446399897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d4525ce7d07d20800000000000000
+      internalID: 3274354339091894335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5073d458101d62a50800000000000000
+      internalID: 6496109316990121733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f8613d86fce7f50800000000000000
+      internalID: 6881165329793716075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6243c1c0b2d9c12f0800000000000000
+      internalID: -1000752208970763226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0944a2d130983060800000000000000
+      internalID: 6933450169998657807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecd313a1a9616340800000000000000
+      internalID: 4855278016228744423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb72b5d291b0810800000000000000
+      internalID: 1732506164247640937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6350fad0840aa1910800000000000000
+      internalID: 1808934431670338870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811042cfd3de75880800000000000000
+      internalID: -8622162111098519272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2192acd4478f520800000000000000
+      internalID: 2736064651080569506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89c11ee29194b380800000000000000
+      internalID: -8956373698687678065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70acc14d5019c10800000000000000
+      internalID: 2058432913259235249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5a65d72629255f0800000000000000
+      internalID: -769391634619652665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141b78ca82185520800000000000000
+      internalID: 2690921164632167445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d29d960300d100800000000000000
+      internalID: 130607716142077439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa5dfbd00e5a6350800000000000000
+      internalID: 6010720010463173287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c72fc024cd256a0800000000000000
+      internalID: -6461860339080070005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8ad6aa1cc397a30800000000000000
+      internalID: 4213465728867477710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af6fb14b58aedd0800000000000000
+      internalID: -2456003638167405981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3225f4eba22b939d0800000000000000
+      internalID: -2794006197155442141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e1b2082e41b810800000000000000
+      internalID: 1779289261538927092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a9d0bb1a9972810800000000000000
+      internalID: 1740528700909001289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cae5f511946e8c0800000000000000
+      internalID: -3970405682517201883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c14eeb47763afc0800000000000000
+      internalID: -3484827935538144208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc95ec78c0f7fd710800000000000000
+      internalID: 1720233274473601485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918731d2e9769ea70800000000000000
+      internalID: 8856724071259535385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a6bc3469d27a90800000000000000
+      internalID: -7317547419985074010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf87576c493263780800000000000000
+      internalID: -8703730107955185412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951ae28f4fc081300800000000000000
+      internalID: 222942427830198617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb0af054a401fd50800000000000000
+      internalID: 6769196818694278143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d00bf1f62b4560800000000000000
+      internalID: 7298970441824129438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4e1861491b3f40800000000000000
+      internalID: 5709184721332620905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f02eb9d27aca4d0800000000000000
+      internalID: -3121936627343945953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91b1a547f286ae00800000000000000
+      internalID: 1055675161201717660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c924c84c8cd3390800000000000000
+      internalID: -7836887030062474189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f9568ac0312fb70800000000000000
+      internalID: 8931221956114882365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b388f529ffb5b770800000000000000
+      internalID: 8626011738102858674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e6ebda903a5220800000000000000
+      internalID: 2475344386865948162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ee17eeacbdc21e0800000000000000
+      internalID: -2221158851570176464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af88a0cd95ef90660800000000000000
+      internalID: 7352687528556267770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2d47c91ec8685d0800000000000000
+      internalID: -3060603996131241296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e61d618c5a7ea740800000000000000
+      internalID: 5165200360367527656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fefbaa336417d9e0800000000000000
+      internalID: -1596785126460883216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6b6b8abcd5e290800000000000000
+      internalID: -7861634880744231336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e6ba89248156a90800000000000000
+      internalID: -7321418944912593342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1495985d54a5ce0800000000000000
+      internalID: -1415742349419920975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb848743a9a3750800000000000000
+      internalID: 6285505780095957997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc35f53d16a83c410800000000000000
+      internalID: 1496191653979837391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22106d483e4107130800000000000000
+      internalID: 3562370272668811554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533a36e4f3bd24f80800000000000000
+      internalID: -8123689712878378187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf652021b34945150800000000000000
+      internalID: 5860471996541982460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d2c8ba54bac75e0800000000000000
+      internalID: -1910463826192749240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc91edeb333b7900800000000000000
+      internalID: 683196100963835083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04281a9a040a96b0800000000000000
+      internalID: -5288910368811768817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53bae893a8c71b0800000000000000
+      internalID: -5657495052072831516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5bc8da4fa98bd50800000000000000
+      internalID: 6753318016916436402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd23264a17368b4b0800000000000000
+      internalID: -5424476411427409188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3744471b43fd4690800000000000000
+      internalID: -7616163890975193285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14688fdd103d2240800000000000000
+      internalID: 4768520485317665819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09df93fffed44b0800000000000000
+      internalID: -5454439694207184681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d79dfb7515e3b10800000000000000
+      internalID: 1963095924902821166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd32cb5d67732f0800000000000000
+      internalID: -993194532455326362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb91665e45cab7e0800000000000000
+      internalID: -1748868565032657925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2630f616826ab640800000000000000
+      internalID: 5096494256373118509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c36102e7a44fbe0800000000000000
+      internalID: -1444447674914423744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e386d23c76c64270800000000000000
+      internalID: 8234487205424694245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461bcb72fa22ad2d0800000000000000
+      internalID: -3253249645140463260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34fd54b06775850800000000000000
+      internalID: 6365686389100463016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0722f55f72d7c8d0800000000000000
+      internalID: -2826058796807084276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d764ac04703adcf20800000000000000
+      internalID: 3444588541555394173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4f188d97f2b5720800000000000000
+      internalID: 2835912590729802954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12b2c07b97792010800000000000000
+      internalID: 1164593488147427871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab835300526c950800000000000000
+      internalID: 6468898597587434066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358a293ea6530c9b0800000000000000
+      internalID: -5061987247963592621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bd598d30290ff00800000000000000
+      internalID: 1148578450195733276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13325603c78345c60800000000000000
+      internalID: 7805926160178946865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39c3aa3ede86ea0800000000000000
+      internalID: -5879187751462726741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938a931f9b3c01dd0800000000000000
+      internalID: -2517296988316653511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6569bec99c9adb8c0800000000000000
+      internalID: -3981839812139444650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ce8c4c51d15ee0800000000000000
+      internalID: -1274007025217518722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68660702b9e7ad4a0800000000000000
+      internalID: -6567797901837179258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a7bc5d8d2c96b90800000000000000
+      internalID: -7248047888720496079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333a76acca2ce0110800000000000000
+      internalID: 1229133795704677171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025106b8a0881600800000000000000
+      internalID: 439242425765024271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20216192d4d89ee0800000000000000
+      internalID: -1254018495375400918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f35aed0fb39f590800000000000000
+      internalID: -7640009387143774345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1133171688cd730d0800000000000000
+      internalID: -3443040911792983279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3f45a735d97ee0800000000000000
+      internalID: -1262743785527361730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d52a671a7c4f40800000000000000
+      internalID: 5714076268210017680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe1929609b9b5bb0800000000000000
+      internalID: -4946188721194459399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c5423f297b53bc0800000000000000
+      internalID: -3803932468472161131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07d667ee6cd388d0800000000000000
+      internalID: -2845188170681231601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b819fbbbef217150800000000000000
+      internalID: 5868524478957951153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76485da55f780f910800000000000000
+      internalID: 1869143333219435623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afa98e0eccc441a0800000000000000
+      internalID: -6826105949807595614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017bdf4b7e23a7af0800000000000000
+      internalID: -397949646313507056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a03279c41ad05b10800000000000000
+      internalID: 1968312819974811810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b137b918d8a999fa0800000000000000
+      internalID: -5793429513079917797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a3a7aa3ca5a060800000000000000
+      internalID: 6964161766718941480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164d1e83ee803a40800000000000000
+      internalID: 5345929865681782292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8aa58fc17dbc7e0800000000000000
+      internalID: -1744063911250188121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db842ac7d04331e60800000000000000
+      internalID: 7931740601259804861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8760abdc73b3b8bd0800000000000000
+      internalID: -2626940846779791752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb64b33f3bdc2e0800000000000000
+      internalID: -2103827593659236770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f02ca8f3447c8f0800000000000000
+      internalID: -520372192236400843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babb2be103d70d0f0800000000000000
+      internalID: -1094237063824098389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb9785959dd8be0800000000000000
+      internalID: -1473282525320594244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4815b28917a66ed0800000000000000
+      internalID: -2421064021656135606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe82dcf543f7c40800000000000000
+      internalID: 5512182054993324999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8276779b653707610800000000000000
+      internalID: 1616919082541999912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ad13949ab12610800000000000000
+      internalID: 1594760890351985288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd11c5c9839b0bd0800000000000000
+      internalID: -2662872534721946164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4fa67ecdcfdd840800000000000000
+      internalID: 5250630766289417448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbb0cf512e77b880800000000000000
+      internalID: -8595262682007815207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558fc4886e5afefb0800000000000000
+      internalID: -4616288683483662251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccb6f1cd3035dad0800000000000000
+      internalID: -2678181361596580665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e890a0908006bce0800000000000000
+      internalID: -1389922882814961437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d99a47682ccc4b60800000000000000
+      internalID: 7731779134191999443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a32636ebf9eb70800000000000000
+      internalID: 8928944702408074711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd715dd1cd0d480800000000000000
+      internalID: -8876352844859974546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e34db69f857d5200800000000000000
+      internalID: 170421620479706084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfbdcdc83ede8620800000000000000
+      internalID: 2778402355686522815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aff086e61b5fa20800000000000000
+      internalID: 3095575406637480451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52091cf4473f6f960800000000000000
+      internalID: 7635557899133095973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668630577f30cbaf0800000000000000
+      internalID: -379423907251001242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d1dea6f64cb05f0800000000000000
+      internalID: -789321326859051743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaf25e222c3e8bd0800000000000000
+      internalID: -2626095415206675780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481d419ed249996a0800000000000000
+      internalID: -6441954867071889020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f01920f7d133c8b0800000000000000
+      internalID: -5133204346755280651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a6bcd2c54e96a0800000000000000
+      internalID: -6440633713864300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ddbe76221de360800000000000000
+      internalID: 7200431335779719043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f8a7afa1648e60800000000000000
+      internalID: 7963597448157919242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81e3d5575796cb30800000000000000
+      internalID: 4307296494984356236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e1e8f39ab92cb70800000000000000
+      internalID: 8917861363365060162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d9c6245bc08c70800000000000000
+      internalID: 8971394020010481255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e04d34d46026a50800000000000000
+      internalID: 6512774940051377750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0bd16cb07d19f80800000000000000
+      internalID: -8101457809094365018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92468c226387b12f0800000000000000
+      internalID: -1001074318252678103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ee4668f67c52260800000000000000
+      internalID: 7072278071665290762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2685436a7cbe20800000000000000
+      internalID: 3367701188153061217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2f0899e53f61210800000000000000
+      internalID: 1303496729798177463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5f58ec331820a20800000000000000
+      internalID: 3027123959054595507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b930815f5ee002a0800000000000000
+      internalID: -6773151746408564304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b71f70195a65d8f0800000000000000
+      internalID: -516389651502655559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69e808030650c0b0800000000000000
+      internalID: -5710469756486096531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd742d9a861af1c0800000000000000
+      internalID: -4469234895614083595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe7090a1886fd50800000000000000
+      internalID: 6770748735200160731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d135186f8253b10800000000000000
+      internalID: 1960518251986492743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3eb55cbe3675150800000000000000
+      internalID: 5861263304325587965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_1_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958e5cb7ade5d050800000000000000
+      internalID: 5824822997749237146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_2_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f663d7eb001aec60800000000000000
+      internalID: 7848102943966586608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_3_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1d371a2e6a2eea0800000000000000
+      internalID: -5844925874071940697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_4_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e206ced9bd3c4900800000000000000
+      internalID: 669978313087124200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_5_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9fd61dfc86ed0b0800000000000000
+      internalID: -5702004836423304782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_6_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f1c953798682f0800000000000000
+      internalID: -970937541131636472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_7_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fef9d1e80026100800000000000000
+      internalID: 99642752137948968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_8_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef364e1bc5c9d070800000000000000
+      internalID: 8131748078371094502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_9_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ede93b636a417c60800000000000000
+      internalID: 7814108619325697512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_10_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16abeb634c8df90e0800000000000000
+      internalID: -2260850150673040799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_11_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e992086eb568d40800000000000000
+      internalID: 5586253433350495822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_12_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc826c8aff780d0800000000000000
+      internalID: -3420484291620450366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_13_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6706c08e7e881050800000000000000
+      internalID: 5771519596452775791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_14_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeed402b64da74310800000000000000
+      internalID: 1389269529213066986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus wooden stairs (alt)_15_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eaa6056ec1939c0800000000000000
+      internalID: -3947091822896304640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bonus wooden stairs (alt)_0: 668725517938838958
+      bonus wooden stairs (alt)_0_0: 7277948260577861945
+      bonus wooden stairs (alt)_0_1: 8592459050255450256
+      bonus wooden stairs (alt)_0_10: -2826058796807084276
+      bonus wooden stairs (alt)_0_11: -1254018495375400918
+      bonus wooden stairs (alt)_0_12: -1744063911250188121
+      bonus wooden stairs (alt)_0_13: -1389922882814961437
+      bonus wooden stairs (alt)_0_14: 4307296494984356236
+      bonus wooden stairs (alt)_0_15: 5861263304325587965
+      bonus wooden stairs (alt)_0_2: 6550980354379823544
+      bonus wooden stairs (alt)_0_3: 675889146879939438
+      bonus wooden stairs (alt)_0_4: -2080477455359153897
+      bonus wooden stairs (alt)_0_5: 5231116543753797216
+      bonus wooden stairs (alt)_0_6: 6933450169998657807
+      bonus wooden stairs (alt)_0_7: 1779289261538927092
+      bonus wooden stairs (alt)_0_8: 8626011738102858674
+      bonus wooden stairs (alt)_0_9: 683196100963835083
+      bonus wooden stairs (alt)_1: 7224572897762099523
+      bonus wooden stairs (alt)_10: -2112213591724606424
+      bonus wooden stairs (alt)_10_0: -8500270462111672578
+      bonus wooden stairs (alt)_10_1: 7840404782055505334
+      bonus wooden stairs (alt)_10_10: -3981839812139444650
+      bonus wooden stairs (alt)_10_11: -6826105949807595614
+      bonus wooden stairs (alt)_10_12: 1594760890351985288
+      bonus wooden stairs (alt)_10_13: -2626095415206675780
+      bonus wooden stairs (alt)_10_14: -6773151746408564304
+      bonus wooden stairs (alt)_10_15: -2260850150673040799
+      bonus wooden stairs (alt)_10_2: 7817064585430803098
+      bonus wooden stairs (alt)_10_3: -7608919674713792196
+      bonus wooden stairs (alt)_10_4: 1349893184537409634
+      bonus wooden stairs (alt)_10_5: -4211559355508249891
+      bonus wooden stairs (alt)_10_6: 130607716142077439
+      bonus wooden stairs (alt)_10_7: 7298970441824129438
+      bonus wooden stairs (alt)_10_8: 6285505780095957997
+      bonus wooden stairs (alt)_10_9: -1748868565032657925
+      bonus wooden stairs (alt)_11: -5018499240953084057
+      bonus wooden stairs (alt)_11_0: -1697304878684994723
+      bonus wooden stairs (alt)_11_1: -3713835221505415560
+      bonus wooden stairs (alt)_11_10: -1274007025217518722
+      bonus wooden stairs (alt)_11_11: -397949646313507056
+      bonus wooden stairs (alt)_11_12: -2662872534721946164
+      bonus wooden stairs (alt)_11_13: -6441954867071889020
+      bonus wooden stairs (alt)_11_14: -516389651502655559
+      bonus wooden stairs (alt)_11_15: 5586253433350495822
+      bonus wooden stairs (alt)_11_2: 5463390949699973703
+      bonus wooden stairs (alt)_11_3: -3085400638322108000
+      bonus wooden stairs (alt)_11_4: -689228370885924328
+      bonus wooden stairs (alt)_11_5: -125870026446399897
+      bonus wooden stairs (alt)_11_6: 6010720010463173287
+      bonus wooden stairs (alt)_11_7: 5709184721332620905
+      bonus wooden stairs (alt)_11_8: 1496191653979837391
+      bonus wooden stairs (alt)_11_9: 5096494256373118509
+      bonus wooden stairs (alt)_12: 5824631447019153166
+      bonus wooden stairs (alt)_12_0: 2003269994085046612
+      bonus wooden stairs (alt)_12_1: -4046429794882756776
+      bonus wooden stairs (alt)_12_10: -6567797901837179258
+      bonus wooden stairs (alt)_12_11: 1968312819974811810
+      bonus wooden stairs (alt)_12_12: 5250630766289417448
+      bonus wooden stairs (alt)_12_13: -5133204346755280651
+      bonus wooden stairs (alt)_12_14: -5710469756486096531
+      bonus wooden stairs (alt)_12_15: -3420484291620450366
+      bonus wooden stairs (alt)_12_2: 2899528416227359174
+      bonus wooden stairs (alt)_12_3: 3481519876629514130
+      bonus wooden stairs (alt)_12_4: -55193378525657509
+      bonus wooden stairs (alt)_12_5: 3274354339091894335
+      bonus wooden stairs (alt)_12_6: -6461860339080070005
+      bonus wooden stairs (alt)_12_7: -3121936627343945953
+      bonus wooden stairs (alt)_12_8: 3562370272668811554
+      bonus wooden stairs (alt)_12_9: -1444447674914423744
+      bonus wooden stairs (alt)_13: -3701754642359166859
+      bonus wooden stairs (alt)_13_0: -1577865960507596571
+      bonus wooden stairs (alt)_13_1: -8462093269798289890
+      bonus wooden stairs (alt)_13_10: -7248047888720496079
+      bonus wooden stairs (alt)_13_11: -5793429513079917797
+      bonus wooden stairs (alt)_13_12: -8595262682007815207
+      bonus wooden stairs (alt)_13_13: -6440633713864300224
+      bonus wooden stairs (alt)_13_14: -4469234895614083595
+      bonus wooden stairs (alt)_13_15: 5771519596452775791
+      bonus wooden stairs (alt)_13_2: -3989270401034751713
+      bonus wooden stairs (alt)_13_3: 4536060688142349898
+      bonus wooden stairs (alt)_13_4: -324806421510809130
+      bonus wooden stairs (alt)_13_5: 6496109316990121733
+      bonus wooden stairs (alt)_13_6: 4213465728867477710
+      bonus wooden stairs (alt)_13_7: 1055675161201717660
+      bonus wooden stairs (alt)_13_8: -8123689712878378187
+      bonus wooden stairs (alt)_13_9: 8234487205424694245
+      bonus wooden stairs (alt)_14: 8912531153792674951
+      bonus wooden stairs (alt)_14_0: -8460868825448235434
+      bonus wooden stairs (alt)_14_1: 4225982367605047816
+      bonus wooden stairs (alt)_14_10: 1229133795704677171
+      bonus wooden stairs (alt)_14_11: 6964161766718941480
+      bonus wooden stairs (alt)_14_12: -4616288683483662251
+      bonus wooden stairs (alt)_14_13: 7200431335779719043
+      bonus wooden stairs (alt)_14_14: 6770748735200160731
+      bonus wooden stairs (alt)_14_15: 1389269529213066986
+      bonus wooden stairs (alt)_14_2: 338787327893467549
+      bonus wooden stairs (alt)_14_3: 8404248748955631623
+      bonus wooden stairs (alt)_14_4: -875217779487329368
+      bonus wooden stairs (alt)_14_5: 6881165329793716075
+      bonus wooden stairs (alt)_14_6: -2456003638167405981
+      bonus wooden stairs (alt)_14_7: -7836887030062474189
+      bonus wooden stairs (alt)_14_8: 5860471996541982460
+      bonus wooden stairs (alt)_14_9: -3253249645140463260
+      bonus wooden stairs (alt)_15_0: 2659084223494143483
+      bonus wooden stairs (alt)_15_1: -7915292848629975311
+      bonus wooden stairs (alt)_15_10: 439242425765024271
+      bonus wooden stairs (alt)_15_11: 5345929865681782292
+      bonus wooden stairs (alt)_15_12: -2678181361596580665
+      bonus wooden stairs (alt)_15_13: 7963597448157919242
+      bonus wooden stairs (alt)_15_14: 1960518251986492743
+      bonus wooden stairs (alt)_15_15: -3947091822896304640
+      bonus wooden stairs (alt)_15_2: 4731194190167123477
+      bonus wooden stairs (alt)_15_3: 7019813402418052205
+      bonus wooden stairs (alt)_15_4: 6968393697761791480
+      bonus wooden stairs (alt)_15_5: -1000752208970763226
+      bonus wooden stairs (alt)_15_6: -2794006197155442141
+      bonus wooden stairs (alt)_15_7: 8931221956114882365
+      bonus wooden stairs (alt)_15_8: -1910463826192749240
+      bonus wooden stairs (alt)_15_9: 6365686389100463016
+      bonus wooden stairs (alt)_1_0: -2560352920962490923
+      bonus wooden stairs (alt)_1_1: -415746997439026476
+      bonus wooden stairs (alt)_1_10: 3444588541555394173
+      bonus wooden stairs (alt)_1_11: -7640009387143774345
+      bonus wooden stairs (alt)_1_12: 7931740601259804861
+      bonus wooden stairs (alt)_1_13: 7731779134191999443
+      bonus wooden stairs (alt)_1_14: 8917861363365060162
+      bonus wooden stairs (alt)_1_15: 5824822997749237146
+      bonus wooden stairs (alt)_1_2: -1094247946838911485
+      bonus wooden stairs (alt)_1_3: 7009553059118155003
+      bonus wooden stairs (alt)_1_4: 8193653663363902644
+      bonus wooden stairs (alt)_1_5: 3802577859754574309
+      bonus wooden stairs (alt)_1_6: 4855278016228744423
+      bonus wooden stairs (alt)_1_7: 1740528700909001289
+      bonus wooden stairs (alt)_1_8: 2475344386865948162
+      bonus wooden stairs (alt)_1_9: -5288910368811768817
+      bonus wooden stairs (alt)_2: -5952269712786513693
+      bonus wooden stairs (alt)_2_0: 7289607880084483519
+      bonus wooden stairs (alt)_2_1: 5922804734674797494
+      bonus wooden stairs (alt)_2_10: 2835912590729802954
+      bonus wooden stairs (alt)_2_11: -3443040911792983279
+      bonus wooden stairs (alt)_2_12: -2626940846779791752
+      bonus wooden stairs (alt)_2_13: 8928944702408074711
+      bonus wooden stairs (alt)_2_14: 8971394020010481255
+      bonus wooden stairs (alt)_2_15: 7848102943966586608
+      bonus wooden stairs (alt)_2_2: 5614367263908666134
+      bonus wooden stairs (alt)_2_3: 8155216466781375303
+      bonus wooden stairs (alt)_2_4: -8668225073708987588
+      bonus wooden stairs (alt)_2_5: -943994470587757220
+      bonus wooden stairs (alt)_2_6: 1732506164247640937
+      bonus wooden stairs (alt)_2_7: -3970405682517201883
+      bonus wooden stairs (alt)_2_8: -2221158851570176464
+      bonus wooden stairs (alt)_2_9: -5657495052072831516
+      bonus wooden stairs (alt)_3: 9017924085868771649
+      bonus wooden stairs (alt)_3_0: 6399439253520353072
+      bonus wooden stairs (alt)_3_1: 4781142762312094325
+      bonus wooden stairs (alt)_3_10: 1164593488147427871
+      bonus wooden stairs (alt)_3_11: -1262743785527361730
+      bonus wooden stairs (alt)_3_12: -2103827593659236770
+      bonus wooden stairs (alt)_3_13: -8876352844859974546
+      bonus wooden stairs (alt)_3_14: 6512774940051377750
+      bonus wooden stairs (alt)_3_15: -5844925874071940697
+      bonus wooden stairs (alt)_3_2: -7593641759179719698
+      bonus wooden stairs (alt)_3_3: 7656173300511269941
+      bonus wooden stairs (alt)_3_4: 5080147099508087739
+      bonus wooden stairs (alt)_3_5: 519876353084279494
+      bonus wooden stairs (alt)_3_6: 1808934431670338870
+      bonus wooden stairs (alt)_3_7: -3484827935538144208
+      bonus wooden stairs (alt)_3_8: 7352687528556267770
+      bonus wooden stairs (alt)_3_9: 6753318016916436402
+      bonus wooden stairs (alt)_4: -1872316539474890378
+      bonus wooden stairs (alt)_4_0: 1352703354922413307
+      bonus wooden stairs (alt)_4_1: -5198914512859144962
+      bonus wooden stairs (alt)_4_10: 6468898597587434066
+      bonus wooden stairs (alt)_4_11: 5714076268210017680
+      bonus wooden stairs (alt)_4_12: -520372192236400843
+      bonus wooden stairs (alt)_4_13: 170421620479706084
+      bonus wooden stairs (alt)_4_14: -8101457809094365018
+      bonus wooden stairs (alt)_4_15: 669978313087124200
+      bonus wooden stairs (alt)_4_2: -733012175586847353
+      bonus wooden stairs (alt)_4_3: -6411741878700038222
+      bonus wooden stairs (alt)_4_4: -6330531020211417112
+      bonus wooden stairs (alt)_4_5: 1610269852848855312
+      bonus wooden stairs (alt)_4_6: -8622162111098519272
+      bonus wooden stairs (alt)_4_7: 1720233274473601485
+      bonus wooden stairs (alt)_4_8: -3060603996131241296
+      bonus wooden stairs (alt)_4_9: -5424476411427409188
+      bonus wooden stairs (alt)_5: 5593930955355744131
+      bonus wooden stairs (alt)_5_0: 3508647245250070381
+      bonus wooden stairs (alt)_5_1: -1448737772124456728
+      bonus wooden stairs (alt)_5_10: -5061987247963592621
+      bonus wooden stairs (alt)_5_11: -4946188721194459399
+      bonus wooden stairs (alt)_5_12: -1094237063824098389
+      bonus wooden stairs (alt)_5_13: 2778402355686522815
+      bonus wooden stairs (alt)_5_14: -1001074318252678103
+      bonus wooden stairs (alt)_5_15: -5702004836423304782
+      bonus wooden stairs (alt)_5_2: -6760756091922164284
+      bonus wooden stairs (alt)_5_3: 8227026291606573223
+      bonus wooden stairs (alt)_5_4: -5881048515876152701
+      bonus wooden stairs (alt)_5_5: 390885105413138901
+      bonus wooden stairs (alt)_5_6: 2736064651080569506
+      bonus wooden stairs (alt)_5_7: 8856724071259535385
+      bonus wooden stairs (alt)_5_8: 5165200360367527656
+      bonus wooden stairs (alt)_5_9: -7616163890975193285
+      bonus wooden stairs (alt)_6: -145554509544021258
+      bonus wooden stairs (alt)_6_0: 2121733162205891539
+      bonus wooden stairs (alt)_6_1: -8458029647429961654
+      bonus wooden stairs (alt)_6_10: 1148578450195733276
+      bonus wooden stairs (alt)_6_11: -3803932468472161131
+      bonus wooden stairs (alt)_6_12: -1473282525320594244
+      bonus wooden stairs (alt)_6_13: 3095575406637480451
+      bonus wooden stairs (alt)_6_14: 7072278071665290762
+      bonus wooden stairs (alt)_6_15: -970937541131636472
+      bonus wooden stairs (alt)_6_2: -3488267089343671693
+      bonus wooden stairs (alt)_6_3: -1772720489333454983
+      bonus wooden stairs (alt)_6_4: -5528594901624255195
+      bonus wooden stairs (alt)_6_5: 8706733444507710918
+      bonus wooden stairs (alt)_6_6: -8956373698687678065
+      bonus wooden stairs (alt)_6_7: -7317547419985074010
+      bonus wooden stairs (alt)_6_8: -1596785126460883216
+      bonus wooden stairs (alt)_6_9: 4768520485317665819
+      bonus wooden stairs (alt)_7: -4107630671755549331
+      bonus wooden stairs (alt)_7_0: 1056265062648520090
+      bonus wooden stairs (alt)_7_1: 3401913061219461518
+      bonus wooden stairs (alt)_7_10: 7805926160178946865
+      bonus wooden stairs (alt)_7_11: -2845188170681231601
+      bonus wooden stairs (alt)_7_12: -2421064021656135606
+      bonus wooden stairs (alt)_7_13: 7635557899133095973
+      bonus wooden stairs (alt)_7_14: 3367701188153061217
+      bonus wooden stairs (alt)_7_15: 99642752137948968
+      bonus wooden stairs (alt)_7_2: -7768380727547167657
+      bonus wooden stairs (alt)_7_3: 773945588320513589
+      bonus wooden stairs (alt)_7_4: 4612849514420122481
+      bonus wooden stairs (alt)_7_5: 4484907468607282785
+      bonus wooden stairs (alt)_7_6: 2058432913259235249
+      bonus wooden stairs (alt)_7_7: -8703730107955185412
+      bonus wooden stairs (alt)_7_8: -7861634880744231336
+      bonus wooden stairs (alt)_7_9: -5454439694207184681
+      bonus wooden stairs (alt)_8: 4013060178611445162
+      bonus wooden stairs (alt)_8_0: 865287007096966049
+      bonus wooden stairs (alt)_8_1: -1172379091059178793
+      bonus wooden stairs (alt)_8_10: -5879187751462726741
+      bonus wooden stairs (alt)_8_11: 5868524478957951153
+      bonus wooden stairs (alt)_8_12: 5512182054993324999
+      bonus wooden stairs (alt)_8_13: -379423907251001242
+      bonus wooden stairs (alt)_8_14: 1303496729798177463
+      bonus wooden stairs (alt)_8_15: 8131748078371094502
+      bonus wooden stairs (alt)_8_2: -6903136276373293282
+      bonus wooden stairs (alt)_8_3: -4976684744511018516
+      bonus wooden stairs (alt)_8_4: 6152230028409976186
+      bonus wooden stairs (alt)_8_5: 136445030002397689
+      bonus wooden stairs (alt)_8_6: -769391634619652665
+      bonus wooden stairs (alt)_8_7: 222942427830198617
+      bonus wooden stairs (alt)_8_8: -7321418944912593342
+      bonus wooden stairs (alt)_8_9: 1963095924902821166
+      bonus wooden stairs (alt)_9: 4480153974241252508
+      bonus wooden stairs (alt)_9_0: -5466253840772239427
+      bonus wooden stairs (alt)_9_1: -1972608039731159222
+      bonus wooden stairs (alt)_9_10: -2517296988316653511
+      bonus wooden stairs (alt)_9_11: 1869143333219435623
+      bonus wooden stairs (alt)_9_12: 1616919082541999912
+      bonus wooden stairs (alt)_9_13: -789321326859051743
+      bonus wooden stairs (alt)_9_14: 3027123959054595507
+      bonus wooden stairs (alt)_9_15: 7814108619325697512
+      bonus wooden stairs (alt)_9_2: 74395780227776539
+      bonus wooden stairs (alt)_9_3: -4059564735517309967
+      bonus wooden stairs (alt)_9_4: -3911429535072821772
+      bonus wooden stairs (alt)_9_5: 1831630815977853035
+      bonus wooden stairs (alt)_9_6: 2690921164632167445
+      bonus wooden stairs (alt)_9_7: 6769196818694278143
+      bonus wooden stairs (alt)_9_8: -1415742349419920975
+      bonus wooden stairs (alt)_9_9: -993194532455326362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

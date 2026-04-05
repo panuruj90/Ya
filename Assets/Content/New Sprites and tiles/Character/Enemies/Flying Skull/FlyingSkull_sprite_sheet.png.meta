@@ -1,0 +1,2751 @@
+fileFormatVersion: 2
+guid: d88bdd10d516c4d469412ce9e7191fd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9090907262787833337
+    second: FlyingSkull_sprite_sheet_0
+  - first:
+      213: -2130531136886131041
+    second: FlyingSkull_sprite_sheet_1
+  - first:
+      213: -8147411806278693007
+    second: FlyingSkull_sprite_sheet_2
+  - first:
+      213: 4123448212162143097
+    second: FlyingSkull_sprite_sheet_3
+  - first:
+      213: -1992966766486447031
+    second: FlyingSkull_sprite_sheet_4
+  - first:
+      213: 2405443873021218040
+    second: FlyingSkull_sprite_sheet_5
+  - first:
+      213: -5441851964236685052
+    second: FlyingSkull_sprite_sheet_6
+  - first:
+      213: 1196021860024591367
+    second: FlyingSkull_sprite_sheet_7
+  - first:
+      213: -5800709540151551062
+    second: FlyingSkull_sprite_sheet_8
+  - first:
+      213: 8053766069740787926
+    second: FlyingSkull_sprite_sheet_9
+  - first:
+      213: -9067942473129651868
+    second: FlyingSkull_sprite_sheet_10
+  - first:
+      213: -4555960970372330191
+    second: FlyingSkull_sprite_sheet_11
+  - first:
+      213: -4967988307525339914
+    second: FlyingSkull_sprite_sheet_12
+  - first:
+      213: -4768520417569372620
+    second: FlyingSkull_sprite_sheet_13
+  - first:
+      213: -779282595894088041
+    second: FlyingSkull_sprite_sheet_14
+  - first:
+      213: 876735754549966894
+    second: FlyingSkull_sprite_sheet_15
+  - first:
+      213: -8251327451288306971
+    second: FlyingSkull_sprite_sheet_16
+  - first:
+      213: -2834037024771923923
+    second: FlyingSkull_sprite_sheet_17
+  - first:
+      213: -7001889245298405782
+    second: FlyingSkull_sprite_sheet_18
+  - first:
+      213: 8367688140455317165
+    second: FlyingSkull_sprite_sheet_19
+  - first:
+      213: 3815937550673113630
+    second: FlyingSkull_sprite_sheet_20
+  - first:
+      213: -2877891851888569513
+    second: FlyingSkull_sprite_sheet_21
+  - first:
+      213: 3584688286891666150
+    second: FlyingSkull_sprite_sheet_22
+  - first:
+      213: 5997252370954616670
+    second: FlyingSkull_sprite_sheet_23
+  - first:
+      213: 4310688728256561904
+    second: FlyingSkull_sprite_sheet_24
+  - first:
+      213: -1684712253071242933
+    second: FlyingSkull_sprite_sheet_25
+  - first:
+      213: -2915591232249960080
+    second: FlyingSkull_sprite_sheet_26
+  - first:
+      213: -7079487970902834281
+    second: FlyingSkull_sprite_sheet_27
+  - first:
+      213: 7539225147277639043
+    second: FlyingSkull_sprite_sheet_0_0
+  - first:
+      213: 9122877358451776109
+    second: FlyingSkull_sprite_sheet_1_0
+  - first:
+      213: -656802422850662440
+    second: FlyingSkull_sprite_sheet_2_0
+  - first:
+      213: -1868536161197027320
+    second: FlyingSkull_sprite_sheet_3_0
+  - first:
+      213: 241301185535434425
+    second: FlyingSkull_sprite_sheet_4_0
+  - first:
+      213: 5854281939036690853
+    second: FlyingSkull_sprite_sheet_5_0
+  - first:
+      213: -152601909852831372
+    second: FlyingSkull_sprite_sheet_6_0
+  - first:
+      213: -7163239741997439943
+    second: FlyingSkull_sprite_sheet_7_0
+  - first:
+      213: 4950632968297913216
+    second: FlyingSkull_sprite_sheet_0_1
+  - first:
+      213: -7599782335182453524
+    second: FlyingSkull_sprite_sheet_1_1
+  - first:
+      213: 6944200792709477422
+    second: FlyingSkull_sprite_sheet_2_1
+  - first:
+      213: 4948482502846213731
+    second: FlyingSkull_sprite_sheet_3_1
+  - first:
+      213: 1838383047392578607
+    second: FlyingSkull_sprite_sheet_4_1
+  - first:
+      213: -5720542334841439830
+    second: FlyingSkull_sprite_sheet_5_1
+  - first:
+      213: 2763120460583298381
+    second: FlyingSkull_sprite_sheet_6_1
+  - first:
+      213: -5942273853984011313
+    second: FlyingSkull_sprite_sheet_7_1
+  - first:
+      213: -1578779245477841184
+    second: FlyingSkull_sprite_sheet_0_2
+  - first:
+      213: -3476059029708567289
+    second: FlyingSkull_sprite_sheet_1_2
+  - first:
+      213: -5295908079349068234
+    second: FlyingSkull_sprite_sheet_2_2
+  - first:
+      213: 3323565513875969211
+    second: FlyingSkull_sprite_sheet_3_2
+  - first:
+      213: 4502970369972904830
+    second: FlyingSkull_sprite_sheet_4_2
+  - first:
+      213: -3860868680290227197
+    second: FlyingSkull_sprite_sheet_5_2
+  - first:
+      213: -2083215695903389821
+    second: FlyingSkull_sprite_sheet_6_2
+  - first:
+      213: 3628784450422003789
+    second: FlyingSkull_sprite_sheet_7_2
+  - first:
+      213: 2429983623710973798
+    second: FlyingSkull_sprite_sheet_0_3
+  - first:
+      213: 9026982545233916984
+    second: FlyingSkull_sprite_sheet_1_3
+  - first:
+      213: -3126903631915632876
+    second: FlyingSkull_sprite_sheet_2_3
+  - first:
+      213: 3130652359288247383
+    second: FlyingSkull_sprite_sheet_3_3
+  - first:
+      213: 841514824146877109
+    second: FlyingSkull_sprite_sheet_4_3
+  - first:
+      213: -7282878246556014014
+    second: FlyingSkull_sprite_sheet_5_3
+  - first:
+      213: 7538820358287272056
+    second: FlyingSkull_sprite_sheet_6_3
+  - first:
+      213: 30373805613315232
+    second: FlyingSkull_sprite_sheet_7_3
+  - first:
+      213: -4657726221721279457
+    second: FlyingSkull_sprite_sheet_0_4
+  - first:
+      213: 5999564053182638795
+    second: FlyingSkull_sprite_sheet_1_4
+  - first:
+      213: -5796197825052985371
+    second: FlyingSkull_sprite_sheet_2_4
+  - first:
+      213: -1043904961877212009
+    second: FlyingSkull_sprite_sheet_3_4
+  - first:
+      213: -5120705149381645169
+    second: FlyingSkull_sprite_sheet_4_4
+  - first:
+      213: -5517719725609069570
+    second: FlyingSkull_sprite_sheet_5_4
+  - first:
+      213: 746246255657549005
+    second: FlyingSkull_sprite_sheet_6_4
+  - first:
+      213: 3120356967330289731
+    second: FlyingSkull_sprite_sheet_7_4
+  - first:
+      213: -363894804945750197
+    second: FlyingSkull_sprite_sheet_0_5
+  - first:
+      213: -8521226622072665137
+    second: FlyingSkull_sprite_sheet_1_5
+  - first:
+      213: -8475591439938268146
+    second: FlyingSkull_sprite_sheet_2_5
+  - first:
+      213: -1504634394942166685
+    second: FlyingSkull_sprite_sheet_3_5
+  - first:
+      213: 5696340707134892572
+    second: FlyingSkull_sprite_sheet_4_5
+  - first:
+      213: 4090806924893988596
+    second: FlyingSkull_sprite_sheet_5_5
+  - first:
+      213: 2468312698097723300
+    second: FlyingSkull_sprite_sheet_6_5
+  - first:
+      213: -893434992618248506
+    second: FlyingSkull_sprite_sheet_7_5
+  - first:
+      213: -86341493327194002
+    second: FlyingSkull_sprite_sheet_0_6
+  - first:
+      213: -6289910052972890969
+    second: FlyingSkull_sprite_sheet_1_6
+  - first:
+      213: -1935002181823624861
+    second: FlyingSkull_sprite_sheet_2_6
+  - first:
+      213: 3996839296097112031
+    second: FlyingSkull_sprite_sheet_3_6
+  - first:
+      213: -6013837042720178997
+    second: FlyingSkull_sprite_sheet_4_6
+  - first:
+      213: 1140629896590631798
+    second: FlyingSkull_sprite_sheet_5_6
+  - first:
+      213: -6976059043350780688
+    second: FlyingSkull_sprite_sheet_6_6
+  - first:
+      213: 330166125400667649
+    second: FlyingSkull_sprite_sheet_7_6
+  - first:
+      213: 7625812266691387781
+    second: FlyingSkull_sprite_sheet_0_7
+  - first:
+      213: -8681755267388662937
+    second: FlyingSkull_sprite_sheet_1_7
+  - first:
+      213: 2202251405148582359
+    second: FlyingSkull_sprite_sheet_2_7
+  - first:
+      213: 5457478160003395713
+    second: FlyingSkull_sprite_sheet_3_7
+  - first:
+      213: -2317128404632431241
+    second: FlyingSkull_sprite_sheet_4_7
+  - first:
+      213: 5838512086414883677
+    second: FlyingSkull_sprite_sheet_5_7
+  - first:
+      213: 7035098828811649308
+    second: FlyingSkull_sprite_sheet_6_7
+  - first:
+      213: -6705185659983469008
+    second: FlyingSkull_sprite_sheet_7_7
+  - first:
+      213: 4865018684854438814
+    second: FlyingSkull_sprite_sheet_0_8
+  - first:
+      213: 1481706224742157052
+    second: FlyingSkull_sprite_sheet_1_8
+  - first:
+      213: -8350062330451314264
+    second: FlyingSkull_sprite_sheet_2_8
+  - first:
+      213: -7283065769673149243
+    second: FlyingSkull_sprite_sheet_3_8
+  - first:
+      213: 3264962689444346393
+    second: FlyingSkull_sprite_sheet_4_8
+  - first:
+      213: -1583402052990991396
+    second: FlyingSkull_sprite_sheet_5_8
+  - first:
+      213: -7637772080429067831
+    second: FlyingSkull_sprite_sheet_6_8
+  - first:
+      213: 8550557942505564654
+    second: FlyingSkull_sprite_sheet_7_8
+  - first:
+      213: -3156365883744376677
+    second: FlyingSkull_sprite_sheet_0_9
+  - first:
+      213: -8861309289001478724
+    second: FlyingSkull_sprite_sheet_1_9
+  - first:
+      213: 6198275224209244046
+    second: FlyingSkull_sprite_sheet_2_9
+  - first:
+      213: 242914816066264096
+    second: FlyingSkull_sprite_sheet_3_9
+  - first:
+      213: 8591715893898661632
+    second: FlyingSkull_sprite_sheet_4_9
+  - first:
+      213: 2185091005461584398
+    second: FlyingSkull_sprite_sheet_5_9
+  - first:
+      213: 2762327742287895602
+    second: FlyingSkull_sprite_sheet_6_9
+  - first:
+      213: -808828552425612242
+    second: FlyingSkull_sprite_sheet_7_9
+  - first:
+      213: -5575291258460447862
+    second: FlyingSkull_sprite_sheet_0_10
+  - first:
+      213: 7727201184914848130
+    second: FlyingSkull_sprite_sheet_1_10
+  - first:
+      213: -2451685445284913188
+    second: FlyingSkull_sprite_sheet_2_10
+  - first:
+      213: -3540723164076985468
+    second: FlyingSkull_sprite_sheet_3_10
+  - first:
+      213: 4622257119636714747
+    second: FlyingSkull_sprite_sheet_4_10
+  - first:
+      213: -6796485715925381475
+    second: FlyingSkull_sprite_sheet_5_10
+  - first:
+      213: -8398573456721516673
+    second: FlyingSkull_sprite_sheet_6_10
+  - first:
+      213: 2572632726396452921
+    second: FlyingSkull_sprite_sheet_7_10
+  - first:
+      213: -3677974703924201026
+    second: FlyingSkull_sprite_sheet_0_11
+  - first:
+      213: -5785874101452374425
+    second: FlyingSkull_sprite_sheet_1_11
+  - first:
+      213: -1921100142852836941
+    second: FlyingSkull_sprite_sheet_2_11
+  - first:
+      213: -4590126816398259892
+    second: FlyingSkull_sprite_sheet_3_11
+  - first:
+      213: -8453060400505137124
+    second: FlyingSkull_sprite_sheet_4_11
+  - first:
+      213: 4345984728278978005
+    second: FlyingSkull_sprite_sheet_5_11
+  - first:
+      213: -2162124206392548742
+    second: FlyingSkull_sprite_sheet_6_11
+  - first:
+      213: -3113656522335682504
+    second: FlyingSkull_sprite_sheet_7_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dfc21b355b0a860800000000000000
+      internalID: 7539225147277639043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad8f75f98fa9e70800000000000000
+      internalID: 9122877358451776109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfce522da192e6f0800000000000000
+      internalID: -656802422850662440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80011e5e240a116e0800000000000000
+      internalID: -1868536161197027320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be58b75626495300800000000000000
+      internalID: 241301185535434425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9544ff7669e3150800000000000000
+      internalID: 5854281939036690853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4710d2b1f59d1edf0800000000000000
+      internalID: -152601909852831372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342849386f079c90800000000000000
+      internalID: -7163239741997439943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1cb0847e24b440800000000000000
+      internalID: 4950632968297913216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce449254b36288690800000000000000
+      internalID: -7599782335182453524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e243f6a34d1ce5060800000000000000
+      internalID: 6944200792709477422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e626f3e9a8ca440800000000000000
+      internalID: 4948482502846213731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c4fe434af338910800000000000000
+      internalID: 1838383047392578607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa931312e0d8c90b0800000000000000
+      internalID: -5720542334841439830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456ea45b63985620800000000000000
+      internalID: 2763120460583298381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb013fc96dc88da0800000000000000
+      internalID: -5942273853984011313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6b88614ac071ae0800000000000000
+      internalID: -1578779245477841184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d8eebbabe82cfc0800000000000000
+      internalID: -3476059029708567289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e074729a72186b0800000000000000
+      internalID: -5295908079349068234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4d052d93daf1e20800000000000000
+      internalID: 3323565513875969211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73285891b3cd7e30800000000000000
+      internalID: 4502970369972904830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30caeda14607b6ac0800000000000000
+      internalID: -3860868680290227197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870927ac5ee613e0800000000000000
+      internalID: -2083215695903389821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d485dd54b380c5230800000000000000
+      internalID: 3628784450422003789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f1f4d2b3909b120800000000000000
+      internalID: 2429983623710973798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834b1524cc8464d70800000000000000
+      internalID: 9026982545233916984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4173accb6b10b94d0800000000000000
+      internalID: -3126903631915632876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7545d9edbbf427b20800000000000000
+      internalID: 3130652359288247383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baff762649adab00800000000000000
+      internalID: 841514824146877109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aeb9332d40eea90800000000000000
+      internalID: -7282878246556014014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87822396c254f9860800000000000000
+      internalID: 7538820358287272056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4fe06b0d8eb6000800000000000000
+      internalID: 30373805613315232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14e745ddae6c5fb0800000000000000
+      internalID: -4657726221721279457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca672528bbb24350800000000000000
+      internalID: 5999564053182638795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e733d5a9c4cf8fa0800000000000000
+      internalID: -5796197825052985371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7948a00d7fd4381f0800000000000000
+      internalID: -1043904961877212009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce79b1cc99fe8b0800000000000000
+      internalID: -5120705149381645169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d7e8c42f1d63b0800000000000000
+      internalID: -5517719725609069570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccfe6704033b5a00800000000000000
+      internalID: 746246255657549005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3481322212cbd4b20800000000000000
+      internalID: 3120356967330289731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4739975a9f23faf0800000000000000
+      internalID: -363894804945750197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc1ccd8858eb980800000000000000
+      internalID: -8521226622072665137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e045321bd76a06a80800000000000000
+      internalID: -8475591439938268146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36923ac5df67e1be0800000000000000
+      internalID: -1504634394942166685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a6f5051b77d0f40800000000000000
+      internalID: 5696340707134892572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6a303693775c830800000000000000
+      internalID: 4090806924893988596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a763bc3255314220800000000000000
+      internalID: 2468312698097723300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6e51b9b91e993f0800000000000000
+      internalID: -893434992618248506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e681bd88ed04dcef0800000000000000
+      internalID: -86341493327194002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47467d120c5b8a0800000000000000
+      internalID: -6289910052972890969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690cc884cd7525e0800000000000000
+      internalID: -1935002181823624861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc034e920a77730800000000000000
+      internalID: 3996839296097112031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccf393821f8a8ca0800000000000000
+      internalID: -6013837042720178997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673a97ef8d454df00800000000000000
+      internalID: 1140629896590631798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ece4c24f003f90800000000000000
+      internalID: -6976059043350780688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106bf5d775cf49400800000000000000
+      internalID: 330166125400667649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e4ff6ad354d960800000000000000
+      internalID: 7625812266691387781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b1c6c0595348780800000000000000
+      internalID: -8681755267388662937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d17cf52cf7ff8e10800000000000000
+      internalID: 2202251405148582359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1807478b87bdcbb40800000000000000
+      internalID: 5457478160003395713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7759aee1ef7e7dfd0800000000000000
+      internalID: -2317128404632431241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b759f0fcf860150800000000000000
+      internalID: 5838512086414883677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11c51b7c11b1a160800000000000000
+      internalID: 7035098828811649308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03664a7fa2562f2a0800000000000000
+      internalID: -6705185659983469008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b0368c7b4048340800000000000000
+      internalID: 4865018684854438814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfacd3306f3109410800000000000000
+      internalID: 1481706224742157052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9341d0d8e9e1c80800000000000000
+      internalID: -8350062330451314264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c433d2154a5dea90800000000000000
+      internalID: -7283065769673149243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91afb3d744a7f4d20800000000000000
+      internalID: 3264962689444346393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd309d6d830a60ae0800000000000000
+      internalID: -1583402052990991396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c111ae62ce210690800000000000000
+      internalID: -7637772080429067831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9607a552fa9a670800000000000000
+      internalID: 8550557942505564654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98214ea3f55234d0800000000000000
+      internalID: -3156365883744376677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59230a62e460580800000000000000
+      internalID: -8861309289001478724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fb81ff972b40650800000000000000
+      internalID: 6198275224209244046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c1f4afcb10f5300800000000000000
+      internalID: 242914816066264096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f48eaa518eb3770800000000000000
+      internalID: 8591715893898661632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a507e31b0035e10800000000000000
+      internalID: 2185091005461584398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cd6483272c55620800000000000000
+      internalID: 2762327742287895602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c5a7887b676c4f0800000000000000
+      internalID: -808828552425612242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bdf1cb32690a2b0800000000000000
+      internalID: -5575291258460447862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289b3d689888c3b60800000000000000
+      internalID: 7727201184914848130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf1cccb31dd9fdd0800000000000000
+      internalID: -2451685445284913188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483b135ba03dcdec0800000000000000
+      internalID: -3540723164076985468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4777c4c5e852040800000000000000
+      internalID: 4622257119636714747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e404d20480ea1a0800000000000000
+      internalID: -6796485715925381475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e61c40f5427b80800000000000000
+      internalID: -8398573456721516673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930c76295d3d3b320800000000000000
+      internalID: 2572632726396452921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b9b75e7535fcc0800000000000000
+      internalID: -3677974703924201026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e7ccbd82274bfa0800000000000000
+      internalID: -5785874101452374425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1fd473991e655e0800000000000000
+      internalID: -1921100142852836941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c494692eaf79c40c0800000000000000
+      internalID: -4590126816398259892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_4_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1858fa1a52b0ba80800000000000000
+      internalID: -8453060400505137124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd4758951a005c30800000000000000
+      internalID: 4345984728278978005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_6_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72e2bd5d779ef1e0800000000000000
+      internalID: -2162124206392548742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSkull_sprite_sheet_7_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8308a99c3e11ac4d0800000000000000
+      internalID: -3113656522335682504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlyingSkull_sprite_sheet_0: -9090907262787833337
+      FlyingSkull_sprite_sheet_0_0: 7539225147277639043
+      FlyingSkull_sprite_sheet_0_1: 4950632968297913216
+      FlyingSkull_sprite_sheet_0_10: -5575291258460447862
+      FlyingSkull_sprite_sheet_0_11: -3677974703924201026
+      FlyingSkull_sprite_sheet_0_2: -1578779245477841184
+      FlyingSkull_sprite_sheet_0_3: 2429983623710973798
+      FlyingSkull_sprite_sheet_0_4: -4657726221721279457
+      FlyingSkull_sprite_sheet_0_5: -363894804945750197
+      FlyingSkull_sprite_sheet_0_6: -86341493327194002
+      FlyingSkull_sprite_sheet_0_7: 7625812266691387781
+      FlyingSkull_sprite_sheet_0_8: 4865018684854438814
+      FlyingSkull_sprite_sheet_0_9: -3156365883744376677
+      FlyingSkull_sprite_sheet_1: -2130531136886131041
+      FlyingSkull_sprite_sheet_10: -9067942473129651868
+      FlyingSkull_sprite_sheet_11: -4555960970372330191
+      FlyingSkull_sprite_sheet_12: -4967988307525339914
+      FlyingSkull_sprite_sheet_13: -4768520417569372620
+      FlyingSkull_sprite_sheet_14: -779282595894088041
+      FlyingSkull_sprite_sheet_15: 876735754549966894
+      FlyingSkull_sprite_sheet_16: -8251327451288306971
+      FlyingSkull_sprite_sheet_17: -2834037024771923923
+      FlyingSkull_sprite_sheet_18: -7001889245298405782
+      FlyingSkull_sprite_sheet_19: 8367688140455317165
+      FlyingSkull_sprite_sheet_1_0: 9122877358451776109
+      FlyingSkull_sprite_sheet_1_1: -7599782335182453524
+      FlyingSkull_sprite_sheet_1_10: 7727201184914848130
+      FlyingSkull_sprite_sheet_1_11: -5785874101452374425
+      FlyingSkull_sprite_sheet_1_2: -3476059029708567289
+      FlyingSkull_sprite_sheet_1_3: 9026982545233916984
+      FlyingSkull_sprite_sheet_1_4: 5999564053182638795
+      FlyingSkull_sprite_sheet_1_5: -8521226622072665137
+      FlyingSkull_sprite_sheet_1_6: -6289910052972890969
+      FlyingSkull_sprite_sheet_1_7: -8681755267388662937
+      FlyingSkull_sprite_sheet_1_8: 1481706224742157052
+      FlyingSkull_sprite_sheet_1_9: -8861309289001478724
+      FlyingSkull_sprite_sheet_2: -8147411806278693007
+      FlyingSkull_sprite_sheet_20: 3815937550673113630
+      FlyingSkull_sprite_sheet_21: -2877891851888569513
+      FlyingSkull_sprite_sheet_22: 3584688286891666150
+      FlyingSkull_sprite_sheet_23: 5997252370954616670
+      FlyingSkull_sprite_sheet_24: 4310688728256561904
+      FlyingSkull_sprite_sheet_25: -1684712253071242933
+      FlyingSkull_sprite_sheet_26: -2915591232249960080
+      FlyingSkull_sprite_sheet_27: -7079487970902834281
+      FlyingSkull_sprite_sheet_2_0: -656802422850662440
+      FlyingSkull_sprite_sheet_2_1: 6944200792709477422
+      FlyingSkull_sprite_sheet_2_10: -2451685445284913188
+      FlyingSkull_sprite_sheet_2_11: -1921100142852836941
+      FlyingSkull_sprite_sheet_2_2: -5295908079349068234
+      FlyingSkull_sprite_sheet_2_3: -3126903631915632876
+      FlyingSkull_sprite_sheet_2_4: -5796197825052985371
+      FlyingSkull_sprite_sheet_2_5: -8475591439938268146
+      FlyingSkull_sprite_sheet_2_6: -1935002181823624861
+      FlyingSkull_sprite_sheet_2_7: 2202251405148582359
+      FlyingSkull_sprite_sheet_2_8: -8350062330451314264
+      FlyingSkull_sprite_sheet_2_9: 6198275224209244046
+      FlyingSkull_sprite_sheet_3: 4123448212162143097
+      FlyingSkull_sprite_sheet_3_0: -1868536161197027320
+      FlyingSkull_sprite_sheet_3_1: 4948482502846213731
+      FlyingSkull_sprite_sheet_3_10: -3540723164076985468
+      FlyingSkull_sprite_sheet_3_11: -4590126816398259892
+      FlyingSkull_sprite_sheet_3_2: 3323565513875969211
+      FlyingSkull_sprite_sheet_3_3: 3130652359288247383
+      FlyingSkull_sprite_sheet_3_4: -1043904961877212009
+      FlyingSkull_sprite_sheet_3_5: -1504634394942166685
+      FlyingSkull_sprite_sheet_3_6: 3996839296097112031
+      FlyingSkull_sprite_sheet_3_7: 5457478160003395713
+      FlyingSkull_sprite_sheet_3_8: -7283065769673149243
+      FlyingSkull_sprite_sheet_3_9: 242914816066264096
+      FlyingSkull_sprite_sheet_4: -1992966766486447031
+      FlyingSkull_sprite_sheet_4_0: 241301185535434425
+      FlyingSkull_sprite_sheet_4_1: 1838383047392578607
+      FlyingSkull_sprite_sheet_4_10: 4622257119636714747
+      FlyingSkull_sprite_sheet_4_11: -8453060400505137124
+      FlyingSkull_sprite_sheet_4_2: 4502970369972904830
+      FlyingSkull_sprite_sheet_4_3: 841514824146877109
+      FlyingSkull_sprite_sheet_4_4: -5120705149381645169
+      FlyingSkull_sprite_sheet_4_5: 5696340707134892572
+      FlyingSkull_sprite_sheet_4_6: -6013837042720178997
+      FlyingSkull_sprite_sheet_4_7: -2317128404632431241
+      FlyingSkull_sprite_sheet_4_8: 3264962689444346393
+      FlyingSkull_sprite_sheet_4_9: 8591715893898661632
+      FlyingSkull_sprite_sheet_5: 2405443873021218040
+      FlyingSkull_sprite_sheet_5_0: 5854281939036690853
+      FlyingSkull_sprite_sheet_5_1: -5720542334841439830
+      FlyingSkull_sprite_sheet_5_10: -6796485715925381475
+      FlyingSkull_sprite_sheet_5_11: 4345984728278978005
+      FlyingSkull_sprite_sheet_5_2: -3860868680290227197
+      FlyingSkull_sprite_sheet_5_3: -7282878246556014014
+      FlyingSkull_sprite_sheet_5_4: -5517719725609069570
+      FlyingSkull_sprite_sheet_5_5: 4090806924893988596
+      FlyingSkull_sprite_sheet_5_6: 1140629896590631798
+      FlyingSkull_sprite_sheet_5_7: 5838512086414883677
+      FlyingSkull_sprite_sheet_5_8: -1583402052990991396
+      FlyingSkull_sprite_sheet_5_9: 2185091005461584398
+      FlyingSkull_sprite_sheet_6: -5441851964236685052
+      FlyingSkull_sprite_sheet_6_0: -152601909852831372
+      FlyingSkull_sprite_sheet_6_1: 2763120460583298381
+      FlyingSkull_sprite_sheet_6_10: -8398573456721516673
+      FlyingSkull_sprite_sheet_6_11: -2162124206392548742
+      FlyingSkull_sprite_sheet_6_2: -2083215695903389821
+      FlyingSkull_sprite_sheet_6_3: 7538820358287272056
+      FlyingSkull_sprite_sheet_6_4: 746246255657549005
+      FlyingSkull_sprite_sheet_6_5: 2468312698097723300
+      FlyingSkull_sprite_sheet_6_6: -6976059043350780688
+      FlyingSkull_sprite_sheet_6_7: 7035098828811649308
+      FlyingSkull_sprite_sheet_6_8: -7637772080429067831
+      FlyingSkull_sprite_sheet_6_9: 2762327742287895602
+      FlyingSkull_sprite_sheet_7: 1196021860024591367
+      FlyingSkull_sprite_sheet_7_0: -7163239741997439943
+      FlyingSkull_sprite_sheet_7_1: -5942273853984011313
+      FlyingSkull_sprite_sheet_7_10: 2572632726396452921
+      FlyingSkull_sprite_sheet_7_11: -3113656522335682504
+      FlyingSkull_sprite_sheet_7_2: 3628784450422003789
+      FlyingSkull_sprite_sheet_7_3: 30373805613315232
+      FlyingSkull_sprite_sheet_7_4: 3120356967330289731
+      FlyingSkull_sprite_sheet_7_5: -893434992618248506
+      FlyingSkull_sprite_sheet_7_6: 330166125400667649
+      FlyingSkull_sprite_sheet_7_7: -6705185659983469008
+      FlyingSkull_sprite_sheet_7_8: 8550557942505564654
+      FlyingSkull_sprite_sheet_7_9: -808828552425612242
+      FlyingSkull_sprite_sheet_8: -5800709540151551062
+      FlyingSkull_sprite_sheet_9: 8053766069740787926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3999 @@
+fileFormatVersion: 2
+guid: d6b5c88dc46634045a73a712a6270ec1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7169292884990529876
+    second: farmer animations 32x32 v00_0
+  - first:
+      213: 579362099006977413
+    second: farmer animations 32x32 v00_1
+  - first:
+      213: -7591851481420220308
+    second: farmer animations 32x32 v00_2
+  - first:
+      213: 3742218149699811334
+    second: farmer animations 32x32 v00_3
+  - first:
+      213: -6445679890310132479
+    second: farmer animations 32x32 v00_4
+  - first:
+      213: 3166279181984459888
+    second: farmer animations 32x32 v00_5
+  - first:
+      213: -8239044637161974309
+    second: farmer animations 32x32 v00_6
+  - first:
+      213: -7631073751439028166
+    second: farmer animations 32x32 v00_7
+  - first:
+      213: 2443519917264898384
+    second: farmer animations 32x32 v00_8
+  - first:
+      213: -3774440497903165253
+    second: farmer animations 32x32 v00_9
+  - first:
+      213: 8246440485871645121
+    second: farmer animations 32x32 v00_10
+  - first:
+      213: -3772406958763156898
+    second: farmer animations 32x32 v00_11
+  - first:
+      213: -4656154265489122432
+    second: farmer animations 32x32 v00_12
+  - first:
+      213: -8276162070906231591
+    second: farmer animations 32x32 v00_13
+  - first:
+      213: 4633075453449879268
+    second: farmer animations 32x32 v00_14
+  - first:
+      213: 7423599385484412781
+    second: farmer animations 32x32 v00_15
+  - first:
+      213: -4246934209557324906
+    second: farmer animations 32x32 v00_16
+  - first:
+      213: -252167922449514338
+    second: farmer animations 32x32 v00_17
+  - first:
+      213: 2826747671245725911
+    second: farmer animations 32x32 v00_18
+  - first:
+      213: -2073821164904084384
+    second: farmer animations 32x32 v00_19
+  - first:
+      213: 440503999260786779
+    second: farmer animations 32x32 v00_20
+  - first:
+      213: -1578908821348437593
+    second: farmer animations 32x32 v00_21
+  - first:
+      213: -2864602426980451423
+    second: farmer animations 32x32 v00_22
+  - first:
+      213: 8780055626087869458
+    second: farmer animations 32x32 v00_23
+  - first:
+      213: -7466690172246045038
+    second: farmer animations 32x32 v00_24
+  - first:
+      213: 1683563687511506074
+    second: farmer animations 32x32 v00_25
+  - first:
+      213: 4633284206605137747
+    second: farmer animations 32x32 v00_26
+  - first:
+      213: -5885266414197123445
+    second: farmer animations 32x32 v00_27
+  - first:
+      213: 6423255053876113033
+    second: farmer animations 32x32 v00_28
+  - first:
+      213: 5295389712349220828
+    second: farmer animations 32x32 v00_29
+  - first:
+      213: 2291111286605098586
+    second: farmer animations 32x32 v00_30
+  - first:
+      213: -5110997136898405696
+    second: farmer animations 32x32 v00_31
+  - first:
+      213: 1238955195093787071
+    second: farmer animations 32x32 v00_32
+  - first:
+      213: 5290527026148901953
+    second: farmer animations 32x32 v00_33
+  - first:
+      213: -6430510979239739773
+    second: farmer animations 32x32 v00_34
+  - first:
+      213: 7215177289740932052
+    second: farmer animations 32x32 v00_35
+  - first:
+      213: 6587023924214123369
+    second: farmer animations 32x32 v00_36
+  - first:
+      213: -7961934739467367223
+    second: farmer animations 32x32 v00_37
+  - first:
+      213: 2984065531958918039
+    second: farmer animations 32x32 v00_38
+  - first:
+      213: 7365317640065178151
+    second: farmer animations 32x32 v00_39
+  - first:
+      213: 3350238183653758880
+    second: farmer animations 32x32 v00_40
+  - first:
+      213: 2430676208985767434
+    second: farmer animations 32x32 v00_41
+  - first:
+      213: 4196135494323625674
+    second: farmer animations 32x32 v00_42
+  - first:
+      213: 6312847053969989400
+    second: farmer animations 32x32 v00_43
+  - first:
+      213: -771617599514087911
+    second: farmer animations 32x32 v00_44
+  - first:
+      213: -7280276497127363401
+    second: farmer animations 32x32 v00_45
+  - first:
+      213: 1196760077854087780
+    second: farmer animations 32x32 v00_46
+  - first:
+      213: 807825883698382607
+    second: farmer animations 32x32 v00_47
+  - first:
+      213: -1073052625823472774
+    second: farmer animations 32x32 v00_48
+  - first:
+      213: 1277555544102793355
+    second: farmer animations 32x32 v00_49
+  - first:
+      213: -7747455291896814421
+    second: farmer animations 32x32 v00_50
+  - first:
+      213: 2586654436062080110
+    second: farmer animations 32x32 v00_51
+  - first:
+      213: 5453211879244351215
+    second: farmer animations 32x32 v00_0_0
+  - first:
+      213: -7601516752685337887
+    second: farmer animations 32x32 v00_1_0
+  - first:
+      213: 1541700447296206657
+    second: farmer animations 32x32 v00_2_0
+  - first:
+      213: 6205277405510977588
+    second: farmer animations 32x32 v00_3_0
+  - first:
+      213: 798574699604274688
+    second: farmer animations 32x32 v00_4_0
+  - first:
+      213: -8149550889042008907
+    second: farmer animations 32x32 v00_5_0
+  - first:
+      213: -3406666344941245298
+    second: farmer animations 32x32 v00_6_0
+  - first:
+      213: -2277347809059093065
+    second: farmer animations 32x32 v00_7_0
+  - first:
+      213: 7564885533968315415
+    second: farmer animations 32x32 v00_8_0
+  - first:
+      213: -2139866578905598323
+    second: farmer animations 32x32 v00_9_0
+  - first:
+      213: -2945497190345602978
+    second: farmer animations 32x32 v00_10_0
+  - first:
+      213: -5334957193291062867
+    second: farmer animations 32x32 v00_11_0
+  - first:
+      213: -1571718266457461960
+    second: farmer animations 32x32 v00_0_1
+  - first:
+      213: -4417774277391605727
+    second: farmer animations 32x32 v00_1_1
+  - first:
+      213: -8903602778273744118
+    second: farmer animations 32x32 v00_2_1
+  - first:
+      213: -972544410889378877
+    second: farmer animations 32x32 v00_3_1
+  - first:
+      213: 7414910776494088868
+    second: farmer animations 32x32 v00_4_1
+  - first:
+      213: 616765930198114059
+    second: farmer animations 32x32 v00_5_1
+  - first:
+      213: -3503376255667825985
+    second: farmer animations 32x32 v00_6_1
+  - first:
+      213: -5466806303749757379
+    second: farmer animations 32x32 v00_7_1
+  - first:
+      213: 7045741907779253612
+    second: farmer animations 32x32 v00_8_1
+  - first:
+      213: 4136517516290812645
+    second: farmer animations 32x32 v00_9_1
+  - first:
+      213: -5704587969648252971
+    second: farmer animations 32x32 v00_10_1
+  - first:
+      213: 8208311318893445810
+    second: farmer animations 32x32 v00_11_1
+  - first:
+      213: 4861351864349176435
+    second: farmer animations 32x32 v00_0_2
+  - first:
+      213: 8005397164977382277
+    second: farmer animations 32x32 v00_1_2
+  - first:
+      213: 2772791379984101040
+    second: farmer animations 32x32 v00_2_2
+  - first:
+      213: -4243252200719576960
+    second: farmer animations 32x32 v00_3_2
+  - first:
+      213: 1588001304328674830
+    second: farmer animations 32x32 v00_4_2
+  - first:
+      213: 5036867572020822128
+    second: farmer animations 32x32 v00_5_2
+  - first:
+      213: 8295625161211093907
+    second: farmer animations 32x32 v00_6_2
+  - first:
+      213: -4791398751228290042
+    second: farmer animations 32x32 v00_7_2
+  - first:
+      213: -8835032992527653781
+    second: farmer animations 32x32 v00_8_2
+  - first:
+      213: 5828414837684354579
+    second: farmer animations 32x32 v00_9_2
+  - first:
+      213: -4470957269010059847
+    second: farmer animations 32x32 v00_10_2
+  - first:
+      213: 2056728509195597012
+    second: farmer animations 32x32 v00_11_2
+  - first:
+      213: -2126955023083736733
+    second: farmer animations 32x32 v00_0_3
+  - first:
+      213: -1755222493105765020
+    second: farmer animations 32x32 v00_1_3
+  - first:
+      213: 2181991471999406584
+    second: farmer animations 32x32 v00_2_3
+  - first:
+      213: 476784632741104008
+    second: farmer animations 32x32 v00_3_3
+  - first:
+      213: 1703435750822405545
+    second: farmer animations 32x32 v00_4_3
+  - first:
+      213: -4890960207956282107
+    second: farmer animations 32x32 v00_5_3
+  - first:
+      213: 2541600481325657028
+    second: farmer animations 32x32 v00_6_3
+  - first:
+      213: -2567699585716050955
+    second: farmer animations 32x32 v00_7_3
+  - first:
+      213: 9002977744315432836
+    second: farmer animations 32x32 v00_8_3
+  - first:
+      213: -2137890760066524688
+    second: farmer animations 32x32 v00_9_3
+  - first:
+      213: 766278476817577352
+    second: farmer animations 32x32 v00_10_3
+  - first:
+      213: 8057513516958586113
+    second: farmer animations 32x32 v00_11_3
+  - first:
+      213: 3219064351368628326
+    second: farmer animations 32x32 v00_0_4
+  - first:
+      213: 2102771035219378110
+    second: farmer animations 32x32 v00_1_4
+  - first:
+      213: 5853726909062920773
+    second: farmer animations 32x32 v00_2_4
+  - first:
+      213: -7335821021739670982
+    second: farmer animations 32x32 v00_3_4
+  - first:
+      213: -5925760658915361792
+    second: farmer animations 32x32 v00_4_4
+  - first:
+      213: -5983812191024143875
+    second: farmer animations 32x32 v00_5_4
+  - first:
+      213: -7864475234465621387
+    second: farmer animations 32x32 v00_6_4
+  - first:
+      213: 4433431413511948557
+    second: farmer animations 32x32 v00_7_4
+  - first:
+      213: 6784030067120989727
+    second: farmer animations 32x32 v00_8_4
+  - first:
+      213: 5990151516378319882
+    second: farmer animations 32x32 v00_9_4
+  - first:
+      213: -2723234294137136982
+    second: farmer animations 32x32 v00_10_4
+  - first:
+      213: -6063506512883513611
+    second: farmer animations 32x32 v00_11_4
+  - first:
+      213: 9079718591555274964
+    second: farmer animations 32x32 v00_0_5
+  - first:
+      213: 1685133948140859872
+    second: farmer animations 32x32 v00_1_5
+  - first:
+      213: -108803743047146507
+    second: farmer animations 32x32 v00_2_5
+  - first:
+      213: 3852306229574734279
+    second: farmer animations 32x32 v00_3_5
+  - first:
+      213: 8182095768787568585
+    second: farmer animations 32x32 v00_4_5
+  - first:
+      213: 4528339232024336550
+    second: farmer animations 32x32 v00_5_5
+  - first:
+      213: -546504383140017321
+    second: farmer animations 32x32 v00_6_5
+  - first:
+      213: 7150657533360179234
+    second: farmer animations 32x32 v00_7_5
+  - first:
+      213: 5948647921561679180
+    second: farmer animations 32x32 v00_8_5
+  - first:
+      213: 8126525466186678269
+    second: farmer animations 32x32 v00_9_5
+  - first:
+      213: 5050427467828314016
+    second: farmer animations 32x32 v00_10_5
+  - first:
+      213: 6589737638133555817
+    second: farmer animations 32x32 v00_11_5
+  - first:
+      213: -7954177104293131507
+    second: farmer animations 32x32 v00_0_6
+  - first:
+      213: 6383831382035252692
+    second: farmer animations 32x32 v00_1_6
+  - first:
+      213: -6631896565499559787
+    second: farmer animations 32x32 v00_2_6
+  - first:
+      213: -373077850360554265
+    second: farmer animations 32x32 v00_3_6
+  - first:
+      213: -8989081483612392806
+    second: farmer animations 32x32 v00_4_6
+  - first:
+      213: -7917237030637397941
+    second: farmer animations 32x32 v00_5_6
+  - first:
+      213: -8811041257626868592
+    second: farmer animations 32x32 v00_6_6
+  - first:
+      213: -4565252814148719501
+    second: farmer animations 32x32 v00_7_6
+  - first:
+      213: -576394244823313133
+    second: farmer animations 32x32 v00_8_6
+  - first:
+      213: 4712091952399609918
+    second: farmer animations 32x32 v00_9_6
+  - first:
+      213: 3795588156251738349
+    second: farmer animations 32x32 v00_10_6
+  - first:
+      213: 1046645647427620461
+    second: farmer animations 32x32 v00_11_6
+  - first:
+      213: -4708629965293189779
+    second: farmer animations 32x32 v00_0_7
+  - first:
+      213: 5986751724857922778
+    second: farmer animations 32x32 v00_1_7
+  - first:
+      213: 75199124358744963
+    second: farmer animations 32x32 v00_2_7
+  - first:
+      213: -7574556070279465183
+    second: farmer animations 32x32 v00_3_7
+  - first:
+      213: -3692965894355263780
+    second: farmer animations 32x32 v00_4_7
+  - first:
+      213: 5862640614760271328
+    second: farmer animations 32x32 v00_5_7
+  - first:
+      213: 3995318915306925891
+    second: farmer animations 32x32 v00_6_7
+  - first:
+      213: 2122920570196438049
+    second: farmer animations 32x32 v00_7_7
+  - first:
+      213: 470498441908572502
+    second: farmer animations 32x32 v00_8_7
+  - first:
+      213: 5245893940691045135
+    second: farmer animations 32x32 v00_9_7
+  - first:
+      213: -6080643259884444122
+    second: farmer animations 32x32 v00_10_7
+  - first:
+      213: -3496820631435009608
+    second: farmer animations 32x32 v00_11_7
+  - first:
+      213: -7157653873495826255
+    second: farmer animations 32x32 v00_0_8
+  - first:
+      213: 3425977684021142084
+    second: farmer animations 32x32 v00_1_8
+  - first:
+      213: -5659935847176651483
+    second: farmer animations 32x32 v00_2_8
+  - first:
+      213: -7253942577268938939
+    second: farmer animations 32x32 v00_3_8
+  - first:
+      213: -616995924839294697
+    second: farmer animations 32x32 v00_4_8
+  - first:
+      213: 4727697459410092279
+    second: farmer animations 32x32 v00_5_8
+  - first:
+      213: -8343186440539876160
+    second: farmer animations 32x32 v00_6_8
+  - first:
+      213: -2946415459741745787
+    second: farmer animations 32x32 v00_7_8
+  - first:
+      213: -306203833811118568
+    second: farmer animations 32x32 v00_8_8
+  - first:
+      213: 5742662072100396118
+    second: farmer animations 32x32 v00_9_8
+  - first:
+      213: 820330065061829888
+    second: farmer animations 32x32 v00_10_8
+  - first:
+      213: 1860098610862745069
+    second: farmer animations 32x32 v00_11_8
+  - first:
+      213: 7421078623975189907
+    second: farmer animations 32x32 v00_0_9
+  - first:
+      213: -4275604169426729742
+    second: farmer animations 32x32 v00_1_9
+  - first:
+      213: -1969185942071785648
+    second: farmer animations 32x32 v00_2_9
+  - first:
+      213: -8048847402839934703
+    second: farmer animations 32x32 v00_3_9
+  - first:
+      213: -4964518732139543286
+    second: farmer animations 32x32 v00_4_9
+  - first:
+      213: 8738786932233567447
+    second: farmer animations 32x32 v00_5_9
+  - first:
+      213: -8598876426155095462
+    second: farmer animations 32x32 v00_6_9
+  - first:
+      213: 3604553727984928798
+    second: farmer animations 32x32 v00_7_9
+  - first:
+      213: 4890423932403561763
+    second: farmer animations 32x32 v00_8_9
+  - first:
+      213: 480197327070621418
+    second: farmer animations 32x32 v00_9_9
+  - first:
+      213: 5349161834115656898
+    second: farmer animations 32x32 v00_10_9
+  - first:
+      213: -678814152738174532
+    second: farmer animations 32x32 v00_11_9
+  - first:
+      213: -8587700638087071598
+    second: farmer animations 32x32 v00_0_10
+  - first:
+      213: -8641717329404848260
+    second: farmer animations 32x32 v00_1_10
+  - first:
+      213: 6417699898520838422
+    second: farmer animations 32x32 v00_2_10
+  - first:
+      213: -7390063919004958318
+    second: farmer animations 32x32 v00_3_10
+  - first:
+      213: 5061008595171542284
+    second: farmer animations 32x32 v00_4_10
+  - first:
+      213: 7933093171357270416
+    second: farmer animations 32x32 v00_5_10
+  - first:
+      213: 7729954054737417653
+    second: farmer animations 32x32 v00_6_10
+  - first:
+      213: 1831355093641501706
+    second: farmer animations 32x32 v00_7_10
+  - first:
+      213: -7642860420147304094
+    second: farmer animations 32x32 v00_8_10
+  - first:
+      213: -8281960393856725420
+    second: farmer animations 32x32 v00_9_10
+  - first:
+      213: 235040096671318315
+    second: farmer animations 32x32 v00_10_10
+  - first:
+      213: 4007811108704698317
+    second: farmer animations 32x32 v00_11_10
+  - first:
+      213: -2419768424991156808
+    second: farmer animations 32x32 v00_0_11
+  - first:
+      213: 3460411827632697171
+    second: farmer animations 32x32 v00_1_11
+  - first:
+      213: -749001751290686370
+    second: farmer animations 32x32 v00_2_11
+  - first:
+      213: -7944409711862635957
+    second: farmer animations 32x32 v00_3_11
+  - first:
+      213: 404402909839585151
+    second: farmer animations 32x32 v00_4_11
+  - first:
+      213: -2562829745942163881
+    second: farmer animations 32x32 v00_5_11
+  - first:
+      213: -2091297878181958391
+    second: farmer animations 32x32 v00_6_11
+  - first:
+      213: 5291568270014326606
+    second: farmer animations 32x32 v00_7_11
+  - first:
+      213: -4549147837681137804
+    second: farmer animations 32x32 v00_8_11
+  - first:
+      213: 1084445399187357622
+    second: farmer animations 32x32 v00_9_11
+  - first:
+      213: 3165023243385410511
+    second: farmer animations 32x32 v00_10_11
+  - first:
+      213: 1292647565756378722
+    second: farmer animations 32x32 v00_11_11
+  - first:
+      213: -9200661299971289360
+    second: farmer animations 32x32 v00_0_12
+  - first:
+      213: 4314606092060229030
+    second: farmer animations 32x32 v00_1_12
+  - first:
+      213: 5280880998639964686
+    second: farmer animations 32x32 v00_2_12
+  - first:
+      213: -9057383242860923518
+    second: farmer animations 32x32 v00_3_12
+  - first:
+      213: 2009279270802418680
+    second: farmer animations 32x32 v00_4_12
+  - first:
+      213: 4133320787922198929
+    second: farmer animations 32x32 v00_5_12
+  - first:
+      213: -7259416120092565958
+    second: farmer animations 32x32 v00_6_12
+  - first:
+      213: 4396761668449232462
+    second: farmer animations 32x32 v00_7_12
+  - first:
+      213: -8524832372092087441
+    second: farmer animations 32x32 v00_8_12
+  - first:
+      213: 6126760624211564403
+    second: farmer animations 32x32 v00_9_12
+  - first:
+      213: -2640155215643874760
+    second: farmer animations 32x32 v00_10_12
+  - first:
+      213: 2547666723481027601
+    second: farmer animations 32x32 v00_11_12
+  - first:
+      213: 8890902990445182998
+    second: farmer animations 32x32 v00_0_13
+  - first:
+      213: 2522321197673397261
+    second: farmer animations 32x32 v00_1_13
+  - first:
+      213: 5964662023083839842
+    second: farmer animations 32x32 v00_2_13
+  - first:
+      213: -8685937821618298645
+    second: farmer animations 32x32 v00_3_13
+  - first:
+      213: -63762843419817441
+    second: farmer animations 32x32 v00_4_13
+  - first:
+      213: -2639506665851688798
+    second: farmer animations 32x32 v00_5_13
+  - first:
+      213: -8459159750676258417
+    second: farmer animations 32x32 v00_6_13
+  - first:
+      213: 2473883971968520037
+    second: farmer animations 32x32 v00_7_13
+  - first:
+      213: 7837405177172930218
+    second: farmer animations 32x32 v00_8_13
+  - first:
+      213: -4702086090438666677
+    second: farmer animations 32x32 v00_9_13
+  - first:
+      213: 8381513688280650074
+    second: farmer animations 32x32 v00_10_13
+  - first:
+      213: 6973294670161295156
+    second: farmer animations 32x32 v00_11_13
+  - first:
+      213: 6595556838424867666
+    second: farmer animations 32x32 v00_0_14
+  - first:
+      213: 8780136374279439287
+    second: farmer animations 32x32 v00_1_14
+  - first:
+      213: -8066075127091958466
+    second: farmer animations 32x32 v00_2_14
+  - first:
+      213: -8575077038861262172
+    second: farmer animations 32x32 v00_3_14
+  - first:
+      213: -4340312288980938840
+    second: farmer animations 32x32 v00_4_14
+  - first:
+      213: 8911667230573384617
+    second: farmer animations 32x32 v00_5_14
+  - first:
+      213: 727413332779597833
+    second: farmer animations 32x32 v00_6_14
+  - first:
+      213: 1222502562423277561
+    second: farmer animations 32x32 v00_7_14
+  - first:
+      213: -8083837242390556810
+    second: farmer animations 32x32 v00_8_14
+  - first:
+      213: -7710977091744438542
+    second: farmer animations 32x32 v00_9_14
+  - first:
+      213: -6964052987395263891
+    second: farmer animations 32x32 v00_10_14
+  - first:
+      213: 4950903553849013588
+    second: farmer animations 32x32 v00_11_14
+  - first:
+      213: 163628543500053617
+    second: farmer animations 32x32 v00_0_15
+  - first:
+      213: 5602796189197869273
+    second: farmer animations 32x32 v00_1_15
+  - first:
+      213: -4099790068991451884
+    second: farmer animations 32x32 v00_2_15
+  - first:
+      213: -7450320940062581794
+    second: farmer animations 32x32 v00_3_15
+  - first:
+      213: -3183383556702424119
+    second: farmer animations 32x32 v00_4_15
+  - first:
+      213: 6660565071335342536
+    second: farmer animations 32x32 v00_5_15
+  - first:
+      213: -6749052790065928730
+    second: farmer animations 32x32 v00_6_15
+  - first:
+      213: -5247428643581995281
+    second: farmer animations 32x32 v00_7_15
+  - first:
+      213: -5525923099141243642
+    second: farmer animations 32x32 v00_8_15
+  - first:
+      213: -4244014321496495350
+    second: farmer animations 32x32 v00_9_15
+  - first:
+      213: 7923545775360064433
+    second: farmer animations 32x32 v00_10_15
+  - first:
+      213: -194794672303590475
+    second: farmer animations 32x32 v00_11_15
+  - first:
+      213: -3665156251730683763
+    second: farmer animations 32x32 v00_0_16
+  - first:
+      213: -308719359155210126
+    second: farmer animations 32x32 v00_1_16
+  - first:
+      213: -6186356366115088904
+    second: farmer animations 32x32 v00_2_16
+  - first:
+      213: -6701521660344056350
+    second: farmer animations 32x32 v00_3_16
+  - first:
+      213: 8995701446785147738
+    second: farmer animations 32x32 v00_4_16
+  - first:
+      213: -4889525444190047242
+    second: farmer animations 32x32 v00_5_16
+  - first:
+      213: -7244518602027371566
+    second: farmer animations 32x32 v00_6_16
+  - first:
+      213: 6851105545643764287
+    second: farmer animations 32x32 v00_7_16
+  - first:
+      213: -2139790004513043847
+    second: farmer animations 32x32 v00_8_16
+  - first:
+      213: -8545087995547203098
+    second: farmer animations 32x32 v00_9_16
+  - first:
+      213: -3702981041419236817
+    second: farmer animations 32x32 v00_10_16
+  - first:
+      213: 7933451384832874467
+    second: farmer animations 32x32 v00_11_16
+  - first:
+      213: -6961960227714546384
+    second: farmer animations 32x32 v00_0_17
+  - first:
+      213: 7634359347514105566
+    second: farmer animations 32x32 v00_1_17
+  - first:
+      213: 2956781734684717751
+    second: farmer animations 32x32 v00_2_17
+  - first:
+      213: -8523507804442634858
+    second: farmer animations 32x32 v00_3_17
+  - first:
+      213: -6600727924603595194
+    second: farmer animations 32x32 v00_4_17
+  - first:
+      213: -8154151881719846635
+    second: farmer animations 32x32 v00_5_17
+  - first:
+      213: -4946899428377037076
+    second: farmer animations 32x32 v00_6_17
+  - first:
+      213: -6511193169935134657
+    second: farmer animations 32x32 v00_7_17
+  - first:
+      213: 6133578279240441793
+    second: farmer animations 32x32 v00_8_17
+  - first:
+      213: -1609752452155198956
+    second: farmer animations 32x32 v00_9_17
+  - first:
+      213: 5939211898719898472
+    second: farmer animations 32x32 v00_10_17
+  - first:
+      213: 1920005570070583851
+    second: farmer animations 32x32 v00_11_17
+  - first:
+      213: 5750569116837466750
+    second: farmer animations 32x32 v00_0_18
+  - first:
+      213: 2040442450334363212
+    second: farmer animations 32x32 v00_1_18
+  - first:
+      213: 3528229960382919942
+    second: farmer animations 32x32 v00_2_18
+  - first:
+      213: 8101148914944123266
+    second: farmer animations 32x32 v00_3_18
+  - first:
+      213: -740509785458947143
+    second: farmer animations 32x32 v00_4_18
+  - first:
+      213: 1041129398964507671
+    second: farmer animations 32x32 v00_5_18
+  - first:
+      213: 4344872035007392467
+    second: farmer animations 32x32 v00_6_18
+  - first:
+      213: 7763111970677328547
+    second: farmer animations 32x32 v00_7_18
+  - first:
+      213: -8804815584429371569
+    second: farmer animations 32x32 v00_8_18
+  - first:
+      213: 7214367256820930892
+    second: farmer animations 32x32 v00_9_18
+  - first:
+      213: 392214028060958860
+    second: farmer animations 32x32 v00_10_18
+  - first:
+      213: -912366298259753545
+    second: farmer animations 32x32 v00_11_18
+  - first:
+      213: -8000578887620912971
+    second: farmer animations 32x32 v00_0_19
+  - first:
+      213: -2112752949897117704
+    second: farmer animations 32x32 v00_1_19
+  - first:
+      213: 3728733254067456658
+    second: farmer animations 32x32 v00_2_19
+  - first:
+      213: -2278184240219665471
+    second: farmer animations 32x32 v00_3_19
+  - first:
+      213: -3385322502081686944
+    second: farmer animations 32x32 v00_4_19
+  - first:
+      213: 4772383718360978318
+    second: farmer animations 32x32 v00_5_19
+  - first:
+      213: 8312878970029006078
+    second: farmer animations 32x32 v00_6_19
+  - first:
+      213: -5650260824501780663
+    second: farmer animations 32x32 v00_7_19
+  - first:
+      213: 998024426204937159
+    second: farmer animations 32x32 v00_8_19
+  - first:
+      213: -5648731858396923759
+    second: farmer animations 32x32 v00_9_19
+  - first:
+      213: 7897237206995392747
+    second: farmer animations 32x32 v00_10_19
+  - first:
+      213: 245152303723715459
+    second: farmer animations 32x32 v00_11_19
+  - first:
+      213: 8471692999103777082
+    second: farmer animations 32x32 v00_0_20
+  - first:
+      213: 2443628655573699579
+    second: farmer animations 32x32 v00_1_20
+  - first:
+      213: -4588488428545909674
+    second: farmer animations 32x32 v00_2_20
+  - first:
+      213: -3106431719073106805
+    second: farmer animations 32x32 v00_3_20
+  - first:
+      213: 8665508500424432790
+    second: farmer animations 32x32 v00_4_20
+  - first:
+      213: -1387971357480615898
+    second: farmer animations 32x32 v00_5_20
+  - first:
+      213: -4185923635356804122
+    second: farmer animations 32x32 v00_6_20
+  - first:
+      213: 6250170495438809286
+    second: farmer animations 32x32 v00_7_20
+  - first:
+      213: -904056206811556914
+    second: farmer animations 32x32 v00_8_20
+  - first:
+      213: -7508220836718727127
+    second: farmer animations 32x32 v00_9_20
+  - first:
+      213: 5221356308719668881
+    second: farmer animations 32x32 v00_10_20
+  - first:
+      213: 2451092758079254991
+    second: farmer animations 32x32 v00_11_20
+  - first:
+      213: 2401231810276136463
+    second: farmer animations 32x32 v00_0_21
+  - first:
+      213: -4813629566878967961
+    second: farmer animations 32x32 v00_1_21
+  - first:
+      213: -7271932312162007989
+    second: farmer animations 32x32 v00_2_21
+  - first:
+      213: -1743542289739885749
+    second: farmer animations 32x32 v00_3_21
+  - first:
+      213: 8517184517736769564
+    second: farmer animations 32x32 v00_4_21
+  - first:
+      213: 1649932921071110825
+    second: farmer animations 32x32 v00_5_21
+  - first:
+      213: 2248691635630577861
+    second: farmer animations 32x32 v00_6_21
+  - first:
+      213: 6981835622417602969
+    second: farmer animations 32x32 v00_7_21
+  - first:
+      213: 30698588903927476
+    second: farmer animations 32x32 v00_8_21
+  - first:
+      213: -8668511457879950243
+    second: farmer animations 32x32 v00_9_21
+  - first:
+      213: -8360351309023335690
+    second: farmer animations 32x32 v00_10_21
+  - first:
+      213: 4744821822857484085
+    second: farmer animations 32x32 v00_11_21
+  - first:
+      213: 497022721560794503
+    second: farmer animations 32x32 v00_0_22
+  - first:
+      213: 5841763846609241220
+    second: farmer animations 32x32 v00_1_22
+  - first:
+      213: 7901796231641502049
+    second: farmer animations 32x32 v00_2_22
+  - first:
+      213: -8964842643239202625
+    second: farmer animations 32x32 v00_3_22
+  - first:
+      213: 671955675222790639
+    second: farmer animations 32x32 v00_4_22
+  - first:
+      213: -263922962638979363
+    second: farmer animations 32x32 v00_5_22
+  - first:
+      213: 2154712032477346213
+    second: farmer animations 32x32 v00_6_22
+  - first:
+      213: -5344013331656251916
+    second: farmer animations 32x32 v00_7_22
+  - first:
+      213: 350429879722208279
+    second: farmer animations 32x32 v00_8_22
+  - first:
+      213: -7871109447647037733
+    second: farmer animations 32x32 v00_9_22
+  - first:
+      213: 7364716112685493265
+    second: farmer animations 32x32 v00_10_22
+  - first:
+      213: -1949998226621491339
+    second: farmer animations 32x32 v00_11_22
+  - first:
+      213: -2065931211980542299
+    second: farmer animations 32x32 v00_0_23
+  - first:
+      213: -6459058994086102953
+    second: farmer animations 32x32 v00_1_23
+  - first:
+      213: 146142592876554696
+    second: farmer animations 32x32 v00_2_23
+  - first:
+      213: -6551884402908883966
+    second: farmer animations 32x32 v00_3_23
+  - first:
+      213: 3373009334800137621
+    second: farmer animations 32x32 v00_4_23
+  - first:
+      213: -1994528943767007850
+    second: farmer animations 32x32 v00_5_23
+  - first:
+      213: -5407098287023070214
+    second: farmer animations 32x32 v00_6_23
+  - first:
+      213: 5312517466400150010
+    second: farmer animations 32x32 v00_7_23
+  - first:
+      213: 173468268119505287
+    second: farmer animations 32x32 v00_8_23
+  - first:
+      213: 9207748508353946474
+    second: farmer animations 32x32 v00_9_23
+  - first:
+      213: 2103174351464686811
+    second: farmer animations 32x32 v00_10_23
+  - first:
+      213: 6401720670361994473
+    second: farmer animations 32x32 v00_11_23
+  - first:
+      213: 2115708339661172598
+    second: farmer animations 32x32 v00_0_24
+  - first:
+      213: -6243003766266097547
+    second: farmer animations 32x32 v00_1_24
+  - first:
+      213: -7597403249056579709
+    second: farmer animations 32x32 v00_2_24
+  - first:
+      213: 2394888994789773737
+    second: farmer animations 32x32 v00_3_24
+  - first:
+      213: -7674668688839436963
+    second: farmer animations 32x32 v00_4_24
+  - first:
+      213: 6105759982525879785
+    second: farmer animations 32x32 v00_5_24
+  - first:
+      213: -2568504353797709364
+    second: farmer animations 32x32 v00_6_24
+  - first:
+      213: -7873495722528689235
+    second: farmer animations 32x32 v00_7_24
+  - first:
+      213: 6265503376285328455
+    second: farmer animations 32x32 v00_8_24
+  - first:
+      213: 1661176639353594935
+    second: farmer animations 32x32 v00_9_24
+  - first:
+      213: -2260889566087352933
+    second: farmer animations 32x32 v00_10_24
+  - first:
+      213: -7320953527180835316
+    second: farmer animations 32x32 v00_11_24
+  - first:
+      213: 1855151568497333159
+    second: farmer animations 32x32 v00_0_25
+  - first:
+      213: -475256852296456705
+    second: farmer animations 32x32 v00_1_25
+  - first:
+      213: -370392065386044496
+    second: farmer animations 32x32 v00_2_25
+  - first:
+      213: 4432823370780549151
+    second: farmer animations 32x32 v00_3_25
+  - first:
+      213: -9066346467438115450
+    second: farmer animations 32x32 v00_4_25
+  - first:
+      213: -6462744044825774276
+    second: farmer animations 32x32 v00_5_25
+  - first:
+      213: -517774642440774035
+    second: farmer animations 32x32 v00_6_25
+  - first:
+      213: 4167250347867788984
+    second: farmer animations 32x32 v00_7_25
+  - first:
+      213: 8185888006493201993
+    second: farmer animations 32x32 v00_8_25
+  - first:
+      213: -7656194697820979299
+    second: farmer animations 32x32 v00_9_25
+  - first:
+      213: -8428076684941777551
+    second: farmer animations 32x32 v00_10_25
+  - first:
+      213: 3306034657343080546
+    second: farmer animations 32x32 v00_11_25
+  - first:
+      213: 1506308535504487728
+    second: farmer animations 32x32 v00_0_26
+  - first:
+      213: 6511314836497499480
+    second: farmer animations 32x32 v00_1_26
+  - first:
+      213: 1360180057697737865
+    second: farmer animations 32x32 v00_2_26
+  - first:
+      213: 3288433048053236163
+    second: farmer animations 32x32 v00_3_26
+  - first:
+      213: -5666124035095993102
+    second: farmer animations 32x32 v00_4_26
+  - first:
+      213: -3790804514987042521
+    second: farmer animations 32x32 v00_5_26
+  - first:
+      213: 54980644096601726
+    second: farmer animations 32x32 v00_6_26
+  - first:
+      213: 3774441235971607029
+    second: farmer animations 32x32 v00_7_26
+  - first:
+      213: 8351328024318307776
+    second: farmer animations 32x32 v00_8_26
+  - first:
+      213: -5833104172223094985
+    second: farmer animations 32x32 v00_9_26
+  - first:
+      213: -1021694979377645336
+    second: farmer animations 32x32 v00_10_26
+  - first:
+      213: 4969996457041279241
+    second: farmer animations 32x32 v00_11_26
+  - first:
+      213: 7286413633906548061
+    second: farmer animations 32x32 v00_0_27
+  - first:
+      213: 5109783604890742934
+    second: farmer animations 32x32 v00_1_27
+  - first:
+      213: -7090079802895349996
+    second: farmer animations 32x32 v00_2_27
+  - first:
+      213: 8842721492866324458
+    second: farmer animations 32x32 v00_3_27
+  - first:
+      213: 6171727287618290087
+    second: farmer animations 32x32 v00_4_27
+  - first:
+      213: 4470140491883331494
+    second: farmer animations 32x32 v00_5_27
+  - first:
+      213: -2707867550759474363
+    second: farmer animations 32x32 v00_6_27
+  - first:
+      213: 4585239503128624018
+    second: farmer animations 32x32 v00_7_27
+  - first:
+      213: 1404233001907398304
+    second: farmer animations 32x32 v00_8_27
+  - first:
+      213: -9041359702754995694
+    second: farmer animations 32x32 v00_9_27
+  - first:
+      213: -1245441181914130329
+    second: farmer animations 32x32 v00_10_27
+  - first:
+      213: 2405859763435551210
+    second: farmer animations 32x32 v00_11_27
+  - first:
+      213: -150251558990894005
+    second: farmer animations 32x32 v00_0_28
+  - first:
+      213: 1906247425560434695
+    second: farmer animations 32x32 v00_1_28
+  - first:
+      213: -8642284915070237385
+    second: farmer animations 32x32 v00_2_28
+  - first:
+      213: 6885873295590514862
+    second: farmer animations 32x32 v00_3_28
+  - first:
+      213: -3019336515578309103
+    second: farmer animations 32x32 v00_4_28
+  - first:
+      213: -1180036963097179023
+    second: farmer animations 32x32 v00_5_28
+  - first:
+      213: -984223911142428659
+    second: farmer animations 32x32 v00_6_28
+  - first:
+      213: -2576892900332322489
+    second: farmer animations 32x32 v00_7_28
+  - first:
+      213: -8659417026247108906
+    second: farmer animations 32x32 v00_8_28
+  - first:
+      213: 528066728631790959
+    second: farmer animations 32x32 v00_9_28
+  - first:
+      213: 4306218610800250874
+    second: farmer animations 32x32 v00_10_28
+  - first:
+      213: -1848466103682226467
+    second: farmer animations 32x32 v00_11_28
+  - first:
+      213: 600444834676565422
+    second: farmer animations 32x32 v00_0_29
+  - first:
+      213: 1010740386270325938
+    second: farmer animations 32x32 v00_1_29
+  - first:
+      213: 1826752127282238655
+    second: farmer animations 32x32 v00_2_29
+  - first:
+      213: -161357244587358434
+    second: farmer animations 32x32 v00_3_29
+  - first:
+      213: -974648336781192270
+    second: farmer animations 32x32 v00_4_29
+  - first:
+      213: 7353654918868647065
+    second: farmer animations 32x32 v00_5_29
+  - first:
+      213: -7226552959867624441
+    second: farmer animations 32x32 v00_6_29
+  - first:
+      213: 2720837957371142992
+    second: farmer animations 32x32 v00_7_29
+  - first:
+      213: 555406156089517346
+    second: farmer animations 32x32 v00_8_29
+  - first:
+      213: 548125601460603963
+    second: farmer animations 32x32 v00_9_29
+  - first:
+      213: -5885971331438395201
+    second: farmer animations 32x32 v00_10_29
+  - first:
+      213: -781933647962427005
+    second: farmer animations 32x32 v00_11_29
+  - first:
+      213: 6703143961373800259
+    second: farmer animations 32x32 v00_0_30
+  - first:
+      213: -3941692246448825767
+    second: farmer animations 32x32 v00_1_30
+  - first:
+      213: -3357035963099040568
+    second: farmer animations 32x32 v00_2_30
+  - first:
+      213: -213694898172384089
+    second: farmer animations 32x32 v00_3_30
+  - first:
+      213: -4588856745432577651
+    second: farmer animations 32x32 v00_4_30
+  - first:
+      213: -5386517196135050641
+    second: farmer animations 32x32 v00_5_30
+  - first:
+      213: -1526512631939616550
+    second: farmer animations 32x32 v00_6_30
+  - first:
+      213: -8353492083819310329
+    second: farmer animations 32x32 v00_7_30
+  - first:
+      213: 7419693228690911040
+    second: farmer animations 32x32 v00_8_30
+  - first:
+      213: 5489706297787087915
+    second: farmer animations 32x32 v00_9_30
+  - first:
+      213: 8841080351488995158
+    second: farmer animations 32x32 v00_10_30
+  - first:
+      213: 5580268028586285566
+    second: farmer animations 32x32 v00_11_30
+  - first:
+      213: -7035821223299178977
+    second: farmer animations 32x32 v00_0_31
+  - first:
+      213: -5364236624921773540
+    second: farmer animations 32x32 v00_1_31
+  - first:
+      213: 1726703819516807479
+    second: farmer animations 32x32 v00_2_31
+  - first:
+      213: -7265426585459886930
+    second: farmer animations 32x32 v00_3_31
+  - first:
+      213: 6583549285473871413
+    second: farmer animations 32x32 v00_4_31
+  - first:
+      213: -5713620612453531995
+    second: farmer animations 32x32 v00_5_31
+  - first:
+      213: -4813128373316326687
+    second: farmer animations 32x32 v00_6_31
+  - first:
+      213: -5859351529706300377
+    second: farmer animations 32x32 v00_7_31
+  - first:
+      213: -8403906982941113757
+    second: farmer animations 32x32 v00_8_31
+  - first:
+      213: -5990646766752167662
+    second: farmer animations 32x32 v00_9_31
+  - first:
+      213: -1126675839012081001
+    second: farmer animations 32x32 v00_10_31
+  - first:
+      213: 4415793820268005184
+    second: farmer animations 32x32 v00_11_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6cc43df43bdab40800000000000000
+      internalID: 5453211879244351215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2720ab9ccf18690800000000000000
+      internalID: -7601516752685337887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147b6277368356510800000000000000
+      internalID: 1541700447296206657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4384d306ce29d1650800000000000000
+      internalID: 6205277405510977588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ee680557b151b00800000000000000
+      internalID: 798574699604274688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4aea305aaf6ee80800000000000000
+      internalID: -8149550889042008907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6fc06092203ae0800000000000000
+      internalID: -1571718266457461960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120273a73b9e0b2c0800000000000000
+      internalID: -4417774277391605727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bffcb427c007480800000000000000
+      internalID: -8903602778273744118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3a5a4d204d082f0800000000000000
+      internalID: -972544410889378877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2652ab01e07e660800000000000000
+      internalID: 7414910776494088868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f950388513f8800800000000000000
+      internalID: 616765930198114059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37237ba93cdf67340800000000000000
+      internalID: 4861351864349176435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836560ae42e81f60800000000000000
+      internalID: 8005397164977382277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bea738b11fea7620800000000000000
+      internalID: 2772791379984101040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08017bbea90fc15c0800000000000000
+      internalID: -4243252200719576960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e1e5fc5c6b90610800000000000000
+      internalID: 1588001304328674830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0704cface5c86e540800000000000000
+      internalID: 5036867572020822128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3617cd3fca98b72e0800000000000000
+      internalID: -2126955023083736733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c7ac217234a7e0800000000000000
+      internalID: -1755222493105765020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d47fdeadf74e10800000000000000
+      internalID: 2181991471999406584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88906ece811ed9600800000000000000
+      internalID: 476784632741104008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a568794ac1d3a710800000000000000
+      internalID: 1703435750822405545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505f132ba91df1cb0800000000000000
+      internalID: -4890960207956282107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6684374e8f96cac20800000000000000
+      internalID: 3219064351368628326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf3b369d1b8e2d10800000000000000
+      internalID: 2102771035219378110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a37d20c9d9c3150800000000000000
+      internalID: 5853726909062920773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a322d57c5ade13a90800000000000000
+      internalID: -7335821021739670982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c7d55a31873cda0800000000000000
+      internalID: -5925760658915361792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1aa5f048a35fca0800000000000000
+      internalID: -5983812191024143875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8892ed3f3a10e70800000000000000
+      internalID: 9079718591555274964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e133e9c56cc26710800000000000000
+      internalID: 1685133948140859872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3217972937d7ef0800000000000000
+      internalID: -108803743047146507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c193dbfa14267530800000000000000
+      internalID: 3852306229574734279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c74fc840c4ac8170800000000000000
+      internalID: 8182095768787568585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a896431a84e7de30800000000000000
+      internalID: 4528339232024336550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b001211161d9190800000000000000
+      internalID: -7954177104293131507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c338a1dce79850800000000000000
+      internalID: 6383831382035252692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59004420635c6f3a0800000000000000
+      internalID: -6631896565499559787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec51b7fbaf82daf0800000000000000
+      internalID: -373077850360554265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92fd30540e504380800000000000000
+      internalID: -8989081483612392806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b481a423ed2502290800000000000000
+      internalID: -7917237030637397941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6580f37ef597aeb0800000000000000
+      internalID: -4708629965293189779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad41d9e79f6351350800000000000000
+      internalID: 5986751724857922778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc2d684392b0100800000000000000
+      internalID: 75199124358744963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b6b3c265c1e690800000000000000
+      internalID: -7574556070279465183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5253d513ffbcc0800000000000000
+      internalID: -3692965894355263780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed4098d3984c5150800000000000000
+      internalID: 5862640614760271328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0251599b7eaac90800000000000000
+      internalID: -7157653873495826255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442ee705d848b8f20800000000000000
+      internalID: 3425977684021142084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d3989a55ed371b0800000000000000
+      internalID: -5659935847176651483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547adc4b8a1d45b90800000000000000
+      internalID: -7253942577268938939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7191710b97dff67f0800000000000000
+      internalID: -616995924839294697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0c7a97ac72c9140800000000000000
+      internalID: 4727697459410092279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d2940a0b7fcf660800000000000000
+      internalID: 7421078623975189907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4042939a00aa4c0800000000000000
+      internalID: -4275604169426729742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0574e12a1db0ca4e0800000000000000
+      internalID: -1969185942071785648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11976668eefbc4090800000000000000
+      internalID: -8048847402839934703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05cc0a248c7a1bb0800000000000000
+      internalID: -4964518732139543286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc7b9f2a68664970800000000000000
+      internalID: 8738786932233567447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298bc6de4cb52d880800000000000000
+      internalID: -8587700638087071598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c779c7befd3721880800000000000000
+      internalID: -8641717329404848260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61125662e00401950800000000000000
+      internalID: 6417699898520838422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29147481508317990800000000000000
+      internalID: -7390063919004958318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050660c0805c3640800000000000000
+      internalID: 5061008595171542284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c3d04532081e60800000000000000
+      internalID: 7933093171357270416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b512bd10714b6ed0800000000000000
+      internalID: -2419768424991156808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f6b92293ad50030800000000000000
+      internalID: 3460411827632697171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e545c2620e20b95f0800000000000000
+      internalID: -749001751290686370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42a3465579cfb190800000000000000
+      internalID: -7944409711862635957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f6f1bcd4abc9500800000000000000
+      internalID: 404402909839585151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e005daceffe6cd0800000000000000
+      internalID: -2562829745942163881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe078c7b4fa05080800000000000000
+      internalID: -9200661299971289360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad7cf6816f80eb30800000000000000
+      internalID: 4314606092060229030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e029b09f945794940800000000000000
+      internalID: 5280880998639964686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f2bebde5bd4280800000000000000
+      internalID: -9057383242860923518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbebb6e9d462eb10800000000000000
+      internalID: 2009279270802418680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19127da7b518c5930800000000000000
+      internalID: 4133320787922198929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61081fde925d26b70800000000000000
+      internalID: 8890902990445182998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb2c4f3c5110320800000000000000
+      internalID: 2522321197673397261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261dc23028cb6c250800000000000000
+      internalID: 5964662023083839842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0af414299557780800000000000000
+      internalID: -8685937821618298645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac71028087d1ff0800000000000000
+      internalID: -63762843419817441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a862af0ca69e5bd0800000000000000
+      internalID: -2639506665851688798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537632ffff188b50800000000000000
+      internalID: 6595556838424867666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38964638f49d970800000000000000
+      internalID: 8780136374279439287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3de116686b8f0090800000000000000
+      internalID: -8066075127091958466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2e019add43ff880800000000000000
+      internalID: -8575077038861262172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af470918fc14c3c0800000000000000
+      internalID: -4340312288980938840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3d0d2512a9cab70800000000000000
+      internalID: 8911667230573384617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c6f6a1b43554200800000000000000
+      internalID: 163628543500053617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_1_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d02d0ef27121cd40800000000000000
+      internalID: 5602796189197869273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_2_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d171467ae9a17c0800000000000000
+      internalID: -4099790068991451884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_3_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb5ae814942b9890800000000000000
+      internalID: -7450320940062581794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_4_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3beee758952d3d0800000000000000
+      internalID: -3183383556702424119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer animations 32x32 v00_5_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c14158a4a41f6c50800000000000000
+      internalID: 6660565071335342536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farmer animations 32x32 v00_0: 7169292884990529876
+      farmer animations 32x32 v00_0_0: 5453211879244351215
+      farmer animations 32x32 v00_0_1: -1571718266457461960
+      farmer animations 32x32 v00_0_10: -8587700638087071598
+      farmer animations 32x32 v00_0_11: -2419768424991156808
+      farmer animations 32x32 v00_0_12: -9200661299971289360
+      farmer animations 32x32 v00_0_13: 8890902990445182998
+      farmer animations 32x32 v00_0_14: 6595556838424867666
+      farmer animations 32x32 v00_0_15: 163628543500053617
+      farmer animations 32x32 v00_0_16: -3665156251730683763
+      farmer animations 32x32 v00_0_17: -6961960227714546384
+      farmer animations 32x32 v00_0_18: 5750569116837466750
+      farmer animations 32x32 v00_0_19: -8000578887620912971
+      farmer animations 32x32 v00_0_2: 4861351864349176435
+      farmer animations 32x32 v00_0_20: 8471692999103777082
+      farmer animations 32x32 v00_0_21: 2401231810276136463
+      farmer animations 32x32 v00_0_22: 497022721560794503
+      farmer animations 32x32 v00_0_23: -2065931211980542299
+      farmer animations 32x32 v00_0_24: 2115708339661172598
+      farmer animations 32x32 v00_0_25: 1855151568497333159
+      farmer animations 32x32 v00_0_26: 1506308535504487728
+      farmer animations 32x32 v00_0_27: 7286413633906548061
+      farmer animations 32x32 v00_0_28: -150251558990894005
+      farmer animations 32x32 v00_0_29: 600444834676565422
+      farmer animations 32x32 v00_0_3: -2126955023083736733
+      farmer animations 32x32 v00_0_30: 6703143961373800259
+      farmer animations 32x32 v00_0_31: -7035821223299178977
+      farmer animations 32x32 v00_0_4: 3219064351368628326
+      farmer animations 32x32 v00_0_5: 9079718591555274964
+      farmer animations 32x32 v00_0_6: -7954177104293131507
+      farmer animations 32x32 v00_0_7: -4708629965293189779
+      farmer animations 32x32 v00_0_8: -7157653873495826255
+      farmer animations 32x32 v00_0_9: 7421078623975189907
+      farmer animations 32x32 v00_1: 579362099006977413
+      farmer animations 32x32 v00_10: 8246440485871645121
+      farmer animations 32x32 v00_10_0: -2945497190345602978
+      farmer animations 32x32 v00_10_1: -5704587969648252971
+      farmer animations 32x32 v00_10_10: 235040096671318315
+      farmer animations 32x32 v00_10_11: 3165023243385410511
+      farmer animations 32x32 v00_10_12: -2640155215643874760
+      farmer animations 32x32 v00_10_13: 8381513688280650074
+      farmer animations 32x32 v00_10_14: -6964052987395263891
+      farmer animations 32x32 v00_10_15: 7923545775360064433
+      farmer animations 32x32 v00_10_16: -3702981041419236817
+      farmer animations 32x32 v00_10_17: 5939211898719898472
+      farmer animations 32x32 v00_10_18: 392214028060958860
+      farmer animations 32x32 v00_10_19: 7897237206995392747
+      farmer animations 32x32 v00_10_2: -4470957269010059847
+      farmer animations 32x32 v00_10_20: 5221356308719668881
+      farmer animations 32x32 v00_10_21: -8360351309023335690
+      farmer animations 32x32 v00_10_22: 7364716112685493265
+      farmer animations 32x32 v00_10_23: 2103174351464686811
+      farmer animations 32x32 v00_10_24: -2260889566087352933
+      farmer animations 32x32 v00_10_25: -8428076684941777551
+      farmer animations 32x32 v00_10_26: -1021694979377645336
+      farmer animations 32x32 v00_10_27: -1245441181914130329
+      farmer animations 32x32 v00_10_28: 4306218610800250874
+      farmer animations 32x32 v00_10_29: -5885971331438395201
+      farmer animations 32x32 v00_10_3: 766278476817577352
+      farmer animations 32x32 v00_10_30: 8841080351488995158
+      farmer animations 32x32 v00_10_31: -1126675839012081001
+      farmer animations 32x32 v00_10_4: -2723234294137136982
+      farmer animations 32x32 v00_10_5: 5050427467828314016
+      farmer animations 32x32 v00_10_6: 3795588156251738349
+      farmer animations 32x32 v00_10_7: -6080643259884444122
+      farmer animations 32x32 v00_10_8: 820330065061829888
+      farmer animations 32x32 v00_10_9: 5349161834115656898
+      farmer animations 32x32 v00_11: -3772406958763156898
+      farmer animations 32x32 v00_11_0: -5334957193291062867
+      farmer animations 32x32 v00_11_1: 8208311318893445810
+      farmer animations 32x32 v00_11_10: 4007811108704698317
+      farmer animations 32x32 v00_11_11: 1292647565756378722
+      farmer animations 32x32 v00_11_12: 2547666723481027601
+      farmer animations 32x32 v00_11_13: 6973294670161295156
+      farmer animations 32x32 v00_11_14: 4950903553849013588
+      farmer animations 32x32 v00_11_15: -194794672303590475
+      farmer animations 32x32 v00_11_16: 7933451384832874467
+      farmer animations 32x32 v00_11_17: 1920005570070583851
+      farmer animations 32x32 v00_11_18: -912366298259753545
+      farmer animations 32x32 v00_11_19: 245152303723715459
+      farmer animations 32x32 v00_11_2: 2056728509195597012
+      farmer animations 32x32 v00_11_20: 2451092758079254991
+      farmer animations 32x32 v00_11_21: 4744821822857484085
+      farmer animations 32x32 v00_11_22: -1949998226621491339
+      farmer animations 32x32 v00_11_23: 6401720670361994473
+      farmer animations 32x32 v00_11_24: -7320953527180835316
+      farmer animations 32x32 v00_11_25: 3306034657343080546
+      farmer animations 32x32 v00_11_26: 4969996457041279241
+      farmer animations 32x32 v00_11_27: 2405859763435551210
+      farmer animations 32x32 v00_11_28: -1848466103682226467
+      farmer animations 32x32 v00_11_29: -781933647962427005
+      farmer animations 32x32 v00_11_3: 8057513516958586113
+      farmer animations 32x32 v00_11_30: 5580268028586285566
+      farmer animations 32x32 v00_11_31: 4415793820268005184
+      farmer animations 32x32 v00_11_4: -6063506512883513611
+      farmer animations 32x32 v00_11_5: 6589737638133555817
+      farmer animations 32x32 v00_11_6: 1046645647427620461
+      farmer animations 32x32 v00_11_7: -3496820631435009608
+      farmer animations 32x32 v00_11_8: 1860098610862745069
+      farmer animations 32x32 v00_11_9: -678814152738174532
+      farmer animations 32x32 v00_12: -4656154265489122432
+      farmer animations 32x32 v00_13: -8276162070906231591
+      farmer animations 32x32 v00_14: 4633075453449879268
+      farmer animations 32x32 v00_15: 7423599385484412781
+      farmer animations 32x32 v00_16: -4246934209557324906
+      farmer animations 32x32 v00_17: -252167922449514338
+      farmer animations 32x32 v00_18: 2826747671245725911
+      farmer animations 32x32 v00_19: -2073821164904084384
+      farmer animations 32x32 v00_1_0: -7601516752685337887
+      farmer animations 32x32 v00_1_1: -4417774277391605727
+      farmer animations 32x32 v00_1_10: -8641717329404848260
+      farmer animations 32x32 v00_1_11: 3460411827632697171
+      farmer animations 32x32 v00_1_12: 4314606092060229030
+      farmer animations 32x32 v00_1_13: 2522321197673397261
+      farmer animations 32x32 v00_1_14: 8780136374279439287
+      farmer animations 32x32 v00_1_15: 5602796189197869273
+      farmer animations 32x32 v00_1_16: -308719359155210126
+      farmer animations 32x32 v00_1_17: 7634359347514105566
+      farmer animations 32x32 v00_1_18: 2040442450334363212
+      farmer animations 32x32 v00_1_19: -2112752949897117704
+      farmer animations 32x32 v00_1_2: 8005397164977382277
+      farmer animations 32x32 v00_1_20: 2443628655573699579
+      farmer animations 32x32 v00_1_21: -4813629566878967961
+      farmer animations 32x32 v00_1_22: 5841763846609241220
+      farmer animations 32x32 v00_1_23: -6459058994086102953
+      farmer animations 32x32 v00_1_24: -6243003766266097547
+      farmer animations 32x32 v00_1_25: -475256852296456705
+      farmer animations 32x32 v00_1_26: 6511314836497499480
+      farmer animations 32x32 v00_1_27: 5109783604890742934
+      farmer animations 32x32 v00_1_28: 1906247425560434695
+      farmer animations 32x32 v00_1_29: 1010740386270325938
+      farmer animations 32x32 v00_1_3: -1755222493105765020
+      farmer animations 32x32 v00_1_30: -3941692246448825767
+      farmer animations 32x32 v00_1_31: -5364236624921773540
+      farmer animations 32x32 v00_1_4: 2102771035219378110
+      farmer animations 32x32 v00_1_5: 1685133948140859872
+      farmer animations 32x32 v00_1_6: 6383831382035252692
+      farmer animations 32x32 v00_1_7: 5986751724857922778
+      farmer animations 32x32 v00_1_8: 3425977684021142084
+      farmer animations 32x32 v00_1_9: -4275604169426729742
+      farmer animations 32x32 v00_2: -7591851481420220308
+      farmer animations 32x32 v00_20: 440503999260786779
+      farmer animations 32x32 v00_21: -1578908821348437593
+      farmer animations 32x32 v00_22: -2864602426980451423
+      farmer animations 32x32 v00_23: 8780055626087869458
+      farmer animations 32x32 v00_24: -7466690172246045038
+      farmer animations 32x32 v00_25: 1683563687511506074
+      farmer animations 32x32 v00_26: 4633284206605137747
+      farmer animations 32x32 v00_27: -5885266414197123445
+      farmer animations 32x32 v00_28: 6423255053876113033
+      farmer animations 32x32 v00_29: 5295389712349220828
+      farmer animations 32x32 v00_2_0: 1541700447296206657
+      farmer animations 32x32 v00_2_1: -8903602778273744118
+      farmer animations 32x32 v00_2_10: 6417699898520838422
+      farmer animations 32x32 v00_2_11: -749001751290686370
+      farmer animations 32x32 v00_2_12: 5280880998639964686
+      farmer animations 32x32 v00_2_13: 5964662023083839842
+      farmer animations 32x32 v00_2_14: -8066075127091958466
+      farmer animations 32x32 v00_2_15: -4099790068991451884
+      farmer animations 32x32 v00_2_16: -6186356366115088904
+      farmer animations 32x32 v00_2_17: 2956781734684717751
+      farmer animations 32x32 v00_2_18: 3528229960382919942
+      farmer animations 32x32 v00_2_19: 3728733254067456658
+      farmer animations 32x32 v00_2_2: 2772791379984101040
+      farmer animations 32x32 v00_2_20: -4588488428545909674
+      farmer animations 32x32 v00_2_21: -7271932312162007989
+      farmer animations 32x32 v00_2_22: 7901796231641502049
+      farmer animations 32x32 v00_2_23: 146142592876554696
+      farmer animations 32x32 v00_2_24: -7597403249056579709
+      farmer animations 32x32 v00_2_25: -370392065386044496
+      farmer animations 32x32 v00_2_26: 1360180057697737865
+      farmer animations 32x32 v00_2_27: -7090079802895349996
+      farmer animations 32x32 v00_2_28: -8642284915070237385
+      farmer animations 32x32 v00_2_29: 1826752127282238655
+      farmer animations 32x32 v00_2_3: 2181991471999406584
+      farmer animations 32x32 v00_2_30: -3357035963099040568
+      farmer animations 32x32 v00_2_31: 1726703819516807479
+      farmer animations 32x32 v00_2_4: 5853726909062920773
+      farmer animations 32x32 v00_2_5: -108803743047146507
+      farmer animations 32x32 v00_2_6: -6631896565499559787
+      farmer animations 32x32 v00_2_7: 75199124358744963
+      farmer animations 32x32 v00_2_8: -5659935847176651483
+      farmer animations 32x32 v00_2_9: -1969185942071785648
+      farmer animations 32x32 v00_3: 3742218149699811334
+      farmer animations 32x32 v00_30: 2291111286605098586
+      farmer animations 32x32 v00_31: -5110997136898405696
+      farmer animations 32x32 v00_32: 1238955195093787071
+      farmer animations 32x32 v00_33: 5290527026148901953
+      farmer animations 32x32 v00_34: -6430510979239739773
+      farmer animations 32x32 v00_35: 7215177289740932052
+      farmer animations 32x32 v00_36: 6587023924214123369
+      farmer animations 32x32 v00_37: -7961934739467367223
+      farmer animations 32x32 v00_38: 2984065531958918039
+      farmer animations 32x32 v00_39: 7365317640065178151
+      farmer animations 32x32 v00_3_0: 6205277405510977588
+      farmer animations 32x32 v00_3_1: -972544410889378877
+      farmer animations 32x32 v00_3_10: -7390063919004958318
+      farmer animations 32x32 v00_3_11: -7944409711862635957
+      farmer animations 32x32 v00_3_12: -9057383242860923518
+      farmer animations 32x32 v00_3_13: -8685937821618298645
+      farmer animations 32x32 v00_3_14: -8575077038861262172
+      farmer animations 32x32 v00_3_15: -7450320940062581794
+      farmer animations 32x32 v00_3_16: -6701521660344056350
+      farmer animations 32x32 v00_3_17: -8523507804442634858
+      farmer animations 32x32 v00_3_18: 8101148914944123266
+      farmer animations 32x32 v00_3_19: -2278184240219665471
+      farmer animations 32x32 v00_3_2: -4243252200719576960
+      farmer animations 32x32 v00_3_20: -3106431719073106805
+      farmer animations 32x32 v00_3_21: -1743542289739885749
+      farmer animations 32x32 v00_3_22: -8964842643239202625
+      farmer animations 32x32 v00_3_23: -6551884402908883966
+      farmer animations 32x32 v00_3_24: 2394888994789773737
+      farmer animations 32x32 v00_3_25: 4432823370780549151
+      farmer animations 32x32 v00_3_26: 3288433048053236163
+      farmer animations 32x32 v00_3_27: 8842721492866324458
+      farmer animations 32x32 v00_3_28: 6885873295590514862
+      farmer animations 32x32 v00_3_29: -161357244587358434
+      farmer animations 32x32 v00_3_3: 476784632741104008
+      farmer animations 32x32 v00_3_30: -213694898172384089
+      farmer animations 32x32 v00_3_31: -7265426585459886930
+      farmer animations 32x32 v00_3_4: -7335821021739670982
+      farmer animations 32x32 v00_3_5: 3852306229574734279
+      farmer animations 32x32 v00_3_6: -373077850360554265
+      farmer animations 32x32 v00_3_7: -7574556070279465183
+      farmer animations 32x32 v00_3_8: -7253942577268938939
+      farmer animations 32x32 v00_3_9: -8048847402839934703
+      farmer animations 32x32 v00_4: -6445679890310132479
+      farmer animations 32x32 v00_40: 3350238183653758880
+      farmer animations 32x32 v00_41: 2430676208985767434
+      farmer animations 32x32 v00_42: 4196135494323625674
+      farmer animations 32x32 v00_43: 6312847053969989400
+      farmer animations 32x32 v00_44: -771617599514087911
+      farmer animations 32x32 v00_45: -7280276497127363401
+      farmer animations 32x32 v00_46: 1196760077854087780
+      farmer animations 32x32 v00_47: 807825883698382607
+      farmer animations 32x32 v00_48: -1073052625823472774
+      farmer animations 32x32 v00_49: 1277555544102793355
+      farmer animations 32x32 v00_4_0: 798574699604274688
+      farmer animations 32x32 v00_4_1: 7414910776494088868
+      farmer animations 32x32 v00_4_10: 5061008595171542284
+      farmer animations 32x32 v00_4_11: 404402909839585151
+      farmer animations 32x32 v00_4_12: 2009279270802418680
+      farmer animations 32x32 v00_4_13: -63762843419817441
+      farmer animations 32x32 v00_4_14: -4340312288980938840
+      farmer animations 32x32 v00_4_15: -3183383556702424119
+      farmer animations 32x32 v00_4_16: 8995701446785147738
+      farmer animations 32x32 v00_4_17: -6600727924603595194
+      farmer animations 32x32 v00_4_18: -740509785458947143
+      farmer animations 32x32 v00_4_19: -3385322502081686944
+      farmer animations 32x32 v00_4_2: 1588001304328674830
+      farmer animations 32x32 v00_4_20: 8665508500424432790
+      farmer animations 32x32 v00_4_21: 8517184517736769564
+      farmer animations 32x32 v00_4_22: 671955675222790639
+      farmer animations 32x32 v00_4_23: 3373009334800137621
+      farmer animations 32x32 v00_4_24: -7674668688839436963
+      farmer animations 32x32 v00_4_25: -9066346467438115450
+      farmer animations 32x32 v00_4_26: -5666124035095993102
+      farmer animations 32x32 v00_4_27: 6171727287618290087
+      farmer animations 32x32 v00_4_28: -3019336515578309103
+      farmer animations 32x32 v00_4_29: -974648336781192270
+      farmer animations 32x32 v00_4_3: 1703435750822405545
+      farmer animations 32x32 v00_4_30: -4588856745432577651
+      farmer animations 32x32 v00_4_31: 6583549285473871413
+      farmer animations 32x32 v00_4_4: -5925760658915361792
+      farmer animations 32x32 v00_4_5: 8182095768787568585
+      farmer animations 32x32 v00_4_6: -8989081483612392806
+      farmer animations 32x32 v00_4_7: -3692965894355263780
+      farmer animations 32x32 v00_4_8: -616995924839294697
+      farmer animations 32x32 v00_4_9: -4964518732139543286
+      farmer animations 32x32 v00_5: 3166279181984459888
+      farmer animations 32x32 v00_50: -7747455291896814421
+      farmer animations 32x32 v00_51: 2586654436062080110
+      farmer animations 32x32 v00_5_0: -8149550889042008907
+      farmer animations 32x32 v00_5_1: 616765930198114059
+      farmer animations 32x32 v00_5_10: 7933093171357270416
+      farmer animations 32x32 v00_5_11: -2562829745942163881
+      farmer animations 32x32 v00_5_12: 4133320787922198929
+      farmer animations 32x32 v00_5_13: -2639506665851688798
+      farmer animations 32x32 v00_5_14: 8911667230573384617
+      farmer animations 32x32 v00_5_15: 6660565071335342536
+      farmer animations 32x32 v00_5_16: -4889525444190047242
+      farmer animations 32x32 v00_5_17: -8154151881719846635
+      farmer animations 32x32 v00_5_18: 1041129398964507671
+      farmer animations 32x32 v00_5_19: 4772383718360978318
+      farmer animations 32x32 v00_5_2: 5036867572020822128
+      farmer animations 32x32 v00_5_20: -1387971357480615898
+      farmer animations 32x32 v00_5_21: 1649932921071110825
+      farmer animations 32x32 v00_5_22: -263922962638979363
+      farmer animations 32x32 v00_5_23: -1994528943767007850
+      farmer animations 32x32 v00_5_24: 6105759982525879785
+      farmer animations 32x32 v00_5_25: -6462744044825774276
+      farmer animations 32x32 v00_5_26: -3790804514987042521
+      farmer animations 32x32 v00_5_27: 4470140491883331494
+      farmer animations 32x32 v00_5_28: -1180036963097179023
+      farmer animations 32x32 v00_5_29: 7353654918868647065
+      farmer animations 32x32 v00_5_3: -4890960207956282107
+      farmer animations 32x32 v00_5_30: -5386517196135050641
+      farmer animations 32x32 v00_5_31: -5713620612453531995
+      farmer animations 32x32 v00_5_4: -5983812191024143875
+      farmer animations 32x32 v00_5_5: 4528339232024336550
+      farmer animations 32x32 v00_5_6: -7917237030637397941
+      farmer animations 32x32 v00_5_7: 5862640614760271328
+      farmer animations 32x32 v00_5_8: 4727697459410092279
+      farmer animations 32x32 v00_5_9: 8738786932233567447
+      farmer animations 32x32 v00_6: -8239044637161974309
+      farmer animations 32x32 v00_6_0: -3406666344941245298
+      farmer animations 32x32 v00_6_1: -3503376255667825985
+      farmer animations 32x32 v00_6_10: 7729954054737417653
+      farmer animations 32x32 v00_6_11: -2091297878181958391
+      farmer animations 32x32 v00_6_12: -7259416120092565958
+      farmer animations 32x32 v00_6_13: -8459159750676258417
+      farmer animations 32x32 v00_6_14: 727413332779597833
+      farmer animations 32x32 v00_6_15: -6749052790065928730
+      farmer animations 32x32 v00_6_16: -7244518602027371566
+      farmer animations 32x32 v00_6_17: -4946899428377037076
+      farmer animations 32x32 v00_6_18: 4344872035007392467
+      farmer animations 32x32 v00_6_19: 8312878970029006078
+      farmer animations 32x32 v00_6_2: 8295625161211093907
+      farmer animations 32x32 v00_6_20: -4185923635356804122
+      farmer animations 32x32 v00_6_21: 2248691635630577861
+      farmer animations 32x32 v00_6_22: 2154712032477346213
+      farmer animations 32x32 v00_6_23: -5407098287023070214
+      farmer animations 32x32 v00_6_24: -2568504353797709364
+      farmer animations 32x32 v00_6_25: -517774642440774035
+      farmer animations 32x32 v00_6_26: 54980644096601726
+      farmer animations 32x32 v00_6_27: -2707867550759474363
+      farmer animations 32x32 v00_6_28: -984223911142428659
+      farmer animations 32x32 v00_6_29: -7226552959867624441
+      farmer animations 32x32 v00_6_3: 2541600481325657028
+      farmer animations 32x32 v00_6_30: -1526512631939616550
+      farmer animations 32x32 v00_6_31: -4813128373316326687
+      farmer animations 32x32 v00_6_4: -7864475234465621387
+      farmer animations 32x32 v00_6_5: -546504383140017321
+      farmer animations 32x32 v00_6_6: -8811041257626868592
+      farmer animations 32x32 v00_6_7: 3995318915306925891
+      farmer animations 32x32 v00_6_8: -8343186440539876160
+      farmer animations 32x32 v00_6_9: -8598876426155095462
+      farmer animations 32x32 v00_7: -7631073751439028166
+      farmer animations 32x32 v00_7_0: -2277347809059093065
+      farmer animations 32x32 v00_7_1: -5466806303749757379
+      farmer animations 32x32 v00_7_10: 1831355093641501706
+      farmer animations 32x32 v00_7_11: 5291568270014326606
+      farmer animations 32x32 v00_7_12: 4396761668449232462
+      farmer animations 32x32 v00_7_13: 2473883971968520037
+      farmer animations 32x32 v00_7_14: 1222502562423277561
+      farmer animations 32x32 v00_7_15: -5247428643581995281
+      farmer animations 32x32 v00_7_16: 6851105545643764287
+      farmer animations 32x32 v00_7_17: -6511193169935134657
+      farmer animations 32x32 v00_7_18: 7763111970677328547
+      farmer animations 32x32 v00_7_19: -5650260824501780663
+      farmer animations 32x32 v00_7_2: -4791398751228290042
+      farmer animations 32x32 v00_7_20: 6250170495438809286
+      farmer animations 32x32 v00_7_21: 6981835622417602969
+      farmer animations 32x32 v00_7_22: -5344013331656251916
+      farmer animations 32x32 v00_7_23: 5312517466400150010
+      farmer animations 32x32 v00_7_24: -7873495722528689235
+      farmer animations 32x32 v00_7_25: 4167250347867788984
+      farmer animations 32x32 v00_7_26: 3774441235971607029
+      farmer animations 32x32 v00_7_27: 4585239503128624018
+      farmer animations 32x32 v00_7_28: -2576892900332322489
+      farmer animations 32x32 v00_7_29: 2720837957371142992
+      farmer animations 32x32 v00_7_3: -2567699585716050955
+      farmer animations 32x32 v00_7_30: -8353492083819310329
+      farmer animations 32x32 v00_7_31: -5859351529706300377
+      farmer animations 32x32 v00_7_4: 4433431413511948557
+      farmer animations 32x32 v00_7_5: 7150657533360179234
+      farmer animations 32x32 v00_7_6: -4565252814148719501
+      farmer animations 32x32 v00_7_7: 2122920570196438049
+      farmer animations 32x32 v00_7_8: -2946415459741745787
+      farmer animations 32x32 v00_7_9: 3604553727984928798
+      farmer animations 32x32 v00_8: 2443519917264898384
+      farmer animations 32x32 v00_8_0: 7564885533968315415
+      farmer animations 32x32 v00_8_1: 7045741907779253612
+      farmer animations 32x32 v00_8_10: -7642860420147304094
+      farmer animations 32x32 v00_8_11: -4549147837681137804
+      farmer animations 32x32 v00_8_12: -8524832372092087441
+      farmer animations 32x32 v00_8_13: 7837405177172930218
+      farmer animations 32x32 v00_8_14: -8083837242390556810
+      farmer animations 32x32 v00_8_15: -5525923099141243642
+      farmer animations 32x32 v00_8_16: -2139790004513043847
+      farmer animations 32x32 v00_8_17: 6133578279240441793
+      farmer animations 32x32 v00_8_18: -8804815584429371569
+      farmer animations 32x32 v00_8_19: 998024426204937159
+      farmer animations 32x32 v00_8_2: -8835032992527653781
+      farmer animations 32x32 v00_8_20: -904056206811556914
+      farmer animations 32x32 v00_8_21: 30698588903927476
+      farmer animations 32x32 v00_8_22: 350429879722208279
+      farmer animations 32x32 v00_8_23: 173468268119505287
+      farmer animations 32x32 v00_8_24: 6265503376285328455
+      farmer animations 32x32 v00_8_25: 8185888006493201993
+      farmer animations 32x32 v00_8_26: 8351328024318307776
+      farmer animations 32x32 v00_8_27: 1404233001907398304
+      farmer animations 32x32 v00_8_28: -8659417026247108906
+      farmer animations 32x32 v00_8_29: 555406156089517346
+      farmer animations 32x32 v00_8_3: 9002977744315432836
+      farmer animations 32x32 v00_8_30: 7419693228690911040
+      farmer animations 32x32 v00_8_31: -8403906982941113757
+      farmer animations 32x32 v00_8_4: 6784030067120989727
+      farmer animations 32x32 v00_8_5: 5948647921561679180
+      farmer animations 32x32 v00_8_6: -576394244823313133
+      farmer animations 32x32 v00_8_7: 470498441908572502
+      farmer animations 32x32 v00_8_8: -306203833811118568
+      farmer animations 32x32 v00_8_9: 4890423932403561763
+      farmer animations 32x32 v00_9: -3774440497903165253
+      farmer animations 32x32 v00_9_0: -2139866578905598323
+      farmer animations 32x32 v00_9_1: 4136517516290812645
+      farmer animations 32x32 v00_9_10: -8281960393856725420
+      farmer animations 32x32 v00_9_11: 1084445399187357622
+      farmer animations 32x32 v00_9_12: 6126760624211564403
+      farmer animations 32x32 v00_9_13: -4702086090438666677
+      farmer animations 32x32 v00_9_14: -7710977091744438542
+      farmer animations 32x32 v00_9_15: -4244014321496495350
+      farmer animations 32x32 v00_9_16: -8545087995547203098
+      farmer animations 32x32 v00_9_17: -1609752452155198956
+      farmer animations 32x32 v00_9_18: 7214367256820930892
+      farmer animations 32x32 v00_9_19: -5648731858396923759
+      farmer animations 32x32 v00_9_2: 5828414837684354579
+      farmer animations 32x32 v00_9_20: -7508220836718727127
+      farmer animations 32x32 v00_9_21: -8668511457879950243
+      farmer animations 32x32 v00_9_22: -7871109447647037733
+      farmer animations 32x32 v00_9_23: 9207748508353946474
+      farmer animations 32x32 v00_9_24: 1661176639353594935
+      farmer animations 32x32 v00_9_25: -7656194697820979299
+      farmer animations 32x32 v00_9_26: -5833104172223094985
+      farmer animations 32x32 v00_9_27: -9041359702754995694
+      farmer animations 32x32 v00_9_28: 528066728631790959
+      farmer animations 32x32 v00_9_29: 548125601460603963
+      farmer animations 32x32 v00_9_3: -2137890760066524688
+      farmer animations 32x32 v00_9_30: 5489706297787087915
+      farmer animations 32x32 v00_9_31: -5990646766752167662
+      farmer animations 32x32 v00_9_4: 5990151516378319882
+      farmer animations 32x32 v00_9_5: 8126525466186678269
+      farmer animations 32x32 v00_9_6: 4712091952399609918
+      farmer animations 32x32 v00_9_7: 5245893940691045135
+      farmer animations 32x32 v00_9_8: 5742662072100396118
+      farmer animations 32x32 v00_9_9: 480197327070621418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

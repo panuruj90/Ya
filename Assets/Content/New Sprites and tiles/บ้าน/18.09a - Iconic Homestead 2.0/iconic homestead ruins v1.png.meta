@@ -1,0 +1,1864 @@
+fileFormatVersion: 2
+guid: 51056abb6dcf8254784cdad10dde963b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 34041374574934469
+    second: iconic homestead ruins v1_0
+  - first:
+      213: 3054572094934369564
+    second: iconic homestead ruins v1_0_0
+  - first:
+      213: -4816735143843068505
+    second: iconic homestead ruins v1_1_0
+  - first:
+      213: 3870569618164646781
+    second: iconic homestead ruins v1_2_0
+  - first:
+      213: 2096853298270547072
+    second: iconic homestead ruins v1_3_0
+  - first:
+      213: -8291178834347342167
+    second: iconic homestead ruins v1_4_0
+  - first:
+      213: -3148112561033198984
+    second: iconic homestead ruins v1_5_0
+  - first:
+      213: -8187954149850845653
+    second: iconic homestead ruins v1_6_0
+  - first:
+      213: -3830749558261466573
+    second: iconic homestead ruins v1_7_0
+  - first:
+      213: 7664502045742016937
+    second: iconic homestead ruins v1_0_1
+  - first:
+      213: 586105850297375319
+    second: iconic homestead ruins v1_1_1
+  - first:
+      213: -3796894125829635178
+    second: iconic homestead ruins v1_2_1
+  - first:
+      213: 3667646377857199427
+    second: iconic homestead ruins v1_3_1
+  - first:
+      213: -6159841132029477498
+    second: iconic homestead ruins v1_4_1
+  - first:
+      213: 1808418205042941498
+    second: iconic homestead ruins v1_5_1
+  - first:
+      213: 5139274887046720675
+    second: iconic homestead ruins v1_6_1
+  - first:
+      213: 4154828321435567289
+    second: iconic homestead ruins v1_7_1
+  - first:
+      213: 2207566491843593580
+    second: iconic homestead ruins v1_0_2
+  - first:
+      213: 5572332321630399475
+    second: iconic homestead ruins v1_1_2
+  - first:
+      213: -60663062012430640
+    second: iconic homestead ruins v1_2_2
+  - first:
+      213: 595881313757220906
+    second: iconic homestead ruins v1_3_2
+  - first:
+      213: -2943505653001823545
+    second: iconic homestead ruins v1_4_2
+  - first:
+      213: -8229821169489659798
+    second: iconic homestead ruins v1_5_2
+  - first:
+      213: 8290992247466646665
+    second: iconic homestead ruins v1_6_2
+  - first:
+      213: -454331264450583352
+    second: iconic homestead ruins v1_7_2
+  - first:
+      213: 2593045480346254034
+    second: iconic homestead ruins v1_0_3
+  - first:
+      213: -2149471358432692841
+    second: iconic homestead ruins v1_1_3
+  - first:
+      213: -4868963084968021388
+    second: iconic homestead ruins v1_2_3
+  - first:
+      213: -7090217159436534052
+    second: iconic homestead ruins v1_3_3
+  - first:
+      213: 1880982684360385230
+    second: iconic homestead ruins v1_4_3
+  - first:
+      213: 4162264969355035813
+    second: iconic homestead ruins v1_5_3
+  - first:
+      213: -6800820188099724767
+    second: iconic homestead ruins v1_6_3
+  - first:
+      213: 3844839598408797983
+    second: iconic homestead ruins v1_7_3
+  - first:
+      213: 4762270331684700043
+    second: iconic homestead ruins v1_0_4
+  - first:
+      213: -2755664077753040655
+    second: iconic homestead ruins v1_1_4
+  - first:
+      213: -2095092204880050578
+    second: iconic homestead ruins v1_2_4
+  - first:
+      213: 4649652231434131295
+    second: iconic homestead ruins v1_3_4
+  - first:
+      213: -3932762349974462697
+    second: iconic homestead ruins v1_4_4
+  - first:
+      213: 593115961410913711
+    second: iconic homestead ruins v1_5_4
+  - first:
+      213: -8108473243641514987
+    second: iconic homestead ruins v1_6_4
+  - first:
+      213: -5582299101694870451
+    second: iconic homestead ruins v1_7_4
+  - first:
+      213: 5703911391203035805
+    second: iconic homestead ruins v1_0_5
+  - first:
+      213: 4756419770294499456
+    second: iconic homestead ruins v1_1_5
+  - first:
+      213: -7846850622376646886
+    second: iconic homestead ruins v1_2_5
+  - first:
+      213: -8124635606677347210
+    second: iconic homestead ruins v1_3_5
+  - first:
+      213: -7002690952702346447
+    second: iconic homestead ruins v1_4_5
+  - first:
+      213: 2173572280161140324
+    second: iconic homestead ruins v1_5_5
+  - first:
+      213: -2769295613748684151
+    second: iconic homestead ruins v1_6_5
+  - first:
+      213: 9200761850483026664
+    second: iconic homestead ruins v1_7_5
+  - first:
+      213: -2469226108133766212
+    second: iconic homestead ruins v1_0_6
+  - first:
+      213: -5938798116191082351
+    second: iconic homestead ruins v1_1_6
+  - first:
+      213: -5318199476239311343
+    second: iconic homestead ruins v1_2_6
+  - first:
+      213: 2981313933867418915
+    second: iconic homestead ruins v1_3_6
+  - first:
+      213: 1253539207988150183
+    second: iconic homestead ruins v1_4_6
+  - first:
+      213: 2951351702002628737
+    second: iconic homestead ruins v1_5_6
+  - first:
+      213: -7535181014307429581
+    second: iconic homestead ruins v1_6_6
+  - first:
+      213: -2734192250433976432
+    second: iconic homestead ruins v1_7_6
+  - first:
+      213: -7954460519467405809
+    second: iconic homestead ruins v1_0_7
+  - first:
+      213: -3460641775327066750
+    second: iconic homestead ruins v1_1_7
+  - first:
+      213: 6810197591444124984
+    second: iconic homestead ruins v1_2_7
+  - first:
+      213: 4241714783073373560
+    second: iconic homestead ruins v1_3_7
+  - first:
+      213: -4660564224000456630
+    second: iconic homestead ruins v1_4_7
+  - first:
+      213: -1322309611312188600
+    second: iconic homestead ruins v1_5_7
+  - first:
+      213: -3733858942073835951
+    second: iconic homestead ruins v1_6_7
+  - first:
+      213: 1742013878137471262
+    second: iconic homestead ruins v1_7_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c154263f225046a20800000000000000
+      internalID: 3054572094934369564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5081628e4872db0800000000000000
+      internalID: -4816735143843068505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d738f118f8607b530800000000000000
+      internalID: 3870569618164646781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca58517f4891d10800000000000000
+      internalID: 2096853298270547072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a64d7957c0dfec80800000000000000
+      internalID: -8291178834347342167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872cbae1e48af44d0800000000000000
+      internalID: -3148112561033198984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e64f4151b8e5e80800000000000000
+      internalID: -8187954149850845653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a375ca29176dac0800000000000000
+      internalID: -3830749558261466573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a925b89008cd5a60800000000000000
+      internalID: 7664502045742016937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ad0cf5a24422800800000000000000
+      internalID: 586105850297375319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693482cc8e8be4bc0800000000000000
+      internalID: -3796894125829635178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2de9d2f816e230800000000000000
+      internalID: 3667646377857199427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dfa8c6029d38aa0800000000000000
+      internalID: -6159841132029477498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e1feca6cac81910800000000000000
+      internalID: 1808418205042941498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac618dd74f525740800000000000000
+      internalID: 5139274887046720675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b446e9585ae8a930800000000000000
+      internalID: 4154828321435567289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c658464370ad2ae10800000000000000
+      internalID: 2207566491843593580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb253919b6e45d40800000000000000
+      internalID: 5572332321630399475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6f2c9344b782ff0800000000000000
+      internalID: -60663062012430640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20dac2d5eef44800800000000000000
+      internalID: 595881313757220906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad87634319627d0800000000000000
+      internalID: -2943505653001823545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a683493ff3dc9cd80800000000000000
+      internalID: -8229821169489659798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c54c185858f0370800000000000000
+      internalID: 8290992247466646665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4a1144f14e1b9f0800000000000000
+      internalID: -454331264450583352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da787630295cf320800000000000000
+      internalID: 2593045480346254034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7953eb9103b8b22e0800000000000000
+      internalID: -2149471358432692841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472bdfffed7fd6cb0800000000000000
+      internalID: -4868963084968021388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef76f1f0d7a9d90800000000000000
+      internalID: -7090217159436534052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec226f919c79a1a10800000000000000
+      internalID: 1880982684360385230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4857fdfe553c930800000000000000
+      internalID: 4162264969355035813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ab20b3212ae91a0800000000000000
+      internalID: -6800820188099724767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f03817e3d9b5530800000000000000
+      internalID: 3844839598408797983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fb27492abf61240800000000000000
+      internalID: 4762270331684700043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0c9351f1ae1c9d0800000000000000
+      internalID: -2755664077753040655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e664f6c6dbcbce2e0800000000000000
+      internalID: -2095092204880050578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57dbbfc112e68040800000000000000
+      internalID: 4649652231434131295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fddb7ba750c69c0800000000000000
+      internalID: -3932762349974462697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5038e03db2b3800800000000000000
+      internalID: 593115961410913711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514fcf1ab8ae87f80800000000000000
+      internalID: -8108473243641514987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cbe751b80b782b0800000000000000
+      internalID: -5582299101694870451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a06fe803d582f40800000000000000
+      internalID: 5703911391203035805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887c0b9492320240800000000000000
+      internalID: 4756419770294499456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17efafeee26a1390800000000000000
+      internalID: -7846850622376646886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a18e36fe7f3f80800000000000000
+      internalID: -8124635606677347210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bb55c2ea171de90800000000000000
+      internalID: -7002690952702346447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef3a409741a2e10800000000000000
+      internalID: 2173572280161140324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a5678cf4c7199d0800000000000000
+      internalID: -2769295613748684151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaa101c72cafaf70800000000000000
+      internalID: 9200761850483026664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb019aefeb8bbdd0800000000000000
+      internalID: -2469226108133766212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198eba31496259da0800000000000000
+      internalID: -5938798116191082351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e561ed0c5f136b0800000000000000
+      internalID: -5318199476239311343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32507182a31cf5920800000000000000
+      internalID: 2981313933867418915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af7824a447756110800000000000000
+      internalID: 1253539207988150183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1887c1d6cbe45f820800000000000000
+      internalID: 2951351702002628737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33320f36ac8ad6790800000000000000
+      internalID: -7535181014307429581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097c14572a23e0ad0800000000000000
+      internalID: -2734192250433976432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ea6455d441c9190800000000000000
+      internalID: -7954460519467405809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c0cef3a459ffc0800000000000000
+      internalID: -3460641775327066750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8357f30a0aea28e50800000000000000
+      internalID: 6810197591444124984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8c932f199dda30800000000000000
+      internalID: 4241714783073373560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a480f8fe789525fb0800000000000000
+      internalID: -4660564224000456630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843f6a61a6636ade0800000000000000
+      internalID: -1322309611312188600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ee544331bae2cc0800000000000000
+      internalID: -3733858942073835951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconic homestead ruins v1_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e114f208460ec2810800000000000000
+      internalID: 1742013878137471262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2661cf83effdfba4c9dbd1bda7d7eb73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      iconic homestead ruins v1_0: 34041374574934469
+      iconic homestead ruins v1_0_0: 3054572094934369564
+      iconic homestead ruins v1_0_1: 7664502045742016937
+      iconic homestead ruins v1_0_2: 2207566491843593580
+      iconic homestead ruins v1_0_3: 2593045480346254034
+      iconic homestead ruins v1_0_4: 4762270331684700043
+      iconic homestead ruins v1_0_5: 5703911391203035805
+      iconic homestead ruins v1_0_6: -2469226108133766212
+      iconic homestead ruins v1_0_7: -7954460519467405809
+      iconic homestead ruins v1_1: 862569783
+      iconic homestead ruins v1_10: -1020280935
+      iconic homestead ruins v1_11: -567344007
+      iconic homestead ruins v1_12: -551457567
+      iconic homestead ruins v1_13: 1798239378
+      iconic homestead ruins v1_14: -1457916045
+      iconic homestead ruins v1_15: 872998416
+      iconic homestead ruins v1_16: -1950021400
+      iconic homestead ruins v1_17: -983089562
+      iconic homestead ruins v1_18: -822798818
+      iconic homestead ruins v1_19: -1092017766
+      iconic homestead ruins v1_1_0: -4816735143843068505
+      iconic homestead ruins v1_1_1: 586105850297375319
+      iconic homestead ruins v1_1_2: 5572332321630399475
+      iconic homestead ruins v1_1_3: -2149471358432692841
+      iconic homestead ruins v1_1_4: -2755664077753040655
+      iconic homestead ruins v1_1_5: 4756419770294499456
+      iconic homestead ruins v1_1_6: -5938798116191082351
+      iconic homestead ruins v1_1_7: -3460641775327066750
+      iconic homestead ruins v1_2: 1008955906
+      iconic homestead ruins v1_20: 1857885597
+      iconic homestead ruins v1_21: 1369094425
+      iconic homestead ruins v1_22: 1517461272
+      iconic homestead ruins v1_23: -1125035784
+      iconic homestead ruins v1_24: 808734521
+      iconic homestead ruins v1_25: 268569802
+      iconic homestead ruins v1_26: 1446438068
+      iconic homestead ruins v1_27: 2114507133
+      iconic homestead ruins v1_28: -180543418
+      iconic homestead ruins v1_29: 989777990
+      iconic homestead ruins v1_2_0: 3870569618164646781
+      iconic homestead ruins v1_2_1: -3796894125829635178
+      iconic homestead ruins v1_2_2: -60663062012430640
+      iconic homestead ruins v1_2_3: -4868963084968021388
+      iconic homestead ruins v1_2_4: -2095092204880050578
+      iconic homestead ruins v1_2_5: -7846850622376646886
+      iconic homestead ruins v1_2_6: -5318199476239311343
+      iconic homestead ruins v1_2_7: 6810197591444124984
+      iconic homestead ruins v1_3: -1463930078
+      iconic homestead ruins v1_30: 1418305269
+      iconic homestead ruins v1_31: 1184930303
+      iconic homestead ruins v1_32: -1235145101
+      iconic homestead ruins v1_33: -216516614
+      iconic homestead ruins v1_34: -659919278
+      iconic homestead ruins v1_35: -524081456
+      iconic homestead ruins v1_36: 336240260
+      iconic homestead ruins v1_37: 1014311099
+      iconic homestead ruins v1_38: -1678386400
+      iconic homestead ruins v1_39: 2092676865
+      iconic homestead ruins v1_3_0: 2096853298270547072
+      iconic homestead ruins v1_3_1: 3667646377857199427
+      iconic homestead ruins v1_3_2: 595881313757220906
+      iconic homestead ruins v1_3_3: -7090217159436534052
+      iconic homestead ruins v1_3_4: 4649652231434131295
+      iconic homestead ruins v1_3_5: -8124635606677347210
+      iconic homestead ruins v1_3_6: 2981313933867418915
+      iconic homestead ruins v1_3_7: 4241714783073373560
+      iconic homestead ruins v1_4: 471133819
+      iconic homestead ruins v1_40: 1008841992
+      iconic homestead ruins v1_41: 100725115
+      iconic homestead ruins v1_42: 475867356
+      iconic homestead ruins v1_43: 1403768029
+      iconic homestead ruins v1_44: -1449651046
+      iconic homestead ruins v1_45: 1245187679
+      iconic homestead ruins v1_46: 1614680802
+      iconic homestead ruins v1_47: 23410820
+      iconic homestead ruins v1_48: -992914002
+      iconic homestead ruins v1_49: -1751961505
+      iconic homestead ruins v1_4_0: -8291178834347342167
+      iconic homestead ruins v1_4_1: -6159841132029477498
+      iconic homestead ruins v1_4_2: -2943505653001823545
+      iconic homestead ruins v1_4_3: 1880982684360385230
+      iconic homestead ruins v1_4_4: -3932762349974462697
+      iconic homestead ruins v1_4_5: -7002690952702346447
+      iconic homestead ruins v1_4_6: 1253539207988150183
+      iconic homestead ruins v1_4_7: -4660564224000456630
+      iconic homestead ruins v1_5: 767956480
+      iconic homestead ruins v1_50: -407068279
+      iconic homestead ruins v1_51: 2094844654
+      iconic homestead ruins v1_5_0: -3148112561033198984
+      iconic homestead ruins v1_5_1: 1808418205042941498
+      iconic homestead ruins v1_5_2: -8229821169489659798
+      iconic homestead ruins v1_5_3: 4162264969355035813
+      iconic homestead ruins v1_5_4: 593115961410913711
+      iconic homestead ruins v1_5_5: 2173572280161140324
+      iconic homestead ruins v1_5_6: 2951351702002628737
+      iconic homestead ruins v1_5_7: -1322309611312188600
+      iconic homestead ruins v1_6: -1915847108
+      iconic homestead ruins v1_6_0: -8187954149850845653
+      iconic homestead ruins v1_6_1: 5139274887046720675
+      iconic homestead ruins v1_6_2: 8290992247466646665
+      iconic homestead ruins v1_6_3: -6800820188099724767
+      iconic homestead ruins v1_6_4: -8108473243641514987
+      iconic homestead ruins v1_6_5: -2769295613748684151
+      iconic homestead ruins v1_6_6: -7535181014307429581
+      iconic homestead ruins v1_6_7: -3733858942073835951
+      iconic homestead ruins v1_7: -701501641
+      iconic homestead ruins v1_7_0: -3830749558261466573
+      iconic homestead ruins v1_7_1: 4154828321435567289
+      iconic homestead ruins v1_7_2: -454331264450583352
+      iconic homestead ruins v1_7_3: 3844839598408797983
+      iconic homestead ruins v1_7_4: -5582299101694870451
+      iconic homestead ruins v1_7_5: 9200761850483026664
+      iconic homestead ruins v1_7_6: -2734192250433976432
+      iconic homestead ruins v1_7_7: 1742013878137471262
+      iconic homestead ruins v1_8: -852584261
+      iconic homestead ruins v1_9: -1612961062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

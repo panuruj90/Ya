@@ -1,0 +1,3599 @@
+fileFormatVersion: 2
+guid: 92d0d48b285dfea45a4fab9fec9ec2d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -806612047849204044
+    second: cleric_sprite_sheet_0
+  - first:
+      213: 1966568729208781068
+    second: cleric_sprite_sheet_1
+  - first:
+      213: 3278454649779203078
+    second: cleric_sprite_sheet_2
+  - first:
+      213: -2151401290840716113
+    second: cleric_sprite_sheet_3
+  - first:
+      213: 525953572773437353
+    second: cleric_sprite_sheet_4
+  - first:
+      213: 2527050149647083566
+    second: cleric_sprite_sheet_5
+  - first:
+      213: -9027816420551176152
+    second: cleric_sprite_sheet_6
+  - first:
+      213: -994559073810458240
+    second: cleric_sprite_sheet_7
+  - first:
+      213: 1339187535247915996
+    second: cleric_sprite_sheet_8
+  - first:
+      213: 8454478722207483921
+    second: cleric_sprite_sheet_9
+  - first:
+      213: 8969325438987190652
+    second: cleric_sprite_sheet_10
+  - first:
+      213: 7035346421456007363
+    second: cleric_sprite_sheet_11
+  - first:
+      213: 1917416257801649075
+    second: cleric_sprite_sheet_12
+  - first:
+      213: 8355096297388558517
+    second: cleric_sprite_sheet_13
+  - first:
+      213: -7290877603905508787
+    second: cleric_sprite_sheet_14
+  - first:
+      213: 960429065200338303
+    second: cleric_sprite_sheet_15
+  - first:
+      213: 6711285837250651473
+    second: cleric_sprite_sheet_16
+  - first:
+      213: -5505330290594532347
+    second: cleric_sprite_sheet_17
+  - first:
+      213: 1359188902557189301
+    second: cleric_sprite_sheet_18
+  - first:
+      213: 5267839508628097559
+    second: cleric_sprite_sheet_19
+  - first:
+      213: 7886814526334036003
+    second: cleric_sprite_sheet_20
+  - first:
+      213: 4208120871401430433
+    second: cleric_sprite_sheet_21
+  - first:
+      213: 4141688968364550888
+    second: cleric_sprite_sheet_22
+  - first:
+      213: 3741403971300218319
+    second: cleric_sprite_sheet_23
+  - first:
+      213: 3211811156535308944
+    second: cleric_sprite_sheet_24
+  - first:
+      213: 7955529122341023021
+    second: cleric_sprite_sheet_25
+  - first:
+      213: -1392958557946590998
+    second: cleric_sprite_sheet_26
+  - first:
+      213: 227203669959599998
+    second: cleric_sprite_sheet_27
+  - first:
+      213: -523065085639948077
+    second: cleric_sprite_sheet_28
+  - first:
+      213: -593447246428375333
+    second: cleric_sprite_sheet_29
+  - first:
+      213: -3017088361309511534
+    second: cleric_sprite_sheet_30
+  - first:
+      213: -5819805836331657422
+    second: cleric_sprite_sheet_31
+  - first:
+      213: -3394538838761160549
+    second: cleric_sprite_sheet_0_0
+  - first:
+      213: 7694424340958994295
+    second: cleric_sprite_sheet_1_0
+  - first:
+      213: -3381993820340108598
+    second: cleric_sprite_sheet_2_0
+  - first:
+      213: 6063804924206549049
+    second: cleric_sprite_sheet_3_0
+  - first:
+      213: -2500157029612983751
+    second: cleric_sprite_sheet_4_0
+  - first:
+      213: 5750823929463715302
+    second: cleric_sprite_sheet_5_0
+  - first:
+      213: -4668935681615632596
+    second: cleric_sprite_sheet_6_0
+  - first:
+      213: -2390425673032516161
+    second: cleric_sprite_sheet_7_0
+  - first:
+      213: 6505873656260905094
+    second: cleric_sprite_sheet_0_1
+  - first:
+      213: -1622524463535426285
+    second: cleric_sprite_sheet_1_1
+  - first:
+      213: -8212427850434484119
+    second: cleric_sprite_sheet_2_1
+  - first:
+      213: -4063863662261764248
+    second: cleric_sprite_sheet_3_1
+  - first:
+      213: -3826298553101781003
+    second: cleric_sprite_sheet_4_1
+  - first:
+      213: 5156505220848794900
+    second: cleric_sprite_sheet_5_1
+  - first:
+      213: 9219523801443486030
+    second: cleric_sprite_sheet_6_1
+  - first:
+      213: 4841024903336094795
+    second: cleric_sprite_sheet_7_1
+  - first:
+      213: 8112527023872696845
+    second: cleric_sprite_sheet_0_2
+  - first:
+      213: 1082944407260746201
+    second: cleric_sprite_sheet_1_2
+  - first:
+      213: -3157914394967315432
+    second: cleric_sprite_sheet_2_2
+  - first:
+      213: -3348877669784942152
+    second: cleric_sprite_sheet_3_2
+  - first:
+      213: 3902972294570417403
+    second: cleric_sprite_sheet_4_2
+  - first:
+      213: -4810401648213925807
+    second: cleric_sprite_sheet_5_2
+  - first:
+      213: 1727341034391657684
+    second: cleric_sprite_sheet_6_2
+  - first:
+      213: 6363939750868716700
+    second: cleric_sprite_sheet_7_2
+  - first:
+      213: 8417651483437788245
+    second: cleric_sprite_sheet_0_3
+  - first:
+      213: 3925217743320923845
+    second: cleric_sprite_sheet_1_3
+  - first:
+      213: -2364421996562141258
+    second: cleric_sprite_sheet_2_3
+  - first:
+      213: 5878312581654864408
+    second: cleric_sprite_sheet_3_3
+  - first:
+      213: -2192521342002409517
+    second: cleric_sprite_sheet_4_3
+  - first:
+      213: 8778375115470242089
+    second: cleric_sprite_sheet_5_3
+  - first:
+      213: 8447922805171353519
+    second: cleric_sprite_sheet_6_3
+  - first:
+      213: -5649801559878607879
+    second: cleric_sprite_sheet_7_3
+  - first:
+      213: 2217584171784532569
+    second: cleric_sprite_sheet_0_4
+  - first:
+      213: -7535655318456027515
+    second: cleric_sprite_sheet_1_4
+  - first:
+      213: 4670508880018865590
+    second: cleric_sprite_sheet_2_4
+  - first:
+      213: 1517804358394715192
+    second: cleric_sprite_sheet_3_4
+  - first:
+      213: 1565840759221142818
+    second: cleric_sprite_sheet_4_4
+  - first:
+      213: 8374168218501933202
+    second: cleric_sprite_sheet_5_4
+  - first:
+      213: -7551826743938456988
+    second: cleric_sprite_sheet_6_4
+  - first:
+      213: -3150916157538291945
+    second: cleric_sprite_sheet_7_4
+  - first:
+      213: 3431169348767372844
+    second: cleric_sprite_sheet_0_5
+  - first:
+      213: 2128763110848324897
+    second: cleric_sprite_sheet_1_5
+  - first:
+      213: 3426046075668755475
+    second: cleric_sprite_sheet_2_5
+  - first:
+      213: 6569983053651336919
+    second: cleric_sprite_sheet_3_5
+  - first:
+      213: -4629610752164873443
+    second: cleric_sprite_sheet_4_5
+  - first:
+      213: 3709862072039746494
+    second: cleric_sprite_sheet_5_5
+  - first:
+      213: 529622079505030633
+    second: cleric_sprite_sheet_6_5
+  - first:
+      213: -2499036615030407149
+    second: cleric_sprite_sheet_7_5
+  - first:
+      213: -5819615539440752086
+    second: cleric_sprite_sheet_0_6
+  - first:
+      213: -4906705922340259695
+    second: cleric_sprite_sheet_1_6
+  - first:
+      213: -9086526965715313282
+    second: cleric_sprite_sheet_2_6
+  - first:
+      213: -5972770142793946772
+    second: cleric_sprite_sheet_3_6
+  - first:
+      213: 153164014196662329
+    second: cleric_sprite_sheet_4_6
+  - first:
+      213: 4220178670251990685
+    second: cleric_sprite_sheet_5_6
+  - first:
+      213: 3875992541374811278
+    second: cleric_sprite_sheet_6_6
+  - first:
+      213: -2454344615703262295
+    second: cleric_sprite_sheet_7_6
+  - first:
+      213: 7060668420653763534
+    second: cleric_sprite_sheet_0_7
+  - first:
+      213: 7755973460439956283
+    second: cleric_sprite_sheet_1_7
+  - first:
+      213: 5350467455742759359
+    second: cleric_sprite_sheet_2_7
+  - first:
+      213: 3924370428924796092
+    second: cleric_sprite_sheet_3_7
+  - first:
+      213: -6344780690222933360
+    second: cleric_sprite_sheet_4_7
+  - first:
+      213: 526785988236807661
+    second: cleric_sprite_sheet_5_7
+  - first:
+      213: -4466786038030991910
+    second: cleric_sprite_sheet_6_7
+  - first:
+      213: -3760056925610699497
+    second: cleric_sprite_sheet_7_7
+  - first:
+      213: 7934894418227532386
+    second: cleric_sprite_sheet_0_8
+  - first:
+      213: -5283876902239940177
+    second: cleric_sprite_sheet_1_8
+  - first:
+      213: -8681676135971237951
+    second: cleric_sprite_sheet_2_8
+  - first:
+      213: -5803422584900488012
+    second: cleric_sprite_sheet_3_8
+  - first:
+      213: 8760365217135293736
+    second: cleric_sprite_sheet_4_8
+  - first:
+      213: -7895765261882016544
+    second: cleric_sprite_sheet_5_8
+  - first:
+      213: -662022719099307884
+    second: cleric_sprite_sheet_6_8
+  - first:
+      213: -3013469584396115070
+    second: cleric_sprite_sheet_7_8
+  - first:
+      213: 8769249400038308054
+    second: cleric_sprite_sheet_0_9
+  - first:
+      213: -5472875796364804844
+    second: cleric_sprite_sheet_1_9
+  - first:
+      213: 1693656630742000457
+    second: cleric_sprite_sheet_2_9
+  - first:
+      213: -5204127337954888691
+    second: cleric_sprite_sheet_3_9
+  - first:
+      213: -5746731293395279170
+    second: cleric_sprite_sheet_4_9
+  - first:
+      213: -5614384347411146756
+    second: cleric_sprite_sheet_5_9
+  - first:
+      213: -3818592109108853774
+    second: cleric_sprite_sheet_6_9
+  - first:
+      213: 8867761739710639956
+    second: cleric_sprite_sheet_7_9
+  - first:
+      213: -3740893046119932338
+    second: cleric_sprite_sheet_0_10
+  - first:
+      213: 4708062399059966247
+    second: cleric_sprite_sheet_1_10
+  - first:
+      213: 8275424436113008612
+    second: cleric_sprite_sheet_2_10
+  - first:
+      213: 4974717665995890620
+    second: cleric_sprite_sheet_3_10
+  - first:
+      213: 7911487944064385519
+    second: cleric_sprite_sheet_4_10
+  - first:
+      213: -6506481308708263727
+    second: cleric_sprite_sheet_5_10
+  - first:
+      213: 1569009329727575897
+    second: cleric_sprite_sheet_6_10
+  - first:
+      213: -5269478940582427738
+    second: cleric_sprite_sheet_7_10
+  - first:
+      213: -8429834797921204604
+    second: cleric_sprite_sheet_0_11
+  - first:
+      213: -367999518891105389
+    second: cleric_sprite_sheet_1_11
+  - first:
+      213: 9099904730842981752
+    second: cleric_sprite_sheet_2_11
+  - first:
+      213: 7877499554250088702
+    second: cleric_sprite_sheet_3_11
+  - first:
+      213: -3264822750780138312
+    second: cleric_sprite_sheet_4_11
+  - first:
+      213: 3428614943140023800
+    second: cleric_sprite_sheet_5_11
+  - first:
+      213: 6834835521516320669
+    second: cleric_sprite_sheet_6_11
+  - first:
+      213: 2594417360148232654
+    second: cleric_sprite_sheet_7_11
+  - first:
+      213: 6168167197841994355
+    second: cleric_sprite_sheet_0_12
+  - first:
+      213: 230343318187423445
+    second: cleric_sprite_sheet_1_12
+  - first:
+      213: -6265004347091400489
+    second: cleric_sprite_sheet_2_12
+  - first:
+      213: -3120854846343051858
+    second: cleric_sprite_sheet_3_12
+  - first:
+      213: 9024509194423724099
+    second: cleric_sprite_sheet_4_12
+  - first:
+      213: 5378069835342698603
+    second: cleric_sprite_sheet_5_12
+  - first:
+      213: -1279306773439073266
+    second: cleric_sprite_sheet_6_12
+  - first:
+      213: -829402280002918016
+    second: cleric_sprite_sheet_7_12
+  - first:
+      213: 5038152677722007737
+    second: cleric_sprite_sheet_0_13
+  - first:
+      213: 8084215844664998819
+    second: cleric_sprite_sheet_1_13
+  - first:
+      213: 3263372555288911556
+    second: cleric_sprite_sheet_2_13
+  - first:
+      213: -1455121323909200231
+    second: cleric_sprite_sheet_3_13
+  - first:
+      213: -1458614625765055807
+    second: cleric_sprite_sheet_4_13
+  - first:
+      213: 2967793650652261451
+    second: cleric_sprite_sheet_5_13
+  - first:
+      213: -5624587686085456448
+    second: cleric_sprite_sheet_6_13
+  - first:
+      213: -2740971048938700864
+    second: cleric_sprite_sheet_7_13
+  - first:
+      213: 1081106198926964145
+    second: cleric_sprite_sheet_0_14
+  - first:
+      213: 2573825745291354492
+    second: cleric_sprite_sheet_1_14
+  - first:
+      213: -5853313108941638809
+    second: cleric_sprite_sheet_2_14
+  - first:
+      213: 2184170287124467726
+    second: cleric_sprite_sheet_3_14
+  - first:
+      213: -664215605444703160
+    second: cleric_sprite_sheet_4_14
+  - first:
+      213: 3738351965157763266
+    second: cleric_sprite_sheet_5_14
+  - first:
+      213: -2219310983320449238
+    second: cleric_sprite_sheet_6_14
+  - first:
+      213: 8672214455835033333
+    second: cleric_sprite_sheet_7_14
+  - first:
+      213: -6916224362312110281
+    second: cleric_sprite_sheet_0_15
+  - first:
+      213: 7276018921966597792
+    second: cleric_sprite_sheet_1_15
+  - first:
+      213: -7635846243386487703
+    second: cleric_sprite_sheet_2_15
+  - first:
+      213: 2275510361637176066
+    second: cleric_sprite_sheet_3_15
+  - first:
+      213: -5736943852500235255
+    second: cleric_sprite_sheet_4_15
+  - first:
+      213: 5266231058340323862
+    second: cleric_sprite_sheet_5_15
+  - first:
+      213: 7544841063138326080
+    second: cleric_sprite_sheet_6_15
+  - first:
+      213: -6276506308820916779
+    second: cleric_sprite_sheet_7_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90cf5349ec24e0d0800000000000000
+      internalID: -3394538838761160549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fdaf9db2618ca60800000000000000
+      internalID: 7694424340958994295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2cf0af98eb011d0800000000000000
+      internalID: -3381993820340108598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938889e7376f62450800000000000000
+      internalID: 6063804924206549049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ae83f8d68ad4dd0800000000000000
+      internalID: -2500157029612983751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5308905e70fcf40800000000000000
+      internalID: 5750823929463715302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2767221cbb943fb0800000000000000
+      internalID: -4668935681615632596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd3ce0f38083ded0800000000000000
+      internalID: -2390425673032516161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688c00bee91894a50800000000000000
+      internalID: 6505873656260905094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315f69fc892ab79e0800000000000000
+      internalID: -1622524463535426285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968e35f9168970e80800000000000000
+      internalID: -8212427850434484119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ff44bc7814a97c0800000000000000
+      internalID: -4063863662261764248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7f6c11db146eac0800000000000000
+      internalID: -3826298553101781003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db3239d269f8740800000000000000
+      internalID: 5156505220848794900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e494c4fdc0452ff70800000000000000
+      internalID: 9219523801443486030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cea203086ce2340800000000000000
+      internalID: 4841024903336094795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0260b0a85c759070800000000000000
+      internalID: 8112527023872696845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1d5426334670f00800000000000000
+      internalID: 1082944407260746201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c61e0d695dc24d0800000000000000
+      internalID: -3157914394967315432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b90b30a0856681d0800000000000000
+      internalID: -3348877669784942152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc9f028f942a2630800000000000000
+      internalID: 3902972294570417403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150614300350e3db0800000000000000
+      internalID: -4810401648213925807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcded8d48fb8f710800000000000000
+      internalID: 1727341034391657684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c848e5c71415850800000000000000
+      internalID: 6363939750868716700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6951fc6181d470800000000000000
+      internalID: 8417651483437788245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce34b8adbc297630800000000000000
+      internalID: 3925217743320923845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2bcba8b2ef2fd0800000000000000
+      internalID: -2364421996562141258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8126f3cf526f39150800000000000000
+      internalID: 5878312581654864408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfcb77b4799291e0800000000000000
+      internalID: -2192521342002409517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9218bbe58ad03d970800000000000000
+      internalID: 8778375115470242089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7f824480d0d3570800000000000000
+      internalID: 8447922805171353519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbdcfb4a6fd791b0800000000000000
+      internalID: -5649801559878607879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952feb21e0176ce10800000000000000
+      internalID: 2217584171784532569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58635a9d969fb6790800000000000000
+      internalID: -7535655318456027515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf4d9b41bf0d040800000000000000
+      internalID: 4670508880018865590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c18a4b503501510800000000000000
+      internalID: 1517804358394715192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2254434dfdbfab510800000000000000
+      internalID: 1565840759221142818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2986c2160a5073470800000000000000
+      internalID: 8374168218501933202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462e0427695823790800000000000000
+      internalID: -7551826743938456988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f24e0f272b544d0800000000000000
+      internalID: -3150916157538291945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26dc75f756fd9f20800000000000000
+      internalID: 3431169348767372844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e11945c2ea8d10800000000000000
+      internalID: 2128763110848324897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3147b5cf0c2cb8f20800000000000000
+      internalID: 3426046075668755475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de593d27c44d2b50800000000000000
+      internalID: 6569983053651336919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b32e4bc8150cfb0800000000000000
+      internalID: -4629610752164873443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbaf9916e31c7330800000000000000
+      internalID: 3709862072039746494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd91aa978995700800000000000000
+      internalID: 529622079505030633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100b686073a15dd0800000000000000
+      internalID: -2499036615030407149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a6a4220829c3fa0800000000000000
+      internalID: -5819615539440752086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1987a91e5f0e7ebb0800000000000000
+      internalID: -4906705922340259695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dd78efddb26e180800000000000000
+      internalID: -9086526965715313282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6925b143357c1da0800000000000000
+      internalID: -5972770142793946772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930a0920cd5202200800000000000000
+      internalID: 153164014196662329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9edc012426119a30800000000000000
+      internalID: 4220178670251990685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c85b43eaa4ac530800000000000000
+      internalID: 3875992541374811278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4d90639a60fdd0800000000000000
+      internalID: -2454344615703262295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbc2e105888cf160800000000000000
+      internalID: 7060668420653763534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b71e4f4c0c2ab60800000000000000
+      internalID: 7755973460439956283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d5d19dcda04a40800000000000000
+      internalID: 5350467455742759359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc1c17ec1a267630800000000000000
+      internalID: 3924370428924796092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a118d049fc2f7a0800000000000000
+      internalID: -6344780690222933360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded0285b0158f4700800000000000000
+      internalID: 526785988236807661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addfc73b3c9c202c0800000000000000
+      internalID: -4466786038030991910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7151ab5d52891dbc0800000000000000
+      internalID: -3760056925610699497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2629ea8be686e1e60800000000000000
+      internalID: 7934894418227532386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1d81dd3f5eba6b0800000000000000
+      internalID: -5283876902239940177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfc2744d8d748780800000000000000
+      internalID: -8681676135971237951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f68928e9167fa0800000000000000
+      internalID: -5803422584900488012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825790620c1139970800000000000000
+      internalID: 8760365217135293736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec37afe35b9c6290800000000000000
+      internalID: -7895765261882016544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f8d238d500d6f0800000000000000
+      internalID: -662022719099307884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28320a801610e26d0800000000000000
+      internalID: -3013469584396115070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8371c2ed1a2b970800000000000000
+      internalID: 8769249400038308054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db7d1b5707c04b0800000000000000
+      internalID: -5472875796364804844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943acd67bb3118710800000000000000
+      internalID: 1693656630742000457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04bc4f32c937c7b0800000000000000
+      internalID: -5204127337954888691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2ad8d06528f30b0800000000000000
+      internalID: -5746731293395279170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79b0cae23b512b0800000000000000
+      internalID: -5614384347411146756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3057265b2a10bc0800000000000000
+      internalID: -3818592109108853774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa040a15e901b70800000000000000
+      internalID: 8867761739710639956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eda4b389da51cc0800000000000000
+      internalID: -3740893046119932338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729b75cbec5665140800000000000000
+      internalID: 4708062399059966247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e76a18fda638d270800000000000000
+      internalID: 8275424436113008612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf9b8b2c5fb90540800000000000000
+      internalID: 4974717665995890620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe14eb64e504bcd60800000000000000
+      internalID: 7911487944064385519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a9b8f8b554b5a0800000000000000
+      internalID: -6506481308708263727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9579fa32cad36c510800000000000000
+      internalID: 1569009329727575897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3ce2b82dc0fd6b0800000000000000
+      internalID: -5269478940582427738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4860eaa1ae5330b80800000000000000
+      internalID: -8429834797921204604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3932bf6236a94eaf0800000000000000
+      internalID: -367999518891105389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875eacba32b594e70800000000000000
+      internalID: 9099904730842981752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ef599b10825d60800000000000000
+      internalID: 7877499554250088702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd225810501b2d0800000000000000
+      internalID: -3264822750780138312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd057d0023e49f20800000000000000
+      internalID: 3428614943140023800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b33eb1b63ade50800000000000000
+      internalID: 6834835521516320669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9fdbed7d8310420800000000000000
+      internalID: 2594417360148232654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372b696d26bb99550800000000000000
+      internalID: 6168167197841994355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d632f80708523300800000000000000
+      internalID: 230343318187423445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8c65f5dbb3e09a0800000000000000
+      internalID: -6265004347091400489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea58a206d0f70b4d0800000000000000
+      internalID: -3120854846343051858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486fd56c4f7d3d70800000000000000
+      internalID: 9024509194423724099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6858d0650eb2aa40800000000000000
+      internalID: 5378069835342698603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b962844dfe3ee0800000000000000
+      internalID: -1279306773439073266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e68c450f5d74f0800000000000000
+      internalID: -829402280002918016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8adc7ca2d1be540800000000000000
+      internalID: 5038152677722007737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab77dc8a77e03070800000000000000
+      internalID: 8084215844664998819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce11c78c04d94d20800000000000000
+      internalID: 3263372555288911556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996cb4f8dde5ecbe0800000000000000
+      internalID: -1455121323909200231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a517d9b5f1cbe0800000000000000
+      internalID: -1458614625765055807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca9c9e998bf2920800000000000000
+      internalID: 2967793650652261451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd07d2cc4371f1b0800000000000000
+      internalID: -5624587686085456448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cff0607a5d16f9d0800000000000000
+      internalID: -2740971048938700864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5b3872c5cd00f00800000000000000
+      internalID: 1081106198926964145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a8dde0e018b320800000000000000
+      internalID: 2573825745291354492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76375665dbad4cea0800000000000000
+      internalID: -5853313108941638809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00540dcd4bbf4e10800000000000000
+      internalID: 2184170287124467726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c823f0d6b38c6f0800000000000000
+      internalID: -664215605444703160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8ac904e4b41e330800000000000000
+      internalID: 3738351965157763266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fcf094b6c6331e0800000000000000
+      internalID: -2219310983320449238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fefd08a915e95870800000000000000
+      internalID: 8672214455835033333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73feb711692a400a0800000000000000
+      internalID: -6916224362312110281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_1_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6f6d6d8ac99f460800000000000000
+      internalID: 7276018921966597792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_2_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c827f4c46080690800000000000000
+      internalID: -7635846243386487703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_3_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ca142e9c349f10800000000000000
+      internalID: 2275510361637176066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_4_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ccc5736f74260b0800000000000000
+      internalID: -5736943852500235255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_5_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6122181fe39651940800000000000000
+      internalID: 5266231058340323862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_6_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f32ff8f8a4b860800000000000000
+      internalID: 7544841063138326080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cleric_sprite_sheet_7_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d52b3834ce55e8a0800000000000000
+      internalID: -6276506308820916779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cleric_sprite_sheet_0: -806612047849204044
+      cleric_sprite_sheet_0_0: -3394538838761160549
+      cleric_sprite_sheet_0_1: 6505873656260905094
+      cleric_sprite_sheet_0_10: -3740893046119932338
+      cleric_sprite_sheet_0_11: -8429834797921204604
+      cleric_sprite_sheet_0_12: 6168167197841994355
+      cleric_sprite_sheet_0_13: 5038152677722007737
+      cleric_sprite_sheet_0_14: 1081106198926964145
+      cleric_sprite_sheet_0_15: -6916224362312110281
+      cleric_sprite_sheet_0_2: 8112527023872696845
+      cleric_sprite_sheet_0_3: 8417651483437788245
+      cleric_sprite_sheet_0_4: 2217584171784532569
+      cleric_sprite_sheet_0_5: 3431169348767372844
+      cleric_sprite_sheet_0_6: -5819615539440752086
+      cleric_sprite_sheet_0_7: 7060668420653763534
+      cleric_sprite_sheet_0_8: 7934894418227532386
+      cleric_sprite_sheet_0_9: 8769249400038308054
+      cleric_sprite_sheet_1: 1966568729208781068
+      cleric_sprite_sheet_10: 8969325438987190652
+      cleric_sprite_sheet_11: 7035346421456007363
+      cleric_sprite_sheet_12: 1917416257801649075
+      cleric_sprite_sheet_13: 8355096297388558517
+      cleric_sprite_sheet_14: -7290877603905508787
+      cleric_sprite_sheet_15: 960429065200338303
+      cleric_sprite_sheet_16: 6711285837250651473
+      cleric_sprite_sheet_17: -5505330290594532347
+      cleric_sprite_sheet_18: 1359188902557189301
+      cleric_sprite_sheet_19: 5267839508628097559
+      cleric_sprite_sheet_1_0: 7694424340958994295
+      cleric_sprite_sheet_1_1: -1622524463535426285
+      cleric_sprite_sheet_1_10: 4708062399059966247
+      cleric_sprite_sheet_1_11: -367999518891105389
+      cleric_sprite_sheet_1_12: 230343318187423445
+      cleric_sprite_sheet_1_13: 8084215844664998819
+      cleric_sprite_sheet_1_14: 2573825745291354492
+      cleric_sprite_sheet_1_15: 7276018921966597792
+      cleric_sprite_sheet_1_2: 1082944407260746201
+      cleric_sprite_sheet_1_3: 3925217743320923845
+      cleric_sprite_sheet_1_4: -7535655318456027515
+      cleric_sprite_sheet_1_5: 2128763110848324897
+      cleric_sprite_sheet_1_6: -4906705922340259695
+      cleric_sprite_sheet_1_7: 7755973460439956283
+      cleric_sprite_sheet_1_8: -5283876902239940177
+      cleric_sprite_sheet_1_9: -5472875796364804844
+      cleric_sprite_sheet_2: 3278454649779203078
+      cleric_sprite_sheet_20: 7886814526334036003
+      cleric_sprite_sheet_21: 4208120871401430433
+      cleric_sprite_sheet_22: 4141688968364550888
+      cleric_sprite_sheet_23: 3741403971300218319
+      cleric_sprite_sheet_24: 3211811156535308944
+      cleric_sprite_sheet_25: 7955529122341023021
+      cleric_sprite_sheet_26: -1392958557946590998
+      cleric_sprite_sheet_27: 227203669959599998
+      cleric_sprite_sheet_28: -523065085639948077
+      cleric_sprite_sheet_29: -593447246428375333
+      cleric_sprite_sheet_2_0: -3381993820340108598
+      cleric_sprite_sheet_2_1: -8212427850434484119
+      cleric_sprite_sheet_2_10: 8275424436113008612
+      cleric_sprite_sheet_2_11: 9099904730842981752
+      cleric_sprite_sheet_2_12: -6265004347091400489
+      cleric_sprite_sheet_2_13: 3263372555288911556
+      cleric_sprite_sheet_2_14: -5853313108941638809
+      cleric_sprite_sheet_2_15: -7635846243386487703
+      cleric_sprite_sheet_2_2: -3157914394967315432
+      cleric_sprite_sheet_2_3: -2364421996562141258
+      cleric_sprite_sheet_2_4: 4670508880018865590
+      cleric_sprite_sheet_2_5: 3426046075668755475
+      cleric_sprite_sheet_2_6: -9086526965715313282
+      cleric_sprite_sheet_2_7: 5350467455742759359
+      cleric_sprite_sheet_2_8: -8681676135971237951
+      cleric_sprite_sheet_2_9: 1693656630742000457
+      cleric_sprite_sheet_3: -2151401290840716113
+      cleric_sprite_sheet_30: -3017088361309511534
+      cleric_sprite_sheet_31: -5819805836331657422
+      cleric_sprite_sheet_3_0: 6063804924206549049
+      cleric_sprite_sheet_3_1: -4063863662261764248
+      cleric_sprite_sheet_3_10: 4974717665995890620
+      cleric_sprite_sheet_3_11: 7877499554250088702
+      cleric_sprite_sheet_3_12: -3120854846343051858
+      cleric_sprite_sheet_3_13: -1455121323909200231
+      cleric_sprite_sheet_3_14: 2184170287124467726
+      cleric_sprite_sheet_3_15: 2275510361637176066
+      cleric_sprite_sheet_3_2: -3348877669784942152
+      cleric_sprite_sheet_3_3: 5878312581654864408
+      cleric_sprite_sheet_3_4: 1517804358394715192
+      cleric_sprite_sheet_3_5: 6569983053651336919
+      cleric_sprite_sheet_3_6: -5972770142793946772
+      cleric_sprite_sheet_3_7: 3924370428924796092
+      cleric_sprite_sheet_3_8: -5803422584900488012
+      cleric_sprite_sheet_3_9: -5204127337954888691
+      cleric_sprite_sheet_4: 525953572773437353
+      cleric_sprite_sheet_4_0: -2500157029612983751
+      cleric_sprite_sheet_4_1: -3826298553101781003
+      cleric_sprite_sheet_4_10: 7911487944064385519
+      cleric_sprite_sheet_4_11: -3264822750780138312
+      cleric_sprite_sheet_4_12: 9024509194423724099
+      cleric_sprite_sheet_4_13: -1458614625765055807
+      cleric_sprite_sheet_4_14: -664215605444703160
+      cleric_sprite_sheet_4_15: -5736943852500235255
+      cleric_sprite_sheet_4_2: 3902972294570417403
+      cleric_sprite_sheet_4_3: -2192521342002409517
+      cleric_sprite_sheet_4_4: 1565840759221142818
+      cleric_sprite_sheet_4_5: -4629610752164873443
+      cleric_sprite_sheet_4_6: 153164014196662329
+      cleric_sprite_sheet_4_7: -6344780690222933360
+      cleric_sprite_sheet_4_8: 8760365217135293736
+      cleric_sprite_sheet_4_9: -5746731293395279170
+      cleric_sprite_sheet_5: 2527050149647083566
+      cleric_sprite_sheet_5_0: 5750823929463715302
+      cleric_sprite_sheet_5_1: 5156505220848794900
+      cleric_sprite_sheet_5_10: -6506481308708263727
+      cleric_sprite_sheet_5_11: 3428614943140023800
+      cleric_sprite_sheet_5_12: 5378069835342698603
+      cleric_sprite_sheet_5_13: 2967793650652261451
+      cleric_sprite_sheet_5_14: 3738351965157763266
+      cleric_sprite_sheet_5_15: 5266231058340323862
+      cleric_sprite_sheet_5_2: -4810401648213925807
+      cleric_sprite_sheet_5_3: 8778375115470242089
+      cleric_sprite_sheet_5_4: 8374168218501933202
+      cleric_sprite_sheet_5_5: 3709862072039746494
+      cleric_sprite_sheet_5_6: 4220178670251990685
+      cleric_sprite_sheet_5_7: 526785988236807661
+      cleric_sprite_sheet_5_8: -7895765261882016544
+      cleric_sprite_sheet_5_9: -5614384347411146756
+      cleric_sprite_sheet_6: -9027816420551176152
+      cleric_sprite_sheet_6_0: -4668935681615632596
+      cleric_sprite_sheet_6_1: 9219523801443486030
+      cleric_sprite_sheet_6_10: 1569009329727575897
+      cleric_sprite_sheet_6_11: 6834835521516320669
+      cleric_sprite_sheet_6_12: -1279306773439073266
+      cleric_sprite_sheet_6_13: -5624587686085456448
+      cleric_sprite_sheet_6_14: -2219310983320449238
+      cleric_sprite_sheet_6_15: 7544841063138326080
+      cleric_sprite_sheet_6_2: 1727341034391657684
+      cleric_sprite_sheet_6_3: 8447922805171353519
+      cleric_sprite_sheet_6_4: -7551826743938456988
+      cleric_sprite_sheet_6_5: 529622079505030633
+      cleric_sprite_sheet_6_6: 3875992541374811278
+      cleric_sprite_sheet_6_7: -4466786038030991910
+      cleric_sprite_sheet_6_8: -662022719099307884
+      cleric_sprite_sheet_6_9: -3818592109108853774
+      cleric_sprite_sheet_7: -994559073810458240
+      cleric_sprite_sheet_7_0: -2390425673032516161
+      cleric_sprite_sheet_7_1: 4841024903336094795
+      cleric_sprite_sheet_7_10: -5269478940582427738
+      cleric_sprite_sheet_7_11: 2594417360148232654
+      cleric_sprite_sheet_7_12: -829402280002918016
+      cleric_sprite_sheet_7_13: -2740971048938700864
+      cleric_sprite_sheet_7_14: 8672214455835033333
+      cleric_sprite_sheet_7_15: -6276506308820916779
+      cleric_sprite_sheet_7_2: 6363939750868716700
+      cleric_sprite_sheet_7_3: -5649801559878607879
+      cleric_sprite_sheet_7_4: -3150916157538291945
+      cleric_sprite_sheet_7_5: -2499036615030407149
+      cleric_sprite_sheet_7_6: -2454344615703262295
+      cleric_sprite_sheet_7_7: -3760056925610699497
+      cleric_sprite_sheet_7_8: -3013469584396115070
+      cleric_sprite_sheet_7_9: 8867761739710639956
+      cleric_sprite_sheet_8: 1339187535247915996
+      cleric_sprite_sheet_9: 8454478722207483921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

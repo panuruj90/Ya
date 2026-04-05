@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: dc96e3dbf96a23b4cb9a3692e0ef9ae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7797620984118879433
+    second: farmer bow 002 32x32 v00_0
+  - first:
+      213: 4191779144250871440
+    second: farmer bow 002 32x32 v00_1
+  - first:
+      213: -1017448734732597839
+    second: farmer bow 002 32x32 v00_2
+  - first:
+      213: 5943436240917040855
+    second: farmer bow 002 32x32 v00_3
+  - first:
+      213: 6507905859132051972
+    second: farmer bow 002 32x32 v00_0_0
+  - first:
+      213: -2054808938520691272
+    second: farmer bow 002 32x32 v00_1_0
+  - first:
+      213: -7350897338555820734
+    second: farmer bow 002 32x32 v00_2_0
+  - first:
+      213: 4009949296391227431
+    second: farmer bow 002 32x32 v00_3_0
+  - first:
+      213: -3653417420162030263
+    second: farmer bow 002 32x32 v00_4_0
+  - first:
+      213: 5232239398994646081
+    second: farmer bow 002 32x32 v00_5_0
+  - first:
+      213: -2015211910894726384
+    second: farmer bow 002 32x32 v00_6_0
+  - first:
+      213: -8845821504505472967
+    second: farmer bow 002 32x32 v00_7_0
+  - first:
+      213: 3551483232539552245
+    second: farmer bow 002 32x32 v00_0_1
+  - first:
+      213: 8716267901362996326
+    second: farmer bow 002 32x32 v00_1_1
+  - first:
+      213: 4357460356157658202
+    second: farmer bow 002 32x32 v00_2_1
+  - first:
+      213: -8331033215051316702
+    second: farmer bow 002 32x32 v00_3_1
+  - first:
+      213: 2483313658739296253
+    second: farmer bow 002 32x32 v00_4_1
+  - first:
+      213: 3223447208560776441
+    second: farmer bow 002 32x32 v00_5_1
+  - first:
+      213: 5577255953493934430
+    second: farmer bow 002 32x32 v00_6_1
+  - first:
+      213: -7526542717618031948
+    second: farmer bow 002 32x32 v00_7_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmer bow 002 32x32 v00_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402df3506e9b05a50800000000000000
+      internalID: 6507905859132051972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer bow 002 32x32 v00_1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd3d22482adb73e0800000000000000
+      internalID: -2054808938520691272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer bow 002 32x32 v00_2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245140b31dd5cf990800000000000000
+      internalID: -7350897338555820734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmer bow 002 32x32 v00_3_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7280ab2b3a336a730800000000000000
+      internalID: 4009949296391227431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farmer bow 002 32x32 v00_0: -7797620984118879433
+      farmer bow 002 32x32 v00_0_0: 6507905859132051972
+      farmer bow 002 32x32 v00_0_1: 3551483232539552245
+      farmer bow 002 32x32 v00_1: 4191779144250871440
+      farmer bow 002 32x32 v00_1_0: -2054808938520691272
+      farmer bow 002 32x32 v00_1_1: 8716267901362996326
+      farmer bow 002 32x32 v00_2: -1017448734732597839
+      farmer bow 002 32x32 v00_2_0: -7350897338555820734
+      farmer bow 002 32x32 v00_2_1: 4357460356157658202
+      farmer bow 002 32x32 v00_3: 5943436240917040855
+      farmer bow 002 32x32 v00_3_0: 4009949296391227431
+      farmer bow 002 32x32 v00_3_1: -8331033215051316702
+      farmer bow 002 32x32 v00_4_0: -3653417420162030263
+      farmer bow 002 32x32 v00_4_1: 2483313658739296253
+      farmer bow 002 32x32 v00_5_0: 5232239398994646081
+      farmer bow 002 32x32 v00_5_1: 3223447208560776441
+      farmer bow 002 32x32 v00_6_0: -2015211910894726384
+      farmer bow 002 32x32 v00_6_1: 5577255953493934430
+      farmer bow 002 32x32 v00_7_0: -8845821504505472967
+      farmer bow 002 32x32 v00_7_1: -7526542717618031948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
