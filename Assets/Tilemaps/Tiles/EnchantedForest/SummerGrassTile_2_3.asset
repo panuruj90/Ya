@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3f2abe4e2f272e41abcac9a20e455b3, type: 3}
+  m_Name: SummerGrassTile_2_3
+  m_EditorClassIdentifier:
+  m_TileColor: {r: 1, g: 1, b: 1, a: 1}
+  m_TileObjectToInstantiate: {fileID: 0}
+  m_TileAnimationData:
+    m_AnimatedSprites: []
+    m_AnimationSpeed: 0
+    m_AnimationStartTime: 0
+    m_TileAnimationFlags: 0
+  m_TileFlags: 1
+  m_ColliderType: 1
+  m_TileSprite: {fileID: 18, guid: 6dd5bbb5a45175eb636433ffd3702aaf, type: 3}
